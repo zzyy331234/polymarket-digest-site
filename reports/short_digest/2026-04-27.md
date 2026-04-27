@@ -27,32 +27,22 @@
   URL: https://polymarket.com/question/new-playboi-carti-album-before-gta-vi-421
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
   原始题目: New Playboi Carti Album before GTA VI?
-- 体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
-  标签: 研究观察 | 方向=YES | conf=0.64 | evidence=0.48
-  类型: 其他事件 / 趋势延续
-  观点: 市场短线异动已经放大，当前更像趋势延续下的延续机会，方向偏向 YES。
-  现在看它的原因: 它属于“其他事件”里的趋势延续型线索，虽然爆发力一般，但还值得继续盯一眼。
-  链接（中文导读）: 中文导读：体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
-  Link (English source): English source: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
-  URL: https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup
-  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
 
 ## 谨慎观察
-- 选举盘：Kamala Harris能否赢得 2028 美国总统大选？ | 美国大选 / 均值回归
+- 选举盘：皮特·布蒂吉格能否赢得 2028 民主党总统提名？ | 美国大选 / 均值回归
   观察原因: 它属于“美国大选”里的均值回归型线索，虽然爆发力一般，但还值得继续盯一眼。
-  链接（中文导读）: 中文导读：选举盘：Kamala Harris能否赢得 2028 美国总统大选？
-  Link (English source): English source: Will Kamala Harris win the 2028 US Presidential Election?
-  URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-us-presidential-election
+  链接（中文导读）: 中文导读：选举盘：皮特·布蒂吉格能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Pete Buttigieg win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will Kamala Harris win the 2028 US Presidential Election?
-- 体育盘：Minnesota Wild能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 / 趋势延续
+  原始题目: Will Pete Buttigieg win the 2028 Democratic presidential nomination?
+- 体育盘：Dallas Stars能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 / 趋势延续
   观察原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
-  链接（中文导读）: 中文导读：体育盘：Minnesota Wild能否赢得 2026 年 NHL 斯坦利杯？
-  Link (English source): English source: Will the Minnesota Wild win the 2026 NHL Stanley Cup?
-  URL: https://polymarket.com/question/will-the-minnesota-wild-win-the-2026-nhl-stanley-cup
+  链接（中文导读）: 中文导读：体育盘：Dallas Stars能否赢得 2026 年 NHL 斯坦利杯？
+  Link (English source): English source: Will the Dallas Stars win the 2026 NHL Stanley Cup?
+  URL: https://polymarket.com/question/will-the-dallas-stars-win-the-2026-nhl-stanley-cup
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will the Minnesota Wild win the 2026 NHL Stanley Cup?
+  原始题目: Will the Dallas Stars win the 2026 NHL Stanley Cup?
 
 ## 今天不碰
 - 选举盘：乔治·克鲁尼能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
@@ -69,17 +59,17 @@
   URL: https://polymarket.com/question/will-andrew-yang-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Andrew Yang win the 2028 Democratic presidential nomination?
-- 选举盘：Josh Shapiro能否赢得 2028 民主党总统提名？ | 美国大选 | 均值回归
+- 选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 民主党总统提名？ | 美国大选 | 均值回归
   避开原因: 噪音过高，方向不稳定
-  链接（中文导读）: 中文导读：选举盘：Josh Shapiro能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Josh Shapiro win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977
+  链接（中文导读）: 中文导读：选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will Josh Shapiro win the 2028 Democratic presidential nomination?
+  原始题目: Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.1087 | total=23
-- 倾向保留: 均值回归 | score=-0.3103 | total=29
+- 倾向保留: 趋势延续 | score=-0.125 | total=24
+- 倾向保留: 均值回归 | score=-0.3036 | total=28
 - 应继续降权: 美国大选 | score=-0.5 | flat=25
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=15
 
