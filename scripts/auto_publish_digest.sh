@@ -10,14 +10,14 @@ if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
 fi
 
 if ! git remote get-url origin >/dev/null 2>&1; then
-  echo "missing git remote origin; skip auto publish" >&2
-  exit 1
+  echo "missing git remote origin; skip auto publish"
+  exit 0
 fi
 
 BRANCH="$(git branch --show-current)"
 if [ -z "$BRANCH" ]; then
-  echo "cannot detect current branch; skip auto publish" >&2
-  exit 1
+  echo "cannot detect current branch; skip auto publish"
+  exit 0
 fi
 
 FILES=(
