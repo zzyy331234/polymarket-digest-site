@@ -12,11 +12,11 @@
 - URL: https://polymarket.com/question/will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup
 - 原因: upper percentile fade setup, RSI extreme, 24h move extended
 
-## 3. [mean_revert] NO conf=0.62
-- 问题: Will Marco Rubio win the 2028 US Presidential Election?
-- Cluster: us_election
-- URL: https://polymarket.com/question/will-marco-rubio-win-the-2028-us-presidential-election
-- 原因: upper percentile fade setup, RSI extreme, cluster=us_election
+## 3. [mean_revert] NO conf=0.66
+- 问题: New Playboi Carti Album before GTA VI?
+- Cluster: gta_vi
+- URL: https://polymarket.com/question/new-playboi-carti-album-before-gta-vi-421
+- 原因: upper percentile fade setup, RSI extreme, 24h move extended
 
 ## 4. [trend] YES conf=0.64
 - 问题: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
@@ -31,7 +31,7 @@
 - 原因: upper percentile fade setup, RSI extreme, cluster=gta_vi
 
 ## 6. [mean_revert] NO conf=0.62
-- 问题: Will China invades Taiwan before GTA VI?
-- Cluster: gta_vi
-- URL: https://polymarket.com/question/will-china-invades-taiwan-before-gta-vi-716
-- 原因: upper percentile fade setup, RSI extreme, cluster=gta_vi
+- 问题: Will JD Vance win the 2028 US Presidential Election?
+- Cluster: us_election
+- URL: https://polymarket.com/question/will-jd-vance-win-the-2028-us-presidential-election
+- 原因: upper percentile fade setup, RSI extreme, cluster=us_election
