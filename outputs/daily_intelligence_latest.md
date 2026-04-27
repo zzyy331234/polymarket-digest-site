@@ -9,21 +9,14 @@
 - realized_pnl_like=-0.14775
 
 ## 今日优先候选
-### 1. Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? [research] 
-- 方向: YES | conf=0.68 | evidence=0.52
-- regime/cluster: trend / other
-- thesis: [trend] YES on 'Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?' because 4h move visible.
-- why_now: Short-term dislocation detected (1h=0.000, 4h=0.044, 24h=0.093).
-- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
-
-### 2. New Rihanna Album before GTA VI? [research] 
+### 1. New Rihanna Album before GTA VI? [research] 
 - 方向: YES | conf=0.66 | evidence=0.48
 - regime/cluster: mean_revert / gta_vi
 - thesis: [mean_revert] YES on 'New Rihanna Album before GTA VI?' because lower percentile bounce setup.
 - why_now: Relevant within active cluster=gta_vi and current regime=mean_revert.
 - do_not_trade_if: GTA VI themed cluster remains flat-heavy and should stay observational unless new catalyst appears.; Liquidity/exit quality deteriorates materially before action.
 
-### 3. New Playboi Carti Album before GTA VI? [research] 
+### 2. New Playboi Carti Album before GTA VI? [research] 
 - 方向: NO | conf=0.66 | evidence=0.48
 - regime/cluster: mean_revert / gta_vi
 - thesis: [mean_revert] NO on 'New Playboi Carti Album before GTA VI?' because upper percentile fade setup.
@@ -31,29 +24,29 @@
 - do_not_trade_if: GTA VI themed cluster remains flat-heavy and should stay observational unless new catalyst appears.; Liquidity/exit quality deteriorates materially before action.
 
 ## 可直接关注的 Ready Alerts
-- [research] Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | YES | conf=0.68 | catalyst=price_dislocation
 - [research] New Rihanna Album before GTA VI? | YES | conf=0.66 | catalyst=theme_cluster
 - [research] New Playboi Carti Album before GTA VI? | NO | conf=0.66 | catalyst=theme_cluster
 - [watch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | NO | conf=0.66 | catalyst=mean_reversion
 - [watch] Will Pete Buttigieg win the 2028 Democratic presidential nomination? | NO | conf=0.66 | catalyst=mean_reversion
 - [do_not_touch] Will the Minnesota Wild win the 2026 NHL Stanley Cup? | YES | conf=0.63 | catalyst=price_dislocation
+- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
 
 ## 观察名单
 - Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
 - Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
-- Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=-0.109, 24h=-0.050).
-- Will the Minnesota Wild win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.032, 24h=0.155).
+- Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=-0.094, 24h=-0.050).
+- Will the Minnesota Wild win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.115, 24h=0.155).
 - Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
 
 ## 今日避坑
 - Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will the Denver Nuggets win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
 - Will the San Antonio Spurs win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
 - Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | blocking=high_noise
+- Will the Boston Celtics win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
 
 ## 后验复盘快照
-- outcomes: {'flat': 177, 'hit': 11, 'miss': 5, 'pending': 7}
+- outcomes: {'flat': 177, 'miss': 7, 'hit': 9, 'pending': 7}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

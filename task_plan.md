@@ -11,6 +11,8 @@
 - [x] Phase 5 — 检查 git / GitHub 环境并确定自动发布接入方式
 - [x] Phase 6 — 新增 GitHub Pages 一键发布脚本与 Actions 工作流
 - [x] Phase 7 — 验证发布文件并补项目说明
+- [ ] Phase 8 — 把本地出刊流程接到 git 自动提交与推送
+- [ ] Phase 9 — 验证一次本地自动提交/推送/线上发布链路
 
 ## Decisions
 - 继续沿用 dist/digest_site 作为最终交付目录

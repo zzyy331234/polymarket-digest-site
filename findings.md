@@ -8,3 +8,8 @@
 - 当前下一步最值当的是：抽象“本地工作区链接”和“发布版链接”两套 href 规则，再补一个部署说明/配置文件。
 - 当前仓库已经是 git 仓库，分支为 `main`，本机安装了 `gh` CLI，但还没有登录 GitHub（`gh auth status` 失败）。
 - 因为当前未登录 GitHub，最稳妥方案是双轨：仓库内提供 GitHub Actions 自动部署工作流，同时提供本地 `scripts/publish_digest_site.sh` 导出脚本，便于手动推送到 `gh-pages`。
+- 之后已用 PAT 成功登录 `gh`，并把 `polymarket` 目录重建为独立 git 仓库。
+- 但当前 PAT 权限不足，无法创建 GitHub 仓库：`createRepository` / `POST /user/repos` 都返回 `Resource not accessible by personal access token`。
+- 这说明自动发布配置已经就绪，但真正推远端还差一个具备建仓权限的 token，或者需要用户先手动在 GitHub 上创建空仓库。
+- 后续已用 classic token 成功 push 到 `zzyy331234/polymarket-digest-site`，并修复了脚本里的硬编码绝对路径，改成仓库相对路径，GitHub Actions 构建已通过。
+- 当前最后一个剩余动作不是代码修改，而是去仓库设置页手动启用 GitHub Pages；否则 `actions/deploy-pages@v4` 会返回 404（GitHub 明确要求先启用 Pages）。

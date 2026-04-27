@@ -14,7 +14,7 @@
 - overrides: {'blocked_clusters': ['world_cup'], 'observe_only_clusters': ['us_election'], 'blocked_regimes': ['carry_no'], 'observe_only_regimes': []}
 
 ## 最新周期
-- ran_at: 2026-04-27T14:33:47
+- ran_at: 2026-04-27T15:02:56
 - ready_count: 6 / ready_buckets: {'main_pool': 6}
 - opened: 0 / opened_buckets: {}
 - closed: 0 / skipped: 0 / skipped_buckets: {}
@@ -31,7 +31,7 @@
 - thresholds: {'min_closed_trades': 30, 'min_win_rate': 0.55, 'min_avg_win_loss_ratio_like': 1.3, 'max_consecutive_losses': 3, 'max_flat_rate': 0.5}
 
 ## Proposal
-- generated_at: 2026-04-27T14:33:47
+- generated_at: 2026-04-27T15:02:56
 - change_count: 2
 - requires_manual_review: True
 - discipline_v2.buckets.high_confidence_min: 0.7 -> 0.72 | win_rate=0.00%, flat_rate=100.00%, pnl=0.0000
