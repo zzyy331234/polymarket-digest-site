@@ -1,0 +1,85 @@
+{
+  "ran_at": "2026-04-27T14:33:47",
+  "mode": "paper_trade",
+  "discipline_version": "v2",
+  "discipline_buckets": {
+    "high_confidence_min": 0.7,
+    "main_pool_min": 0.58,
+    "research_min": 0.5
+  },
+  "discipline_execution": {
+    "trade_buckets": [
+      "high_confidence",
+      "main_pool"
+    ],
+    "observe_only_buckets": [
+      "research"
+    ],
+    "blocked_buckets": [
+      "below_floor"
+    ],
+    "overrides": {
+      "blocked_clusters": [
+        "world_cup"
+      ],
+      "observe_only_clusters": [
+        "us_election"
+      ],
+      "blocked_regimes": [
+        "carry_no"
+      ],
+      "observe_only_regimes": []
+    }
+  },
+  "ready_count": 6,
+  "ready_buckets": {
+    "main_pool": 6
+  },
+  "latest_count": 44,
+  "opened": 0,
+  "opened_buckets": {},
+  "closed": 0,
+  "skipped": 0,
+  "skipped_buckets": {},
+  "skip_reasons": {},
+  "closed_reasons": {},
+  "halted": true,
+  "halt_reason": "daily_loss_halt",
+  "portfolio_health": {
+    "mode": "paper_trade",
+    "discipline_version": "v2",
+    "halted": true,
+    "halt_reason": "daily_loss_halt",
+    "recent_fail_count": 0,
+    "auto_trade_enabled": true,
+    "emergency_stop": false,
+    "used_budget_today": 0.0,
+    "daily_budget_usd": 12.0,
+    "open_positions": 0,
+    "closed_positions": 15,
+    "open_bucket_counts": {},
+    "closed_bucket_counts": {
+      "main_pool": 8,
+      "high_confidence": 7
+    },
+    "total_open_exposure": 0,
+    "open_pnl_like": 0,
+    "realized_pnl_like": -0.1477,
+    "total_pnl_like": -0.1477,
+    "thesis_risk_positions": 0,
+    "regime_pnl": {
+      "trend": -0.0127,
+      "carry_no": 0.0,
+      "mean_revert": -0.135
+    },
+    "cluster_pnl": {
+      "us_election": -0.003,
+      "other": -0.1447,
+      "world_cup": 0.0,
+      "gta_vi": 0.0
+    }
+  },
+  "open_positions": 0,
+  "closed_positions": 15,
+  "used_budget_today": 0.0
+}

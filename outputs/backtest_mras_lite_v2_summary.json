@@ -1,0 +1,1387 @@
+{
+  "generated_at": "2026-04-17T19:49:20",
+  "config": {
+    "db_path": "/Users/mac/.openclaw/workspace/polymarket/collector/polymarket_data.db",
+    "min_liquidity": 20000,
+    "min_samples_per_bar": 10,
+    "min_quality_ratio": 0.7,
+    "recent_pct_bars": 96,
+    "cooldown_hours": 12.0,
+    "bar_minutes": 15,
+    "horizons": {
+      "4h": 16,
+      "12h": 48,
+      "24h": 96
+    },
+    "max_markets": 0,
+    "carry_no_filters": {
+      "max_yes_price": 0.02,
+      "min_liquidity": 100000,
+      "max_abs_chg_24h": 0.02,
+      "min_hours_to_event": 72,
+      "max_noise": 2.2
+    }
+  },
+  "quality": {
+    "markets_scanned": 196,
+    "markets_with_bars": 196,
+    "markets_with_signals": 125,
+    "segments_total": 2622,
+    "segments_ge_24h": 186,
+    "bars_total": 54047
+  },
+  "raw": {
+    "signals": {
+      "total": 1085,
+      "by_regime": {
+        "carry_no": 802,
+        "mean_revert": 195,
+        "trend": 88
+      },
+      "by_position": {
+        "medium": 871,
+        "small": 214
+      },
+      "by_direction": {
+        "NO": 1057,
+        "YES": 28
+      }
+    },
+    "performance": {
+      "4h": {
+        "count": 1085,
+        "hit_rate": 0.0793,
+        "avg_edge": 9.6e-05,
+        "median_edge": 0.0,
+        "avg_roi": -7.2e-05,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 70
+      },
+      "12h": {
+        "count": 1085,
+        "hit_rate": 0.1088,
+        "avg_edge": 0.000364,
+        "median_edge": 0.0,
+        "avg_roi": 0.000487,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 39
+      },
+      "24h": {
+        "count": 1085,
+        "hit_rate": 0.1382,
+        "avg_edge": 0.000343,
+        "median_edge": 0.0,
+        "avg_roi": -0.000537,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 25
+      }
+    },
+    "performance_by_regime": {
+      "4h": {
+        "carry_no": {
+          "count": 802,
+          "hit_rate": 0.0337,
+          "avg_edge": -1.1e-05,
+          "median_edge": 0.0,
+          "avg_roi": -1.1e-05,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 65
+        },
+        "mean_revert": {
+          "count": 195,
+          "hit_rate": 0.1641,
+          "avg_edge": 0.000318,
+          "median_edge": 0.0,
+          "avg_roi": 0.001143,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 15
+        },
+        "trend": {
+          "count": 88,
+          "hit_rate": 0.3068,
+          "avg_edge": 0.00058,
+          "median_edge": -0.0005,
+          "avg_roi": -0.003315,
+          "median_roi": -0.00052,
+          "max_consecutive_losses": 7
+        }
+      },
+      "12h": {
+        "carry_no": {
+          "count": 802,
+          "hit_rate": 0.0449,
+          "avg_edge": -1.9e-05,
+          "median_edge": 0.0,
+          "avg_roi": -2e-05,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 35
+        },
+        "mean_revert": {
+          "count": 195,
+          "hit_rate": 0.2154,
+          "avg_edge": -0.000115,
+          "median_edge": 0.0,
+          "avg_roi": 0.000291,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 9
+        },
+        "trend": {
+          "count": 88,
+          "hit_rate": 0.4545,
+          "avg_edge": 0.00492,
+          "median_edge": 0.0,
+          "avg_roi": 0.005532,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 7
+        }
+      },
+      "24h": {
+        "carry_no": {
+          "count": 802,
+          "hit_rate": 0.0586,
+          "avg_edge": -7.4e-05,
+          "median_edge": 0.0,
+          "avg_roi": -7.4e-05,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 25
+        },
+        "mean_revert": {
+          "count": 195,
+          "hit_rate": 0.3538,
+          "avg_edge": 0.002136,
+          "median_edge": 0.0,
+          "avg_roi": 0.00204,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 6
+        },
+        "trend": {
+          "count": 88,
+          "hit_rate": 0.3864,
+          "avg_edge": 0.00017,
+          "median_edge": -0.00025,
+          "avg_roi": -0.01047,
+          "median_roi": -0.000266,
+          "max_consecutive_losses": 4
+        }
+      }
+    }
+  },
+  "dedup": {
+    "signals": {
+      "total": 130,
+      "by_regime": {
+        "carry_no": 85,
+        "mean_revert": 29,
+        "trend": 16
+      },
+      "by_position": {
+        "medium": 99,
+        "small": 31
+      },
+      "by_direction": {
+        "NO": 122,
+        "YES": 8
+      }
+    },
+    "performance": {
+      "4h": {
+        "count": 130,
+        "hit_rate": 0.1231,
+        "avg_edge": 0.000177,
+        "median_edge": 0.0,
+        "avg_roi": -0.000533,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 64
+      },
+      "12h": {
+        "count": 130,
+        "hit_rate": 0.1615,
+        "avg_edge": 0.000281,
+        "median_edge": 0.0,
+        "avg_roi": -0.000385,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 35
+      },
+      "24h": {
+        "count": 130,
+        "hit_rate": 0.1923,
+        "avg_edge": 0.000792,
+        "median_edge": 0.0,
+        "avg_roi": -0.001144,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 25
+      }
+    },
+    "performance_by_regime": {
+      "4h": {
+        "carry_no": {
+          "count": 85,
+          "hit_rate": 0.0235,
+          "avg_edge": -6.5e-05,
+          "median_edge": 0.0,
+          "avg_roi": -6.6e-05,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 64
+        },
+        "mean_revert": {
+          "count": 29,
+          "hit_rate": 0.3448,
+          "avg_edge": 0.000879,
+          "median_edge": 0.0,
+          "avg_roi": 0.002817,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 12
+        },
+        "trend": {
+          "count": 16,
+          "hit_rate": 0.25,
+          "avg_edge": 0.000187,
+          "median_edge": -0.0005,
+          "avg_roi": -0.009088,
+          "median_roi": -0.000521,
+          "max_consecutive_losses": 7
+        }
+      },
+      "12h": {
+        "carry_no": {
+          "count": 85,
+          "hit_rate": 0.0706,
+          "avg_edge": 6e-06,
+          "median_edge": 0.0,
+          "avg_roi": 6e-06,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 35
+        },
+        "mean_revert": {
+          "count": 29,
+          "hit_rate": 0.3448,
+          "avg_edge": 0.000724,
+          "median_edge": 0.0,
+          "avg_roi": 0.001777,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 12
+        },
+        "trend": {
+          "count": 16,
+          "hit_rate": 0.3125,
+          "avg_edge": 0.000937,
+          "median_edge": -0.00075,
+          "avg_roi": -0.006384,
+          "median_roi": -0.001055,
+          "max_consecutive_losses": 6
+        }
+      },
+      "24h": {
+        "carry_no": {
+          "count": 85,
+          "hit_rate": 0.0706,
+          "avg_edge": -9.4e-05,
+          "median_edge": 0.0,
+          "avg_roi": -9.4e-05,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 25
+        },
+        "mean_revert": {
+          "count": 29,
+          "hit_rate": 0.4483,
+          "avg_edge": 0.004241,
+          "median_edge": 0.0,
+          "avg_roi": 0.005698,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 8
+        },
+        "trend": {
+          "count": 16,
+          "hit_rate": 0.375,
+          "avg_edge": -0.00075,
+          "median_edge": -0.00025,
+          "avg_roi": -0.019118,
+          "median_roi": -0.000266,
+          "max_consecutive_losses": 4
+        }
+      }
+    }
+  },
+  "top_examples": [
+    {
+      "token_id": "631059815958854406224163480574507434200946764542129005247984171366597476420",
+      "question": "Will Glenn Youngkin win the 2028 US Presidential Election?",
+      "slug": "will-glenn-youngkin-win-the-2028-us-presidential-election",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0115,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 903982.19,
+      "volume": 21045729.01,
+      "hours_to_event": 22469.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0115,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0115,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.001,
+          "roi": 0.001012,
+          "hit": true,
+          "future_yes_price": 0.0105,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "58378309871183461257693288827678410871907006920578755035402846056315798427503",
+      "question": "Will Mark Cuban win the 2028 Democratic presidential nomination?",
+      "slug": "will-mark-cuban-win-the-2028-democratic-presidential-nomination-329",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0105,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 1668127.09,
+      "volume": 19413120.98,
+      "hours_to_event": 22469.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0105,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0105,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.001,
+          "roi": 0.001011,
+          "hit": true,
+          "future_yes_price": 0.0095,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "80724786407275266937534613008558715581084712230616856739273522348302669402554",
+      "question": "Will South Korea win the 2026 FIFA World Cup?",
+      "slug": "will-south-korea-win-the-2026-fifa-world-cup-485",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0045,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 3610380.26,
+      "volume": 18236325.98,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0045,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.001,
+          "roi": 0.001005,
+          "hit": true,
+          "future_yes_price": 0.0035,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.001,
+          "roi": 0.001005,
+          "hit": true,
+          "future_yes_price": 0.0035,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "89071282556584199015490241074221756662667488270789034763702585258138302536112",
+      "question": "Will Thomas Massie win the 2028 US Presidential Election?",
+      "slug": "will-thomas-massie-win-the-2028-us-presidential-election",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0115,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 957250.58,
+      "volume": 3821943.71,
+      "hours_to_event": 22469.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.001,
+          "roi": 0.001012,
+          "hit": true,
+          "future_yes_price": 0.0105,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0005,
+          "roi": 0.000506,
+          "hit": true,
+          "future_yes_price": 0.011,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0005,
+          "roi": 0.000506,
+          "hit": true,
+          "future_yes_price": 0.011,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "90227223115596293448966158151606153337847900483048338623540402385929720677904",
+      "question": "Will Wes Moore win the 2028 Democratic presidential nomination?",
+      "slug": "will-wes-moore-win-the-2028-democratic-presidential-nomination-714",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.012,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 641292.1,
+      "volume": 14664466.21,
+      "hours_to_event": 22469.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": -0.040000000000000036,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 0.7083333333333334,
+        "rsi_14": 48.781964498834576,
+        "trend_slope_4h": -1.3235294117647071e-05,
+        "trend_slope_24h": 3.6625067824199677e-06,
+        "noise_score": 1.8153962000613317
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": -0.0005,
+          "roi": -0.000506,
+          "hit": false,
+          "future_yes_price": 0.0125,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0005,
+          "roi": 0.000506,
+          "hit": true,
+          "future_yes_price": 0.0115,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0005,
+          "roi": 0.000506,
+          "hit": true,
+          "future_yes_price": 0.0115,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995",
+      "question": "Will Iraq win the 2026 FIFA World Cup?",
+      "slug": "will-iraq-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0015,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4998549.84,
+      "volume": 4325357.63,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "113379015922744700109400673843380371641970914885846970213129353605968934558386",
+      "question": "Will Haiti win the 2026 FIFA World Cup?",
+      "slug": "will-haiti-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0015,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4985983.18,
+      "volume": 15400554.5,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "18605216520960122093689427575806651607517827372535894526532079999408408169156",
+      "question": "Will Qatar win the 2026 FIFA World Cup?",
+      "slug": "will-qatar-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0015,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4968863.91,
+      "volume": 16838990.11,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486",
+      "question": "Will Panama win the 2026 FIFA World Cup?",
+      "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0025,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4963943.72,
+      "volume": 4027388.18,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "89770121993255619705119104591644526712193505786928967250693522950895615785005",
+      "question": "Will Bosnia-Herzegovina win the 2026 FIFA World Cup?",
+      "slug": "will-bosnia-herzegovina-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0035,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4912019.77,
+      "volume": 4576922.68,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0035,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0035,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0035,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "35797818400757287472708740881657961304270157125643131597907636474183210188025",
+      "question": "Will Cezchia win the 2026 FIFA World Cup?",
+      "slug": "will-cezchia-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0035,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4851221.32,
+      "volume": 2885409.8,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0035,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0035,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0035,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "98686749402500678753487703372528277029342097490180026723487433517076969282825",
+      "question": "Will Jordan win the 2026 FIFA World Cup?",
+      "slug": "will-jordan-win-the-2026-fifa-world-cup-233",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0015,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4786804.7,
+      "volume": 19449769.13,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "43661509251351142169227141691164122649250455115438867334436875294380701133091",
+      "question": "Will Australia win the 2026 FIFA World Cup?",
+      "slug": "will-australia-win-the-2026-fifa-world-cup-816",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0025,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4619146.24,
+      "volume": 12670149.48,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "58392024727359233794992635293106675983094683080284912908526627785964160484939",
+      "question": "Will Algeria win the 2026 FIFA World Cup?",
+      "slug": "will-algeria-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0025,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4556955.87,
+      "volume": 14835261.91,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "79609298644734030886284029462369514848707878622071495577618126141372199748974",
+      "question": "Will New Zealand win the 2026 FIFA World Cup?",
+      "slug": "will-new-zealand-win-the-2026-fifa-world-cup-635",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0015,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4413454.01,
+      "volume": 22706752.66,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "43907673646206657865778036957293730446366626078011238443367990170655175896145",
+      "question": "Will Ghana win the 2026 FIFA World Cup?",
+      "slug": "will-ghana-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0025,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4379086.95,
+      "volume": 13961301.67,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "86035858416252385053603758548087253570549129844230230783932738372075949702177",
+      "question": "Will Tunisia win the 2026 FIFA World Cup?",
+      "slug": "will-tunisia-win-the-2026-fifa-world-cup-165",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0025,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4188952.78,
+      "volume": 14440619.65,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "23542782083949026234898323432000742558288032327930681121040136746492993951914",
+      "question": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+      "slug": "will-saudi-arabia-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0025,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 4040087.76,
+      "volume": 21209462.83,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0025,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "90538013438399246674125939147272424357773921253199632436930218305581040235987",
+      "question": "Will Uzbekistan win the 2026 FIFA World Cup?",
+      "slug": "will-uzbekistan-win-the-2026-fifa-world-cup-773",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0015,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 3939852.76,
+      "volume": 32201228.44,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0015,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    },
+    {
+      "token_id": "58374167250364215964582274356498746399676421878376948523944979542572589542202",
+      "question": "Will Ivory Coast win the 2026 FIFA World Cup?",
+      "slug": "will-ivory-coast-win-the-2026-fifa-world-cup",
+      "entry_ts": "2026-04-15T18:30:00",
+      "entry_yes_price": 0.0045,
+      "entry_samples": 15,
+      "quality_ratio_24h": 0.9792,
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.752,
+      "position": "medium",
+      "liquidity": 3707562.83,
+      "volume": 12778625.59,
+      "hours_to_event": 2285.5,
+      "features": {
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "pct_rank_recent": 1.0,
+        "rsi_14": 100.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "noise_score": 0.0
+      },
+      "reasons": [
+        "ultra low YES price",
+        "carry_no v2 tightened"
+      ],
+      "risk_flags": [],
+      "outcomes": {
+        "4h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0045,
+          "future_ts": "2026-04-15T22:30:00"
+        },
+        "12h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0045,
+          "future_ts": "2026-04-16T06:30:00"
+        },
+        "24h": {
+          "edge": 0.0,
+          "roi": 0.0,
+          "hit": false,
+          "future_yes_price": 0.0045,
+          "future_ts": "2026-04-16T18:30:00"
+        }
+      }
+    }
+  ]
+}

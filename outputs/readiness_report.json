@@ -1,0 +1,45 @@
+{
+  "review_count": 175,
+  "judged_samples": 0,
+  "hit_rate_pct": 0.0,
+  "window_ready": {
+    "6h": 0,
+    "24h": 0,
+    "48h": 0
+  },
+  "portfolio_health": {
+    "mode": "paper_trade",
+    "halted": false,
+    "halt_reason": null,
+    "recent_fail_count": 0,
+    "auto_trade_enabled": true,
+    "emergency_stop": false,
+    "used_budget_today": 1.5,
+    "daily_budget_usd": 12.0,
+    "open_positions": 1,
+    "closed_positions": 0,
+    "total_open_exposure": 1.5,
+    "open_pnl_like": 0.0,
+    "realized_pnl_like": 0.0,
+    "total_pnl_like": 0.0,
+    "thesis_risk_positions": 0,
+    "regime_pnl": {
+      "trend": 0.0
+    },
+    "cluster_pnl": {
+      "us_election": 0.0
+    }
+  },
+  "checklist": {
+    "6h_samples_ge_30": false,
+    "24h_samples_ge_20": false,
+    "48h_samples_ge_10": false,
+    "judged_samples_ge_20": false,
+    "hit_rate_ge_55pct": false,
+    "live_disabled": true,
+    "not_halted": true
+  },
+  "ready_score": 2,
+  "ready_total": 7,
+  "status": "paper_only"
+}

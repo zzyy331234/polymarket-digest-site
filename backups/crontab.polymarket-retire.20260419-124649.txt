@@ -1,0 +1,12 @@
+# Polymarket Forecast Scanner - every 30 min
+*/30 * * * * /Users/mac/.openclaw/workspace/polymarket/run_forecast.sh
+
+# Smart Money Monitor - every 30 min
+*/30 * * * * /Users/mac/.openclaw/workspace/polymarket/run_smartmoney.sh
+
+# Stock Monitor - every 5 min
+*/5 * * * * /usr/bin/python3 /Users/mac/.agents/skills/stock-monitor/scripts/stocks_monitor.py >> /Users/mac/.openclaw/workspace/memory/stocks_monitor.log 2>&1
+*/30 * * * * /Users/mac/.openclaw/workspace/polymarket/refresh_scanner.sh >> /Users/mac/.openclaw/workspace/polymarket/collector/collector.log 2>&1
+
+# Polymarket Trading Cycle - every 30 min
+*/30 * * * * /Users/mac/.openclaw/workspace/polymarket/run_trading_cycle.sh >> /Users/mac/.openclaw/workspace/polymarket/collector/collector.log 2>&1

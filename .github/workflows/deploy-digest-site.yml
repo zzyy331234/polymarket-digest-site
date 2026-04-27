@@ -1,0 +1,49 @@
+name: Deploy Digest Site
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'short_intelligence_digest.py'
+      - 'render_digest_page.py'
+      - 'run_paper_cycle.sh'
+      - 'reports/short_digest_archive/**'
+      - 'reports/short_digest/**'
+      - 'outputs/short_intelligence_digest_latest.json'
+      - 'outputs/short_intelligence_digest_latest.md'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: digest-site-deploy
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build digest site
+        run: |
+          python3 short_intelligence_digest.py
+          python3 render_digest_page.py
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/digest_site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

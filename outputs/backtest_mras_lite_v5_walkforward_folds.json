@@ -1,0 +1,605 @@
+[
+  {
+    "fold": 1,
+    "train_ts_min": "2026-04-15T18:30:00",
+    "train_ts_max": "2026-04-15T18:45:00",
+    "test_ts_min": "2026-04-15T19:00:00",
+    "test_ts_max": "2026-04-15T19:30:00",
+    "train_candidates": 372,
+    "test_candidates": 558,
+    "train_best": {
+      "params": {
+        "pct_low": 0.08,
+        "rsi_low": 30,
+        "chg24h_min": 0.03,
+        "noise_max": 1.8,
+        "min_strength": 2,
+        "pct_high": 0.92,
+        "rsi_high": 70
+      },
+      "score": -999,
+      "raw_signals": 6,
+      "dedup_signals": 3,
+      "raw_performance": {
+        "4h": {
+          "count": 6,
+          "hit_rate": 0.1667,
+          "avg_edge": -0.000167,
+          "median_edge": -0.00025,
+          "avg_roi": -0.002347,
+          "median_roi": -0.003521,
+          "max_consecutive_losses": 5
+        },
+        "8h": {
+          "count": 6,
+          "hit_rate": 0.3333,
+          "avg_edge": -0.000417,
+          "median_edge": -0.001,
+          "avg_roi": -0.016293,
+          "median_roi": -0.014085,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 6,
+          "hit_rate": 0.3333,
+          "avg_edge": 0.001083,
+          "median_edge": -0.001,
+          "avg_roi": 0.00753,
+          "median_roi": -0.024648,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 6,
+          "hit_rate": 0.3333,
+          "avg_edge": 0.002083,
+          "median_edge": -0.0005,
+          "avg_roi": 0.014792,
+          "median_roi": -0.007043,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 3,
+          "hit_rate": 0.0,
+          "avg_edge": -0.000333,
+          "median_edge": -0.0005,
+          "avg_roi": -0.004952,
+          "median_roi": -0.007042,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 3,
+          "hit_rate": 0.3333,
+          "avg_edge": -0.0005,
+          "median_edge": -0.001,
+          "avg_roi": -0.017595,
+          "median_roi": -0.014085,
+          "max_consecutive_losses": 1
+        },
+        "12h": {
+          "count": 3,
+          "hit_rate": 0.3333,
+          "avg_edge": 0.001,
+          "median_edge": -0.001,
+          "avg_roi": 0.006356,
+          "median_roi": -0.028169,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 3,
+          "hit_rate": 0.3333,
+          "avg_edge": 0.002,
+          "median_edge": -0.001,
+          "avg_roi": 0.01632,
+          "median_roi": -0.014085,
+          "max_consecutive_losses": 1
+        }
+      }
+    },
+    "test_selected": {
+      "params": {
+        "pct_low": 0.08,
+        "rsi_low": 30,
+        "chg24h_min": 0.03,
+        "noise_max": 1.8,
+        "min_strength": 2,
+        "pct_high": 0.92,
+        "rsi_high": 70
+      },
+      "raw_signals": 13,
+      "dedup_signals": 6,
+      "dedup_performance": {
+        "4h": {
+          "count": 6,
+          "hit_rate": 0.3333,
+          "avg_edge": 8.3e-05,
+          "median_edge": 0.0,
+          "avg_roi": 0.002777,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 6,
+          "hit_rate": 0.5,
+          "avg_edge": 0.000333,
+          "median_edge": 0.0005,
+          "avg_roi": 0.00998,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 3
+        },
+        "12h": {
+          "count": 6,
+          "hit_rate": 0.5,
+          "avg_edge": 0.00075,
+          "median_edge": 0.0005,
+          "avg_roi": 0.015112,
+          "median_roi": 0.006211,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 6,
+          "hit_rate": 0.5,
+          "avg_edge": 0.001333,
+          "median_edge": 0.001,
+          "avg_roi": 0.031239,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 1
+        }
+      }
+    },
+    "test_fixed": {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 38,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 62
+      },
+      "raw_signals": 12,
+      "dedup_signals": 5,
+      "dedup_performance": {
+        "4h": {
+          "count": 5,
+          "hit_rate": 0.2,
+          "avg_edge": 0.0,
+          "median_edge": 0.0,
+          "avg_roi": -0.000593,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 5,
+          "hit_rate": 0.4,
+          "avg_edge": 0.0004,
+          "median_edge": 0.0,
+          "avg_roi": 0.00946,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "12h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0012,
+          "median_edge": 0.001,
+          "avg_roi": 0.02236,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0021,
+          "median_edge": 0.002,
+          "avg_roi": 0.050821,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      }
+    }
+  },
+  {
+    "fold": 2,
+    "train_ts_min": "2026-04-15T18:30:00",
+    "train_ts_max": "2026-04-15T19:30:00",
+    "test_ts_min": "2026-04-15T19:45:00",
+    "test_ts_max": "2026-04-15T20:00:00",
+    "train_candidates": 930,
+    "test_candidates": 372,
+    "train_best": {
+      "params": {
+        "pct_low": 0.1,
+        "rsi_low": 30,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.9,
+        "rsi_high": 70
+      },
+      "score": 0.07425,
+      "raw_signals": 16,
+      "dedup_signals": 5,
+      "raw_performance": {
+        "4h": {
+          "count": 16,
+          "hit_rate": 0.1875,
+          "avg_edge": -0.000125,
+          "median_edge": 0.0,
+          "avg_roi": -0.002279,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 5
+        },
+        "8h": {
+          "count": 16,
+          "hit_rate": 0.5,
+          "avg_edge": 0.000625,
+          "median_edge": 0.00025,
+          "avg_roi": 0.005842,
+          "median_roi": 0.003907,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 16,
+          "hit_rate": 0.5625,
+          "avg_edge": 0.001563,
+          "median_edge": 0.001,
+          "avg_roi": 0.020789,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 16,
+          "hit_rate": 0.5625,
+          "avg_edge": 0.002469,
+          "median_edge": 0.002,
+          "avg_roi": 0.039056,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 5,
+          "hit_rate": 0.2,
+          "avg_edge": 0.0001,
+          "median_edge": 0.0,
+          "avg_roi": 0.000922,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0005,
+          "median_edge": 0.0005,
+          "avg_roi": 0.011022,
+          "median_roi": 0.007813,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0014,
+          "median_edge": 0.001,
+          "avg_roi": 0.025725,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0024,
+          "median_edge": 0.002,
+          "avg_roi": 0.058957,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      }
+    },
+    "test_selected": {
+      "params": {
+        "pct_low": 0.1,
+        "rsi_low": 30,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.9,
+        "rsi_high": 70
+      },
+      "raw_signals": 5,
+      "dedup_signals": 3,
+      "dedup_performance": {
+        "4h": {
+          "count": 3,
+          "hit_rate": 0.3333,
+          "avg_edge": -0.000333,
+          "median_edge": 0.0,
+          "avg_roi": -0.006037,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 2
+        },
+        "8h": {
+          "count": 3,
+          "hit_rate": 1.0,
+          "avg_edge": 0.002167,
+          "median_edge": 0.002,
+          "avg_roi": 0.049082,
+          "median_roi": 0.053435,
+          "max_consecutive_losses": 0
+        },
+        "12h": {
+          "count": 3,
+          "hit_rate": 1.0,
+          "avg_edge": 0.002167,
+          "median_edge": 0.001,
+          "avg_roi": 0.05003,
+          "median_roi": 0.068702,
+          "max_consecutive_losses": 0
+        },
+        "24h": {
+          "count": 3,
+          "hit_rate": 1.0,
+          "avg_edge": 0.004,
+          "median_edge": 0.003,
+          "avg_roi": 0.112871,
+          "median_roi": 0.10687,
+          "max_consecutive_losses": 0
+        }
+      }
+    },
+    "test_fixed": {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 38,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 62
+      },
+      "raw_signals": 10,
+      "dedup_signals": 6,
+      "dedup_performance": {
+        "4h": {
+          "count": 6,
+          "hit_rate": 0.5,
+          "avg_edge": 0.000417,
+          "median_edge": 0.00025,
+          "avg_roi": 0.002355,
+          "median_roi": 0.004311,
+          "max_consecutive_losses": 2
+        },
+        "8h": {
+          "count": 6,
+          "hit_rate": 0.8333,
+          "avg_edge": 0.003167,
+          "median_edge": 0.0015,
+          "avg_roi": 0.035286,
+          "median_roi": 0.03914,
+          "max_consecutive_losses": 1
+        },
+        "12h": {
+          "count": 6,
+          "hit_rate": 0.8333,
+          "avg_edge": 0.004167,
+          "median_edge": 0.00125,
+          "avg_roi": 0.045195,
+          "median_roi": 0.047282,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 6,
+          "hit_rate": 0.8333,
+          "avg_edge": 0.004833,
+          "median_edge": 0.0025,
+          "avg_roi": 0.066646,
+          "median_roi": 0.065857,
+          "max_consecutive_losses": 1
+        }
+      }
+    }
+  },
+  {
+    "fold": 3,
+    "train_ts_min": "2026-04-15T18:30:00",
+    "train_ts_max": "2026-04-15T20:00:00",
+    "test_ts_min": "2026-04-15T20:15:00",
+    "test_ts_max": "2026-04-15T20:45:00",
+    "train_candidates": 1302,
+    "test_candidates": 558,
+    "train_best": {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 38,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 62
+      },
+      "score": 0.098992,
+      "raw_signals": 28,
+      "dedup_signals": 7,
+      "raw_performance": {
+        "4h": {
+          "count": 28,
+          "hit_rate": 0.25,
+          "avg_edge": -1.8e-05,
+          "median_edge": 0.0,
+          "avg_roi": -0.001267,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 5
+        },
+        "8h": {
+          "count": 28,
+          "hit_rate": 0.5714,
+          "avg_edge": 0.001214,
+          "median_edge": 0.00075,
+          "avg_roi": 0.014504,
+          "median_roi": 0.012123,
+          "max_consecutive_losses": 4
+        },
+        "12h": {
+          "count": 28,
+          "hit_rate": 0.6071,
+          "avg_edge": 0.002018,
+          "median_edge": 0.001,
+          "avg_roi": 0.026062,
+          "median_roi": 0.019142,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 28,
+          "hit_rate": 0.6071,
+          "avg_edge": 0.002768,
+          "median_edge": 0.002,
+          "avg_roi": 0.045104,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 7,
+          "hit_rate": 0.4286,
+          "avg_edge": 0.000571,
+          "median_edge": 0.0,
+          "avg_roi": 0.005265,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 7,
+          "hit_rate": 0.7143,
+          "avg_edge": 0.002286,
+          "median_edge": 0.0005,
+          "avg_roi": 0.023728,
+          "median_roi": 0.008621,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 7,
+          "hit_rate": 0.7143,
+          "avg_edge": 0.003786,
+          "median_edge": 0.001,
+          "avg_roi": 0.042317,
+          "median_roi": 0.025862,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 7,
+          "hit_rate": 0.7143,
+          "avg_edge": 0.004429,
+          "median_edge": 0.002,
+          "avg_roi": 0.064154,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      }
+    },
+    "test_selected": {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 38,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 62
+      },
+      "raw_signals": 10,
+      "dedup_signals": 5,
+      "dedup_performance": {
+        "4h": {
+          "count": 5,
+          "hit_rate": 0.8,
+          "avg_edge": 0.0011,
+          "median_edge": 0.001,
+          "avg_roi": 0.024009,
+          "median_roi": 0.017391,
+          "max_consecutive_losses": 1
+        },
+        "8h": {
+          "count": 5,
+          "hit_rate": 1.0,
+          "avg_edge": 0.0017,
+          "median_edge": 0.001,
+          "avg_roi": 0.037963,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 0
+        },
+        "12h": {
+          "count": 5,
+          "hit_rate": 0.8,
+          "avg_edge": 0.0017,
+          "median_edge": 0.001,
+          "avg_roi": 0.036975,
+          "median_roi": 0.034783,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 5,
+          "hit_rate": 0.8,
+          "avg_edge": 0.0025,
+          "median_edge": 0.002,
+          "avg_roi": 0.067692,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 1
+        }
+      }
+    },
+    "test_fixed": {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 38,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 62
+      },
+      "raw_signals": 10,
+      "dedup_signals": 5,
+      "dedup_performance": {
+        "4h": {
+          "count": 5,
+          "hit_rate": 0.8,
+          "avg_edge": 0.0011,
+          "median_edge": 0.001,
+          "avg_roi": 0.024009,
+          "median_roi": 0.017391,
+          "max_consecutive_losses": 1
+        },
+        "8h": {
+          "count": 5,
+          "hit_rate": 1.0,
+          "avg_edge": 0.0017,
+          "median_edge": 0.001,
+          "avg_roi": 0.037963,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 0
+        },
+        "12h": {
+          "count": 5,
+          "hit_rate": 0.8,
+          "avg_edge": 0.0017,
+          "median_edge": 0.001,
+          "avg_roi": 0.036975,
+          "median_roi": 0.034783,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 5,
+          "hit_rate": 0.8,
+          "avg_edge": 0.0025,
+          "median_edge": 0.002,
+          "avg_roi": 0.067692,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 1
+        }
+      }
+    }
+  }
+]

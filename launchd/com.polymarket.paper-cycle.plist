@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.polymarket.paper-cycle</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/mac/.openclaw/workspace/polymarket/run_paper_cycle.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/mac/.openclaw/workspace/polymarket</string>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict>
+      <key>Minute</key>
+      <integer>0</integer>
+    </dict>
+    <dict>
+      <key>Minute</key>
+      <integer>30</integer>
+    </dict>
+  </array>
+
+  <key>StandardOutPath</key>
+  <string>/Users/mac/.openclaw/workspace/polymarket/logs/paper_cycle.launchd.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>/Users/mac/.openclaw/workspace/polymarket/logs/paper_cycle.launchd.err</string>
+</dict>
+</plist>

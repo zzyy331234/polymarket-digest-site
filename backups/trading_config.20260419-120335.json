@@ -1,0 +1,87 @@
+{
+  "mode": "paper_trade",
+  "daily_budget_usd": 12.0,
+  "max_total_exposure_usd": 6.0,
+  "max_single_size_usd": 3.0,
+  "auto_trade_enabled": true,
+  "live_trade_enabled": false,
+  "emergency_stop": false,
+  "max_daily_loss_like": -0.12,
+  "paper_review_only": false,
+  "consecutive_fail_halt": 3,
+  "allowed_modes": [
+    "analysis_only",
+    "paper_review_only",
+    "paper_trade",
+    "live_disabled"
+  ],
+  "discipline_v2": {
+    "version": "v2",
+    "buckets": {
+      "high_confidence_min": 0.68,
+      "main_pool_min": 0.58,
+      "research_min": 0.5
+    },
+    "execution": {
+      "trade_buckets": [
+        "high_confidence",
+        "main_pool"
+      ],
+      "observe_only_buckets": [
+        "research"
+      ],
+      "blocked_buckets": [
+        "below_floor"
+      ],
+      "overrides": {
+        "blocked_clusters": [
+          "world_cup"
+        ],
+        "observe_only_clusters": [],
+        "blocked_regimes": [],
+        "observe_only_regimes": [
+          "carry_no"
+        ]
+      }
+    },
+    "release_gates": {
+      "paper_to_micro_live": {
+        "min_closed_trades": 30,
+        "min_win_rate": 0.55,
+        "min_avg_win_loss_ratio_like": 1.3,
+        "max_consecutive_losses": 3,
+        "max_flat_rate": 0.5
+      }
+    }
+  },
+  "low_tradability": {
+    "shared": {
+      "require_volatility": true,
+      "min_hours_to_event": 168,
+      "max_abs_chg_1h": 0.003,
+      "max_abs_chg_4h": 0.005,
+      "max_abs_chg_24h": 0.015,
+      "max_volatility": 0.0015,
+      "edge_price_low": 0.1,
+      "edge_price_high": 0.9
+    },
+    "regimes": {
+      "carry_no": {
+        "enabled": true,
+        "allow_mid_price": true
+      },
+      "mean_revert": {
+        "enabled": true,
+        "allow_mid_price": false
+      },
+      "trend": {
+        "enabled": true,
+        "allow_mid_price": false
+      },
+      "contrarian": {
+        "enabled": true,
+        "allow_mid_price": false
+      }
+    }
+  }
+}

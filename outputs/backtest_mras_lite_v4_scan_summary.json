@@ -1,0 +1,1015 @@
+{
+  "generated_at": "2026-04-17T20:07:38",
+  "config": {
+    "db_path": "/Users/mac/.openclaw/workspace/polymarket/collector/polymarket_data.db",
+    "min_liquidity": 20000,
+    "min_samples_per_bar": 10,
+    "min_quality_ratio": 0.7,
+    "recent_pct_bars": 96,
+    "cooldown_hours": 12.0,
+    "max_markets": 0,
+    "grid_size": 216,
+    "strategy_focus": "mean_revert_parameter_scan"
+  },
+  "quality": {
+    "markets_scanned": 195,
+    "markets_with_bars": 195,
+    "candidate_markets": 185,
+    "segments_total": 2608,
+    "segments_ge_24h": 185,
+    "bars_total": 53944,
+    "candidates_total": 1850
+  },
+  "best_combo": {
+    "params": {
+      "pct_low": 0.12,
+      "rsi_low": 38,
+      "chg24h_min": 0.05,
+      "noise_max": 1.8,
+      "min_strength": 3,
+      "pct_high": 0.88,
+      "rsi_high": 62
+    },
+    "raw_signals": 38,
+    "dedup_signals": 8,
+    "raw_performance": {
+      "4h": {
+        "count": 38,
+        "hit_rate": 0.3684,
+        "avg_edge": 0.000237,
+        "median_edge": 0.0,
+        "avg_roi": 0.004882,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 5
+      },
+      "8h": {
+        "count": 38,
+        "hit_rate": 0.6842,
+        "avg_edge": 0.001434,
+        "median_edge": 0.001,
+        "avg_roi": 0.023879,
+        "median_roi": 0.024845,
+        "max_consecutive_losses": 4
+      },
+      "12h": {
+        "count": 38,
+        "hit_rate": 0.6579,
+        "avg_edge": 0.002026,
+        "median_edge": 0.001,
+        "avg_roi": 0.031747,
+        "median_roi": 0.034783,
+        "max_consecutive_losses": 2
+      },
+      "24h": {
+        "count": 38,
+        "hit_rate": 0.6579,
+        "avg_edge": 0.002908,
+        "median_edge": 0.002,
+        "avg_roi": 0.058642,
+        "median_roi": 0.024845,
+        "max_consecutive_losses": 2
+      }
+    },
+    "dedup_performance": {
+      "4h": {
+        "count": 8,
+        "hit_rate": 0.5,
+        "avg_edge": 0.00075,
+        "median_edge": 0.00025,
+        "avg_roi": 0.013378,
+        "median_roi": 0.004311,
+        "max_consecutive_losses": 3
+      },
+      "8h": {
+        "count": 8,
+        "hit_rate": 0.75,
+        "avg_edge": 0.002063,
+        "median_edge": 0.0005,
+        "avg_roi": 0.022955,
+        "median_roi": 0.013083,
+        "max_consecutive_losses": 2
+      },
+      "12h": {
+        "count": 8,
+        "hit_rate": 0.625,
+        "avg_edge": 0.003312,
+        "median_edge": 0.001,
+        "avg_roi": 0.037027,
+        "median_roi": 0.019142,
+        "max_consecutive_losses": 2
+      },
+      "24h": {
+        "count": 8,
+        "hit_rate": 0.625,
+        "avg_edge": 0.003812,
+        "median_edge": 0.00125,
+        "avg_roi": 0.053942,
+        "median_roi": 0.016733,
+        "max_consecutive_losses": 2
+      }
+    },
+    "score": 0.086442
+  },
+  "top10": [
+    {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 38,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 62
+      },
+      "raw_signals": 38,
+      "dedup_signals": 8,
+      "raw_performance": {
+        "4h": {
+          "count": 38,
+          "hit_rate": 0.3684,
+          "avg_edge": 0.000237,
+          "median_edge": 0.0,
+          "avg_roi": 0.004882,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 5
+        },
+        "8h": {
+          "count": 38,
+          "hit_rate": 0.6842,
+          "avg_edge": 0.001434,
+          "median_edge": 0.001,
+          "avg_roi": 0.023879,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 4
+        },
+        "12h": {
+          "count": 38,
+          "hit_rate": 0.6579,
+          "avg_edge": 0.002026,
+          "median_edge": 0.001,
+          "avg_roi": 0.031747,
+          "median_roi": 0.034783,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 38,
+          "hit_rate": 0.6579,
+          "avg_edge": 0.002908,
+          "median_edge": 0.002,
+          "avg_roi": 0.058642,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 8,
+          "hit_rate": 0.5,
+          "avg_edge": 0.00075,
+          "median_edge": 0.00025,
+          "avg_roi": 0.013378,
+          "median_roi": 0.004311,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 8,
+          "hit_rate": 0.75,
+          "avg_edge": 0.002063,
+          "median_edge": 0.0005,
+          "avg_roi": 0.022955,
+          "median_roi": 0.013083,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 8,
+          "hit_rate": 0.625,
+          "avg_edge": 0.003312,
+          "median_edge": 0.001,
+          "avg_roi": 0.037027,
+          "median_roi": 0.019142,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 8,
+          "hit_rate": 0.625,
+          "avg_edge": 0.003812,
+          "median_edge": 0.00125,
+          "avg_roi": 0.053942,
+          "median_roi": 0.016733,
+          "max_consecutive_losses": 2
+        }
+      },
+      "score": 0.086442
+    },
+    {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 30,
+        "chg24h_min": 0.03,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 70
+      },
+      "raw_signals": 39,
+      "dedup_signals": 8,
+      "raw_performance": {
+        "4h": {
+          "count": 39,
+          "hit_rate": 0.3846,
+          "avg_edge": 0.000269,
+          "median_edge": 0.0,
+          "avg_roi": 0.006379,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 5
+        },
+        "8h": {
+          "count": 39,
+          "hit_rate": 0.6923,
+          "avg_edge": 0.001423,
+          "median_edge": 0.001,
+          "avg_roi": 0.024547,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 4
+        },
+        "12h": {
+          "count": 39,
+          "hit_rate": 0.6154,
+          "avg_edge": 0.001859,
+          "median_edge": 0.001,
+          "avg_roi": 0.02917,
+          "median_roi": 0.013333,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 39,
+          "hit_rate": 0.5641,
+          "avg_edge": 0.002526,
+          "median_edge": 0.002,
+          "avg_roi": 0.049529,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 8,
+          "hit_rate": 0.5,
+          "avg_edge": 0.000813,
+          "median_edge": 0.0005,
+          "avg_roi": 0.015634,
+          "median_roi": 0.006211,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 8,
+          "hit_rate": 0.75,
+          "avg_edge": 0.002125,
+          "median_edge": 0.00075,
+          "avg_roi": 0.025211,
+          "median_roi": 0.021194,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 8,
+          "hit_rate": 0.5,
+          "avg_edge": 0.003125,
+          "median_edge": 0.0005,
+          "avg_roi": 0.033795,
+          "median_roi": 0.006211,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 8,
+          "hit_rate": 0.5,
+          "avg_edge": 0.003437,
+          "median_edge": 0.001,
+          "avg_roi": 0.044531,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        }
+      },
+      "score": 0.074632
+    },
+    {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 38,
+        "chg24h_min": 0.05,
+        "noise_max": 2.2,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 62
+      },
+      "raw_signals": 43,
+      "dedup_signals": 9,
+      "raw_performance": {
+        "4h": {
+          "count": 43,
+          "hit_rate": 0.3256,
+          "avg_edge": 0.00014,
+          "median_edge": 0.0,
+          "avg_roi": 0.003332,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 7
+        },
+        "8h": {
+          "count": 43,
+          "hit_rate": 0.6047,
+          "avg_edge": 0.001128,
+          "median_edge": 0.001,
+          "avg_roi": 0.019137,
+          "median_roi": 0.017391,
+          "max_consecutive_losses": 5
+        },
+        "12h": {
+          "count": 43,
+          "hit_rate": 0.5814,
+          "avg_edge": 0.001581,
+          "median_edge": 0.001,
+          "avg_roi": 0.025108,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 3
+        },
+        "24h": {
+          "count": 43,
+          "hit_rate": 0.5814,
+          "avg_edge": 0.002523,
+          "median_edge": 0.002,
+          "avg_roi": 0.051168,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 3
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 9,
+          "hit_rate": 0.4444,
+          "avg_edge": 0.000611,
+          "median_edge": 0.0,
+          "avg_roi": 0.011109,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 4
+        },
+        "8h": {
+          "count": 9,
+          "hit_rate": 0.6667,
+          "avg_edge": 0.001722,
+          "median_edge": 0.0005,
+          "avg_roi": 0.018839,
+          "median_roi": 0.008621,
+          "max_consecutive_losses": 3
+        },
+        "12h": {
+          "count": 9,
+          "hit_rate": 0.5556,
+          "avg_edge": 0.002722,
+          "median_edge": 0.001,
+          "avg_roi": 0.029783,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 3
+        },
+        "24h": {
+          "count": 9,
+          "hit_rate": 0.5556,
+          "avg_edge": 0.003278,
+          "median_edge": 0.0005,
+          "avg_roi": 0.046383,
+          "median_roi": 0.008621,
+          "max_consecutive_losses": 3
+        }
+      },
+      "score": 0.074402
+    },
+    {
+      "params": {
+        "pct_low": 0.1,
+        "rsi_low": 30,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.9,
+        "rsi_high": 70
+      },
+      "raw_signals": 28,
+      "dedup_signals": 5,
+      "raw_performance": {
+        "4h": {
+          "count": 28,
+          "hit_rate": 0.2857,
+          "avg_edge": -1.8e-05,
+          "median_edge": 0.0,
+          "avg_roi": -0.000781,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 5
+        },
+        "8h": {
+          "count": 28,
+          "hit_rate": 0.7143,
+          "avg_edge": 0.001411,
+          "median_edge": 0.001,
+          "avg_roi": 0.028644,
+          "median_roi": 0.03914,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 28,
+          "hit_rate": 0.75,
+          "avg_edge": 0.001982,
+          "median_edge": 0.001,
+          "avg_roi": 0.037938,
+          "median_roi": 0.068702,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 28,
+          "hit_rate": 0.75,
+          "avg_edge": 0.003375,
+          "median_edge": 0.003,
+          "avg_roi": 0.08073,
+          "median_roi": 0.10687,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 5,
+          "hit_rate": 0.2,
+          "avg_edge": 0.0001,
+          "median_edge": 0.0,
+          "avg_roi": 0.000922,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0005,
+          "median_edge": 0.0005,
+          "avg_roi": 0.011022,
+          "median_roi": 0.007813,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0014,
+          "median_edge": 0.001,
+          "avg_roi": 0.025725,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0024,
+          "median_edge": 0.002,
+          "avg_roi": 0.058957,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "score": 0.07425
+    },
+    {
+      "params": {
+        "pct_low": 0.1,
+        "rsi_low": 30,
+        "chg24h_min": 0.05,
+        "noise_max": 2.2,
+        "min_strength": 3,
+        "pct_high": 0.9,
+        "rsi_high": 70
+      },
+      "raw_signals": 28,
+      "dedup_signals": 5,
+      "raw_performance": {
+        "4h": {
+          "count": 28,
+          "hit_rate": 0.2857,
+          "avg_edge": -1.8e-05,
+          "median_edge": 0.0,
+          "avg_roi": -0.000781,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 5
+        },
+        "8h": {
+          "count": 28,
+          "hit_rate": 0.7143,
+          "avg_edge": 0.001411,
+          "median_edge": 0.001,
+          "avg_roi": 0.028644,
+          "median_roi": 0.03914,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 28,
+          "hit_rate": 0.75,
+          "avg_edge": 0.001982,
+          "median_edge": 0.001,
+          "avg_roi": 0.037938,
+          "median_roi": 0.068702,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 28,
+          "hit_rate": 0.75,
+          "avg_edge": 0.003375,
+          "median_edge": 0.003,
+          "avg_roi": 0.08073,
+          "median_roi": 0.10687,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 5,
+          "hit_rate": 0.2,
+          "avg_edge": 0.0001,
+          "median_edge": 0.0,
+          "avg_roi": 0.000922,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0005,
+          "median_edge": 0.0005,
+          "avg_roi": 0.011022,
+          "median_roi": 0.007813,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0014,
+          "median_edge": 0.001,
+          "avg_roi": 0.025725,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0024,
+          "median_edge": 0.002,
+          "avg_roi": 0.058957,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "score": 0.07425
+    },
+    {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 30,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 70
+      },
+      "raw_signals": 32,
+      "dedup_signals": 5,
+      "raw_performance": {
+        "4h": {
+          "count": 32,
+          "hit_rate": 0.25,
+          "avg_edge": -1.6e-05,
+          "median_edge": 0.0,
+          "avg_roi": -0.000683,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 7
+        },
+        "8h": {
+          "count": 32,
+          "hit_rate": 0.625,
+          "avg_edge": 0.001172,
+          "median_edge": 0.001,
+          "avg_roi": 0.022156,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 4
+        },
+        "12h": {
+          "count": 32,
+          "hit_rate": 0.6562,
+          "avg_edge": 0.001672,
+          "median_edge": 0.001,
+          "avg_roi": 0.030289,
+          "median_roi": 0.064885,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 32,
+          "hit_rate": 0.6562,
+          "avg_edge": 0.002828,
+          "median_edge": 0.003,
+          "avg_roi": 0.064825,
+          "median_roi": 0.10687,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 5,
+          "hit_rate": 0.2,
+          "avg_edge": 0.0001,
+          "median_edge": 0.0,
+          "avg_roi": 0.000922,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0005,
+          "median_edge": 0.0005,
+          "avg_roi": 0.011022,
+          "median_roi": 0.007813,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0014,
+          "median_edge": 0.001,
+          "avg_roi": 0.025725,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0024,
+          "median_edge": 0.002,
+          "avg_roi": 0.058957,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "score": 0.07425
+    },
+    {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 30,
+        "chg24h_min": 0.05,
+        "noise_max": 2.2,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 70
+      },
+      "raw_signals": 32,
+      "dedup_signals": 5,
+      "raw_performance": {
+        "4h": {
+          "count": 32,
+          "hit_rate": 0.25,
+          "avg_edge": -1.6e-05,
+          "median_edge": 0.0,
+          "avg_roi": -0.000683,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 7
+        },
+        "8h": {
+          "count": 32,
+          "hit_rate": 0.625,
+          "avg_edge": 0.001172,
+          "median_edge": 0.001,
+          "avg_roi": 0.022156,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 4
+        },
+        "12h": {
+          "count": 32,
+          "hit_rate": 0.6562,
+          "avg_edge": 0.001672,
+          "median_edge": 0.001,
+          "avg_roi": 0.030289,
+          "median_roi": 0.064885,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 32,
+          "hit_rate": 0.6562,
+          "avg_edge": 0.002828,
+          "median_edge": 0.003,
+          "avg_roi": 0.064825,
+          "median_roi": 0.10687,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 5,
+          "hit_rate": 0.2,
+          "avg_edge": 0.0001,
+          "median_edge": 0.0,
+          "avg_roi": 0.000922,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0005,
+          "median_edge": 0.0005,
+          "avg_roi": 0.011022,
+          "median_roi": 0.007813,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0014,
+          "median_edge": 0.001,
+          "avg_roi": 0.025725,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 5,
+          "hit_rate": 0.6,
+          "avg_edge": 0.0024,
+          "median_edge": 0.002,
+          "avg_roi": 0.058957,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "score": 0.07425
+    },
+    {
+      "params": {
+        "pct_low": 0.12,
+        "rsi_low": 33,
+        "chg24h_min": 0.03,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.88,
+        "rsi_high": 67
+      },
+      "raw_signals": 41,
+      "dedup_signals": 9,
+      "raw_performance": {
+        "4h": {
+          "count": 41,
+          "hit_rate": 0.4146,
+          "avg_edge": 0.000305,
+          "median_edge": 0.0,
+          "avg_roi": 0.006916,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 5
+        },
+        "8h": {
+          "count": 41,
+          "hit_rate": 0.7073,
+          "avg_edge": 0.001402,
+          "median_edge": 0.001,
+          "avg_roi": 0.024198,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 4
+        },
+        "12h": {
+          "count": 41,
+          "hit_rate": 0.6341,
+          "avg_edge": 0.001866,
+          "median_edge": 0.001,
+          "avg_roi": 0.029444,
+          "median_roi": 0.013333,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 41,
+          "hit_rate": 0.5854,
+          "avg_edge": 0.002451,
+          "median_edge": 0.002,
+          "avg_roi": 0.047962,
+          "median_roi": 0.024845,
+          "max_consecutive_losses": 2
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 9,
+          "hit_rate": 0.5556,
+          "avg_edge": 0.000833,
+          "median_edge": 0.001,
+          "avg_roi": 0.015829,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 9,
+          "hit_rate": 0.7778,
+          "avg_edge": 0.002,
+          "median_edge": 0.001,
+          "avg_roi": 0.024342,
+          "median_roi": 0.017544,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 9,
+          "hit_rate": 0.5556,
+          "avg_edge": 0.003,
+          "median_edge": 0.001,
+          "avg_roi": 0.033905,
+          "median_roi": 0.012422,
+          "max_consecutive_losses": 2
+        },
+        "24h": {
+          "count": 9,
+          "hit_rate": 0.5556,
+          "avg_edge": 0.003167,
+          "median_edge": 0.001,
+          "avg_roi": 0.041515,
+          "median_roi": 0.017391,
+          "max_consecutive_losses": 2
+        }
+      },
+      "score": 0.073934
+    },
+    {
+      "params": {
+        "pct_low": 0.08,
+        "rsi_low": 33,
+        "chg24h_min": 0.05,
+        "noise_max": 1.8,
+        "min_strength": 3,
+        "pct_high": 0.92,
+        "rsi_high": 67
+      },
+      "raw_signals": 26,
+      "dedup_signals": 6,
+      "raw_performance": {
+        "4h": {
+          "count": 26,
+          "hit_rate": 0.3846,
+          "avg_edge": 0.000115,
+          "median_edge": 0.0,
+          "avg_roi": 0.004646,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 26,
+          "hit_rate": 0.8462,
+          "avg_edge": 0.0015,
+          "median_edge": 0.001,
+          "avg_roi": 0.034483,
+          "median_roi": 0.044262,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 26,
+          "hit_rate": 0.8077,
+          "avg_edge": 0.002154,
+          "median_edge": 0.001,
+          "avg_roi": 0.043989,
+          "median_roi": 0.068834,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 26,
+          "hit_rate": 0.8077,
+          "avg_edge": 0.003481,
+          "median_edge": 0.003,
+          "avg_roi": 0.089018,
+          "median_roi": 0.111128,
+          "max_consecutive_losses": 1
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 6,
+          "hit_rate": 0.5,
+          "avg_edge": 0.000583,
+          "median_edge": 0.0005,
+          "avg_roi": 0.015363,
+          "median_roi": 0.006211,
+          "max_consecutive_losses": 2
+        },
+        "8h": {
+          "count": 6,
+          "hit_rate": 0.8333,
+          "avg_edge": 0.000667,
+          "median_edge": 0.00075,
+          "avg_roi": 0.015008,
+          "median_roi": 0.017468,
+          "max_consecutive_losses": 1
+        },
+        "12h": {
+          "count": 6,
+          "hit_rate": 0.6667,
+          "avg_edge": 0.0015,
+          "median_edge": 0.001,
+          "avg_roi": 0.027235,
+          "median_roi": 0.023603,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 6,
+          "hit_rate": 0.6667,
+          "avg_edge": 0.002083,
+          "median_edge": 0.0015,
+          "avg_roi": 0.049106,
+          "median_roi": 0.021118,
+          "max_consecutive_losses": 1
+        }
+      },
+      "score": 0.069367
+    },
+    {
+      "params": {
+        "pct_low": 0.08,
+        "rsi_low": 33,
+        "chg24h_min": 0.05,
+        "noise_max": 2.2,
+        "min_strength": 3,
+        "pct_high": 0.92,
+        "rsi_high": 67
+      },
+      "raw_signals": 26,
+      "dedup_signals": 6,
+      "raw_performance": {
+        "4h": {
+          "count": 26,
+          "hit_rate": 0.3846,
+          "avg_edge": 0.000115,
+          "median_edge": 0.0,
+          "avg_roi": 0.004646,
+          "median_roi": 0.0,
+          "max_consecutive_losses": 3
+        },
+        "8h": {
+          "count": 26,
+          "hit_rate": 0.8462,
+          "avg_edge": 0.0015,
+          "median_edge": 0.001,
+          "avg_roi": 0.034483,
+          "median_roi": 0.044262,
+          "max_consecutive_losses": 2
+        },
+        "12h": {
+          "count": 26,
+          "hit_rate": 0.8077,
+          "avg_edge": 0.002154,
+          "median_edge": 0.001,
+          "avg_roi": 0.043989,
+          "median_roi": 0.068834,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 26,
+          "hit_rate": 0.8077,
+          "avg_edge": 0.003481,
+          "median_edge": 0.003,
+          "avg_roi": 0.089018,
+          "median_roi": 0.111128,
+          "max_consecutive_losses": 1
+        }
+      },
+      "dedup_performance": {
+        "4h": {
+          "count": 6,
+          "hit_rate": 0.5,
+          "avg_edge": 0.000583,
+          "median_edge": 0.0005,
+          "avg_roi": 0.015363,
+          "median_roi": 0.006211,
+          "max_consecutive_losses": 2
+        },
+        "8h": {
+          "count": 6,
+          "hit_rate": 0.8333,
+          "avg_edge": 0.000667,
+          "median_edge": 0.00075,
+          "avg_roi": 0.015008,
+          "median_roi": 0.017468,
+          "max_consecutive_losses": 1
+        },
+        "12h": {
+          "count": 6,
+          "hit_rate": 0.6667,
+          "avg_edge": 0.0015,
+          "median_edge": 0.001,
+          "avg_roi": 0.027235,
+          "median_roi": 0.023603,
+          "max_consecutive_losses": 1
+        },
+        "24h": {
+          "count": 6,
+          "hit_rate": 0.6667,
+          "avg_edge": 0.002083,
+          "median_edge": 0.0015,
+          "avg_roi": 0.049106,
+          "median_roi": 0.021118,
+          "max_consecutive_losses": 1
+        }
+      },
+      "score": 0.069367
+    }
+  ]
+}

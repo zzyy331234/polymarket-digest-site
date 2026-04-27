@@ -1,0 +1,162 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T23:48:45",
+  "status": {
+    "mode": "paper_trade",
+    "discipline_version": "v2",
+    "bucket_thresholds": {
+      "high_confidence_min": 0.7,
+      "main_pool_min": 0.58,
+      "research_min": 0.5
+    },
+    "execution": {
+      "trade_buckets": [
+        "high_confidence",
+        "main_pool"
+      ],
+      "observe_only_buckets": [
+        "research"
+      ],
+      "blocked_buckets": [
+        "below_floor"
+      ],
+      "overrides": {
+        "blocked_clusters": [
+          "world_cup"
+        ],
+        "observe_only_clusters": [
+          "us_election"
+        ],
+        "blocked_regimes": [
+          "carry_no"
+        ],
+        "observe_only_regimes": []
+      }
+    },
+    "latest_cycle": {
+      "ran_at": "2026-04-23T23:48:45",
+      "ready_count": 4,
+      "ready_buckets": {
+        "main_pool": 4
+      },
+      "opened": 0,
+      "opened_buckets": {},
+      "closed": 0,
+      "skipped": 0,
+      "skipped_buckets": {},
+      "skip_reasons": {}
+    },
+    "paper_status": {
+      "open_positions": 0,
+      "closed_positions": 15,
+      "realized_trade_count": 15,
+      "win_rate": 0.0667,
+      "flat_rate": 0.6,
+      "total_realized_pnl_like": -0.14775,
+      "open_policy_counts": {},
+      "closed_policy_counts": {
+        "observe_only": 2,
+        "trade": 6,
+        "blocked": 7
+      }
+    },
+    "gate": {
+      "eligible": false,
+      "actuals": {
+        "closed_trades": 15,
+        "win_rate": 0.0667,
+        "avg_win_loss_ratio_like": 0.0503,
+        "recent_consecutive_losses": 0,
+        "flat_rate": 0.6
+      },
+      "thresholds": {
+        "min_closed_trades": 30,
+        "min_win_rate": 0.55,
+        "min_avg_win_loss_ratio_like": 1.3,
+        "max_consecutive_losses": 3,
+        "max_flat_rate": 0.5
+      }
+    },
+    "proposal": {
+      "generated_at": "2026-04-23T23:48:45",
+      "change_count": 2,
+      "requires_manual_review": true,
+      "changes": [
+        {
+          "path": "discipline_v2.buckets.high_confidence_min",
+          "action": "replace",
+          "from": 0.7,
+          "to": 0.72,
+          "reason": "win_rate=0.00%, flat_rate=100.00%, pnl=0.0000"
+        },
+        {
+          "path": "discipline_v2.execution.overrides.observe_only_regimes",
+          "action": "add",
+          "value": "carry_no",
+          "reason": "flat_rate=100.00%, pnl=0.0000, closed=7"
+        }
+      ]
+    },
+    "last_apply": {
+      "applied_at": "2026-04-19T12:03:35",
+      "patch_file": "/Users/mac/.openclaw/workspace/polymarket/outputs/proposed_config_patch.json",
+      "config_file": "/Users/mac/.openclaw/workspace/polymarket/trading_config.json",
+      "backup_file": "/Users/mac/.openclaw/workspace/polymarket/backups/trading_config.20260419-120335.json",
+      "results": [
+        {
+          "path": "discipline_v2.buckets.high_confidence_min",
+          "action": "replace",
+          "status": "applied",
+          "from": 0.68,
+          "to": 0.7,
+          "reason": "win_rate=0.00%, flat_rate=100.00%, pnl=0.0000"
+        },
+        {
+          "path": "discipline_v2.execution.overrides.observe_only_clusters",
+          "action": "add",
+          "status": "applied",
+          "value": "us_election",
+          "reason": "win_rate=0.00%, flat_rate=75.00%, pnl=-0.0045"
+        }
+      ]
+    },
+    "top_recommendations": [
+      {
+        "scope": "bucket",
+        "target": "high_confidence",
+        "action": "tighten_gate",
+        "priority": "high",
+        "reason": "win_rate=0.00%, flat_rate=100.00%, pnl=0.0000"
+      },
+      {
+        "scope": "cluster",
+        "target": "world_cup",
+        "action": "block",
+        "priority": "high",
+        "reason": "flat_rate=100.00%, pnl=0.0000, closed=4"
+      },
+      {
+        "scope": "overall",
+        "target": "paper_to_micro_live",
+        "action": "stay_paper",
+        "priority": "high",
+        "reason": "eligible=False, closed=15, win_rate=6.67%, flat_rate=60.00%"
+      },
+      {
+        "scope": "regime",
+        "target": "carry_no",
+        "action": "observe_only",
+        "priority": "high",
+        "reason": "flat_rate=100.00%, pnl=0.0000, closed=7"
+      },
+      {
+        "scope": "bucket",
+        "target": "main_pool",
+        "action": "keep",
+        "priority": "low",
+        "reason": "closed=8, win_rate=12.50%, flat_rate=25.00%, pnl=-0.1477"
+      }
+    ]
+  },
+  "markdown": "# Polymarket 日报 - 2026-04-23\n\n## 今日结论\n- 当前阶段：paper_trade / discipline v2\n- Paper → Micro Live 放行：未达标，继续 paper\n- 最新 paper：realized_trade_count=15 / win_rate=6.67% / flat_rate=60.00% / total_realized_pnl_like=-0.1477\n- 最新 proposal：change_count=2 / requires_manual_review=True\n\n## 当前配置与执行口径\n- bucket_thresholds: {'high_confidence_min': 0.7, 'main_pool_min': 0.58, 'research_min': 0.5}\n- trade_buckets: ['high_confidence', 'main_pool']\n- observe_only_buckets: ['research']\n- blocked_buckets: ['below_floor']\n- overrides: {'blocked_clusters': ['world_cup'], 'observe_only_clusters': ['us_election'], 'blocked_regimes': ['carry_no'], 'observe_only_regimes': []}\n\n## 最新周期\n- ran_at: 2026-04-23T23:48:45\n- ready_count: 4 / ready_buckets: {'main_pool': 4}\n- opened: 0 / opened_buckets: {}\n- closed: 0 / skipped: 0 / skipped_buckets: {}\n- skip_reasons: {}\n\n## Paper 表现\n- open_positions: 0 / closed_positions: 15\n- open_policy_counts: {}\n- closed_policy_counts: {'observe_only': 2, 'trade': 6, 'blocked': 7}\n\n## Gate 检查（Paper → Micro Live）\n- eligible: False\n- actuals: {'closed_trades': 15, 'win_rate': 0.0667, 'avg_win_loss_ratio_like': 0.0503, 'recent_consecutive_losses': 0, 'flat_rate': 0.6}\n- thresholds: {'min_closed_trades': 30, 'min_win_rate': 0.55, 'min_avg_win_loss_ratio_like': 1.3, 'max_consecutive_losses': 3, 'max_flat_rate': 0.5}\n\n## Proposal\n- generated_at: 2026-04-23T23:48:45\n- change_count: 2\n- requires_manual_review: True\n- discipline_v2.buckets.high_confidence_min: 0.7 -> 0.72 | win_rate=0.00%, flat_rate=100.00%, pnl=0.0000\n- discipline_v2.execution.overrides.observe_only_regimes: add carry_no | flat_rate=100.00%, pnl=0.0000, closed=7\n\n## Top Recommendations\n- [high] bucket/high_confidence -> tighten_gate | win_rate=0.00%, flat_rate=100.00%, pnl=0.0000\n- [high] cluster/world_cup -> block | flat_rate=100.00%, pnl=0.0000, closed=4\n- [high] overall/paper_to_micro_live -> stay_paper | eligible=False, closed=15, win_rate=6.67%, flat_rate=60.00%\n- [high] regime/carry_no -> observe_only | flat_rate=100.00%, pnl=0.0000, closed=7\n- [low] bucket/main_pool -> keep | closed=8, win_rate=12.50%, flat_rate=25.00%, pnl=-0.1477\n\n## 建议动作\n- 继续保持 paper，不进入 micro live。\n- 审核 proposed_config_patch，确认是否应用。\n- 继续关注 high_confidence 桶是否还需要进一步收紧。\n- 持续观察被 block / observe_only 的 cluster 与 regime 是否仍然合理。\n"
+}

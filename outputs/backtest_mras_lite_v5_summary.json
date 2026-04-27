@@ -1,0 +1,1661 @@
+{
+  "generated_at": "2026-04-17T20:18:31",
+  "config": {
+    "min_liquidity": 20000,
+    "min_samples_per_bar": 10,
+    "recent_pct_bars": 96,
+    "min_quality_ratio": 0.7,
+    "cooldown_hours": 12.0,
+    "max_markets": 0,
+    "strategy_focus": "mean_revert_best_combo_validation",
+    "best_params": {
+      "pct_low": 0.12,
+      "rsi_low": 38,
+      "chg24h_min": 0.05,
+      "noise_max": 1.8,
+      "min_strength": 3,
+      "pct_high": 0.88,
+      "rsi_high": 62
+    }
+  },
+  "quality": {
+    "markets_scanned": 196,
+    "markets_with_bars": 196,
+    "candidate_markets": 186,
+    "segments_total": 2622,
+    "segments_ge_24h": 186,
+    "bars_total": 54421,
+    "candidates_total": 1860
+  },
+  "fixed_summary": {
+    "params": {
+      "pct_low": 0.12,
+      "rsi_low": 38,
+      "chg24h_min": 0.05,
+      "noise_max": 1.8,
+      "min_strength": 3,
+      "pct_high": 0.88,
+      "rsi_high": 62
+    },
+    "raw_signals": 38,
+    "dedup_signals": 8,
+    "raw_performance": {
+      "4h": {
+        "count": 38,
+        "hit_rate": 0.3684,
+        "avg_edge": 0.000237,
+        "median_edge": 0.0,
+        "avg_roi": 0.004882,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 5
+      },
+      "8h": {
+        "count": 38,
+        "hit_rate": 0.6842,
+        "avg_edge": 0.001434,
+        "median_edge": 0.001,
+        "avg_roi": 0.023879,
+        "median_roi": 0.024845,
+        "max_consecutive_losses": 4
+      },
+      "12h": {
+        "count": 38,
+        "hit_rate": 0.6579,
+        "avg_edge": 0.002026,
+        "median_edge": 0.001,
+        "avg_roi": 0.031747,
+        "median_roi": 0.034783,
+        "max_consecutive_losses": 2
+      },
+      "24h": {
+        "count": 38,
+        "hit_rate": 0.6579,
+        "avg_edge": 0.002908,
+        "median_edge": 0.002,
+        "avg_roi": 0.058642,
+        "median_roi": 0.024845,
+        "max_consecutive_losses": 2
+      }
+    },
+    "dedup_performance": {
+      "4h": {
+        "count": 8,
+        "hit_rate": 0.5,
+        "avg_edge": 0.00075,
+        "median_edge": 0.00025,
+        "avg_roi": 0.013378,
+        "median_roi": 0.004311,
+        "max_consecutive_losses": 3
+      },
+      "8h": {
+        "count": 8,
+        "hit_rate": 0.75,
+        "avg_edge": 0.002063,
+        "median_edge": 0.0005,
+        "avg_roi": 0.022955,
+        "median_roi": 0.013083,
+        "max_consecutive_losses": 2
+      },
+      "12h": {
+        "count": 8,
+        "hit_rate": 0.625,
+        "avg_edge": 0.003312,
+        "median_edge": 0.001,
+        "avg_roi": 0.037027,
+        "median_roi": 0.019142,
+        "max_consecutive_losses": 2
+      },
+      "24h": {
+        "count": 8,
+        "hit_rate": 0.625,
+        "avg_edge": 0.003812,
+        "median_edge": 0.00125,
+        "avg_roi": 0.053942,
+        "median_roi": 0.016733,
+        "max_consecutive_losses": 2
+      }
+    }
+  },
+  "sample_audit": {
+    "count": 8,
+    "category_summary": {
+      "dem_nomination": {
+        "count": 3,
+        "performance": {
+          "4h": {
+            "count": 3,
+            "hit_rate": 0.6667,
+            "avg_edge": 0.0005,
+            "median_edge": 0.0005,
+            "avg_roi": 0.007014,
+            "median_roi": 0.008621,
+            "max_consecutive_losses": 1
+          },
+          "8h": {
+            "count": 3,
+            "hit_rate": 0.6667,
+            "avg_edge": 0.0005,
+            "median_edge": 0.0005,
+            "avg_roi": -0.004349,
+            "median_roi": 0.008621,
+            "max_consecutive_losses": 1
+          },
+          "12h": {
+            "count": 3,
+            "hit_rate": 0.6667,
+            "avg_edge": 0.0005,
+            "median_edge": 0.001,
+            "avg_roi": -0.002743,
+            "median_roi": 0.012422,
+            "max_consecutive_losses": 1
+          },
+          "24h": {
+            "count": 3,
+            "hit_rate": 0.6667,
+            "avg_edge": 0.000333,
+            "median_edge": 0.0005,
+            "avg_roi": -0.0121,
+            "median_roi": 0.008621,
+            "max_consecutive_losses": 1
+          }
+        },
+        "examples": [
+          {
+            "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+            "entry_ts": "2026-04-15T19:15:00",
+            "entry_yes_price": 0.0805,
+            "roi_24h": 0.024845
+          },
+          {
+            "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+            "entry_ts": "2026-04-15T19:45:00",
+            "entry_yes_price": 0.058,
+            "roi_24h": 0.008621
+          },
+          {
+            "question": "Will Ro Khanna win the 2028 Democratic presidential nomination?",
+            "entry_ts": "2026-04-15T18:30:00",
+            "entry_yes_price": 0.0215,
+            "roi_24h": -0.069767
+          }
+        ]
+      },
+      "nhl": {
+        "count": 3,
+        "performance": {
+          "4h": {
+            "count": 3,
+            "hit_rate": 0.6667,
+            "avg_edge": 0.0015,
+            "median_edge": 0.002,
+            "avg_roi": 0.028661,
+            "median_roi": 0.023622,
+            "max_consecutive_losses": 1
+          },
+          "8h": {
+            "count": 3,
+            "hit_rate": 1.0,
+            "avg_edge": 0.004667,
+            "median_edge": 0.0005,
+            "avg_roi": 0.042573,
+            "median_roi": 0.017544,
+            "max_consecutive_losses": 0
+          },
+          "12h": {
+            "count": 3,
+            "hit_rate": 0.6667,
+            "avg_edge": 0.008,
+            "median_edge": 0.006,
+            "avg_roi": 0.078494,
+            "median_roi": 0.09375,
+            "max_consecutive_losses": 1
+          },
+          "24h": {
+            "count": 3,
+            "hit_rate": 0.6667,
+            "avg_edge": 0.008833,
+            "median_edge": 0.0085,
+            "avg_roi": 0.086979,
+            "median_roi": 0.132812,
+            "max_consecutive_losses": 1
+          }
+        },
+        "examples": [
+          {
+            "question": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+            "entry_ts": "2026-04-15T19:45:00",
+            "entry_yes_price": 0.127,
+            "roi_24h": 0.145669
+          },
+          {
+            "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+            "entry_ts": "2026-04-15T18:30:00",
+            "entry_yes_price": 0.064,
+            "roi_24h": 0.132812
+          },
+          {
+            "question": "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?",
+            "entry_ts": "2026-04-15T20:30:00",
+            "entry_yes_price": 0.0285,
+            "roi_24h": -0.017544
+          }
+        ]
+      },
+      "us_election": {
+        "count": 1,
+        "performance": {
+          "4h": {
+            "count": 1,
+            "hit_rate": 0.0,
+            "avg_edge": 0.0,
+            "median_edge": 0.0,
+            "avg_roi": 0.0,
+            "median_roi": 0.0,
+            "max_consecutive_losses": 1
+          },
+          "8h": {
+            "count": 1,
+            "hit_rate": 1.0,
+            "avg_edge": 0.001,
+            "median_edge": 0.001,
+            "avg_roi": 0.068966,
+            "median_roi": 0.068966,
+            "max_consecutive_losses": 0
+          },
+          "12h": {
+            "count": 1,
+            "hit_rate": 1.0,
+            "avg_edge": 0.001,
+            "median_edge": 0.001,
+            "avg_roi": 0.068966,
+            "median_roi": 0.068966,
+            "max_consecutive_losses": 0
+          },
+          "24h": {
+            "count": 1,
+            "hit_rate": 1.0,
+            "avg_edge": 0.003,
+            "median_edge": 0.003,
+            "avg_roi": 0.206897,
+            "median_roi": 0.206897,
+            "max_consecutive_losses": 0
+          }
+        },
+        "examples": [
+          {
+            "question": "Will Tucker Carlson win the 2028 US Presidential Election?",
+            "entry_ts": "2026-04-15T19:15:00",
+            "entry_yes_price": 0.0145,
+            "roi_24h": 0.206897
+          }
+        ]
+      },
+      "world_cup": {
+        "count": 1,
+        "performance": {
+          "4h": {
+            "count": 1,
+            "hit_rate": 0.0,
+            "avg_edge": 0.0,
+            "median_edge": 0.0,
+            "avg_roi": 0.0,
+            "median_roi": 0.0,
+            "max_consecutive_losses": 1
+          },
+          "8h": {
+            "count": 1,
+            "hit_rate": 0.0,
+            "avg_edge": 0.0,
+            "median_edge": 0.0,
+            "avg_roi": 0.0,
+            "median_roi": 0.0,
+            "max_consecutive_losses": 1
+          },
+          "12h": {
+            "count": 1,
+            "hit_rate": 0.0,
+            "avg_edge": 0.0,
+            "median_edge": 0.0,
+            "avg_roi": 0.0,
+            "median_roi": 0.0,
+            "max_consecutive_losses": 1
+          },
+          "24h": {
+            "count": 1,
+            "hit_rate": 0.0,
+            "avg_edge": 0.0,
+            "median_edge": 0.0,
+            "avg_roi": 0.0,
+            "median_roi": 0.0,
+            "max_consecutive_losses": 1
+          }
+        },
+        "examples": [
+          {
+            "question": "Will USA win the 2026 FIFA World Cup?",
+            "entry_ts": "2026-04-15T18:30:00",
+            "entry_yes_price": 0.0125,
+            "roi_24h": 0.0
+          }
+        ]
+      }
+    },
+    "top_24h": [
+      {
+        "token_id": "45015916581148592087728250896178171120552786117190685135618507471166113474733",
+        "question": "Will Tucker Carlson win the 2028 US Presidential Election?",
+        "slug": "will-tucker-carlson-win-the-2028-us-presidential-election",
+        "entry_ts": "2026-04-15T19:15:00",
+        "entry_yes_price": 0.0145,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9896,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.652,
+        "position": "medium",
+        "liquidity": 315547.5,
+        "volume": 10120036.6,
+        "hours_to_event": 22468.75,
+        "features": {
+          "chg_1h": -0.12121212121212122,
+          "chg_4h": -0.12121212121212122,
+          "chg_24h": -0.3829787234042553,
+          "pct_rank_recent": 0.010416666666666666,
+          "rsi_14": 1.7740397999663173,
+          "trend_slope_4h": -4.4117647058823526e-05,
+          "trend_slope_24h": -9.417051003798156e-05,
+          "noise_score": 3.179694583280919
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "24h move extended"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.0,
+            "roi": 0.0,
+            "hit": false,
+            "future_yes_price": 0.0145,
+            "future_ts": "2026-04-15T23:15:00"
+          },
+          "8h": {
+            "edge": 0.001,
+            "roi": 0.068966,
+            "hit": true,
+            "future_yes_price": 0.0155,
+            "future_ts": "2026-04-16T03:45:00"
+          },
+          "12h": {
+            "edge": 0.001,
+            "roi": 0.068966,
+            "hit": true,
+            "future_yes_price": 0.0155,
+            "future_ts": "2026-04-16T07:15:00"
+          },
+          "24h": {
+            "edge": 0.003,
+            "roi": 0.206897,
+            "hit": true,
+            "future_yes_price": 0.0175,
+            "future_ts": "2026-04-16T19:15:00"
+          }
+        }
+      },
+      {
+        "token_id": "35573117698117780238142713946749692621043319879346349609080985768472429209643",
+        "question": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+        "slug": "will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup",
+        "entry_ts": "2026-04-15T19:45:00",
+        "entry_yes_price": 0.127,
+        "entry_samples": 10,
+        "quality_ratio_24h": 0.9896,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.66,
+        "position": "medium",
+        "liquidity": 165698.04,
+        "volume": 1635374.25,
+        "hours_to_event": 1804.25,
+        "features": {
+          "chg_1h": -0.019305019305019322,
+          "chg_4h": -0.023076923076923096,
+          "chg_24h": -0.034220532319391664,
+          "pct_rank_recent": 0.10416666666666667,
+          "rsi_14": 37.52840570438386,
+          "trend_slope_4h": 1.4705882352941189e-05,
+          "trend_slope_24h": -8.353906673901256e-05,
+          "noise_score": 1.4398841776267068
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "noise acceptable"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.003,
+            "roi": 0.023622,
+            "hit": true,
+            "future_yes_price": 0.13,
+            "future_ts": "2026-04-16T00:00:00"
+          },
+          "8h": {
+            "edge": 0.013,
+            "roi": 0.102362,
+            "hit": true,
+            "future_yes_price": 0.14,
+            "future_ts": "2026-04-16T03:45:00"
+          },
+          "12h": {
+            "edge": 0.018,
+            "roi": 0.141732,
+            "hit": true,
+            "future_yes_price": 0.145,
+            "future_ts": "2026-04-16T07:45:00"
+          },
+          "24h": {
+            "edge": 0.0185,
+            "roi": 0.145669,
+            "hit": true,
+            "future_yes_price": 0.1455,
+            "future_ts": "2026-04-16T19:45:00"
+          }
+        }
+      },
+      {
+        "token_id": "68803485030073596962715540294172682212192134248970512695855620898253368033218",
+        "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+        "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+        "entry_ts": "2026-04-15T18:30:00",
+        "entry_yes_price": 0.064,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9792,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.652,
+        "position": "medium",
+        "liquidity": 122857.92,
+        "volume": 1484666.52,
+        "hours_to_event": 1805.5,
+        "features": {
+          "chg_1h": -0.11111111111111102,
+          "chg_4h": -0.11111111111111102,
+          "chg_24h": -0.07913669064748208,
+          "pct_rank_recent": 0.010416666666666666,
+          "rsi_14": 3.796830133515968,
+          "trend_slope_4h": -0.0004433823529411759,
+          "trend_slope_24h": -1.8889039609332895e-06,
+          "noise_score": 3.202739220050957
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "24h move extended"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": -0.0005,
+            "roi": -0.007813,
+            "hit": false,
+            "future_yes_price": 0.0635,
+            "future_ts": "2026-04-15T22:30:00"
+          },
+          "8h": {
+            "edge": 0.0005,
+            "roi": 0.007813,
+            "hit": true,
+            "future_yes_price": 0.0645,
+            "future_ts": "2026-04-16T02:30:00"
+          },
+          "12h": {
+            "edge": 0.006,
+            "roi": 0.09375,
+            "hit": true,
+            "future_yes_price": 0.07,
+            "future_ts": "2026-04-16T06:30:00"
+          },
+          "24h": {
+            "edge": 0.0085,
+            "roi": 0.132812,
+            "hit": true,
+            "future_yes_price": 0.0725,
+            "future_ts": "2026-04-16T18:30:00"
+          }
+        }
+      },
+      {
+        "token_id": "107064985435494333113391038470401719113272800530429703182710416066774068907304",
+        "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+        "slug": "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653",
+        "entry_ts": "2026-04-15T19:15:00",
+        "entry_yes_price": 0.0805,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9896,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.66,
+        "position": "medium",
+        "liquidity": 490389.42,
+        "volume": 12414195.93,
+        "hours_to_event": 22468.75,
+        "features": {
+          "chg_1h": 0.0,
+          "chg_4h": -0.01226993865030676,
+          "chg_24h": -0.047337278106508916,
+          "pct_rank_recent": 0.052083333333333336,
+          "rsi_14": 28.153805757326367,
+          "trend_slope_4h": -3.382352941176474e-05,
+          "trend_slope_24h": -4.935906131307653e-05,
+          "noise_score": 1.41429381916022
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "noise acceptable"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.001,
+            "roi": 0.012422,
+            "hit": true,
+            "future_yes_price": 0.0815,
+            "future_ts": "2026-04-15T23:15:00"
+          },
+          "8h": {
+            "edge": 0.002,
+            "roi": 0.024845,
+            "hit": true,
+            "future_yes_price": 0.0825,
+            "future_ts": "2026-04-16T03:45:00"
+          },
+          "12h": {
+            "edge": 0.001,
+            "roi": 0.012422,
+            "hit": true,
+            "future_yes_price": 0.0815,
+            "future_ts": "2026-04-16T07:15:00"
+          },
+          "24h": {
+            "edge": 0.002,
+            "roi": 0.024845,
+            "hit": true,
+            "future_yes_price": 0.0825,
+            "future_ts": "2026-04-16T19:15:00"
+          }
+        }
+      },
+      {
+        "token_id": "70071592420137476676935286377781779672157004436137616627487590484756055232944",
+        "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+        "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+        "entry_ts": "2026-04-15T19:45:00",
+        "entry_yes_price": 0.058,
+        "entry_samples": 10,
+        "quality_ratio_24h": 0.9896,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.652,
+        "position": "medium",
+        "liquidity": 290528.57,
+        "volume": 8209452.65,
+        "hours_to_event": 22468.25,
+        "features": {
+          "chg_1h": -0.008547008547008555,
+          "chg_4h": -0.008547008547008555,
+          "chg_24h": -0.07199999999999995,
+          "pct_rank_recent": 0.020833333333333332,
+          "rsi_14": 37.72446149047877,
+          "trend_slope_4h": -1.0294117647058833e-05,
+          "trend_slope_24h": -3.420035268583829e-05,
+          "noise_score": 2.505244476651839
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "24h move extended"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.0005,
+            "roi": 0.008621,
+            "hit": true,
+            "future_yes_price": 0.0585,
+            "future_ts": "2026-04-16T00:00:00"
+          },
+          "8h": {
+            "edge": 0.0005,
+            "roi": 0.008621,
+            "hit": true,
+            "future_yes_price": 0.0585,
+            "future_ts": "2026-04-16T03:45:00"
+          },
+          "12h": {
+            "edge": 0.0015,
+            "roi": 0.025862,
+            "hit": true,
+            "future_yes_price": 0.0595,
+            "future_ts": "2026-04-16T07:45:00"
+          },
+          "24h": {
+            "edge": 0.0005,
+            "roi": 0.008621,
+            "hit": true,
+            "future_yes_price": 0.0585,
+            "future_ts": "2026-04-16T19:45:00"
+          }
+        }
+      }
+    ],
+    "bottom_24h": [
+      {
+        "token_id": "20374050108659687356429749447884880983779889840007423115803042125707701269498",
+        "question": "Will Ro Khanna win the 2028 Democratic presidential nomination?",
+        "slug": "will-ro-khanna-win-the-2028-democratic-presidential-nomination",
+        "entry_ts": "2026-04-15T18:30:00",
+        "entry_yes_price": 0.0215,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9792,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.652,
+        "position": "medium",
+        "liquidity": 399718.68,
+        "volume": 9550373.88,
+        "hours_to_event": 22469.5,
+        "features": {
+          "chg_1h": 0.0,
+          "chg_4h": -0.10416666666666675,
+          "chg_24h": -0.15686274509803924,
+          "pct_rank_recent": 0.052083333333333336,
+          "rsi_14": 21.201143760609682,
+          "trend_slope_4h": -0.0002213235294117649,
+          "trend_slope_24h": -3.04700217037439e-05,
+          "noise_score": 2.0065726828552126
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "24h move extended"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.0,
+            "roi": 0.0,
+            "hit": false,
+            "future_yes_price": 0.0215,
+            "future_ts": "2026-04-15T22:30:00"
+          },
+          "8h": {
+            "edge": -0.001,
+            "roi": -0.046512,
+            "hit": false,
+            "future_yes_price": 0.0205,
+            "future_ts": "2026-04-16T02:30:00"
+          },
+          "12h": {
+            "edge": -0.001,
+            "roi": -0.046512,
+            "hit": false,
+            "future_yes_price": 0.0205,
+            "future_ts": "2026-04-16T06:30:00"
+          },
+          "24h": {
+            "edge": -0.0015,
+            "roi": -0.069767,
+            "hit": false,
+            "future_yes_price": 0.02,
+            "future_ts": "2026-04-16T18:30:00"
+          }
+        }
+      },
+      {
+        "token_id": "8851645587670338204652278122922654341568030658294043049798551516787478126093",
+        "question": "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?",
+        "slug": "will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup",
+        "entry_ts": "2026-04-15T20:30:00",
+        "entry_yes_price": 0.0285,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9896,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.66,
+        "position": "medium",
+        "liquidity": 160652.56,
+        "volume": 1225682.98,
+        "hours_to_event": 1803.5,
+        "features": {
+          "chg_1h": -0.01724137931034484,
+          "chg_4h": -0.03389830508474568,
+          "chg_24h": -0.04999999999999993,
+          "pct_rank_recent": 0.0625,
+          "rsi_14": 31.166356740336482,
+          "trend_slope_4h": -4.4117647058822806e-06,
+          "trend_slope_24h": -1.027197504069451e-05,
+          "noise_score": 1.478024251640404
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "noise acceptable"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.002,
+            "roi": 0.070175,
+            "hit": true,
+            "future_yes_price": 0.0305,
+            "future_ts": "2026-04-16T00:30:00"
+          },
+          "8h": {
+            "edge": 0.0005,
+            "roi": 0.017544,
+            "hit": true,
+            "future_yes_price": 0.029,
+            "future_ts": "2026-04-16T04:30:00"
+          },
+          "12h": {
+            "edge": 0.0,
+            "roi": 0.0,
+            "hit": false,
+            "future_yes_price": 0.0285,
+            "future_ts": "2026-04-16T08:30:00"
+          },
+          "24h": {
+            "edge": -0.0005,
+            "roi": -0.017544,
+            "hit": false,
+            "future_yes_price": 0.028,
+            "future_ts": "2026-04-16T20:30:00"
+          }
+        }
+      },
+      {
+        "token_id": "94603648636330087039501304492699481091005420017442244191603206509188088089447",
+        "question": "Will USA win the 2026 FIFA World Cup?",
+        "slug": "will-usa-win-the-2026-fifa-world-cup-467",
+        "entry_ts": "2026-04-15T18:30:00",
+        "entry_yes_price": 0.0125,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9792,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.652,
+        "position": "medium",
+        "liquidity": 2458246.47,
+        "volume": 12601778.46,
+        "hours_to_event": 2285.5,
+        "features": {
+          "chg_1h": 0.0,
+          "chg_4h": -0.07407407407407401,
+          "chg_24h": -0.07407407407407401,
+          "pct_rank_recent": 0.08333333333333333,
+          "rsi_14": 0.0,
+          "trend_slope_4h": -9.411764705882345e-05,
+          "trend_slope_24h": -4.774823657080843e-06,
+          "noise_score": 6.92820323027551
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "24h move extended"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.0,
+            "roi": 0.0,
+            "hit": false,
+            "future_yes_price": 0.0125,
+            "future_ts": "2026-04-15T22:30:00"
+          },
+          "8h": {
+            "edge": 0.0,
+            "roi": 0.0,
+            "hit": false,
+            "future_yes_price": 0.0125,
+            "future_ts": "2026-04-16T02:30:00"
+          },
+          "12h": {
+            "edge": 0.0,
+            "roi": 0.0,
+            "hit": false,
+            "future_yes_price": 0.0125,
+            "future_ts": "2026-04-16T06:30:00"
+          },
+          "24h": {
+            "edge": 0.0,
+            "roi": 0.0,
+            "hit": false,
+            "future_yes_price": 0.0125,
+            "future_ts": "2026-04-16T18:30:00"
+          }
+        }
+      },
+      {
+        "token_id": "70071592420137476676935286377781779672157004436137616627487590484756055232944",
+        "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+        "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+        "entry_ts": "2026-04-15T19:45:00",
+        "entry_yes_price": 0.058,
+        "entry_samples": 10,
+        "quality_ratio_24h": 0.9896,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.652,
+        "position": "medium",
+        "liquidity": 290528.57,
+        "volume": 8209452.65,
+        "hours_to_event": 22468.25,
+        "features": {
+          "chg_1h": -0.008547008547008555,
+          "chg_4h": -0.008547008547008555,
+          "chg_24h": -0.07199999999999995,
+          "pct_rank_recent": 0.020833333333333332,
+          "rsi_14": 37.72446149047877,
+          "trend_slope_4h": -1.0294117647058833e-05,
+          "trend_slope_24h": -3.420035268583829e-05,
+          "noise_score": 2.505244476651839
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "24h move extended"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.0005,
+            "roi": 0.008621,
+            "hit": true,
+            "future_yes_price": 0.0585,
+            "future_ts": "2026-04-16T00:00:00"
+          },
+          "8h": {
+            "edge": 0.0005,
+            "roi": 0.008621,
+            "hit": true,
+            "future_yes_price": 0.0585,
+            "future_ts": "2026-04-16T03:45:00"
+          },
+          "12h": {
+            "edge": 0.0015,
+            "roi": 0.025862,
+            "hit": true,
+            "future_yes_price": 0.0595,
+            "future_ts": "2026-04-16T07:45:00"
+          },
+          "24h": {
+            "edge": 0.0005,
+            "roi": 0.008621,
+            "hit": true,
+            "future_yes_price": 0.0585,
+            "future_ts": "2026-04-16T19:45:00"
+          }
+        }
+      },
+      {
+        "token_id": "107064985435494333113391038470401719113272800530429703182710416066774068907304",
+        "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+        "slug": "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653",
+        "entry_ts": "2026-04-15T19:15:00",
+        "entry_yes_price": 0.0805,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9896,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.66,
+        "position": "medium",
+        "liquidity": 490389.42,
+        "volume": 12414195.93,
+        "hours_to_event": 22468.75,
+        "features": {
+          "chg_1h": 0.0,
+          "chg_4h": -0.01226993865030676,
+          "chg_24h": -0.047337278106508916,
+          "pct_rank_recent": 0.052083333333333336,
+          "rsi_14": 28.153805757326367,
+          "trend_slope_4h": -3.382352941176474e-05,
+          "trend_slope_24h": -4.935906131307653e-05,
+          "noise_score": 1.41429381916022
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "noise acceptable"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": 0.001,
+            "roi": 0.012422,
+            "hit": true,
+            "future_yes_price": 0.0815,
+            "future_ts": "2026-04-15T23:15:00"
+          },
+          "8h": {
+            "edge": 0.002,
+            "roi": 0.024845,
+            "hit": true,
+            "future_yes_price": 0.0825,
+            "future_ts": "2026-04-16T03:45:00"
+          },
+          "12h": {
+            "edge": 0.001,
+            "roi": 0.012422,
+            "hit": true,
+            "future_yes_price": 0.0815,
+            "future_ts": "2026-04-16T07:15:00"
+          },
+          "24h": {
+            "edge": 0.002,
+            "roi": 0.024845,
+            "hit": true,
+            "future_yes_price": 0.0825,
+            "future_ts": "2026-04-16T19:15:00"
+          }
+        }
+      }
+    ]
+  },
+  "walkforward_summary": {
+    "folds": [
+      {
+        "fold": 1,
+        "train_ts_min": "2026-04-15T18:30:00",
+        "train_ts_max": "2026-04-15T18:45:00",
+        "test_ts_min": "2026-04-15T19:00:00",
+        "test_ts_max": "2026-04-15T19:30:00",
+        "train_candidates": 372,
+        "test_candidates": 558,
+        "train_best": {
+          "params": {
+            "pct_low": 0.08,
+            "rsi_low": 30,
+            "chg24h_min": 0.03,
+            "noise_max": 1.8,
+            "min_strength": 2,
+            "pct_high": 0.92,
+            "rsi_high": 70
+          },
+          "score": -999,
+          "raw_signals": 6,
+          "dedup_signals": 3,
+          "raw_performance": {
+            "4h": {
+              "count": 6,
+              "hit_rate": 0.1667,
+              "avg_edge": -0.000167,
+              "median_edge": -0.00025,
+              "avg_roi": -0.002347,
+              "median_roi": -0.003521,
+              "max_consecutive_losses": 5
+            },
+            "8h": {
+              "count": 6,
+              "hit_rate": 0.3333,
+              "avg_edge": -0.000417,
+              "median_edge": -0.001,
+              "avg_roi": -0.016293,
+              "median_roi": -0.014085,
+              "max_consecutive_losses": 2
+            },
+            "12h": {
+              "count": 6,
+              "hit_rate": 0.3333,
+              "avg_edge": 0.001083,
+              "median_edge": -0.001,
+              "avg_roi": 0.00753,
+              "median_roi": -0.024648,
+              "max_consecutive_losses": 2
+            },
+            "24h": {
+              "count": 6,
+              "hit_rate": 0.3333,
+              "avg_edge": 0.002083,
+              "median_edge": -0.0005,
+              "avg_roi": 0.014792,
+              "median_roi": -0.007043,
+              "max_consecutive_losses": 2
+            }
+          },
+          "dedup_performance": {
+            "4h": {
+              "count": 3,
+              "hit_rate": 0.0,
+              "avg_edge": -0.000333,
+              "median_edge": -0.0005,
+              "avg_roi": -0.004952,
+              "median_roi": -0.007042,
+              "max_consecutive_losses": 3
+            },
+            "8h": {
+              "count": 3,
+              "hit_rate": 0.3333,
+              "avg_edge": -0.0005,
+              "median_edge": -0.001,
+              "avg_roi": -0.017595,
+              "median_roi": -0.014085,
+              "max_consecutive_losses": 1
+            },
+            "12h": {
+              "count": 3,
+              "hit_rate": 0.3333,
+              "avg_edge": 0.001,
+              "median_edge": -0.001,
+              "avg_roi": 0.006356,
+              "median_roi": -0.028169,
+              "max_consecutive_losses": 1
+            },
+            "24h": {
+              "count": 3,
+              "hit_rate": 0.3333,
+              "avg_edge": 0.002,
+              "median_edge": -0.001,
+              "avg_roi": 0.01632,
+              "median_roi": -0.014085,
+              "max_consecutive_losses": 1
+            }
+          }
+        },
+        "test_selected": {
+          "params": {
+            "pct_low": 0.08,
+            "rsi_low": 30,
+            "chg24h_min": 0.03,
+            "noise_max": 1.8,
+            "min_strength": 2,
+            "pct_high": 0.92,
+            "rsi_high": 70
+          },
+          "raw_signals": 13,
+          "dedup_signals": 6,
+          "dedup_performance": {
+            "4h": {
+              "count": 6,
+              "hit_rate": 0.3333,
+              "avg_edge": 8.3e-05,
+              "median_edge": 0.0,
+              "avg_roi": 0.002777,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 3
+            },
+            "8h": {
+              "count": 6,
+              "hit_rate": 0.5,
+              "avg_edge": 0.000333,
+              "median_edge": 0.0005,
+              "avg_roi": 0.00998,
+              "median_roi": 0.012422,
+              "max_consecutive_losses": 3
+            },
+            "12h": {
+              "count": 6,
+              "hit_rate": 0.5,
+              "avg_edge": 0.00075,
+              "median_edge": 0.0005,
+              "avg_roi": 0.015112,
+              "median_roi": 0.006211,
+              "max_consecutive_losses": 1
+            },
+            "24h": {
+              "count": 6,
+              "hit_rate": 0.5,
+              "avg_edge": 0.001333,
+              "median_edge": 0.001,
+              "avg_roi": 0.031239,
+              "median_roi": 0.012422,
+              "max_consecutive_losses": 1
+            }
+          }
+        },
+        "test_fixed": {
+          "params": {
+            "pct_low": 0.12,
+            "rsi_low": 38,
+            "chg24h_min": 0.05,
+            "noise_max": 1.8,
+            "min_strength": 3,
+            "pct_high": 0.88,
+            "rsi_high": 62
+          },
+          "raw_signals": 12,
+          "dedup_signals": 5,
+          "dedup_performance": {
+            "4h": {
+              "count": 5,
+              "hit_rate": 0.2,
+              "avg_edge": 0.0,
+              "median_edge": 0.0,
+              "avg_roi": -0.000593,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 3
+            },
+            "8h": {
+              "count": 5,
+              "hit_rate": 0.4,
+              "avg_edge": 0.0004,
+              "median_edge": 0.0,
+              "avg_roi": 0.00946,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 3
+            },
+            "12h": {
+              "count": 5,
+              "hit_rate": 0.6,
+              "avg_edge": 0.0012,
+              "median_edge": 0.001,
+              "avg_roi": 0.02236,
+              "median_roi": 0.012422,
+              "max_consecutive_losses": 2
+            },
+            "24h": {
+              "count": 5,
+              "hit_rate": 0.6,
+              "avg_edge": 0.0021,
+              "median_edge": 0.002,
+              "avg_roi": 0.050821,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 2
+            }
+          }
+        }
+      },
+      {
+        "fold": 2,
+        "train_ts_min": "2026-04-15T18:30:00",
+        "train_ts_max": "2026-04-15T19:30:00",
+        "test_ts_min": "2026-04-15T19:45:00",
+        "test_ts_max": "2026-04-15T20:00:00",
+        "train_candidates": 930,
+        "test_candidates": 372,
+        "train_best": {
+          "params": {
+            "pct_low": 0.1,
+            "rsi_low": 30,
+            "chg24h_min": 0.05,
+            "noise_max": 1.8,
+            "min_strength": 3,
+            "pct_high": 0.9,
+            "rsi_high": 70
+          },
+          "score": 0.07425,
+          "raw_signals": 16,
+          "dedup_signals": 5,
+          "raw_performance": {
+            "4h": {
+              "count": 16,
+              "hit_rate": 0.1875,
+              "avg_edge": -0.000125,
+              "median_edge": 0.0,
+              "avg_roi": -0.002279,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 5
+            },
+            "8h": {
+              "count": 16,
+              "hit_rate": 0.5,
+              "avg_edge": 0.000625,
+              "median_edge": 0.00025,
+              "avg_roi": 0.005842,
+              "median_roi": 0.003907,
+              "max_consecutive_losses": 2
+            },
+            "12h": {
+              "count": 16,
+              "hit_rate": 0.5625,
+              "avg_edge": 0.001563,
+              "median_edge": 0.001,
+              "avg_roi": 0.020789,
+              "median_roi": 0.012422,
+              "max_consecutive_losses": 2
+            },
+            "24h": {
+              "count": 16,
+              "hit_rate": 0.5625,
+              "avg_edge": 0.002469,
+              "median_edge": 0.002,
+              "avg_roi": 0.039056,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 2
+            }
+          },
+          "dedup_performance": {
+            "4h": {
+              "count": 5,
+              "hit_rate": 0.2,
+              "avg_edge": 0.0001,
+              "median_edge": 0.0,
+              "avg_roi": 0.000922,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 3
+            },
+            "8h": {
+              "count": 5,
+              "hit_rate": 0.6,
+              "avg_edge": 0.0005,
+              "median_edge": 0.0005,
+              "avg_roi": 0.011022,
+              "median_roi": 0.007813,
+              "max_consecutive_losses": 2
+            },
+            "12h": {
+              "count": 5,
+              "hit_rate": 0.6,
+              "avg_edge": 0.0014,
+              "median_edge": 0.001,
+              "avg_roi": 0.025725,
+              "median_roi": 0.012422,
+              "max_consecutive_losses": 2
+            },
+            "24h": {
+              "count": 5,
+              "hit_rate": 0.6,
+              "avg_edge": 0.0024,
+              "median_edge": 0.002,
+              "avg_roi": 0.058957,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 2
+            }
+          }
+        },
+        "test_selected": {
+          "params": {
+            "pct_low": 0.1,
+            "rsi_low": 30,
+            "chg24h_min": 0.05,
+            "noise_max": 1.8,
+            "min_strength": 3,
+            "pct_high": 0.9,
+            "rsi_high": 70
+          },
+          "raw_signals": 5,
+          "dedup_signals": 3,
+          "dedup_performance": {
+            "4h": {
+              "count": 3,
+              "hit_rate": 0.3333,
+              "avg_edge": -0.000333,
+              "median_edge": 0.0,
+              "avg_roi": -0.006037,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 2
+            },
+            "8h": {
+              "count": 3,
+              "hit_rate": 1.0,
+              "avg_edge": 0.002167,
+              "median_edge": 0.002,
+              "avg_roi": 0.049082,
+              "median_roi": 0.053435,
+              "max_consecutive_losses": 0
+            },
+            "12h": {
+              "count": 3,
+              "hit_rate": 1.0,
+              "avg_edge": 0.002167,
+              "median_edge": 0.001,
+              "avg_roi": 0.05003,
+              "median_roi": 0.068702,
+              "max_consecutive_losses": 0
+            },
+            "24h": {
+              "count": 3,
+              "hit_rate": 1.0,
+              "avg_edge": 0.004,
+              "median_edge": 0.003,
+              "avg_roi": 0.112871,
+              "median_roi": 0.10687,
+              "max_consecutive_losses": 0
+            }
+          }
+        },
+        "test_fixed": {
+          "params": {
+            "pct_low": 0.12,
+            "rsi_low": 38,
+            "chg24h_min": 0.05,
+            "noise_max": 1.8,
+            "min_strength": 3,
+            "pct_high": 0.88,
+            "rsi_high": 62
+          },
+          "raw_signals": 10,
+          "dedup_signals": 6,
+          "dedup_performance": {
+            "4h": {
+              "count": 6,
+              "hit_rate": 0.5,
+              "avg_edge": 0.000417,
+              "median_edge": 0.00025,
+              "avg_roi": 0.002355,
+              "median_roi": 0.004311,
+              "max_consecutive_losses": 2
+            },
+            "8h": {
+              "count": 6,
+              "hit_rate": 0.8333,
+              "avg_edge": 0.003167,
+              "median_edge": 0.0015,
+              "avg_roi": 0.035286,
+              "median_roi": 0.03914,
+              "max_consecutive_losses": 1
+            },
+            "12h": {
+              "count": 6,
+              "hit_rate": 0.8333,
+              "avg_edge": 0.004167,
+              "median_edge": 0.00125,
+              "avg_roi": 0.045195,
+              "median_roi": 0.047282,
+              "max_consecutive_losses": 1
+            },
+            "24h": {
+              "count": 6,
+              "hit_rate": 0.8333,
+              "avg_edge": 0.004833,
+              "median_edge": 0.0025,
+              "avg_roi": 0.066646,
+              "median_roi": 0.065857,
+              "max_consecutive_losses": 1
+            }
+          }
+        }
+      },
+      {
+        "fold": 3,
+        "train_ts_min": "2026-04-15T18:30:00",
+        "train_ts_max": "2026-04-15T20:00:00",
+        "test_ts_min": "2026-04-15T20:15:00",
+        "test_ts_max": "2026-04-15T20:45:00",
+        "train_candidates": 1302,
+        "test_candidates": 558,
+        "train_best": {
+          "params": {
+            "pct_low": 0.12,
+            "rsi_low": 38,
+            "chg24h_min": 0.05,
+            "noise_max": 1.8,
+            "min_strength": 3,
+            "pct_high": 0.88,
+            "rsi_high": 62
+          },
+          "score": 0.098992,
+          "raw_signals": 28,
+          "dedup_signals": 7,
+          "raw_performance": {
+            "4h": {
+              "count": 28,
+              "hit_rate": 0.25,
+              "avg_edge": -1.8e-05,
+              "median_edge": 0.0,
+              "avg_roi": -0.001267,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 5
+            },
+            "8h": {
+              "count": 28,
+              "hit_rate": 0.5714,
+              "avg_edge": 0.001214,
+              "median_edge": 0.00075,
+              "avg_roi": 0.014504,
+              "median_roi": 0.012123,
+              "max_consecutive_losses": 4
+            },
+            "12h": {
+              "count": 28,
+              "hit_rate": 0.6071,
+              "avg_edge": 0.002018,
+              "median_edge": 0.001,
+              "avg_roi": 0.026062,
+              "median_roi": 0.019142,
+              "max_consecutive_losses": 2
+            },
+            "24h": {
+              "count": 28,
+              "hit_rate": 0.6071,
+              "avg_edge": 0.002768,
+              "median_edge": 0.002,
+              "avg_roi": 0.045104,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 2
+            }
+          },
+          "dedup_performance": {
+            "4h": {
+              "count": 7,
+              "hit_rate": 0.4286,
+              "avg_edge": 0.000571,
+              "median_edge": 0.0,
+              "avg_roi": 0.005265,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 3
+            },
+            "8h": {
+              "count": 7,
+              "hit_rate": 0.7143,
+              "avg_edge": 0.002286,
+              "median_edge": 0.0005,
+              "avg_roi": 0.023728,
+              "median_roi": 0.008621,
+              "max_consecutive_losses": 2
+            },
+            "12h": {
+              "count": 7,
+              "hit_rate": 0.7143,
+              "avg_edge": 0.003786,
+              "median_edge": 0.001,
+              "avg_roi": 0.042317,
+              "median_roi": 0.025862,
+              "max_consecutive_losses": 2
+            },
+            "24h": {
+              "count": 7,
+              "hit_rate": 0.7143,
+              "avg_edge": 0.004429,
+              "median_edge": 0.002,
+              "avg_roi": 0.064154,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 2
+            }
+          }
+        },
+        "test_selected": {
+          "params": {
+            "pct_low": 0.12,
+            "rsi_low": 38,
+            "chg24h_min": 0.05,
+            "noise_max": 1.8,
+            "min_strength": 3,
+            "pct_high": 0.88,
+            "rsi_high": 62
+          },
+          "raw_signals": 10,
+          "dedup_signals": 5,
+          "dedup_performance": {
+            "4h": {
+              "count": 5,
+              "hit_rate": 0.8,
+              "avg_edge": 0.0011,
+              "median_edge": 0.001,
+              "avg_roi": 0.024009,
+              "median_roi": 0.017391,
+              "max_consecutive_losses": 1
+            },
+            "8h": {
+              "count": 5,
+              "hit_rate": 1.0,
+              "avg_edge": 0.0017,
+              "median_edge": 0.001,
+              "avg_roi": 0.037963,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 0
+            },
+            "12h": {
+              "count": 5,
+              "hit_rate": 0.8,
+              "avg_edge": 0.0017,
+              "median_edge": 0.001,
+              "avg_roi": 0.036975,
+              "median_roi": 0.034783,
+              "max_consecutive_losses": 1
+            },
+            "24h": {
+              "count": 5,
+              "hit_rate": 0.8,
+              "avg_edge": 0.0025,
+              "median_edge": 0.002,
+              "avg_roi": 0.067692,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 1
+            }
+          }
+        },
+        "test_fixed": {
+          "params": {
+            "pct_low": 0.12,
+            "rsi_low": 38,
+            "chg24h_min": 0.05,
+            "noise_max": 1.8,
+            "min_strength": 3,
+            "pct_high": 0.88,
+            "rsi_high": 62
+          },
+          "raw_signals": 10,
+          "dedup_signals": 5,
+          "dedup_performance": {
+            "4h": {
+              "count": 5,
+              "hit_rate": 0.8,
+              "avg_edge": 0.0011,
+              "median_edge": 0.001,
+              "avg_roi": 0.024009,
+              "median_roi": 0.017391,
+              "max_consecutive_losses": 1
+            },
+            "8h": {
+              "count": 5,
+              "hit_rate": 1.0,
+              "avg_edge": 0.0017,
+              "median_edge": 0.001,
+              "avg_roi": 0.037963,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 0
+            },
+            "12h": {
+              "count": 5,
+              "hit_rate": 0.8,
+              "avg_edge": 0.0017,
+              "median_edge": 0.001,
+              "avg_roi": 0.036975,
+              "median_roi": 0.034783,
+              "max_consecutive_losses": 1
+            },
+            "24h": {
+              "count": 5,
+              "hit_rate": 0.8,
+              "avg_edge": 0.0025,
+              "median_edge": 0.002,
+              "avg_roi": 0.067692,
+              "median_roi": 0.024845,
+              "max_consecutive_losses": 1
+            }
+          }
+        }
+      }
+    ],
+    "aggregate_selected_test": {
+      "4h": {
+        "count": 14,
+        "hit_rate": 0.5,
+        "avg_edge": 0.000357,
+        "median_edge": 0.00025,
+        "avg_roi": 0.008471,
+        "median_roi": 0.003817,
+        "max_consecutive_losses": 3
+      },
+      "8h": {
+        "count": 14,
+        "hit_rate": 0.7857,
+        "avg_edge": 0.001214,
+        "median_edge": 0.001,
+        "avg_roi": 0.028353,
+        "median_roi": 0.024845,
+        "max_consecutive_losses": 3
+      },
+      "12h": {
+        "count": 14,
+        "hit_rate": 0.7143,
+        "avg_edge": 0.001393,
+        "median_edge": 0.001,
+        "avg_roi": 0.030402,
+        "median_roi": 0.023603,
+        "max_consecutive_losses": 1
+      },
+      "24h": {
+        "count": 14,
+        "hit_rate": 0.7143,
+        "avg_edge": 0.002321,
+        "median_edge": 0.002,
+        "avg_roi": 0.061751,
+        "median_roi": 0.024845,
+        "max_consecutive_losses": 1
+      }
+    },
+    "aggregate_fixed_test": {
+      "4h": {
+        "count": 16,
+        "hit_rate": 0.5,
+        "avg_edge": 0.0005,
+        "median_edge": 0.00025,
+        "avg_roi": 0.008201,
+        "median_roi": 0.003817,
+        "max_consecutive_losses": 3
+      },
+      "8h": {
+        "count": 16,
+        "hit_rate": 0.75,
+        "avg_edge": 0.001844,
+        "median_edge": 0.001,
+        "avg_roi": 0.028052,
+        "median_roi": 0.024845,
+        "max_consecutive_losses": 3
+      },
+      "12h": {
+        "count": 16,
+        "hit_rate": 0.75,
+        "avg_edge": 0.002469,
+        "median_edge": 0.001,
+        "avg_roi": 0.03549,
+        "median_roi": 0.030323,
+        "max_consecutive_losses": 2
+      },
+      "24h": {
+        "count": 16,
+        "hit_rate": 0.75,
+        "avg_edge": 0.00325,
+        "median_edge": 0.002,
+        "avg_roi": 0.062028,
+        "median_roi": 0.024845,
+        "max_consecutive_losses": 2
+      }
+    }
+  }
+}

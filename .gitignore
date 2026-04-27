@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.python-version
+.venv/
+venv/
+env/
+.DS_Store
+*.log
+*.tmp
+*.swp
+
+# local runtime / cache
+logs/
+cache/
+*.sqlite
+*.db
+
+# generated archives / site exports
+polymarket_scan.error
+polymarket_scan.log
+smartmoney_scan.error
+smartmoney_scan.log
+streamlit.log
+dist/gh-pages-export/
+
+# macOS / editor
+.idea/
+.vscode/
+mcp_server/

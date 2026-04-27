@@ -1,0 +1,743 @@
+{"type": "open", "status": "open", "opened_at": "2026-04-15T17:03:27", "question": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?", "slug": "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election", "token_id": "8113830512143065501177519557124858581375945005490796772950589720955457782465", "cluster": "us_election", "regime": "trend", "direction": "NO", "confidence": 0.6508, "entry_yes_price": 0.0495, "size_usd": 1.5, "thesis": "4h move visible, 24h move strong, 4h and 24h aligned"}
+{"type": "skip", "time": "2026-04-15T17:03:27", "question": "Will Kamala Harris win the 2028 US Presidential Election?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T17:03:27", "question": "Will the San Antonio Spurs win the 2026 NBA Finals?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T17:06:15", "question": "Xi Jinping out before 2027?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T17:06:15", "question": "Will the Dallas Stars win the 2026 NHL Stanley Cup?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T17:06:15", "question": "Will bitcoin hit $1m before GTA VI?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T17:06:15", "question": "Will China invades Taiwan before GTA VI?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T17:54:20", "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T17:54:20", "question": "Xi Jinping out before 2027?", "reason": "confidence too low"}
+{"type": "skip", "time": "2026-04-15T17:56:57", "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T17:56:57", "question": "Xi Jinping out before 2027?", "reason": "confidence too low"}
+{"type": "skip", "time": "2026-04-15T18:12:48", "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?", "reason": "risk flags present"}
+{"type": "skip", "time": "2026-04-15T18:12:48", "question": "Xi Jinping out before 2027?", "reason": "confidence too low"}
+{"type": "halt", "time": "2026-04-15T18:20:58", "reason": "consecutive_fail_halt"}
+{"type": "open", "status": "open", "opened_at": "2026-04-15T19:30:18", "question": "Will the Ottawa Senators win the 2026 NHL Stanley Cup?", "slug": "will-the-ottawa-senators-win-the-2026-nhl-stanley-cup", "token_id": "52122163926965666340769912737036425235018536048643947600257470162508745804215", "cluster": "other", "regime": "trend", "direction": "NO", "confidence": 0.6528, "entry_yes_price": 0.042, "size_usd": 1.5, "thesis": "4h move visible, 24h move strong, 4h and 24h aligned"}
+{"type": "open", "status": "open", "opened_at": "2026-04-15T21:00:19", "question": "Will Panama win the 2026 FIFA World Cup?", "slug": "will-team-z-win-the-2026-fifa-world-cup-316", "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486", "cluster": "world_cup", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0025, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=world_cup"}
+{"type": "open", "status": "open", "opened_at": "2026-04-15T21:00:19", "question": "Will Iraq win the 2026 FIFA World Cup?", "slug": "will-iraq-win-the-2026-fifa-world-cup", "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995", "cluster": "world_cup", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0015, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=world_cup"}
+{"type": "skip", "time": "2026-04-15T21:00:19", "question": "Will Bernie Sanders win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-15T21:00:19", "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-15T21:00:19", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-15T21:00:19", "question": "Will Jesus Christ return before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "halt", "time": "2026-04-15T21:30:18", "reason": "consecutive_fail_halt"}
+{"type": "skip", "time": "2026-04-15T22:00:18", "question": "Will the Dallas Stars win the 2026 NHL Stanley Cup?", "reason": "confidence too low"}
+{"type": "skip", "time": "2026-04-15T23:30:12", "question": "Xi Jinping out before 2027?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-15T23:30:12", "question": "Will bitcoin hit $1m before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "halt", "time": "2026-04-16T00:00:13", "reason": "consecutive_fail_halt"}
+{"type": "skip", "time": "2026-04-16T00:30:23", "question": "Will Tim Walz win the 2028 US Presidential Election?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-16T01:00:19", "question": "Will Cape Verde win the 2026 FIFA World Cup?", "reason": "cluster exposure limit for world_cup"}
+{"type": "skip", "time": "2026-04-16T02:30:14", "question": "Will Kamala Harris win the 2028 US Presidential Election?", "reason": "total exposure limit reached"}
+{"type": "halt", "time": "2026-04-16T07:55:03", "reason": "consecutive_fail_halt"}
+{"type": "skip", "time": "2026-04-16T09:10:26", "question": "Will Hunter Biden win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-15T19:30:18", "question": "Will the Ottawa Senators win the 2026 NHL Stanley Cup?", "slug": "will-the-ottawa-senators-win-the-2026-nhl-stanley-cup", "token_id": "52122163926965666340769912737036425235018536048643947600257470162508745804215", "cluster": "other", "regime": "trend", "direction": "NO", "confidence": 0.6528, "entry_yes_price": 0.042, "size_usd": 1.5, "thesis": "4h move visible, 24h move strong, 4h and 24h aligned", "current_yes_price": 0.0475, "pnl_like": -0.005499999999999998, "hold_hours": 19.5, "latest_regime": "trend", "latest_direction": "YES", "latest_confidence": 0.6366, "health": "thesis_risk", "closed_at": "2026-04-16T15:00:21", "close_reason": "thesis_invalidated", "exit_yes_price": 0.0475}
+{"type": "open", "status": "open", "opened_at": "2026-04-16T15:00:21", "question": "Will Bernie Sanders win the 2028 Democratic presidential nomination?", "slug": "will-bernie-sanders-win-the-2028-democratic-presidential-nomination-879", "token_id": "113510300123120868861281132282742729065975487298059944817273881893086209196585", "cluster": "us_election", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0055, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=us_election"}
+{"type": "skip", "time": "2026-04-16T15:00:21", "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-16T15:00:21", "question": "Will the New York Knicks win the 2026 NBA Finals?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-16T15:00:21", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "max positions reached"}
+{"type": "halt", "time": "2026-04-16T16:00:26", "reason": "consecutive_fail_halt"}
+{"type": "skip", "time": "2026-04-16T17:30:20", "question": "New Rihanna Album before GTA VI?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-16T17:30:20", "question": "Will the New York Knicks win the 2026 NBA Finals?", "reason": "max positions reached"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-15T21:00:19", "question": "Will Panama win the 2026 FIFA World Cup?", "slug": "will-team-z-win-the-2026-fifa-world-cup-316", "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486", "cluster": "world_cup", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0025, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=world_cup", "current_yes_price": 0.0025, "pnl_like": -0.0, "hold_hours": 24.5, "latest_regime": "carry_no", "latest_direction": "NO", "latest_confidence": 0.71, "health": "healthy", "closed_at": "2026-04-16T21:30:32", "close_reason": "time_stop_24h", "exit_yes_price": 0.0025}
+{"type": "close", "status": "closed", "opened_at": "2026-04-15T21:00:19", "question": "Will Iraq win the 2026 FIFA World Cup?", "slug": "will-iraq-win-the-2026-fifa-world-cup", "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995", "cluster": "world_cup", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0015, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=world_cup", "current_yes_price": 0.0015, "pnl_like": -0.0, "hold_hours": 24.5, "latest_regime": "carry_no", "latest_direction": "NO", "latest_confidence": 0.71, "health": "healthy", "closed_at": "2026-04-16T21:30:32", "close_reason": "time_stop_24h", "exit_yes_price": 0.0015}
+{"type": "skip", "time": "2026-04-16T21:30:32", "question": "Will Panama win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-16T21:30:32", "question": "Will Iraq win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-16T21:30:32", "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-16T21:30:32", "question": "Will the Dallas Stars win the 2026 NHL Stanley Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-16T21:30:32", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "max positions reached"}
+{"type": "halt", "time": "2026-04-16T22:00:31", "reason": "consecutive_fail_halt"}
+{"type": "skip", "time": "2026-04-16T22:30:34", "question": "Will Hunter Biden win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-15T17:03:27", "question": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?", "slug": "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election", "token_id": "8113830512143065501177519557124858581375945005490796772950589720955457782465", "cluster": "us_election", "regime": "trend", "direction": "NO", "confidence": 0.6508, "entry_yes_price": 0.0495, "size_usd": 1.5, "thesis": "4h move visible, 24h move strong, 4h and 24h aligned", "current_yes_price": 0.0525, "pnl_like": -0.0029999999999999957, "hold_hours": 40.95, "latest_regime": "trend", "latest_direction": "YES", "latest_confidence": 0.6378, "health": "thesis_risk", "closed_at": "2026-04-17T10:00:24", "close_reason": "time_stop_24h", "exit_yes_price": 0.0525}
+{"type": "skip", "time": "2026-04-17T10:00:24", "question": "Will Iraq win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T10:00:24", "question": "Will Haiti win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T10:00:24", "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T10:00:24", "question": "Will the Dallas Stars win the 2026 NHL Stanley Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T10:00:24", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "max positions reached"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-16T15:00:21", "question": "Will Bernie Sanders win the 2028 Democratic presidential nomination?", "slug": "will-bernie-sanders-win-the-2028-democratic-presidential-nomination-879", "token_id": "113510300123120868861281132282742729065975487298059944817273881893086209196585", "cluster": "us_election", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0055, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=us_election", "current_yes_price": 0.0055, "pnl_like": -0.0, "hold_hours": 27.01, "latest_regime": "carry_no", "latest_direction": "NO", "latest_confidence": 0.71, "health": "healthy", "closed_at": "2026-04-17T18:00:43", "close_reason": "time_stop_24h", "exit_yes_price": 0.0055}
+{"type": "skip", "time": "2026-04-17T18:00:43", "question": "Will Iraq win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T18:00:43", "question": "Will Haiti win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T18:00:43", "question": "Will Bernie Sanders win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T18:00:43", "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T18:00:43", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-17T18:00:43", "question": "Will the Edmonton Oilers win the 2026 NHL Stanley Cup?", "reason": "max positions reached"}
+{"type": "halt", "time": "2026-04-17T18:30:49", "reason": "consecutive_fail_halt"}
+{"type": "skip", "time": "2026-04-18T07:15:52", "question": "Will Iraq win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T07:15:52", "question": "Will Haiti win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T07:15:52", "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T07:15:52", "question": "Will Bernie Sanders win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T07:15:52", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T07:15:52", "question": "Will Jesus Christ return before GTA VI?", "reason": "max positions reached"}
+{"type": "halt", "time": "2026-04-18T09:31:47", "reason": "consecutive_fail_halt"}
+{"type": "skip", "time": "2026-04-18T11:49:53", "question": "Will Tim Walz win the 2028 US Presidential Election?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T11:49:53", "question": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T11:49:53", "question": "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T11:49:53", "question": "Will the Buffalo Sabres win the 2026 NHL Stanley Cup?", "reason": "max positions reached"}
+{"type": "halt", "time": "2026-04-18T12:34:48", "reason": "consecutive_fail_halt"}
+{"type": "skip", "time": "2026-04-18T16:00:20", "question": "Will Iraq win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T16:00:20", "question": "Will Haiti win the 2026 FIFA World Cup?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T16:00:20", "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T16:00:20", "question": "Will LeBron James win the 2028 Democratic presidential nomination?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T16:00:20", "question": "Will Jesus Christ return before GTA VI?", "reason": "max positions reached"}
+{"type": "skip", "time": "2026-04-18T16:00:20", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "max positions reached"}
+{"type": "halt", "time": "2026-04-18T18:00:24", "reason": "consecutive_fail_halt"}
+{"type": "open", "status": "open", "opened_at": "2026-04-18T18:19:41", "question": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?", "slug": "will-zohran-mamdani-win-the-2028-democratic-presidential-nomination-445", "token_id": "19323997520040734631220675039559156784534982703459512097490198935565229528445", "cluster": "us_election", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0075, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=us_election"}
+{"type": "open", "status": "open", "opened_at": "2026-04-18T18:33:20", "question": "Will Iraq win the 2026 FIFA World Cup?", "slug": "will-iraq-win-the-2026-fifa-world-cup", "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995", "cluster": "world_cup", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0015, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=world_cup"}
+{"type": "open", "status": "open", "opened_at": "2026-04-18T18:33:20", "question": "Will Haiti win the 2026 FIFA World Cup?", "slug": "will-haiti-win-the-2026-fifa-world-cup", "token_id": "113379015922744700109400673843380371641970914885846970213129353605968934558386", "cluster": "world_cup", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0015, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=world_cup"}
+{"type": "open", "status": "open", "opened_at": "2026-04-18T18:33:20", "question": "Will LeBron James win the 2028 Democratic presidential nomination?", "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination", "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085", "cluster": "us_election", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0075, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=us_election"}
+{"type": "skip", "time": "2026-04-18T18:33:20", "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?", "reason": "cluster exposure limit for us_election"}
+{"type": "skip", "time": "2026-04-18T18:33:20", "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-18T18:33:20", "question": "Will Jesus Christ return before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-18T18:33:20", "question": "Will Iraq win the 2026 FIFA World Cup?", "slug": "will-iraq-win-the-2026-fifa-world-cup", "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995", "cluster": "world_cup", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0015, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=world_cup", "current_yes_price": 0.0015, "pnl_like": -0.0, "hold_hours": 0.08, "latest_regime": "carry_no", "latest_direction": "NO", "latest_confidence": 0.71, "health": "healthy", "closed_at": "2026-04-18T18:38:15", "close_reason": "deep_tail_world_cup_exit", "exit_yes_price": 0.0015}
+{"type": "close", "status": "closed", "opened_at": "2026-04-18T18:33:20", "question": "Will Haiti win the 2026 FIFA World Cup?", "slug": "will-haiti-win-the-2026-fifa-world-cup", "token_id": "113379015922744700109400673843380371641970914885846970213129353605968934558386", "cluster": "world_cup", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0015, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=world_cup", "current_yes_price": 0.0015, "pnl_like": -0.0, "hold_hours": 0.08, "latest_regime": "carry_no", "latest_direction": "NO", "latest_confidence": 0.71, "health": "healthy", "closed_at": "2026-04-18T18:38:15", "close_reason": "deep_tail_world_cup_exit", "exit_yes_price": 0.0015}
+{"type": "skip", "time": "2026-04-18T18:38:15", "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?", "reason": "cluster exposure limit for us_election"}
+{"type": "open", "status": "open", "opened_at": "2026-04-18T18:38:15", "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?", "slug": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup", "token_id": "52393600221905688380980180540161090876971894580569515967716227210336633318551", "cluster": "other", "regime": "mean_revert", "direction": "NO", "confidence": 0.664, "entry_yes_price": 0.0445, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, 24h move extended"}
+{"type": "open", "status": "open", "opened_at": "2026-04-18T18:38:15", "question": "Will Jesus Christ return before GTA VI?", "slug": "will-jesus-christ-return-before-gta-vi-665", "token_id": "90435811253665578014957380826505992530054077692143838383981805324273750424057", "cluster": "gta_vi", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.485, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=gta_vi"}
+{"type": "skip", "time": "2026-04-18T18:38:15", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T18:38:15", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-18T18:19:41", "question": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?", "slug": "will-zohran-mamdani-win-the-2028-democratic-presidential-nomination-445", "token_id": "19323997520040734631220675039559156784534982703459512097490198935565229528445", "cluster": "us_election", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0075, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=us_election", "current_yes_price": 0.0075, "pnl_like": -0.0, "hold_hours": 0.36, "latest_regime": "carry_no", "latest_direction": "NO", "latest_confidence": 0.71, "health": "healthy", "closed_at": "2026-04-18T18:41:04", "close_reason": "stale_carry_no_exit", "exit_yes_price": 0.0075}
+{"type": "close", "status": "closed", "opened_at": "2026-04-18T18:33:20", "question": "Will LeBron James win the 2028 Democratic presidential nomination?", "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination", "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085", "cluster": "us_election", "regime": "carry_no", "direction": "NO", "confidence": 0.71, "entry_yes_price": 0.0075, "size_usd": 1.5, "thesis": "ultra low YES price, better classified as carry_no than trend, cluster=us_election", "current_yes_price": 0.0075, "pnl_like": -0.0, "hold_hours": 0.13, "latest_regime": "carry_no", "latest_direction": "NO", "latest_confidence": 0.71, "health": "healthy", "closed_at": "2026-04-18T18:41:04", "close_reason": "stale_carry_no_exit", "exit_yes_price": 0.0075}
+{"type": "skip", "time": "2026-04-18T18:41:04", "question": "Will John Fetterman win the 2028 Democratic presidential nomination?", "reason": "daily budget reached"}
+{"type": "skip", "time": "2026-04-18T18:41:04", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily budget reached"}
+{"type": "skip", "time": "2026-04-18T18:41:04", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily budget reached"}
+{"type": "skip", "time": "2026-04-18T18:41:04", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily budget reached"}
+{"type": "skip", "time": "2026-04-18T19:01:32", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily budget reached"}
+{"type": "skip", "time": "2026-04-18T19:01:32", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily budget reached"}
+{"type": "skip", "time": "2026-04-18T19:01:32", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily budget reached"}
+{"type": "skip", "time": "2026-04-18T19:01:32", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily budget reached"}
+{"type": "skip", "time": "2026-04-18T19:06:14", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:06:14", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:06:14", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:06:14", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:20:11", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:20:11", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:20:11", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:20:11", "question": "Will Marco Rubio win the 2028 Republican presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:20:11", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:32:09", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:32:09", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:32:09", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:32:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-18T18:38:15", "question": "Will Jesus Christ return before GTA VI?", "slug": "will-jesus-christ-return-before-gta-vi-665", "token_id": "90435811253665578014957380826505992530054077692143838383981805324273750424057", "cluster": "gta_vi", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.485, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=gta_vi", "current_yes_price": 0.485, "pnl_like": -0.0, "hold_hours": 1.17, "latest_regime": "mean_revert", "latest_direction": "NO", "latest_confidence": 0.624, "health": "healthy", "closed_at": "2026-04-18T19:48:41", "close_reason": "low_tradability_exit", "exit_yes_price": 0.485}
+{"type": "skip", "time": "2026-04-18T19:48:41", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:48:41", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:48:41", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:48:41", "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:53:59", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:53:59", "question": "Will Jesus Christ return before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:53:59", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:53:59", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:53:59", "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T19:53:59", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:01:07", "question": "Will Marco Rubio win the 2028 US Presidential Election?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:01:07", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:01:07", "question": "Will Jesus Christ return before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:01:07", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:01:07", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:01:07", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:03:01", "question": "Will Marco Rubio win the 2028 US Presidential Election?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:03:01", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:03:01", "question": "Will Jesus Christ return before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:03:01", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:03:01", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:03:01", "question": "New Playboi Carti Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:30:25", "question": "Will Marco Rubio win the 2028 US Presidential Election?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:30:25", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:30:25", "question": "Will the Detroit Pistons win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:30:25", "question": "Will Jesus Christ return before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:30:25", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T20:30:25", "question": "Will China invades Taiwan before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:00:40", "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:00:40", "question": "New Rihanna Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:00:40", "question": "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:00:40", "question": "Will Jesus Christ return before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:00:40", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:31:18", "question": "New Rihanna Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:31:18", "question": "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:31:18", "question": "Will Jesus Christ return before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:31:18", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T21:31:18", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-18T18:38:15", "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?", "slug": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup", "token_id": "52393600221905688380980180540161090876971894580569515967716227210336633318551", "cluster": "other", "regime": "mean_revert", "direction": "NO", "confidence": 0.664, "entry_yes_price": 0.0445, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, 24h move extended", "current_yes_price": 0.0455, "pnl_like": -0.0010000000000000009, "hold_hours": 3.39, "latest_regime": "trend", "latest_direction": "YES", "latest_confidence": 0.644, "health": "thesis_risk", "closed_at": "2026-04-18T22:01:26", "close_reason": "thesis_invalidated", "exit_yes_price": 0.0455}
+{"type": "skip", "time": "2026-04-18T22:01:26", "question": "New Rihanna Album before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:01:26", "question": "Will Jesus Christ return before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:01:26", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:01:26", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:01:26", "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:30:50", "question": "Will Jesus Christ return before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:30:50", "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:30:50", "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:30:50", "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:30:50", "question": "Will China invades Taiwan before GTA VI?", "reason": "daily trade limit reached"}
+{"type": "skip", "time": "2026-04-18T22:30:50", "question": "Will the Edmonton Oilers win the 2026 NHL Stanley Cup?", "reason": "daily trade limit reached"}
+{"type": "open", "status": "open", "opened_at": "2026-04-19T08:31:41", "question": "Will Jesus Christ return before GTA VI?", "slug": "will-jesus-christ-return-before-gta-vi-665", "token_id": "90435811253665578014957380826505992530054077692143838383981805324273750424057", "cluster": "gta_vi", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.485, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=gta_vi"}
+{"type": "open", "status": "open", "opened_at": "2026-04-19T08:31:41", "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?", "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885", "token_id": "70071592420137476676935286377781779672157004436137616627487590484756055232944", "cluster": "us_election", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.0645, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=us_election"}
+{"type": "open", "status": "open", "opened_at": "2026-04-19T08:31:41", "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?", "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup", "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480", "cluster": "other", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.135, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=other"}
+{"type": "open", "status": "open", "opened_at": "2026-04-19T09:00:43", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals", "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770", "cluster": "other", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.465, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=other"}
+{"type": "skip", "time": "2026-04-19T09:30:33", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:00:55", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:00:55", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:30:39", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:30:39", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:30:39", "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other"}
+{"type": "skip", "time": "2026-04-19T10:39:15", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:39:15", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:39:15", "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other"}
+{"type": "skip", "time": "2026-04-19T10:59:08", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:59:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T10:59:08", "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other"}
+{"type": "skip", "time": "2026-04-19T11:00:38", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T11:00:38", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T11:00:38", "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other"}
+{"type": "skip", "time": "2026-04-19T11:01:46", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T11:01:46", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T11:01:46", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T11:01:46", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other"}
+{"type": "skip", "time": "2026-04-19T11:12:22", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T11:12:22", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T11:12:22", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached"}
+{"type": "skip", "time": "2026-04-19T11:12:22", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other"}
+{"type": "skip", "time": "2026-04-19T11:19:12", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "high_confidence"}
+{"type": "skip", "time": "2026-04-19T11:19:12", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "high_confidence"}
+{"type": "skip", "time": "2026-04-19T11:19:12", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached", "signal_bucket": "main_pool"}
+{"type": "skip", "time": "2026-04-19T11:19:12", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool"}
+{"type": "skip", "time": "2026-04-19T11:30:37", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "high_confidence", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:30:37", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "high_confidence", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:30:37", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:30:37", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:31:15", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "high_confidence", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:31:15", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "high_confidence", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:31:15", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:31:15", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:31:43", "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:31:43", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "high_confidence", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:31:43", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "high_confidence", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:31:43", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:58:40", "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:58:40", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:58:40", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T11:58:40", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:00:23", "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:00:23", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:00:23", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:00:23", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:00:38", "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:00:38", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:00:38", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:00:38", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:03:52", "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:03:52", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:03:52", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:03:52", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:14:16", "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:14:16", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:14:16", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:14:16", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:30:24", "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:30:24", "question": "New Rihanna Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:30:24", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:30:24", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:30:42", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:30:42", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:30:42", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:30:42", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:31:21", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:31:21", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:31:21", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:31:21", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:47:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:47:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:47:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:47:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:53:00", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:53:00", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T12:53:00", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T12:53:00", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T13:00:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T13:00:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T13:00:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T13:00:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T13:30:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T13:30:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T13:30:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T13:30:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T13:40:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T13:40:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T13:40:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T13:40:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T14:00:03", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T14:00:03", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T14:00:03", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T14:00:03", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T14:30:05", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T14:30:05", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T14:30:05", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T14:30:05", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T15:00:06", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T15:00:06", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T15:00:06", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T15:00:06", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T15:30:06", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T15:30:06", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T15:30:06", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T15:30:06", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T16:00:07", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T16:00:07", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T16:00:07", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T16:00:07", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T16:30:03", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T16:30:03", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T16:30:03", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T16:30:03", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T17:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T17:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T17:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T17:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T17:30:07", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T17:30:07", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T17:30:07", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T17:30:07", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T17:45:26", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T17:45:26", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T17:45:26", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T17:45:26", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T18:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T18:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T18:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T18:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T18:30:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T18:30:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T18:30:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T18:30:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T19:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T19:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T19:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T19:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T19:30:07", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T19:30:07", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T19:30:07", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T19:30:07", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T20:00:12", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T20:00:12", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T20:00:12", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T20:00:12", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T20:30:04", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T20:30:04", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T20:30:04", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T20:30:04", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T21:00:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T21:00:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-19T21:00:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-19T21:00:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T07:49:40", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T07:49:40", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T07:49:40", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T07:49:40", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T08:00:07", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T08:00:07", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T08:00:07", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T08:00:07", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T08:30:03", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T08:30:03", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T08:30:03", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T08:30:03", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T09:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T09:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T09:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T09:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T09:30:10", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T09:30:10", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T09:30:10", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T09:30:10", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T10:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T10:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T10:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T10:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T10:30:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T10:30:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T10:30:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T10:30:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T11:00:10", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T11:00:10", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T11:00:10", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T11:00:10", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T11:30:07", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T11:30:07", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T11:30:07", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T11:30:07", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T12:00:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T12:00:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T12:00:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T12:00:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T12:34:23", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T12:34:23", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T12:34:23", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T12:34:23", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T13:09:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T13:09:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T13:09:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T13:09:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T13:30:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T13:30:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T13:30:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T13:30:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T14:00:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T14:00:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-20T14:00:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-20T14:00:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T17:37:10", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T17:37:10", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T17:37:10", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T17:37:10", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T17:42:14", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T17:42:14", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T17:42:14", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T17:42:14", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T18:00:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T18:00:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T18:00:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T18:00:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T18:30:07", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T18:30:07", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T18:30:07", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T18:30:07", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T19:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T19:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T19:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T19:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T19:22:05", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T19:22:05", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T19:22:05", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T19:22:05", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T19:30:04", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T19:30:04", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T19:30:04", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T19:30:04", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T20:00:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T20:00:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T20:00:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T20:00:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T20:30:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T20:30:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T20:30:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T20:30:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T21:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T21:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T21:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T21:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T21:30:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T21:30:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T21:30:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T21:30:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T22:00:05", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T22:00:05", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T22:00:05", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T22:00:05", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T22:30:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T22:30:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T22:30:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T22:30:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T23:12:21", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T23:12:21", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T23:12:21", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T23:12:21", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T23:44:45", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T23:44:45", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-22T23:44:45", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-22T23:44:45", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T00:13:16", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T00:13:16", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T00:13:16", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T00:13:16", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T00:31:41", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T00:31:41", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T00:31:41", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T00:31:41", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T01:14:03", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T01:14:03", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T01:14:03", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T01:14:03", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T01:31:14", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T01:31:14", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T01:31:14", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T01:31:14", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T02:14:25", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T02:14:25", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T02:14:25", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T02:14:25", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T02:31:01", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T02:31:01", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T02:31:01", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T02:31:01", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T03:00:04", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T03:00:04", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T03:00:04", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T03:00:04", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T03:36:34", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T03:36:34", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T03:36:34", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T03:36:34", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T04:00:11", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T04:00:11", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T04:00:11", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T04:00:11", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T04:33:36", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T04:33:36", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T04:33:36", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T04:33:36", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T05:01:11", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T05:01:11", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T05:01:11", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T05:01:11", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T05:36:40", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T05:36:40", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T05:36:40", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T05:36:40", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T06:02:16", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T06:02:16", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T06:02:16", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T06:02:16", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T06:35:54", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T06:35:54", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T06:35:54", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T06:35:54", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T07:03:11", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T07:03:11", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T07:03:11", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T07:03:11", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T07:30:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T07:30:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T07:30:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T07:30:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T08:00:05", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T08:00:05", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T08:00:05", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T08:00:05", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T08:30:03", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T08:30:03", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T08:30:03", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T08:30:03", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T09:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T09:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T09:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T09:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T09:30:06", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T09:30:06", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T09:30:06", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T09:30:06", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T10:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T10:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T10:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T10:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T10:30:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T10:30:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T10:30:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T10:30:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T11:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T11:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T11:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T11:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T11:30:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T11:30:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T11:30:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T11:30:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T12:00:07", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T12:00:07", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T12:00:07", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T12:00:07", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T12:30:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T12:30:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T12:30:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T12:30:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T13:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T13:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T13:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T13:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T13:30:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T13:30:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T13:30:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T13:30:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T14:00:08", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T14:00:08", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T14:00:08", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T14:00:08", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T14:30:04", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T14:30:04", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T14:30:04", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T14:30:04", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T15:00:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T15:00:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T15:00:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T15:00:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T15:30:06", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T15:30:06", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T15:30:06", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T15:30:06", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T16:00:09", "question": "New Playboi Carti Album before GTA VI?", "reason": "total exposure limit reached", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T16:00:09", "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?", "reason": "cluster exposure limit for other", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T16:00:09", "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T16:00:09", "question": "Will J.D. Vance win the 2028 Republican presidential nomination?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-19T08:31:41", "question": "Will Jesus Christ return before GTA VI?", "slug": "will-jesus-christ-return-before-gta-vi-665", "token_id": "90435811253665578014957380826505992530054077692143838383981805324273750424057", "cluster": "gta_vi", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.485, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=gta_vi", "current_yes_price": 0.485, "pnl_like": -0.0, "hold_hours": 103.96, "latest_regime": "mean_revert", "latest_direction": "NO", "latest_confidence": 0.624, "health": "healthy", "closed_at": "2026-04-23T16:29:04", "close_reason": "time_stop_24h", "exit_yes_price": 0.485, "realized_pnl_like": -0.0}
+{"type": "close", "status": "closed", "opened_at": "2026-04-19T08:31:41", "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?", "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup", "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480", "cluster": "other", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.135, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=other", "current_yes_price": 0.175, "pnl_like": -0.04, "hold_hours": 103.96, "latest_regime": "trend", "latest_direction": "YES", "latest_confidence": 0.69, "health": "thesis_risk", "closed_at": "2026-04-23T16:29:04", "close_reason": "stop_loss", "exit_yes_price": 0.175, "realized_pnl_like": -0.06}
+{"type": "close", "status": "closed", "opened_at": "2026-04-19T09:00:43", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals", "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770", "cluster": "other", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.465, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=other", "current_yes_price": 0.515, "pnl_like": -0.05, "hold_hours": 103.47, "latest_regime": "mean_revert", "latest_direction": "NO", "latest_confidence": 0.664, "health": "healthy", "closed_at": "2026-04-23T16:29:04", "close_reason": "stop_loss", "exit_yes_price": 0.515, "realized_pnl_like": -0.075}
+{"type": "skip", "time": "2026-04-23T16:29:04", "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?", "reason": "cooldown after consecutive losses", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T16:29:04", "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "cooldown after consecutive losses", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T16:29:04", "question": "Will Jon Ossoff win the 2028 US Presidential Election?", "reason": "bucket=main_pool policy=observe_only", "signal_bucket": "main_pool", "execution_policy": "observe_only"}
+{"type": "skip", "time": "2026-04-23T16:29:04", "question": "New Rihanna Album before GTA VI?", "reason": "cooldown after consecutive losses", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "skip", "time": "2026-04-23T16:29:04", "question": "Will Jesus Christ return before GTA VI?", "reason": "cooldown after consecutive losses", "signal_bucket": "main_pool", "execution_policy": "trade"}
+{"type": "halt", "time": "2026-04-23T16:31:23", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T17:01:44", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T17:31:16", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T18:01:11", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T18:31:07", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T19:06:01", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T19:49:05", "reason": "daily_loss_halt"}
+{"type": "close", "status": "closed", "opened_at": "2026-04-19T08:31:41", "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?", "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885", "token_id": "70071592420137476676935286377781779672157004436137616627487590484756055232944", "cluster": "us_election", "regime": "mean_revert", "direction": "NO", "confidence": 0.624, "entry_yes_price": 0.0645, "size_usd": 1.5, "thesis": "upper percentile fade setup, RSI extreme, cluster=us_election", "current_yes_price": 0.0635, "pnl_like": 0.001, "hold_hours": 107.85, "latest_regime": "trend", "latest_direction": "NO", "latest_confidence": 0.66, "health": "healthy", "closed_at": "2026-04-23T20:22:55", "close_reason": "time_stop_24h", "exit_yes_price": 0.0635, "realized_pnl_like": 0.0015}
+{"type": "halt", "time": "2026-04-23T20:22:55", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T20:49:48", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T21:21:45", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T21:51:03", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T22:11:25", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T22:52:09", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T23:08:25", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-23T23:48:45", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T00:10:57", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T00:53:45", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T01:11:48", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T01:31:17", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T02:29:21", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T02:56:08", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T03:18:15", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T03:52:29", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T04:14:59", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T04:31:55", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T05:34:28", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T06:32:10", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T07:17:02", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T07:46:37", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T08:22:51", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T08:39:37", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T09:17:54", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T09:31:48", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T10:19:21", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T11:04:44", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T11:50:06", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T12:07:13", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T12:50:48", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T13:08:11", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T13:36:35", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T14:01:00", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T14:31:04", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T15:01:06", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T15:35:42", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T16:30:27", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T17:12:42", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T17:31:18", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T18:01:08", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T18:32:02", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T19:01:46", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T19:31:34", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T20:01:59", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T20:31:36", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T21:39:37", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T22:01:52", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T22:31:33", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T23:01:44", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-24T23:31:02", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T00:01:20", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T14:25:02", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T14:30:21", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T15:00:50", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T15:31:48", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T16:01:36", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T16:31:02", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T17:01:47", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T17:31:54", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T18:01:24", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T18:31:14", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T19:01:25", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T19:32:42", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T20:01:32", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T20:30:19", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T21:00:18", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T21:30:12", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T22:00:17", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T22:30:29", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T23:00:55", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-25T23:31:00", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T00:01:00", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T00:30:58", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T01:16:38", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T01:32:46", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T02:01:07", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T02:34:51", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T03:02:07", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T03:35:16", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T04:04:31", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T04:40:51", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T05:05:04", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T05:39:50", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T06:06:07", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T06:39:05", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T07:06:37", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T07:31:11", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T08:04:43", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T08:37:53", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T09:11:18", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T09:31:29", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T10:01:11", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T10:31:03", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T11:07:18", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T11:31:13", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T12:01:08", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T12:32:23", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T12:38:48", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T13:01:04", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T13:31:13", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T14:03:37", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T14:32:34", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T15:01:23", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T15:31:36", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T16:01:39", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T16:31:37", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T17:01:53", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T17:31:33", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T18:01:19", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T18:31:26", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T19:01:43", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T19:32:29", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T20:00:46", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T20:31:45", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T21:01:23", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T21:30:44", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T22:01:19", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T22:30:46", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T23:00:49", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-26T23:30:57", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T00:01:26", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T00:31:02", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T01:01:26", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T01:30:51", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T02:01:27", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T02:31:27", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T03:00:47", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T03:31:19", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T04:01:19", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T04:30:46", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T05:01:00", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T05:30:57", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T06:01:05", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T06:30:56", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T07:00:57", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T07:31:29", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T08:01:26", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T08:31:50", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T09:01:42", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T09:31:27", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T10:02:53", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T10:31:29", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T11:01:23", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T11:31:57", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T12:00:16", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T12:31:53", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T13:01:43", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T13:33:49", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T14:02:28", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-04-27T14:33:47", "reason": "daily_loss_halt"}
