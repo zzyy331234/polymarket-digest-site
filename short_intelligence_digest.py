@@ -7,7 +7,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List
 
-ROOT = Path('/Users/mac/.openclaw/workspace/polymarket')
+ROOT = Path(__file__).resolve().parent
 DAILY_JSON = ROOT / 'outputs' / 'daily_intelligence_latest.json'
 WEEKLY_JSON = ROOT / 'outputs' / 'weekly_intelligence_summary.json'
 OUT_MD = ROOT / 'outputs' / 'short_intelligence_digest_latest.md'

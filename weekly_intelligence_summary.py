@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, List
 
-ROOT = Path('/Users/mac/.openclaw/workspace/polymarket')
+ROOT = Path(__file__).resolve().parent
 REVIEW_FILE = ROOT / 'outputs' / 'review_status.json'
 SUMMARY_FILE = ROOT / 'outputs' / 'paper_summary.json'
 OUT_JSON = ROOT / 'outputs' / 'weekly_intelligence_summary.json'

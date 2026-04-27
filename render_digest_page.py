@@ -5,7 +5,7 @@ import json
 import shutil
 from pathlib import Path
 
-ROOT = Path('/Users/mac/.openclaw/workspace/polymarket')
+ROOT = Path(__file__).resolve().parent
 DIGEST_JSON = ROOT / 'outputs' / 'short_intelligence_digest_latest.json'
 OUT_HTML = ROOT / 'outputs' / 'short_intelligence_digest_latest.html'
 ARCHIVE_HOME_HTML = ROOT / 'reports' / 'short_digest_html' / 'archive.html'

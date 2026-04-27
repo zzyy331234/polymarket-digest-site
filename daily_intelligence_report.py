@@ -9,7 +9,7 @@ from typing import Any, Dict, List
 
 from intelligence_schema import enrich_signal
 
-ROOT = Path('/Users/mac/.openclaw/workspace/polymarket')
+ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / 'trading_config.json'
 SIGNALS_FILE = ROOT / 'outputs' / 'signals_v2_latest.json'
 ALERTS_FILE = ROOT / 'outputs' / 'alerts_ready.json'
