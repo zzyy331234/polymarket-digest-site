@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-27T16:31:24",
+  "generated_at": "2026-04-27T17:01:29",
   "window_days": 7,
   "review_count": 75,
   "regime_stats": {
     "mean_revert": {
       "total": 27,
-      "hit": 1,
+      "hit": 2,
       "miss": 1,
-      "flat": 25,
+      "flat": 24,
       "unresolved": 0,
       "avg_confidence": 0.6225
     },
     "trend": {
       "total": 24,
-      "hit": 5,
-      "miss": 4,
-      "flat": 15,
+      "hit": 4,
+      "miss": 6,
+      "flat": 14,
       "unresolved": 0,
       "avg_confidence": 0.6383
     },
@@ -40,8 +40,8 @@
     "other": {
       "total": 28,
       "hit": 5,
-      "miss": 5,
-      "flat": 18,
+      "miss": 7,
+      "flat": 16,
       "unresolved": 0,
       "avg_confidence": 0.6331
     },
@@ -66,21 +66,21 @@
     "best": [
       {
         "name": "trend",
-        "score": -0.1042,
+        "score": -0.125,
         "total": 24,
-        "hit": 5,
-        "miss": 4,
-        "flat": 15,
+        "hit": 4,
+        "miss": 6,
+        "flat": 14,
         "unresolved": 0,
         "avg_confidence": 0.6383
       },
       {
         "name": "mean_revert",
-        "score": -0.4259,
+        "score": -0.3704,
         "total": 27,
-        "hit": 1,
+        "hit": 2,
         "miss": 1,
-        "flat": 25,
+        "flat": 24,
         "unresolved": 0,
         "avg_confidence": 0.6225
       },
@@ -108,21 +108,21 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.4259,
+        "score": -0.3704,
         "total": 27,
-        "hit": 1,
+        "hit": 2,
         "miss": 1,
-        "flat": 25,
+        "flat": 24,
         "unresolved": 0,
         "avg_confidence": 0.6225
       },
       {
         "name": "trend",
-        "score": -0.1042,
+        "score": -0.125,
         "total": 24,
-        "hit": 5,
-        "miss": 4,
-        "flat": 15,
+        "hit": 4,
+        "miss": 6,
+        "flat": 14,
         "unresolved": 0,
         "avg_confidence": 0.6383
       }
@@ -132,11 +132,11 @@
     "best": [
       {
         "name": "other",
-        "score": -0.1429,
+        "score": -0.1071,
         "total": 28,
         "hit": 5,
-        "miss": 5,
-        "flat": 18,
+        "miss": 7,
+        "flat": 16,
         "unresolved": 0,
         "avg_confidence": 0.6331
       },
@@ -204,11 +204,11 @@
       },
       {
         "name": "other",
-        "score": -0.1429,
+        "score": -0.1071,
         "total": 28,
         "hit": 5,
-        "miss": 5,
-        "flat": 18,
+        "miss": 7,
+        "flat": 16,
         "unresolved": 0,
         "avg_confidence": 0.6331
       }
