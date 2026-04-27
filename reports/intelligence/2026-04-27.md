@@ -49,18 +49,18 @@
 - Will Josh Shapiro win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.000, 24h=0.055).
 - Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
 - Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
-- Will the Minnesota Wild win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.198, 24h=0.155).
 - Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.118, 24h=0.090).
+- Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
 
 ## 今日避坑
 - Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | blocking=high_noise
-- Will the Utah Mammoth win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | blocking=low_tradability
-- Will the Colorado Avalanche win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | blocking=high_noise
+- Will the Boston Celtics win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
+- Will the Oklahoma City Thunder win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
 
 ## 后验复盘快照
-- outcomes: {'flat': 176, 'miss': 8, 'hit': 9, 'pending': 7}
+- outcomes: {'flat': 178, 'miss': 6, 'hit': 9, 'pending': 7}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
