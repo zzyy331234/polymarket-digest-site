@@ -17,3 +17,8 @@
 - 后续已换 classic token，成功 push 到 `origin/main`，并验证 workflow 被自动触发。
 - 首次 Actions 失败是因为脚本使用了本机绝对路径 `/Users/mac/.openclaw/workspace/polymarket`；现已修复为 `Path(__file__).resolve().parent` 的相对路径写法，并再次 push。
 - 第二次 Actions 构建与 artifact 上传都成功，最终失败点只剩 `Deploy to GitHub Pages` 返回 404，原因是仓库尚未在 Settings → Pages 中启用 Pages。
+- 新增 `scripts/auto_publish_digest.sh`，把 digest 相关产物定向 `git add`、检测 staged diff、自动 commit + push 到当前分支。
+- `run_paper_cycle.sh` 已接入自动发布脚本，且改成完全基于仓库相对路径执行，不再依赖本机绝对路径。
+- 额外补了一层容错：若仓库缺少 `origin` 或当前分支不可识别，自动发布脚本会优雅跳过，不会把整条出刊流水线打死。
+- 已本地执行自动发布脚本两次并验证：第一次成功推送 commit `6b35a35`，第二次成功推送 commit `4148df7`；当前工作树干净。
+- 已检查 GitHub Actions 最近运行记录：`Deploy Digest Site` 对应 push 触发的 run `24981885021` 状态为 success，说明“本地提交/推送 → GitHub Actions 发布”链路已打通。
