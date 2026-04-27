@@ -13,7 +13,7 @@
 - 方向: YES | conf=0.69 | evidence=0.53
 - regime/cluster: trend / other
 - thesis: [trend] YES on 'Will the Anaheim Ducks win the 2026 NHL Stanley Cup?' because 4h move visible.
-- why_now: Short-term dislocation detected (1h=0.000, 4h=0.141, 24h=0.500).
+- why_now: Short-term dislocation detected (1h=0.000, 4h=0.080, 24h=0.500).
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
 ### 2. New Rihanna Album before GTA VI? [research] 
@@ -35,25 +35,25 @@
 - [research] New Rihanna Album before GTA VI? | YES | conf=0.66 | catalyst=theme_cluster
 - [research] New Playboi Carti Album before GTA VI? | NO | conf=0.66 | catalyst=theme_cluster
 - [watch] Will Josh Shapiro win the 2028 Democratic presidential nomination? | NO | conf=0.66 | catalyst=price_dislocation
-- [watch] Will Marco Rubio win the 2028 Republican presidential nomination? | NO | conf=0.62 | catalyst=mean_reversion
-- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
+- [watch] Will JD Vance win the 2028 US Presidential Election? | NO | conf=0.62 | catalyst=mean_reversion
+- [do_not_touch] Will the Dallas Stars win the 2026 NHL Stanley Cup? | NO | conf=0.63 | catalyst=price_dislocation
 
 ## 观察名单
 - Will Josh Shapiro win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.000, 24h=0.055).
+- Will the Dallas Stars win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=0.073, 4h=0.157, 24h=-0.195).
 - Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
-- Will Marco Rubio win the 2028 Republican presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
-- Putin out as President of Russia by December 31, 2026? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
-- Will China invades Taiwan before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
+- Will JD Vance win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
+- Will the Oklahoma City Thunder win the 2026 NBA Finals? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
 
 ## 今日避坑
 - Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | blocking=high_noise
+- Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | blocking=high_noise
+- Will the Colorado Avalanche win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | blocking=high_noise
 - Will the Buffalo Sabres win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | blocking=high_noise
-- Will JD Vance win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | blocking=high_noise
 
 ## 后验复盘快照
-- outcomes: {'flat': 176, 'miss': 8, 'hit': 9, 'pending': 7}
+- outcomes: {'flat': 175, 'miss': 9, 'hit': 9, 'pending': 7}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

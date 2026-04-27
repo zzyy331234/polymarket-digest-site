@@ -46,13 +46,13 @@
   URL: https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
   原始题目: Will Josh Shapiro win the 2028 Democratic presidential nomination?
-- 主题盘：耶稣基督会先于 GTA VI 发生吗？ | GTA VI 主题 / 均值回归
-  观察原因: 它仍属于 GTA VI 主题盘，只能做跟踪，不适合给主栏位置。
-  链接（中文导读）: 中文导读：主题盘：耶稣基督会先于 GTA VI 发生吗？
-  Link (English source): English source: Will Jesus Christ return before GTA VI?
-  URL: https://polymarket.com/question/will-jesus-christ-return-before-gta-vi-665
-  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will Jesus Christ return before GTA VI?
+- 体育盘：Dallas Stars能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 / 趋势延续
+  观察原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
+  链接（中文导读）: 中文导读：体育盘：Dallas Stars能否赢得 2026 年 NHL 斯坦利杯？
+  Link (English source): English source: Will the Dallas Stars win the 2026 NHL Stanley Cup?
+  URL: https://polymarket.com/question/will-the-dallas-stars-win-the-2026-nhl-stanley-cup
+  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
+  原始题目: Will the Dallas Stars win the 2026 NHL Stanley Cup?
 
 ## 今天不碰
 - 选举盘：乔治·克鲁尼能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
@@ -69,17 +69,17 @@
   URL: https://polymarket.com/question/will-andrew-yang-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Andrew Yang win the 2028 Democratic presidential nomination?
-- 体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 | 均值回归
+- 选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 美国总统大选？ | 美国大选 | 均值回归
   避开原因: 噪音过高，方向不稳定
-  链接（中文导读）: 中文导读：体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
-  Link (English source): English source: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
-  URL: https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup
-  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
+  链接（中文导读）: 中文导读：选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
+  值得点开的原因: 因为短线指标已经偏极端，点开原盘可以先看有没有继续被情绪推着走。
+  原始题目: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
 
 ## 周度偏好
 - 倾向保留: 趋势延续 | score=-0.125 | total=24
-- 倾向保留: 均值回归 | score=-0.3704 | total=27
+- 倾向保留: 均值回归 | score=-0.3036 | total=28
 - 应继续降权: 美国大选 | score=-0.5 | flat=24
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=15
 

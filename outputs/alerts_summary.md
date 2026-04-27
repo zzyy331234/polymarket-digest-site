@@ -24,14 +24,14 @@
 - URL: https://polymarket.com/question/new-playboi-carti-album-before-gta-vi-421
 - 原因: upper percentile fade setup, RSI extreme, 24h move extended
 
-## 5. [mean_revert] NO conf=0.62
-- 问题: Will Marco Rubio win the 2028 Republican presidential nomination?
-- Cluster: us_election
-- URL: https://polymarket.com/question/will-marco-rubio-win-the-2028-republican-presidential-nomination
-- 原因: upper percentile fade setup, RSI extreme, cluster=us_election
+## 5. [trend] NO conf=0.63
+- 问题: Will the Dallas Stars win the 2026 NHL Stanley Cup?
+- Cluster: other
+- URL: https://polymarket.com/question/will-the-dallas-stars-win-the-2026-nhl-stanley-cup
+- 原因: 4h move visible, 24h move strong, 24h and 7d aligned
 
 ## 6. [mean_revert] NO conf=0.62
-- 问题: Putin out as President of Russia by December 31, 2026?
-- Cluster: other
-- URL: https://polymarket.com/question/putin-out-before-2027
-- 原因: upper percentile fade setup, RSI extreme, cluster=other
+- 问题: Will JD Vance win the 2028 US Presidential Election?
+- Cluster: us_election
+- URL: https://polymarket.com/question/will-jd-vance-win-the-2028-us-presidential-election
+- 原因: upper percentile fade setup, RSI extreme, cluster=us_election
