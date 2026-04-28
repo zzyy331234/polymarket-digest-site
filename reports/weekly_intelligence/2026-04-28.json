@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-04-28T18:32:32",
+  "generated_at": "2026-04-28T19:01:42",
   "window_days": 7,
   "review_count": 81,
   "regime_stats": {
-    "mean_revert": {
-      "total": 29,
-      "hit": 6,
+    "trend": {
+      "total": 25,
+      "hit": 2,
       "miss": 2,
       "flat": 21,
       "unresolved": 0,
-      "avg_confidence": 0.6233
+      "avg_confidence": 0.6265
     },
-    "trend": {
-      "total": 26,
-      "hit": 2,
-      "miss": 3,
-      "flat": 21,
+    "mean_revert": {
+      "total": 30,
+      "hit": 5,
+      "miss": 2,
+      "flat": 23,
       "unresolved": 0,
-      "avg_confidence": 0.6248
+      "avg_confidence": 0.6233
     },
     "carry_no": {
       "total": 26,
@@ -30,20 +30,20 @@
   },
   "cluster_stats": {
     "other": {
-      "total": 31,
-      "hit": 6,
-      "miss": 5,
-      "flat": 20,
+      "total": 30,
+      "hit": 5,
+      "miss": 4,
+      "flat": 21,
       "unresolved": 0,
-      "avg_confidence": 0.6249
+      "avg_confidence": 0.6263
     },
     "gta_vi": {
-      "total": 10,
+      "total": 11,
       "hit": 2,
       "miss": 0,
-      "flat": 8,
+      "flat": 9,
       "unresolved": 0,
-      "avg_confidence": 0.622
+      "avg_confidence": 0.6222
     },
     "us_election": {
       "total": 24,
@@ -66,23 +66,23 @@
     "best": [
       {
         "name": "mean_revert",
-        "score": -0.1552,
-        "total": 29,
-        "hit": 6,
+        "score": -0.2167,
+        "total": 30,
+        "hit": 5,
         "miss": 2,
-        "flat": 21,
+        "flat": 23,
         "unresolved": 0,
         "avg_confidence": 0.6233
       },
       {
         "name": "trend",
-        "score": -0.3269,
-        "total": 26,
+        "score": -0.34,
+        "total": 25,
         "hit": 2,
-        "miss": 3,
+        "miss": 2,
         "flat": 21,
         "unresolved": 0,
-        "avg_confidence": 0.6248
+        "avg_confidence": 0.6265
       },
       {
         "name": "carry_no",
@@ -108,21 +108,21 @@
       },
       {
         "name": "trend",
-        "score": -0.3269,
-        "total": 26,
+        "score": -0.34,
+        "total": 25,
         "hit": 2,
-        "miss": 3,
+        "miss": 2,
         "flat": 21,
         "unresolved": 0,
-        "avg_confidence": 0.6248
+        "avg_confidence": 0.6265
       },
       {
         "name": "mean_revert",
-        "score": -0.1552,
-        "total": 29,
-        "hit": 6,
+        "score": -0.2167,
+        "total": 30,
+        "hit": 5,
         "miss": 2,
-        "flat": 21,
+        "flat": 23,
         "unresolved": 0,
         "avg_confidence": 0.6233
       }
@@ -132,23 +132,23 @@
     "best": [
       {
         "name": "other",
-        "score": -0.129,
-        "total": 31,
-        "hit": 6,
-        "miss": 5,
-        "flat": 20,
+        "score": -0.1833,
+        "total": 30,
+        "hit": 5,
+        "miss": 4,
+        "flat": 21,
         "unresolved": 0,
-        "avg_confidence": 0.6249
+        "avg_confidence": 0.6263
       },
       {
         "name": "gta_vi",
-        "score": -0.2,
-        "total": 10,
+        "score": -0.2273,
+        "total": 11,
         "hit": 2,
         "miss": 0,
-        "flat": 8,
+        "flat": 9,
         "unresolved": 0,
-        "avg_confidence": 0.622
+        "avg_confidence": 0.6222
       },
       {
         "name": "world_cup",
@@ -194,23 +194,23 @@
       },
       {
         "name": "gta_vi",
-        "score": -0.2,
-        "total": 10,
+        "score": -0.2273,
+        "total": 11,
         "hit": 2,
         "miss": 0,
-        "flat": 8,
+        "flat": 9,
         "unresolved": 0,
-        "avg_confidence": 0.622
+        "avg_confidence": 0.6222
       },
       {
         "name": "other",
-        "score": -0.129,
-        "total": 31,
-        "hit": 6,
-        "miss": 5,
-        "flat": 20,
+        "score": -0.1833,
+        "total": 30,
+        "hit": 5,
+        "miss": 4,
+        "flat": 21,
         "unresolved": 0,
-        "avg_confidence": 0.6249
+        "avg_confidence": 0.6263
       }
     ]
   },

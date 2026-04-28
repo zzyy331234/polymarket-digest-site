@@ -16,37 +16,30 @@
 - why_now: Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.251).
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
-### 2. New Playboi Carti Album before GTA VI? [research] 
-- 方向: NO | conf=0.66 | evidence=0.48
-- regime/cluster: mean_revert / gta_vi
-- thesis: [mean_revert] NO on 'New Playboi Carti Album before GTA VI?' because upper percentile fade setup.
-- why_now: Relevant within active cluster=gta_vi and current regime=mean_revert.
-- do_not_trade_if: GTA VI themed cluster remains flat-heavy and should stay observational unless new catalyst appears.; Liquidity/exit quality deteriorates materially before action.
-
 ## 可直接关注的 Ready Alerts
 - [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [research] New Playboi Carti Album before GTA VI? | NO | conf=0.66 | catalyst=theme_cluster
+- [watch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 - [watch] Will Jon Ossoff win the 2028 Democratic presidential nomination? | YES | conf=0.67 | catalyst=price_dislocation
-- [watch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | NO | conf=0.66 | catalyst=price_dislocation
 - [do_not_touch] Will Jesus Christ return before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
+- [do_not_touch] Will bitcoin hit $1m before GTA VI? | YES | conf=0.62 | catalyst=theme_cluster
 - [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
 
 ## 观察名单
+- Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.010, 24h=0.101).
 - Will Jon Ossoff win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.009, 24h=0.073).
 - Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.006, 24h=0.054).
-- Will Jon Ossoff win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.000, 24h=0.051).
+- Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
 - Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
-- Putin out as President of Russia by December 31, 2026? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
 
 ## 今日避坑
-- Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will Gavin Newsom win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | blocking=high_noise
-- Will bitcoin hit $1m before GTA VI? | cluster=gta_vi | regime=mean_revert | blocking=high_noise
-- Will the Boston Celtics win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=trend_noisy
+- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
+- New Playboi Carti Album before GTA VI? | cluster=gta_vi | regime=mean_revert | blocking=high_noise
+- Will Panama win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability, deep_tail_world_cup
+- Will Ivory Coast win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability, deep_tail_world_cup
+- Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability, deep_tail_world_cup
 
 ## 后验复盘快照
-- outcomes: {'flat': 178, 'hit': 9, 'pending': 7, 'miss': 6}
+- outcomes: {'flat': 180, 'hit': 8, 'pending': 7, 'miss': 5}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
