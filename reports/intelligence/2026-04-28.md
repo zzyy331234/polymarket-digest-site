@@ -13,38 +13,17 @@
 - 方向: YES | conf=0.69 | evidence=0.53
 - regime/cluster: trend / other
 - thesis: [trend] YES on 'Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?' because 4h move visible.
-- why_now: Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.210).
+- why_now: Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.240).
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
-### 2. Will the Anaheim Ducks win the 2026 NHL Stanley Cup? [research] 
-- 方向: YES | conf=0.69 | evidence=0.53
-- regime/cluster: trend / other
-- thesis: [trend] YES on 'Will the Anaheim Ducks win the 2026 NHL Stanley Cup?' because 4h move visible.
-- why_now: Short-term dislocation detected (1h=0.000, 4h=-0.047, 24h=0.968).
-- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
-
-### 3. Will the San Antonio Spurs win the 2026 NBA Finals? [research] 
-- 方向: NO | conf=0.66 | evidence=0.48
-- regime/cluster: mean_revert / other
-- thesis: [mean_revert] NO on 'Will the San Antonio Spurs win the 2026 NBA Finals?' because upper percentile fade setup.
-- why_now: Relevant within active cluster=other and current regime=mean_revert.
-- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
-
-### 4. Will the Colorado Avalanche win the 2026 NHL Stanley Cup? [research] 
+### 2. Will the Colorado Avalanche win the 2026 NHL Stanley Cup? [research] 
 - 方向: NO | conf=0.66 | evidence=0.48
 - regime/cluster: mean_revert / other
 - thesis: [mean_revert] NO on 'Will the Colorado Avalanche win the 2026 NHL Stanley Cup?' because upper percentile fade setup.
-- why_now: Short-term dislocation detected (1h=0.000, 4h=0.019, 24h=0.100).
+- why_now: Relevant within active cluster=other and current regime=mean_revert.
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
-### 5. Will the Philadelphia Flyers win the 2026 NHL Stanley Cup? [research] 
-- 方向: YES | conf=0.66 | evidence=0.48
-- regime/cluster: mean_revert / other
-- thesis: [mean_revert] YES on 'Will the Philadelphia Flyers win the 2026 NHL Stanley Cup?' because lower percentile bounce setup.
-- why_now: Short-term dislocation detected (1h=0.000, 4h=-0.087, 24h=-0.060).
-- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
-
-### 6. Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? [research] 
+### 3. Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? [research] 
 - 方向: NO | conf=0.66 | evidence=0.48
 - regime/cluster: mean_revert / other
 - thesis: [mean_revert] NO on 'Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?' because upper percentile fade setup.
@@ -53,24 +32,25 @@
 
 ## 可直接关注的 Ready Alerts
 - [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [research] Will the Anaheim Ducks win the 2026 NHL Stanley Cup? | YES | conf=0.69 | catalyst=price_dislocation
-- [watch] Will Pete Buttigieg win the 2028 Democratic presidential nomination? | NO | conf=0.66 | catalyst=mean_reversion
+- [research] Will the Colorado Avalanche win the 2026 NHL Stanley Cup? | NO | conf=0.66 | catalyst=mean_reversion
+- [watch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.68 | catalyst=price_dislocation
+- [watch] Will Jon Ossoff win the 2028 Democratic presidential nomination? | YES | conf=0.68 | catalyst=price_dislocation
 - [do_not_touch] Will Jesus Christ return before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
 - [do_not_touch] Russia-Ukraine Ceasefire before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
 
 ## 观察名单
+- Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.010, 4h=0.089, 24h=0.089).
+- Will Jon Ossoff win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=-0.009, 4h=0.064, 24h=0.084).
 - Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
 - Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
 - Putin out as President of Russia by December 31, 2026? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
-- Russia-Ukraine Ceasefire before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
-- New Rihanna Album before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=-0.087, 24h=-0.025).
 
 ## 今日避坑
 - Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Gavin Newsom win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | blocking=high_noise
-- Will the Buffalo Sabres win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | blocking=high_noise
-- New Playboi Carti Album before GTA VI? | cluster=gta_vi | regime=mean_revert | blocking=high_noise
+- Will bitcoin hit $1m before GTA VI? | cluster=gta_vi | regime=mean_revert | blocking=high_noise
+- Will the Boston Celtics win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
 
 ## 后验复盘快照
 - outcomes: {'flat': 175, 'miss': 9, 'pending': 7, 'hit': 9}
