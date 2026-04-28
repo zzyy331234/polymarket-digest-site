@@ -17,16 +17,6 @@
   URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
   原始题目: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
-- 体育盘：Anaheim Ducks能否赢得 2026 年 NHL 斯坦利杯？
-  标签: 研究观察 | 方向=YES | conf=0.69 | evidence=0.53
-  类型: 其他事件 / 趋势延续
-  观点: 市场短线异动已经放大，当前更像趋势延续下的延续机会，方向偏向 YES。
-  现在看它的原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
-  链接（中文导读）: 中文导读：体育盘：Anaheim Ducks能否赢得 2026 年 NHL 斯坦利杯？
-  Link (English source): English source: Will the Anaheim Ducks win the 2026 NHL Stanley Cup?
-  URL: https://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup
-  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will the Anaheim Ducks win the 2026 NHL Stanley Cup?
 
 ## 谨慎观察
 - 选举盘：Kamala Harris能否赢得 2028 美国总统大选？ | 美国大选 / 趋势延续
@@ -59,18 +49,18 @@
   URL: https://polymarket.com/question/will-andrew-yang-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Andrew Yang win the 2028 Democratic presidential nomination?
-- 观察盘：Will the New York Knicks win the 2026 NBA Finals? | 其他事件 | 均值回归
+- 体育盘：Colorado Avalanche能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 | 均值回归
   避开原因: 噪音过高，方向不稳定
-  链接（中文导读）: 中文导读：观察盘：Will the New York Knicks win the 2026 NBA Finals?
-  Link (English source): English source: Will the New York Knicks win the 2026 NBA Finals?
-  URL: https://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals
+  链接（中文导读）: 中文导读：体育盘：Colorado Avalanche能否赢得 2026 年 NHL 斯坦利杯？
+  Link (English source): English source: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
+  URL: https://polymarket.com/question/will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will the New York Knicks win the 2026 NBA Finals?
+  原始题目: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.2241 | total=29
-- 倾向保留: 趋势延续 | score=-0.38 | total=25
-- 应继续降权: 美国大选 | score=-0.5 | flat=24
+- 倾向保留: 均值回归 | score=-0.0833 | total=30
+- 倾向保留: 趋势延续 | score=-0.3333 | total=24
+- 应继续降权: 美国大选 | score=-0.5 | flat=25
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=16
 
 ## 编辑注

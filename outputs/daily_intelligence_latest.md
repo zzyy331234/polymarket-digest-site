@@ -16,37 +16,30 @@
 - why_now: Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.251).
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
-### 2. Will the Anaheim Ducks win the 2026 NHL Stanley Cup? [research] 
-- 方向: YES | conf=0.69 | evidence=0.53
-- regime/cluster: trend / other
-- thesis: [trend] YES on 'Will the Anaheim Ducks win the 2026 NHL Stanley Cup?' because 4h move visible.
-- why_now: Short-term dislocation detected (1h=0.000, 4h=0.078, 24h=0.438).
-- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
-
 ## 可直接关注的 Ready Alerts
 - [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [research] Will the Anaheim Ducks win the 2026 NHL Stanley Cup? | YES | conf=0.69 | catalyst=price_dislocation
 - [watch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 - [watch] Will Pete Buttigieg win the 2028 Democratic presidential nomination? | NO | conf=0.66 | catalyst=mean_reversion
 - [do_not_touch] Will Jesus Christ return before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
+- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
 - [do_not_touch] Russia-Ukraine Ceasefire before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
 
 ## 观察名单
-- Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.089, 24h=0.140).
+- Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.010, 24h=0.140).
 - Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
+- Will Gavin Newsom win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
 - Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
 - Putin out as President of Russia by December 31, 2026? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
-- Will the Colorado Avalanche win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
 
 ## 今日避坑
 - Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will the New York Knicks win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
-- Will Gavin Newsom win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | blocking=high_noise
-- Xi Jinping out before 2027? | cluster=other | regime=mean_revert | blocking=high_noise
+- Will the Colorado Avalanche win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | blocking=high_noise
+- Will the Buffalo Sabres win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | blocking=high_noise
+- Will the San Antonio Spurs win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
 
 ## 后验复盘快照
-- outcomes: {'flat': 180, 'miss': 5, 'pending': 7, 'hit': 8}
+- outcomes: {'flat': 177, 'hit': 12, 'pending': 7, 'miss': 4}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
