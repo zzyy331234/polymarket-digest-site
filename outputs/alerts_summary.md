@@ -6,32 +6,32 @@
 - URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 2. [trend] YES conf=0.69
-- 问题: Will Kamala Harris win the 2028 US Presidential Election?
-- Cluster: us_election
-- URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-us-presidential-election
-- 原因: 24h move strong, 7d move strong, 24h and 7d aligned
-
-## 3. [trend] YES conf=0.67
+## 2. [trend] YES conf=0.67
 - 问题: Will Jon Ossoff win the 2028 Democratic presidential nomination?
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885
 - 原因: 24h move strong, 7d move strong, 4h and 24h aligned
 
-## 4. [trend] YES conf=0.63
-- 问题: Will the Edmonton Oilers win the 2026 NHL Stanley Cup?
-- Cluster: other
-- URL: https://polymarket.com/question/will-the-edmonton-oilers-win-the-2026-nhl-stanley-cup
-- 原因: 4h move visible, 24h move strong, 7d move strong
+## 3. [mean_revert] NO conf=0.66
+- 问题: Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
+- Cluster: us_election
+- URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653
+- 原因: upper percentile fade setup, RSI extreme, 24h move extended
 
-## 5. [mean_revert] NO conf=0.62
+## 4. [mean_revert] NO conf=0.62
 - 问题: Will Jesus Christ return before GTA VI?
 - Cluster: gta_vi
 - URL: https://polymarket.com/question/will-jesus-christ-return-before-gta-vi-665
 - 原因: upper percentile fade setup, RSI extreme, cluster=gta_vi
 
-## 6. [mean_revert] YES conf=0.62
-- 问题: Will bitcoin hit $1m before GTA VI?
+## 5. [mean_revert] NO conf=0.62
+- 问题: Putin out as President of Russia by December 31, 2026?
+- Cluster: other
+- URL: https://polymarket.com/question/putin-out-before-2027
+- 原因: upper percentile fade setup, RSI extreme, cluster=other
+
+## 6. [mean_revert] NO conf=0.62
+- 问题: Russia-Ukraine Ceasefire before GTA VI?
 - Cluster: gta_vi
-- URL: https://polymarket.com/question/will-bitcoin-hit-1m-before-gta-vi-872
-- 原因: lower percentile bounce setup, RSI extreme, cluster=gta_vi
+- URL: https://polymarket.com/question/russia-ukraine-ceasefire-before-gta-vi-554
+- 原因: upper percentile fade setup, RSI extreme, cluster=gta_vi

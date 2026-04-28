@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T17:30:43",
+  "generated_at": "2026-04-28T18:03:37",
   "window_days": 7,
   "review_count": 81,
   "regime_stats": {
@@ -13,11 +13,11 @@
     },
     "trend": {
       "total": 26,
-      "hit": 3,
+      "hit": 2,
       "miss": 3,
-      "flat": 20,
+      "flat": 21,
       "unresolved": 0,
-      "avg_confidence": 0.6233
+      "avg_confidence": 0.6248
     },
     "carry_no": {
       "total": 26,
@@ -31,11 +31,11 @@
   "cluster_stats": {
     "other": {
       "total": 31,
-      "hit": 7,
+      "hit": 6,
       "miss": 5,
-      "flat": 19,
+      "flat": 20,
       "unresolved": 0,
-      "avg_confidence": 0.6237
+      "avg_confidence": 0.6249
     },
     "gta_vi": {
       "total": 10,
@@ -76,13 +76,13 @@
       },
       {
         "name": "trend",
-        "score": -0.2692,
+        "score": -0.3269,
         "total": 26,
-        "hit": 3,
+        "hit": 2,
         "miss": 3,
-        "flat": 20,
+        "flat": 21,
         "unresolved": 0,
-        "avg_confidence": 0.6233
+        "avg_confidence": 0.6248
       },
       {
         "name": "carry_no",
@@ -108,13 +108,13 @@
       },
       {
         "name": "trend",
-        "score": -0.2692,
+        "score": -0.3269,
         "total": 26,
-        "hit": 3,
+        "hit": 2,
         "miss": 3,
-        "flat": 20,
+        "flat": 21,
         "unresolved": 0,
-        "avg_confidence": 0.6233
+        "avg_confidence": 0.6248
       },
       {
         "name": "mean_revert",
@@ -132,13 +132,13 @@
     "best": [
       {
         "name": "other",
-        "score": -0.0806,
+        "score": -0.129,
         "total": 31,
-        "hit": 7,
+        "hit": 6,
         "miss": 5,
-        "flat": 19,
+        "flat": 20,
         "unresolved": 0,
-        "avg_confidence": 0.6237
+        "avg_confidence": 0.6249
       },
       {
         "name": "gta_vi",
@@ -204,13 +204,13 @@
       },
       {
         "name": "other",
-        "score": -0.0806,
+        "score": -0.129,
         "total": 31,
-        "hit": 7,
+        "hit": 6,
         "miss": 5,
-        "flat": 19,
+        "flat": 20,
         "unresolved": 0,
-        "avg_confidence": 0.6237
+        "avg_confidence": 0.6249
       }
     ]
   },
