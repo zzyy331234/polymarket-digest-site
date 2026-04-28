@@ -40,17 +40,17 @@
   URL: https://polymarket.com/question/will-andrew-yang-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Andrew Yang win the 2028 Democratic presidential nomination?
-- 选举盘：皮特·布蒂吉格能否赢得 2028 民主党总统提名？ | 美国大选 | 均值回归
+- 选举盘：Gavin Newsom能否赢得 2028 民主党总统提名？ | 美国大选 | 均值回归
   避开原因: 噪音过高，方向不稳定
-  链接（中文导读）: 中文导读：选举盘：皮特·布蒂吉格能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Pete Buttigieg win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687
+  链接（中文导读）: 中文导读：选举盘：Gavin Newsom能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Gavin Newsom win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will Pete Buttigieg win the 2028 Democratic presidential nomination?
+  原始题目: Will Gavin Newsom win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.1452 | total=31
-- 倾向保留: 趋势延续 | score=-0.2826 | total=23
+- 倾向保留: 均值回归 | score=-0.1481 | total=27
+- 倾向保留: 趋势延续 | score=-0.2407 | total=27
 - 应继续降权: 美国大选 | score=-0.5 | flat=24
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=15
 

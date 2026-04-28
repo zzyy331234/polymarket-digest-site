@@ -11,9 +11,9 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [watch] Will Jesus Christ return before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
-- [watch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
-- [watch] Russia-Ukraine Ceasefire before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
+- [do_not_touch] Will Jesus Christ return before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
+- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
+- [do_not_touch] Russia-Ukraine Ceasefire before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
 
 ## 观察名单
 - Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
@@ -23,12 +23,12 @@
 ## 今日避坑
 - Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | blocking=high_noise
 - Will Gavin Newsom win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | blocking=high_noise
-- Xi Jinping out before 2027? | cluster=other | regime=mean_revert | blocking=high_noise
+- Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | blocking=high_noise
+- Will the San Antonio Spurs win the 2026 NBA Finals? | cluster=other | regime=mean_revert | blocking=high_noise
 
 ## 后验复盘快照
-- outcomes: {'flat': 176, 'hit': 11, 'miss': 6, 'pending': 7}
+- outcomes: {'flat': 175, 'hit': 11, 'miss': 7, 'pending': 7}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
