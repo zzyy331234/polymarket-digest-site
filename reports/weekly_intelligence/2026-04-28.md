@@ -17,16 +17,16 @@
 - mean_revert: score=-0.1552 total=29 hit=6 flat=21 unresolved=0 avg_conf=0.6233
 
 ## Best Clusters
-- other: score=-0.0667 total=30 hit=7 flat=18 unresolved=0 avg_conf=0.6285
+- other: score=-0.0517 total=29 hit=7 flat=17 unresolved=0 avg_conf=0.6277
 - gta_vi: score=-0.2273 total=11 hit=2 flat=9 unresolved=0 avg_conf=0.6222
 - world_cup: score=-0.5 total=16 hit=0 flat=16 unresolved=0 avg_conf=0.71
-- us_election: score=-0.5 total=24 hit=0 flat=24 unresolved=0 avg_conf=0.6596
+- us_election: score=-0.5 total=25 hit=0 flat=25 unresolved=0 avg_conf=0.6591
 
 ## Worst Clusters
-- us_election: score=-0.5 total=24 hit=0 flat=24 unresolved=0 avg_conf=0.6596
+- us_election: score=-0.5 total=25 hit=0 flat=25 unresolved=0 avg_conf=0.6591
 - world_cup: score=-0.5 total=16 hit=0 flat=16 unresolved=0 avg_conf=0.71
 - gta_vi: score=-0.2273 total=11 hit=2 flat=9 unresolved=0 avg_conf=0.6222
-- other: score=-0.0667 total=30 hit=7 flat=18 unresolved=0 avg_conf=0.6285
+- other: score=-0.0517 total=29 hit=7 flat=17 unresolved=0 avg_conf=0.6277
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。
