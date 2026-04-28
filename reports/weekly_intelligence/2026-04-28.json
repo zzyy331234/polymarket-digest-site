@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T12:01:32",
+  "generated_at": "2026-04-28T12:31:33",
   "window_days": 7,
   "review_count": 80,
   "regime_stats": {
@@ -13,9 +13,9 @@
     },
     "trend": {
       "total": 25,
-      "hit": 2,
+      "hit": 1,
       "miss": 3,
-      "flat": 20,
+      "flat": 21,
       "unresolved": 0,
       "avg_confidence": 0.629
     },
@@ -31,9 +31,9 @@
   "cluster_stats": {
     "other": {
       "total": 30,
-      "hit": 5,
+      "hit": 4,
       "miss": 4,
-      "flat": 21,
+      "flat": 22,
       "unresolved": 0,
       "avg_confidence": 0.6253
     },
@@ -76,11 +76,11 @@
       },
       {
         "name": "trend",
-        "score": -0.32,
+        "score": -0.38,
         "total": 25,
-        "hit": 2,
+        "hit": 1,
         "miss": 3,
-        "flat": 20,
+        "flat": 21,
         "unresolved": 0,
         "avg_confidence": 0.629
       },
@@ -108,11 +108,11 @@
       },
       {
         "name": "trend",
-        "score": -0.32,
+        "score": -0.38,
         "total": 25,
-        "hit": 2,
+        "hit": 1,
         "miss": 3,
-        "flat": 20,
+        "flat": 21,
         "unresolved": 0,
         "avg_confidence": 0.629
       },
@@ -131,16 +131,6 @@
   "ranked_clusters": {
     "best": [
       {
-        "name": "other",
-        "score": -0.1833,
-        "total": 30,
-        "hit": 5,
-        "miss": 4,
-        "flat": 21,
-        "unresolved": 0,
-        "avg_confidence": 0.6253
-      },
-      {
         "name": "gta_vi",
         "score": -0.2,
         "total": 10,
@@ -149,6 +139,16 @@
         "flat": 8,
         "unresolved": 0,
         "avg_confidence": 0.622
+      },
+      {
+        "name": "other",
+        "score": -0.2333,
+        "total": 30,
+        "hit": 4,
+        "miss": 4,
+        "flat": 22,
+        "unresolved": 0,
+        "avg_confidence": 0.6253
       },
       {
         "name": "world_cup",
@@ -193,6 +193,16 @@
         "avg_confidence": 0.71
       },
       {
+        "name": "other",
+        "score": -0.2333,
+        "total": 30,
+        "hit": 4,
+        "miss": 4,
+        "flat": 22,
+        "unresolved": 0,
+        "avg_confidence": 0.6253
+      },
+      {
         "name": "gta_vi",
         "score": -0.2,
         "total": 10,
@@ -201,16 +211,6 @@
         "flat": 8,
         "unresolved": 0,
         "avg_confidence": 0.622
-      },
-      {
-        "name": "other",
-        "score": -0.1833,
-        "total": 30,
-        "hit": 5,
-        "miss": 4,
-        "flat": 21,
-        "unresolved": 0,
-        "avg_confidence": 0.6253
       }
     ]
   },
