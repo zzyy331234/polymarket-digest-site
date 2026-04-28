@@ -17,6 +17,16 @@
   URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
   原始题目: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
+- 主题盘：New Playboi Carti Album会先于 GTA VI 发生吗？
+  标签: 研究观察 | 方向=NO | conf=0.66 | evidence=0.48
+  类型: GTA VI 主题 / 均值回归
+  观点: 价格已处在阶段性高位，更像均值回归框架下的回落博弈，方向偏向 NO。
+  现在看它的原因: 它仍属于 GTA VI 主题盘，只能做跟踪，不适合给主栏位置。
+  链接（中文导读）: 中文导读：主题盘：New Playboi Carti Album会先于 GTA VI 发生吗？
+  Link (English source): English source: New Playboi Carti Album before GTA VI?
+  URL: https://polymarket.com/question/new-playboi-carti-album-before-gta-vi-421
+  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
+  原始题目: New Playboi Carti Album before GTA VI?
 
 ## 谨慎观察
 - 选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？ | 美国大选 / 趋势延续
@@ -49,13 +59,13 @@
   URL: https://polymarket.com/question/will-andrew-yang-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Andrew Yang win the 2028 Democratic presidential nomination?
-- 观察盘：Will the San Antonio Spurs win the 2026 NBA Finals? | 其他事件 | 均值回归
+- 选举盘：Gavin Newsom能否赢得 2028 民主党总统提名？ | 美国大选 | 均值回归
   避开原因: 噪音过高，方向不稳定
-  链接（中文导读）: 中文导读：观察盘：Will the San Antonio Spurs win the 2026 NBA Finals?
-  Link (English source): English source: Will the San Antonio Spurs win the 2026 NBA Finals?
-  URL: https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals
+  链接（中文导读）: 中文导读：选举盘：Gavin Newsom能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Gavin Newsom win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will the San Antonio Spurs win the 2026 NBA Finals?
+  原始题目: Will Gavin Newsom win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
 - 倾向保留: 均值回归 | score=-0.1552 | total=29
