@@ -17,16 +17,6 @@
   URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
   原始题目: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
-- 观察盘：Will the New York Knicks win the 2026 NBA Finals?
-  标签: 研究观察 | 方向=YES | conf=0.69 | evidence=0.53
-  类型: 其他事件 / 趋势延续
-  观点: 市场短线异动已经放大，当前更像趋势延续下的延续机会，方向偏向 YES。
-  现在看它的原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
-  链接（中文导读）: 中文导读：观察盘：Will the New York Knicks win the 2026 NBA Finals?
-  Link (English source): English source: Will the New York Knicks win the 2026 NBA Finals?
-  URL: https://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals
-  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will the New York Knicks win the 2026 NBA Finals?
 
 ## 谨慎观察
 - 选举盘：皮特·布蒂吉格能否赢得 2028 民主党总统提名？ | 美国大选 / 均值回归
@@ -59,13 +49,13 @@
   URL: https://polymarket.com/question/will-andrew-yang-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Andrew Yang win the 2028 Democratic presidential nomination?
-- 体育盘：Colorado Avalanche能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 | 均值回归
+- 选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 美国总统大选？ | 美国大选 | 均值回归
   避开原因: 噪音过高，方向不稳定
-  链接（中文导读）: 中文导读：体育盘：Colorado Avalanche能否赢得 2026 年 NHL 斯坦利杯？
-  Link (English source): English source: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
-  URL: https://polymarket.com/question/will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup
+  链接（中文导读）: 中文导读：选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will the Colorado Avalanche win the 2026 NHL Stanley Cup?
+  原始题目: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
 
 ## 周度偏好
 - 倾向保留: 均值回归 | score=-0.1724 | total=29
