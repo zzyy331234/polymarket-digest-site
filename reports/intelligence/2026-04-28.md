@@ -17,14 +17,11 @@
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
 ## 可直接关注的 Ready Alerts
+- [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Tre Johnson win the 2025–26 NBA Rookie of the Year award? | NO | conf=0.71 | catalyst=price_dislocation
-- [do_not_touch] Will the Winnipeg Jets win the 2026 NHL Stanley Cup? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Jesus Christ return before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
-- [do_not_touch] Will China invades Taiwan before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
 
 ## 观察名单
-- Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
-- Will China invades Taiwan before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
+- 当前无 watchlist。
 
 ## 今日避坑
 - Will Tre Johnson win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=carry_no | blocking=
@@ -34,7 +31,7 @@
 - Will the Miami Heat win the 2026 NBA Finals? | cluster=other | regime=carry_no | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 178, 'hit': 9, 'pending': 7, 'miss': 6}
+- outcomes: {'flat': 138, 'miss': 32, 'hit': 23, 'pending': 7}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

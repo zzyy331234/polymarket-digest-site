@@ -19,20 +19,7 @@
   原始题目: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
 
 ## 谨慎观察
-- 主题盘：耶稣基督会先于 GTA VI 发生吗？ | GTA VI 主题 / 均值回归
-  观察原因: 它仍属于 GTA VI 主题盘，只能做跟踪，不适合给主栏位置。
-  链接（中文导读）: 中文导读：主题盘：耶稣基督会先于 GTA VI 发生吗？
-  Link (English source): English source: Will Jesus Christ return before GTA VI?
-  URL: https://polymarket.com/question/will-jesus-christ-return-before-gta-vi-665
-  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will Jesus Christ return before GTA VI?
-- 主题盘：China invades Taiwan会先于 GTA VI 发生吗？ | GTA VI 主题 / 均值回归
-  观察原因: 它仍属于 GTA VI 主题盘，只能做跟踪，不适合给主栏位置。
-  链接（中文导读）: 中文导读：主题盘：China invades Taiwan会先于 GTA VI 发生吗？
-  Link (English source): English source: Will China invades Taiwan before GTA VI?
-  URL: https://polymarket.com/question/will-china-invades-taiwan-before-gta-vi-716
-  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will China invades Taiwan before GTA VI?
+- 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
 - 观察盘：Will Tre Johnson win the 2025–26 NBA Rookie of the Year award? | 其他事件 | 低效拖时间盘
@@ -55,10 +42,10 @@
   原始题目: Will the Columbus Blue Jackets win the 2026 NHL Stanley Cup?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.1875 | total=32
-- 倾向保留: 趋势延续 | score=-0.3043 | total=23
-- 应继续降权: 美国大选 | score=-0.5 | flat=25
-- 应继续降权: 世界杯主题 | score=-0.5 | flat=16
+- 倾向保留: 趋势延续 | score=0.2115 | total=26
+- 倾向保留: 均值回归 | score=0.1897 | total=29
+- 应继续降权: 美国大选 | score=-0.2083 | flat=12
+- 应继续降权: 世界杯主题 | score=-0.125 | flat=4
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
