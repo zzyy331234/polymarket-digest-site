@@ -17,26 +17,21 @@
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
 ## 可直接关注的 Ready Alerts
-- [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [watch] Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | YES | conf=0.67 | catalyst=price_dislocation
-- [watch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | NO | conf=0.66 | catalyst=price_dislocation
+- [do_not_touch] Will Tre Johnson win the 2025–26 NBA Rookie of the Year award? | NO | conf=0.71 | catalyst=price_dislocation
+- [do_not_touch] Will the Winnipeg Jets win the 2026 NHL Stanley Cup? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Jesus Christ return before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
-- [do_not_touch] Will bitcoin hit $1m before GTA VI? | YES | conf=0.62 | catalyst=theme_cluster
-- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
+- [do_not_touch] Will China invades Taiwan before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
 
 ## 观察名单
-- Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=-0.067, 24h=0.078).
-- Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.006, 24h=0.054).
-- Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
-- Will Jon Ossoff win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.000, 24h=0.051).
 - Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
+- Will China invades Taiwan before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
 
 ## 今日避坑
-- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- Will Panama win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability, deep_tail_world_cup
-- Will Ivory Coast win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability, deep_tail_world_cup
+- Will Tre Johnson win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=carry_no | blocking=
+- Will the Winnipeg Jets win the 2026 NHL Stanley Cup? | cluster=other | regime=carry_no | blocking=
+- Will the Columbus Blue Jackets win the 2026 NHL Stanley Cup? | cluster=other | regime=carry_no | blocking=
+- Will the Golden State Warriors win the 2026 NBA Finals? | cluster=other | regime=carry_no | blocking=
+- Will the Miami Heat win the 2026 NBA Finals? | cluster=other | regime=carry_no | blocking=
 
 ## 后验复盘快照
 - outcomes: {'flat': 178, 'hit': 9, 'pending': 7, 'miss': 6}

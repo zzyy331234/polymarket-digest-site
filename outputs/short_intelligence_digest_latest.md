@@ -19,47 +19,44 @@
   原始题目: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
 
 ## 谨慎观察
-- 选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 美国总统大选？ | 美国大选 / 趋势延续
-  观察原因: 短周期价格已经出现可见偏移，这类信号更适合放进今日观察池，而不是直接忽略。
-  链接（中文导读）: 中文导读：选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 美国总统大选？
-  Link (English source): English source: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
-  URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
-  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
-- 选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 民主党总统提名？ | 美国大选 / 均值回归
-  观察原因: 短周期价格已经出现可见偏移，这类信号更适合放进今日观察池，而不是直接忽略。
-  链接（中文导读）: 中文导读：选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653
+- 主题盘：耶稣基督会先于 GTA VI 发生吗？ | GTA VI 主题 / 均值回归
+  观察原因: 它仍属于 GTA VI 主题盘，只能做跟踪，不适合给主栏位置。
+  链接（中文导读）: 中文导读：主题盘：耶稣基督会先于 GTA VI 发生吗？
+  Link (English source): English source: Will Jesus Christ return before GTA VI?
+  URL: https://polymarket.com/question/will-jesus-christ-return-before-gta-vi-665
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
+  原始题目: Will Jesus Christ return before GTA VI?
+- 主题盘：China invades Taiwan会先于 GTA VI 发生吗？ | GTA VI 主题 / 均值回归
+  观察原因: 它仍属于 GTA VI 主题盘，只能做跟踪，不适合给主栏位置。
+  链接（中文导读）: 中文导读：主题盘：China invades Taiwan会先于 GTA VI 发生吗？
+  Link (English source): English source: Will China invades Taiwan before GTA VI?
+  URL: https://polymarket.com/question/will-china-invades-taiwan-before-gta-vi-716
+  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
+  原始题目: Will China invades Taiwan before GTA VI?
 
 ## 今天不碰
-- 选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  避开原因: 流动性差，退出困难
-  链接（中文导读）: 中文导读：选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination
+- 观察盘：Will Tre Johnson win the 2025–26 NBA Rookie of the Year award? | 其他事件 | 低效拖时间盘
+  链接（中文导读）: 中文导读：观察盘：Will Tre Johnson win the 2025–26 NBA Rookie of the Year award?
+  Link (English source): English source: Will Tre Johnson win the 2025–26 NBA Rookie of the Year award?
+  URL: https://polymarket.com/question/will-tre-johnson-win-the-202526-nba-rookie-of-the-year-award
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-- 选举盘：乔治·克鲁尼能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  避开原因: 流动性差，退出困难
-  链接（中文导读）: 中文导读：选举盘：乔治·克鲁尼能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will George Clooney win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-george-clooney-win-the-2028-democratic-presidential-nomination
+  原始题目: Will Tre Johnson win the 2025–26 NBA Rookie of the Year award?
+- 体育盘：Winnipeg Jets能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 | 低效拖时间盘
+  链接（中文导读）: 中文导读：体育盘：Winnipeg Jets能否赢得 2026 年 NHL 斯坦利杯？
+  Link (English source): English source: Will the Winnipeg Jets win the 2026 NHL Stanley Cup?
+  URL: https://polymarket.com/question/will-the-winnipeg-jets-win-the-2026-nhl-stanley-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will George Clooney win the 2028 Democratic presidential nomination?
-- 选举盘：Tim Walz能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  避开原因: 流动性差，退出困难
-  链接（中文导读）: 中文导读：选举盘：Tim Walz能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Tim Walz win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-tim-walz-win-the-2028-democratic-presidential-nomination-475
+  原始题目: Will the Winnipeg Jets win the 2026 NHL Stanley Cup?
+- 体育盘：Columbus Blue Jackets能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 | 低效拖时间盘
+  链接（中文导读）: 中文导读：体育盘：Columbus Blue Jackets能否赢得 2026 年 NHL 斯坦利杯？
+  Link (English source): English source: Will the Columbus Blue Jackets win the 2026 NHL Stanley Cup?
+  URL: https://polymarket.com/question/will-the-columbus-blue-jackets-win-the-2026-nhl-stanley-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
+  原始题目: Will the Columbus Blue Jackets win the 2026 NHL Stanley Cup?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.1667 | total=30
-- 倾向保留: 趋势延续 | score=-0.32 | total=25
+- 倾向保留: 均值回归 | score=-0.1875 | total=32
+- 倾向保留: 趋势延续 | score=-0.3043 | total=23
 - 应继续降权: 美国大选 | score=-0.5 | flat=25
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=16
 
