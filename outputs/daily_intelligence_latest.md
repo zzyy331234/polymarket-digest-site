@@ -18,28 +18,28 @@
 
 ## 可直接关注的 Ready Alerts
 - [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [watch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
-- [watch] Will Jon Ossoff win the 2028 Democratic presidential nomination? | YES | conf=0.67 | catalyst=price_dislocation
+- [watch] Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | YES | conf=0.67 | catalyst=price_dislocation
+- [watch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | NO | conf=0.66 | catalyst=price_dislocation
 - [do_not_touch] Will Jesus Christ return before GTA VI? | NO | conf=0.62 | catalyst=theme_cluster
 - [do_not_touch] Will bitcoin hit $1m before GTA VI? | YES | conf=0.62 | catalyst=theme_cluster
 - [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
 
 ## 观察名单
-- Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.010, 24h=0.101).
-- Will Jon Ossoff win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.009, 24h=0.073).
+- Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=-0.067, 24h=0.078).
 - Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.006, 24h=0.054).
 - Will Pete Buttigieg win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
+- Will Jon Ossoff win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.000, 24h=0.051).
 - Will Jesus Christ return before GTA VI? | cluster=gta_vi | regime=mean_revert | why=Relevant within active cluster=gta_vi and current regime=mean_revert.
 
 ## 今日避坑
 - Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
-- New Playboi Carti Album before GTA VI? | cluster=gta_vi | regime=mean_revert | blocking=high_noise
+- Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
+- Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=low_tradability
 - Will Panama win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability, deep_tail_world_cup
 - Will Ivory Coast win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability, deep_tail_world_cup
-- Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability, deep_tail_world_cup
 
 ## 后验复盘快照
-- outcomes: {'flat': 180, 'hit': 8, 'pending': 7, 'miss': 5}
+- outcomes: {'flat': 178, 'hit': 9, 'pending': 7, 'miss': 6}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

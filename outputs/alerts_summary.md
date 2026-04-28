@@ -6,17 +6,17 @@
 - URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 2. [trend] YES conf=0.69
-- 问题: Will Kamala Harris win the 2028 US Presidential Election?
+## 2. [trend] YES conf=0.67
+- 问题: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-us-presidential-election
-- 原因: 24h move strong, 7d move strong, 24h and 7d aligned
+- URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
+- 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 3. [trend] YES conf=0.67
-- 问题: Will Jon Ossoff win the 2028 Democratic presidential nomination?
+## 3. [mean_revert] NO conf=0.66
+- 问题: Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885
-- 原因: 24h move strong, 7d move strong, 4h and 24h aligned
+- URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653
+- 原因: upper percentile fade setup, RSI extreme, 24h move extended
 
 ## 4. [mean_revert] NO conf=0.62
 - 问题: Will Jesus Christ return before GTA VI?
