@@ -1,12 +1,11 @@
 # Proposed Config Patch
 
-- 生成时间: 2026-04-28T14:16:59
+- 生成时间: 2026-04-28T14:32:06
 - requires_manual_review: True
-- change_count: 2
+- change_count: 1
 
 ## Proposed Changes
 - discipline_v2.buckets.high_confidence_min: 0.7 -> 0.72 | win_rate=0.00%, flat_rate=100.00%, pnl=0.0000
-- discipline_v2.execution.overrides.observe_only_regimes: add carry_no | flat_rate=100.00%, pnl=0.0000, closed=7
 
 ## Proposed Config Excerpt
 {
@@ -38,9 +37,7 @@
         "blocked_regimes": [
           "carry_no"
         ],
-        "observe_only_regimes": [
-          "carry_no"
-        ]
+        "observe_only_regimes": []
       }
     },
     "release_gates": {

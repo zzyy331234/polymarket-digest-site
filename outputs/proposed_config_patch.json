@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-28T14:16:59",
+  "generated_at": "2026-04-28T14:32:06",
   "requires_manual_review": true,
   "summary_source": "/Users/mac/.openclaw/workspace/polymarket/outputs/paper_summary.json",
-  "change_count": 2,
+  "change_count": 1,
   "changes": [
     {
       "path": "discipline_v2.buckets.high_confidence_min",
@@ -10,12 +10,6 @@
       "from": 0.7,
       "to": 0.72,
       "reason": "win_rate=0.00%, flat_rate=100.00%, pnl=0.0000"
-    },
-    {
-      "path": "discipline_v2.execution.overrides.observe_only_regimes",
-      "action": "add",
-      "value": "carry_no",
-      "reason": "flat_rate=100.00%, pnl=0.0000, closed=7"
     }
   ],
   "proposed_config_excerpt": {
@@ -47,9 +41,7 @@
           "blocked_regimes": [
             "carry_no"
           ],
-          "observe_only_regimes": [
-            "carry_no"
-          ]
+          "observe_only_regimes": []
         }
       },
       "release_gates": {

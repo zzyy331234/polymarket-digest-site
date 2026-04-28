@@ -13,9 +13,9 @@
 - 原因: upper percentile fade setup, RSI extreme, 24h move extended
 
 ## 3. [mean_revert] NO conf=0.66
-- 问题: Will Gavin Newsom win the 2028 Democratic presidential nomination?
+- 问题: Will Kamala Harris win the 2028 Democratic presidential nomination?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568
+- URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641
 - 原因: upper percentile fade setup, RSI extreme, 24h move extended
 
 ## 4. [mean_revert] NO conf=0.62

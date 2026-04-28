@@ -26,13 +26,13 @@
   URL: https://polymarket.com/question/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
   原始题目: Will Pete Buttigieg win the 2028 Democratic presidential nomination?
-- 选举盘：Gavin Newsom能否赢得 2028 民主党总统提名？ | 美国大选 / 均值回归
+- 选举盘：Kamala Harris能否赢得 2028 民主党总统提名？ | 美国大选 / 均值回归
   观察原因: 它属于“美国大选”里的均值回归型线索，虽然爆发力一般，但还值得继续盯一眼。
-  链接（中文导读）: 中文导读：选举盘：Gavin Newsom能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Gavin Newsom win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568
+  链接（中文导读）: 中文导读：选举盘：Kamala Harris能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Kamala Harris win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will Gavin Newsom win the 2028 Democratic presidential nomination?
+  原始题目: Will Kamala Harris win the 2028 Democratic presidential nomination?
 
 ## 今天不碰
 - 选举盘：乔治·克鲁尼能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘

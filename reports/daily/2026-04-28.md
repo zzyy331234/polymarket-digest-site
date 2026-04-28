@@ -4,7 +4,7 @@
 - 当前阶段：paper_trade / discipline v2
 - Paper → Micro Live 放行：未达标，继续 paper
 - 最新 paper：realized_trade_count=15 / win_rate=6.67% / flat_rate=60.00% / total_realized_pnl_like=-0.1477
-- 最新 proposal：change_count=2 / requires_manual_review=True
+- 最新 proposal：change_count=1 / requires_manual_review=True
 
 ## 当前配置与执行口径
 - bucket_thresholds: {'high_confidence_min': 0.7, 'main_pool_min': 0.58, 'research_min': 0.5}
@@ -14,7 +14,7 @@
 - overrides: {'blocked_clusters': ['world_cup'], 'observe_only_clusters': ['us_election'], 'blocked_regimes': ['carry_no'], 'observe_only_regimes': []}
 
 ## 最新周期
-- ran_at: 2026-04-28T14:16:59
+- ran_at: 2026-04-28T14:32:06
 - ready_count: 6 / ready_buckets: {'main_pool': 6}
 - opened: 0 / opened_buckets: {}
 - closed: 0 / skipped: 0 / skipped_buckets: {}
@@ -31,11 +31,10 @@
 - thresholds: {'min_closed_trades': 30, 'min_win_rate': 0.55, 'min_avg_win_loss_ratio_like': 1.3, 'max_consecutive_losses': 3, 'max_flat_rate': 0.5}
 
 ## Proposal
-- generated_at: 2026-04-28T14:16:59
-- change_count: 2
+- generated_at: 2026-04-28T14:32:06
+- change_count: 1
 - requires_manual_review: True
 - discipline_v2.buckets.high_confidence_min: 0.7 -> 0.72 | win_rate=0.00%, flat_rate=100.00%, pnl=0.0000
-- discipline_v2.execution.overrides.observe_only_regimes: add carry_no | flat_rate=100.00%, pnl=0.0000, closed=7
 
 ## Top Recommendations
 - [high] bucket/high_confidence -> tighten_gate | win_rate=0.00%, flat_rate=100.00%, pnl=0.0000
