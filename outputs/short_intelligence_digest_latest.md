@@ -17,6 +17,16 @@
   URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
   原始题目: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
+- 观察盘：Will the Boston Celtics win the 2026 NBA Finals?
+  标签: 研究观察 | 方向=NO | conf=0.69 | evidence=0.53
+  类型: 其他事件 / 趋势延续
+  观点: 市场短线异动已经放大，当前更像趋势延续下的延续机会，方向偏向 NO。
+  现在看它的原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
+  链接（中文导读）: 中文导读：观察盘：Will the Boston Celtics win the 2026 NBA Finals?
+  Link (English source): English source: Will the Boston Celtics win the 2026 NBA Finals?
+  URL: https://polymarket.com/question/will-the-boston-celtics-win-the-2026-nba-finals
+  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
+  原始题目: Will the Boston Celtics win the 2026 NBA Finals?
 - 观察盘：Will the San Antonio Spurs win the 2026 NBA Finals?
   标签: 研究观察 | 方向=NO | conf=0.66 | evidence=0.48
   类型: 其他事件 / 均值回归
@@ -27,25 +37,8 @@
   URL: https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals
   值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
   原始题目: Will the San Antonio Spurs win the 2026 NBA Finals?
-- 主题盘：New Playboi Carti Album会先于 GTA VI 发生吗？
-  标签: 研究观察 | 方向=YES | conf=0.66 | evidence=0.48
-  类型: GTA VI 主题 / 均值回归
-  观点: 短线指标已偏极端，继续追价性价比一般，更适合按均值回归思路处理。
-  现在看它的原因: 它仍属于 GTA VI 主题盘，只能做跟踪，不适合给主栏位置。
-  链接（中文导读）: 中文导读：主题盘：New Playboi Carti Album会先于 GTA VI 发生吗？
-  Link (English source): English source: New Playboi Carti Album before GTA VI?
-  URL: https://polymarket.com/question/new-playboi-carti-album-before-gta-vi-421
-  值得点开的原因: 因为短线指标已经偏极端，点开原盘可以先看有没有继续被情绪推着走。
-  原始题目: New Playboi Carti Album before GTA VI?
 
 ## 谨慎观察
-- 选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？ | 美国大选 / 趋势延续
-  观察原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
-  链接（中文导读）: 中文导读：选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Jon Ossoff win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885
-  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will Jon Ossoff win the 2028 Democratic presidential nomination?
 - 选举盘：Kamala Harris能否赢得 2028 美国总统大选？ | 美国大选 / 趋势延续
   观察原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
   链接（中文导读）: 中文导读：选举盘：Kamala Harris能否赢得 2028 美国总统大选？
@@ -53,6 +46,13 @@
   URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-us-presidential-election
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
   原始题目: Will Kamala Harris win the 2028 US Presidential Election?
+- 选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？ | 美国大选 / 趋势延续
+  观察原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
+  链接（中文导读）: 中文导读：选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Jon Ossoff win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885
+  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
+  原始题目: Will Jon Ossoff win the 2028 Democratic presidential nomination?
 
 ## 今天不碰
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
@@ -77,8 +77,8 @@
   原始题目: Will Switzerland win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.6529 | total=17
-- 倾向保留: 均值回归 | score=0.2258 | total=31
+- 倾向保留: 趋势延续 | score=0.5941 | total=17
+- 倾向保留: 均值回归 | score=0.1613 | total=31
 - 应继续降权: 世界杯主题 | score=-0.1176 | flat=4
 - 应继续降权: 美国大选 | score=0.1296 | flat=1
 

@@ -16,14 +16,21 @@
 - why_now: Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.251).
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
-### 2. Will the San Antonio Spurs win the 2026 NBA Finals? [research] 
+### 2. Will the Boston Celtics win the 2026 NBA Finals? [research] 
+- 方向: NO | conf=0.69 | evidence=0.53
+- regime/cluster: trend / other
+- thesis: [trend] NO on 'Will the Boston Celtics win the 2026 NBA Finals?' because 4h move visible.
+- why_now: Short-term dislocation detected (1h=0.000, 4h=-0.179, 24h=-0.179).
+- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
+
+### 3. Will the San Antonio Spurs win the 2026 NBA Finals? [research] 
 - 方向: NO | conf=0.66 | evidence=0.48
 - regime/cluster: mean_revert / other
 - thesis: [mean_revert] NO on 'Will the San Antonio Spurs win the 2026 NBA Finals?' because upper percentile fade setup.
 - why_now: Relevant within active cluster=other and current regime=mean_revert.
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
-### 3. New Playboi Carti Album before GTA VI? [research] 
+### 4. New Playboi Carti Album before GTA VI? [research] 
 - 方向: YES | conf=0.66 | evidence=0.48
 - regime/cluster: mean_revert / gta_vi
 - thesis: [mean_revert] YES on 'New Playboi Carti Album before GTA VI?' because lower percentile bounce setup.
@@ -32,18 +39,18 @@
 
 ## 可直接关注的 Ready Alerts
 - [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
+- [research] Will the Boston Celtics win the 2026 NBA Finals? | NO | conf=0.69 | catalyst=price_dislocation
 - [research] New Playboi Carti Album before GTA VI? | YES | conf=0.66 | catalyst=theme_cluster
-- [watch] Will Jon Ossoff win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
 - [watch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
-- [watch] Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | YES | conf=0.63 | catalyst=price_dislocation
+- [watch] Will Jon Ossoff win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Colombia win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
-- Will Jon Ossoff win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.120, 24h=0.120).
 - Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.293, 24h=0.293).
+- Will Jon Ossoff win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.120, 24h=0.120).
 - Will Josh Shapiro win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.095, 24h=0.095).
 - Will Marco Rubio win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
-- Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.873, 24h=0.873).
+- Will the New York Knicks win the 2026 NBA Finals? | cluster=other | regime=trend | why=Relevant within active cluster=other and current regime=trend.
 
 ## 今日避坑
 - Will Colombia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
@@ -53,7 +60,7 @@
 - Will Belgium win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability
 
 ## 后验复盘快照
-- outcomes: {'pending': 17, 'flat': 114, 'hit': 21, 'miss': 48}
+- outcomes: {'pending': 17, 'flat': 116, 'hit': 19, 'miss': 48}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
