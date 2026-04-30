@@ -19,9 +19,9 @@
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 4. [trend] YES conf=0.69
-- 问题: Will Jon Ossoff win the 2028 Democratic presidential nomination?
+- 问题: Will Josh Shapiro win the 2028 Democratic presidential nomination?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885
+- URL: https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 5. [carry_no] NO conf=0.71

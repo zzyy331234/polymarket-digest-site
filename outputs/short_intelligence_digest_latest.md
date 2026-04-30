@@ -46,13 +46,13 @@
   URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-us-presidential-election
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
   原始题目: Will Kamala Harris win the 2028 US Presidential Election?
-- 选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？ | 美国大选 / 趋势延续
-  观察原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
-  链接（中文导读）: 中文导读：选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Jon Ossoff win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885
+- 选举盘：Josh Shapiro能否赢得 2028 民主党总统提名？ | 美国大选 / 趋势延续
+  观察原因: 短周期价格已经出现可见偏移，这类信号更适合放进今日观察池，而不是直接忽略。
+  链接（中文导读）: 中文导读：选举盘：Josh Shapiro能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Josh Shapiro win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will Jon Ossoff win the 2028 Democratic presidential nomination?
+  原始题目: Will Josh Shapiro win the 2028 Democratic presidential nomination?
 
 ## 今天不碰
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
