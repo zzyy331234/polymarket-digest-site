@@ -17,12 +17,8 @@
       "liquidity good",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.9995,
     "no_price": 0.0005,
@@ -59,7 +55,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.69,
+    "pipeline_score": 0.72,
     "market_url": "https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
     "templates": {
       "short": "[trend] YES conf=0.69 | Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
@@ -69,69 +65,65 @@
     "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.9995\nWill Cooper Flagg win the 2025–26 NBA Rookie of the Year award?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award"
   },
   {
-    "token_id": "102392556265434728216101472364668383473620374340120864121726043987514470889179",
-    "question": "Will Tre Johnson win the 2025–26 NBA Rookie of the Year award?",
-    "slug": "will-tre-johnson-win-the-202526-nba-rookie-of-the-year-award",
-    "regime": "carry_no",
+    "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
+    "question": "Putin out as President of Russia by December 31, 2026?",
+    "slug": "putin-out-before-2027",
+    "regime": "mean_revert",
     "direction": "NO",
-    "confidence": 0.71,
-    "position": "medium",
-    "quality": 0.7,
-    "risk_score": 0.25,
+    "confidence": 0.624,
+    "position": "small",
+    "quality": 0.61,
+    "risk_score": 0.32,
     "reasons": [
-      "ultra low YES price",
-      "better classified as carry_no than trend",
+      "upper percentile fade setup",
+      "RSI extreme",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
-    "yes_price": 0.0005,
-    "no_price": 0.9995,
-    "liquidity": 356544.35,
-    "volume": 193443.83,
+    "yes_price": 0.115,
+    "no_price": 0.885,
+    "liquidity": 208360.12,
+    "volume": 4270273.57,
     "chg_1h": 0.0,
-    "chg_4h": -0.9523809523809523,
+    "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-04-28T11:10:00",
+    "chg_7d": 0.21052631578947373,
+    "latest_ts": "2026-04-28T20:44:04",
     "features": {
-      "token_id": "102392556265434728216101472364668383473620374340120864121726043987514470889179",
-      "question": "Will Tre Johnson win the 2025–26 NBA Rookie of the Year award?",
-      "slug": "will-tre-johnson-win-the-202526-nba-rookie-of-the-year-award",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "liquidity": 356544.35066,
-      "volume": 193443.833528,
-      "latest_ts": "2026-04-28T11:10:00",
-      "history_points": 9739,
+      "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "slug": "putin-out-before-2027",
+      "yes_price": 0.115,
+      "no_price": 0.885,
+      "liquidity": 208360.1236,
+      "volume": 4270273.573890949,
+      "latest_ts": "2026-04-28T20:44:04",
+      "history_points": 10240,
       "chg_1h": 0.0,
-      "chg_4h": -0.9523809523809523,
+      "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
-      "rsi_14": 12.078645360228577,
+      "chg_7d": 0.21052631578947373,
+      "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
-      "trend_slope_24h": 6.2780194976238285e-06,
-      "pct_rank_7d": 0.9409435829759155,
-      "pct_rank_30d": 0.9531779443474689,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 0.92119140625,
       "noise_score": 0.0,
-      "hours_to_event": 468.8333333333333,
-      "event_time": "2026-05-18",
+      "hours_to_event": 5907.265555555556,
+      "event_time": "2026-12-31",
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.6799999999999999,
-    "market_url": "https://polymarket.com/question/will-tre-johnson-win-the-202526-nba-rookie-of-the-year-award",
+    "pipeline_score": 0.644,
+    "market_url": "https://polymarket.com/question/putin-out-before-2027",
     "templates": {
-      "short": "[carry_no] NO conf=0.71 | Will Tre Johnson win the 2025–26 NBA Rookie of the Year award? | https://polymarket.com/question/will-tre-johnson-win-the-202526-nba-rookie-of-the-year-award",
-      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Tre Johnson win the 2025–26 NBA Rookie of the Year award?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-tre-johnson-win-the-202526-nba-rookie-of-the-year-award",
-      "execution": "执行候选：[carry_no] NO\n问题：Will Tre Johnson win the 2025–26 NBA Rookie of the Year award?\n建议仓位：medium\n当前YES：0.0005\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-tre-johnson-win-the-202526-nba-rookie-of-the-year-award"
+      "short": "[mean_revert] NO conf=0.62 | Putin out as President of Russia by December 31, 2026? | https://polymarket.com/question/putin-out-before-2027",
+      "detailed": "[mean_revert] NO | conf=0.62 | pos=small | yes=0.1150\nPutin out as President of Russia by December 31, 2026?\n原因: upper percentile fade setup, RSI extreme\nhttps://polymarket.com/question/putin-out-before-2027",
+      "execution": "执行候选：[mean_revert] NO\n问题：Putin out as President of Russia by December 31, 2026?\n建议仓位：small\n当前YES：0.1150\n置信度：0.62\n理由：upper percentile fade setup, RSI extreme\n链接：https://polymarket.com/question/putin-out-before-2027"
     },
-    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Tre Johnson win the 2025–26 NBA Rookie of the Year award?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-tre-johnson-win-the-202526-nba-rookie-of-the-year-award"
+    "alert_text": "[mean_revert] NO | conf=0.62 | pos=small | yes=0.1150\nPutin out as President of Russia by December 31, 2026?\n原因: upper percentile fade setup, RSI extreme\nhttps://polymarket.com/question/putin-out-before-2027"
   }
 ]
