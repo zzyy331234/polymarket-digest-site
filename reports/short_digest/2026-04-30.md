@@ -27,16 +27,16 @@
   URL: https://polymarket.com/question/will-the-philadelphia-flyers-win-the-2026-nhl-stanley-cup
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
   原始题目: Will the Philadelphia Flyers win the 2026 NHL Stanley Cup?
-- 观察盘：Will the Cleveland Cavaliers win the 2026 NBA Finals?
-  标签: 研究观察 | 方向=YES | conf=0.66 | evidence=0.50
+- 观察盘：Will the Los Angeles Lakers win the 2026 NBA Finals?
+  标签: 研究观察 | 方向=YES | conf=0.68 | evidence=0.52
   类型: 其他事件 / 趋势延续
   观点: 市场短线异动已经放大，当前更像趋势延续下的延续机会，方向偏向 YES。
   现在看它的原因: 短周期价格已经出现可见偏移，这类信号更适合放进今日观察池，而不是直接忽略。
-  链接（中文导读）: 中文导读：观察盘：Will the Cleveland Cavaliers win the 2026 NBA Finals?
-  Link (English source): English source: Will the Cleveland Cavaliers win the 2026 NBA Finals?
-  URL: https://polymarket.com/question/will-the-cleveland-cavaliers-win-the-2026-nba-finals
+  链接（中文导读）: 中文导读：观察盘：Will the Los Angeles Lakers win the 2026 NBA Finals?
+  Link (English source): English source: Will the Los Angeles Lakers win the 2026 NBA Finals?
+  URL: https://polymarket.com/question/will-the-los-angeles-lakers-win-the-2026-nba-finals
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will the Cleveland Cavaliers win the 2026 NBA Finals?
+  原始题目: Will the Los Angeles Lakers win the 2026 NBA Finals?
 
 ## 谨慎观察
 - 选举盘：唐纳德·特朗普能否赢得 2028 美国总统大选？ | 美国大选 / 趋势延续
@@ -71,14 +71,14 @@
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: 流动性差，退出困难
   链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Switzerland win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-switzerland-win-the-2026-fifa-world-cup
+  Link (English source): English source: Will Mexico win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-mexico-win-the-2026-fifa-world-cup-529
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Switzerland win the 2026 FIFA World Cup?
+  原始题目: Will Mexico win the 2026 FIFA World Cup?
 
 ## 周度偏好
 - 倾向保留: 趋势延续 | score=0.5353 | total=17
-- 倾向保留: 均值回归 | score=0.2742 | total=31
+- 倾向保留: 均值回归 | score=0.2258 | total=31
 - 应继续降权: 世界杯主题 | score=-0.0526 | flat=2
 - 应继续降权: 美国大选 | score=0.1296 | flat=1
 
