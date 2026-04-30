@@ -33,10 +33,10 @@
   原始题目: Will Mexico win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.505 | total=20
-- 倾向保留: 均值回归 | score=0.1964 | total=28
+- 倾向保留: 趋势延续 | score=0.3609 | total=23
+- 倾向保留: 均值回归 | score=0.1333 | total=30
 - 应继续降权: 世界杯主题 | score=-0.0526 | flat=2
-- 应继续降权: 其他事件 | score=0.1042 | flat=2
+- 应继续降权: 其他事件 | score=0.0851 | flat=6
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。

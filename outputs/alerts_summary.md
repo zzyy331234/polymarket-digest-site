@@ -7,9 +7,9 @@
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 2. [trend] YES conf=0.69
-- 问题: Will the Philadelphia Flyers win the 2026 NHL Stanley Cup?
+- 问题: Will the Los Angeles Lakers win the 2026 NBA Finals?
 - Cluster: other
-- URL: https://polymarket.com/question/will-the-philadelphia-flyers-win-the-2026-nhl-stanley-cup
+- URL: https://polymarket.com/question/will-the-los-angeles-lakers-win-the-2026-nba-finals
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 3. [carry_no] NO conf=0.71
