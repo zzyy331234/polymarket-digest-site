@@ -6,8 +6,32 @@
 - URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 2. [mean_revert] NO conf=0.62
-- 问题: Putin out as President of Russia by December 31, 2026?
+## 2. [trend] YES conf=0.69
+- 问题: Will Kamala Harris win the 2028 US Presidential Election?
+- Cluster: us_election
+- URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-us-presidential-election
+- 原因: 4h move visible, 24h move strong, 7d move strong
+
+## 3. [trend] YES conf=0.69
+- 问题: Will Jon Ossoff win the 2028 Democratic presidential nomination?
+- Cluster: us_election
+- URL: https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885
+- 原因: 4h move visible, 24h move strong, 7d move strong
+
+## 4. [carry_no] NO conf=0.71
+- 问题: Will Uruguay win the 2026 FIFA World Cup?
+- Cluster: world_cup
+- URL: https://polymarket.com/question/will-uruguay-win-the-2026-fifa-world-cup-932
+- 原因: ultra low YES price, better classified as carry_no than trend, cluster=world_cup
+
+## 5. [carry_no] NO conf=0.71
+- 问题: Will Colombia win the 2026 FIFA World Cup?
+- Cluster: world_cup
+- URL: https://polymarket.com/question/will-colombia-win-the-2026-fifa-world-cup-734
+- 原因: ultra low YES price, better classified as carry_no than trend, cluster=world_cup
+
+## 6. [mean_revert] NO conf=0.66
+- 问题: Will the San Antonio Spurs win the 2026 NBA Finals?
 - Cluster: other
-- URL: https://polymarket.com/question/putin-out-before-2027
-- 原因: upper percentile fade setup, RSI extreme, cluster=other
+- URL: https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals
+- 原因: upper percentile fade setup, RSI extreme, 24h move extended

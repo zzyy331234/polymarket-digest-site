@@ -16,22 +16,65 @@
 - why_now: Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.251).
 - do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
 
+### 2. Will the Cleveland Cavaliers win the 2026 NBA Finals? [research] 
+- 方向: YES | conf=0.65 | evidence=0.49
+- regime/cluster: trend / other
+- thesis: [trend] YES on 'Will the Cleveland Cavaliers win the 2026 NBA Finals?' because 4h move visible.
+- why_now: Short-term dislocation detected (1h=0.000, 4h=0.055, 24h=0.055).
+- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
+
+### 3. Will the San Antonio Spurs win the 2026 NBA Finals? [research] 
+- 方向: NO | conf=0.66 | evidence=0.48
+- regime/cluster: mean_revert / other
+- thesis: [mean_revert] NO on 'Will the San Antonio Spurs win the 2026 NBA Finals?' because upper percentile fade setup.
+- why_now: Relevant within active cluster=other and current regime=mean_revert.
+- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
+
+### 4. Will the Montreal Canadiens win the 2026 NHL Stanley Cup? [research] 
+- 方向: NO | conf=0.66 | evidence=0.48
+- regime/cluster: mean_revert / other
+- thesis: [mean_revert] NO on 'Will the Montreal Canadiens win the 2026 NHL Stanley Cup?' because upper percentile fade setup.
+- why_now: Short-term dislocation detected (1h=0.000, 4h=0.873, 24h=0.873).
+- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
+
+### 5. Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup? [research] 
+- 方向: YES | conf=0.66 | evidence=0.48
+- regime/cluster: mean_revert / other
+- thesis: [mean_revert] YES on 'Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?' because lower percentile bounce setup.
+- why_now: Short-term dislocation detected (1h=0.000, 4h=-0.277, 24h=-0.277).
+- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
+
+### 6. New Playboi Carti Album before GTA VI? [research] 
+- 方向: YES | conf=0.66 | evidence=0.48
+- regime/cluster: mean_revert / gta_vi
+- thesis: [mean_revert] YES on 'New Playboi Carti Album before GTA VI?' because lower percentile bounce setup.
+- why_now: Relevant within active cluster=gta_vi and current regime=mean_revert.
+- do_not_trade_if: GTA VI themed cluster remains flat-heavy and should stay observational unless new catalyst appears.; Liquidity/exit quality deteriorates materially before action.
+
 ## 可直接关注的 Ready Alerts
 - [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
+- [research] Will the San Antonio Spurs win the 2026 NBA Finals? | NO | conf=0.66 | catalyst=mean_reversion
+- [watch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
+- [watch] Will Jon Ossoff win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will Uruguay win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
+- [do_not_touch] Will Colombia win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
-- Putin out as President of Russia by December 31, 2026? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
+- Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.293, 24h=0.293).
+- Will Jon Ossoff win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.120, 24h=0.120).
+- Will Josh Shapiro win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.095, 24h=0.095).
+- Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.085, 24h=0.085).
+- Will JD Vance win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
 
 ## 今日避坑
-- Will Uruguay win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
-- Will Colombia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
-- Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=high_noise
-- Will Switzerland win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
-- Will Mexico win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
+- Will Uruguay win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
+- Will Colombia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
+- Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
+- Will Switzerland win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
+- Will Mexico win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 
 ## 后验复盘快照
-- outcomes: {'pending': 17, 'flat': 116, 'hit': 23, 'miss': 44}
+- outcomes: {'pending': 17, 'flat': 116, 'hit': 20, 'miss': 47}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
