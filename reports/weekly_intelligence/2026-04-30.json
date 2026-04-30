@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T19:01:13",
+  "generated_at": "2026-04-30T19:32:08",
   "window_days": 7,
   "review_count": 86,
   "regime_stats": {
@@ -17,7 +17,7 @@
       "miss": 5,
       "flat": 1,
       "unresolved": 2,
-      "avg_confidence": 0.6354
+      "avg_confidence": 0.6365
     },
     "mean_revert": {
       "total": 30,
@@ -35,7 +35,7 @@
       "miss": 10,
       "flat": 2,
       "unresolved": 10,
-      "avg_confidence": 0.6471
+      "avg_confidence": 0.6468
     },
     "world_cup": {
       "total": 19,
@@ -51,7 +51,7 @@
       "miss": 22,
       "flat": 1,
       "unresolved": 0,
-      "avg_confidence": 0.6705
+      "avg_confidence": 0.6716
     },
     "gta_vi": {
       "total": 7,
@@ -72,7 +72,7 @@
         "miss": 5,
         "flat": 1,
         "unresolved": 2,
-        "avg_confidence": 0.6354
+        "avg_confidence": 0.6365
       },
       {
         "name": "mean_revert",
@@ -124,7 +124,7 @@
         "miss": 5,
         "flat": 1,
         "unresolved": 2,
-        "avg_confidence": 0.6354
+        "avg_confidence": 0.6365
       }
     ]
   },
@@ -148,7 +148,7 @@
         "miss": 10,
         "flat": 2,
         "unresolved": 10,
-        "avg_confidence": 0.6471
+        "avg_confidence": 0.6468
       },
       {
         "name": "us_election",
@@ -158,7 +158,7 @@
         "miss": 22,
         "flat": 1,
         "unresolved": 0,
-        "avg_confidence": 0.6705
+        "avg_confidence": 0.6716
       },
       {
         "name": "world_cup",
@@ -190,7 +190,7 @@
         "miss": 22,
         "flat": 1,
         "unresolved": 0,
-        "avg_confidence": 0.6705
+        "avg_confidence": 0.6716
       },
       {
         "name": "other",
@@ -200,7 +200,7 @@
         "miss": 10,
         "flat": 2,
         "unresolved": 10,
-        "avg_confidence": 0.6471
+        "avg_confidence": 0.6468
       },
       {
         "name": "gta_vi",
@@ -230,11 +230,11 @@
   },
   "paper_gate": {
     "thresholds": {
-      "min_closed_trades": 30,
-      "min_win_rate": 0.55,
-      "min_avg_win_loss_ratio_like": 1.3,
+      "min_closed_trades": 40,
+      "min_win_rate": 0.58,
+      "min_avg_win_loss_ratio_like": 1.5,
       "max_consecutive_losses": 3,
-      "max_flat_rate": 0.5
+      "max_flat_rate": 0.45
     },
     "actuals": {
       "closed_trades": 15,

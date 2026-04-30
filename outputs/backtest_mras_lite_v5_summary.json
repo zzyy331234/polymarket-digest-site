@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T20:18:31",
+  "generated_at": "2026-04-30T19:13:32",
   "config": {
     "min_liquidity": 20000,
     "min_samples_per_bar": 10,
@@ -19,13 +19,13 @@
     }
   },
   "quality": {
-    "markets_scanned": 196,
-    "markets_with_bars": 196,
-    "candidate_markets": 186,
-    "segments_total": 2622,
-    "segments_ge_24h": 186,
-    "bars_total": 54421,
-    "candidates_total": 1860
+    "markets_scanned": 221,
+    "markets_with_bars": 221,
+    "candidate_markets": 191,
+    "segments_total": 13271,
+    "segments_ge_24h": 191,
+    "bars_total": 159574,
+    "candidates_total": 1910
   },
   "fixed_summary": {
     "params": {
@@ -37,87 +37,87 @@
       "pct_high": 0.88,
       "rsi_high": 62
     },
-    "raw_signals": 38,
-    "dedup_signals": 8,
+    "raw_signals": 56,
+    "dedup_signals": 10,
     "raw_performance": {
       "4h": {
-        "count": 38,
-        "hit_rate": 0.3684,
-        "avg_edge": 0.000237,
+        "count": 56,
+        "hit_rate": 0.3571,
+        "avg_edge": -0.002473,
         "median_edge": 0.0,
-        "avg_roi": 0.004882,
+        "avg_roi": -0.003002,
         "median_roi": 0.0,
-        "max_consecutive_losses": 5
+        "max_consecutive_losses": 9
       },
       "8h": {
-        "count": 38,
-        "hit_rate": 0.6842,
-        "avg_edge": 0.001434,
-        "median_edge": 0.001,
-        "avg_roi": 0.023879,
-        "median_roi": 0.024845,
-        "max_consecutive_losses": 4
+        "count": 56,
+        "hit_rate": 0.7857,
+        "avg_edge": 0.018857,
+        "median_edge": 0.002,
+        "avg_roi": 0.060182,
+        "median_roi": 0.061069,
+        "max_consecutive_losses": 3
       },
       "12h": {
-        "count": 38,
-        "hit_rate": 0.6579,
-        "avg_edge": 0.002026,
-        "median_edge": 0.001,
-        "avg_roi": 0.031747,
-        "median_roi": 0.034783,
-        "max_consecutive_losses": 2
+        "count": 56,
+        "hit_rate": 0.4464,
+        "avg_edge": -0.016268,
+        "median_edge": 0.0,
+        "avg_roi": -0.021758,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 4
       },
       "24h": {
-        "count": 38,
-        "hit_rate": 0.6579,
-        "avg_edge": 0.002908,
-        "median_edge": 0.002,
-        "avg_roi": 0.058642,
-        "median_roi": 0.024845,
-        "max_consecutive_losses": 2
+        "count": 56,
+        "hit_rate": 0.4821,
+        "avg_edge": -0.003723,
+        "median_edge": 0.0,
+        "avg_roi": 0.025899,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 4
       }
     },
     "dedup_performance": {
       "4h": {
-        "count": 8,
-        "hit_rate": 0.5,
-        "avg_edge": 0.00075,
-        "median_edge": 0.00025,
-        "avg_roi": 0.013378,
-        "median_roi": 0.004311,
-        "max_consecutive_losses": 3
+        "count": 10,
+        "hit_rate": 0.4,
+        "avg_edge": -0.00325,
+        "median_edge": 0.0,
+        "avg_roi": 0.0012,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 5
       },
       "8h": {
-        "count": 8,
-        "hit_rate": 0.75,
-        "avg_edge": 0.002063,
-        "median_edge": 0.0005,
-        "avg_roi": 0.022955,
-        "median_roi": 0.013083,
+        "count": 10,
+        "hit_rate": 0.8,
+        "avg_edge": 0.01545,
+        "median_edge": 0.00075,
+        "avg_roi": 0.052699,
+        "median_roi": 0.021194,
         "max_consecutive_losses": 2
       },
       "12h": {
-        "count": 8,
-        "hit_rate": 0.625,
-        "avg_edge": 0.003312,
-        "median_edge": 0.001,
-        "avg_roi": 0.037027,
-        "median_roi": 0.019142,
-        "max_consecutive_losses": 2
+        "count": 10,
+        "hit_rate": 0.5,
+        "avg_edge": -0.0025,
+        "median_edge": 0.0005,
+        "avg_roi": 0.016968,
+        "median_roi": 0.006211,
+        "max_consecutive_losses": 4
       },
       "24h": {
-        "count": 8,
-        "hit_rate": 0.625,
-        "avg_edge": 0.003812,
-        "median_edge": 0.00125,
-        "avg_roi": 0.053942,
-        "median_roi": 0.016733,
-        "max_consecutive_losses": 2
+        "count": 10,
+        "hit_rate": 0.5,
+        "avg_edge": 0.00095,
+        "median_edge": 0.00025,
+        "avg_roi": 0.038061,
+        "median_roi": 0.004311,
+        "max_consecutive_losses": 4
       }
     }
   },
   "sample_audit": {
-    "count": 8,
+    "count": 10,
     "category_summary": {
       "dem_nomination": {
         "count": 3,
@@ -241,6 +241,61 @@
           }
         ]
       },
+      "other": {
+        "count": 2,
+        "performance": {
+          "4h": {
+            "count": 2,
+            "hit_rate": 0.0,
+            "avg_edge": -0.01925,
+            "median_edge": -0.01925,
+            "avg_roi": -0.047516,
+            "median_roi": -0.047516,
+            "max_consecutive_losses": 2
+          },
+          "8h": {
+            "count": 2,
+            "hit_rate": 1.0,
+            "avg_edge": 0.069,
+            "median_edge": 0.069,
+            "avg_roi": 0.171677,
+            "median_roi": 0.171677,
+            "max_consecutive_losses": 0
+          },
+          "12h": {
+            "count": 2,
+            "hit_rate": 0.0,
+            "avg_edge": -0.02575,
+            "median_edge": -0.02575,
+            "avg_roi": -0.063268,
+            "median_roi": -0.063268,
+            "max_consecutive_losses": 2
+          },
+          "24h": {
+            "count": 2,
+            "hit_rate": 0.0,
+            "avg_edge": -0.0105,
+            "median_edge": -0.0105,
+            "avg_roi": -0.025459,
+            "median_roi": -0.025459,
+            "max_consecutive_losses": 2
+          }
+        },
+        "examples": [
+          {
+            "question": "Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?",
+            "entry_ts": "2026-04-15T18:30:00",
+            "entry_yes_price": 0.392,
+            "roi_24h": -0.002551
+          },
+          {
+            "question": "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?",
+            "entry_ts": "2026-04-15T18:30:00",
+            "entry_yes_price": 0.5865,
+            "roi_24h": -0.048368
+          }
+        ]
+      },
       "us_election": {
         "count": 1,
         "performance": {
@@ -353,8 +408,8 @@
         "direction": "YES",
         "confidence": 0.652,
         "position": "medium",
-        "liquidity": 315547.5,
-        "volume": 10120036.6,
+        "liquidity": 105709.6,
+        "volume": 10800646.05,
         "hours_to_event": 22468.75,
         "features": {
           "chg_1h": -0.12121212121212122,
@@ -414,10 +469,10 @@
         "quality_ratio_24h": 0.9896,
         "regime": "mean_revert",
         "direction": "YES",
-        "confidence": 0.66,
-        "position": "medium",
-        "liquidity": 165698.04,
-        "volume": 1635374.25,
+        "confidence": 0.628,
+        "position": "small",
+        "liquidity": 35431.18,
+        "volume": 1896311.39,
         "hours_to_event": 1804.25,
         "features": {
           "chg_1h": -0.019305019305019322,
@@ -477,10 +532,10 @@
         "quality_ratio_24h": 0.9792,
         "regime": "mean_revert",
         "direction": "YES",
-        "confidence": 0.652,
-        "position": "medium",
-        "liquidity": 122857.92,
-        "volume": 1484666.52,
+        "confidence": 0.62,
+        "position": "small",
+        "liquidity": 31106.08,
+        "volume": 1755759.19,
         "hours_to_event": 1805.5,
         "features": {
           "chg_1h": -0.11111111111111102,
@@ -542,8 +597,8 @@
         "direction": "YES",
         "confidence": 0.66,
         "position": "medium",
-        "liquidity": 490389.42,
-        "volume": 12414195.93,
+        "liquidity": 210374.58,
+        "volume": 12614892.69,
         "hours_to_event": 22468.75,
         "features": {
           "chg_1h": 0.0,
@@ -605,8 +660,8 @@
         "direction": "YES",
         "confidence": 0.652,
         "position": "medium",
-        "liquidity": 290528.57,
-        "volume": 8209452.65,
+        "liquidity": 117066.64,
+        "volume": 10915960.8,
         "hours_to_event": 22468.25,
         "features": {
           "chg_1h": -0.008547008547008555,
@@ -670,8 +725,8 @@
         "direction": "YES",
         "confidence": 0.652,
         "position": "medium",
-        "liquidity": 399718.68,
-        "volume": 9550373.88,
+        "liquidity": 342107.07,
+        "volume": 9933711.95,
         "hours_to_event": 22469.5,
         "features": {
           "chg_1h": 0.0,
@@ -722,6 +777,70 @@
         }
       },
       {
+        "token_id": "85111524713956582520646495718683425629132278867496750899986579388014440159452",
+        "question": "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?",
+        "slug": "will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
+        "entry_ts": "2026-04-15T18:30:00",
+        "entry_yes_price": 0.5865,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9792,
+        "regime": "mean_revert",
+        "direction": "NO",
+        "confidence": 0.68,
+        "position": "medium",
+        "liquidity": 596311.69,
+        "volume": 938347.74,
+        "hours_to_event": 773.5,
+        "features": {
+          "chg_1h": 0.03621908127208494,
+          "chg_4h": 0.1908629441624366,
+          "chg_24h": 0.20061412487205738,
+          "pct_rank_recent": 0.9791666666666666,
+          "rsi_14": 71.35076567247529,
+          "trend_slope_4h": 0.004799999999999999,
+          "trend_slope_24h": 0.0017869777536625067,
+          "noise_score": 1.697694198844043
+        },
+        "reasons": [
+          "recent upper percentile fade",
+          "recent percentile extreme",
+          "RSI extreme",
+          "24h move extended",
+          "noise acceptable"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": -0.024,
+            "roi": -0.058041,
+            "hit": false,
+            "future_yes_price": 0.6105,
+            "future_ts": "2026-04-15T22:30:00"
+          },
+          "8h": {
+            "edge": 0.0655,
+            "roi": 0.158404,
+            "hit": true,
+            "future_yes_price": 0.521,
+            "future_ts": "2026-04-16T02:30:00"
+          },
+          "12h": {
+            "edge": -0.0365,
+            "roi": -0.088271,
+            "hit": false,
+            "future_yes_price": 0.623,
+            "future_ts": "2026-04-16T06:30:00"
+          },
+          "24h": {
+            "edge": -0.02,
+            "roi": -0.048368,
+            "hit": false,
+            "future_yes_price": 0.6065,
+            "future_ts": "2026-04-16T18:30:00"
+          }
+        }
+      },
+      {
         "token_id": "8851645587670338204652278122922654341568030658294043049798551516787478126093",
         "question": "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?",
         "slug": "will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup",
@@ -733,8 +852,8 @@
         "direction": "YES",
         "confidence": 0.66,
         "position": "medium",
-        "liquidity": 160652.56,
-        "volume": 1225682.98,
+        "liquidity": 374659.39,
+        "volume": 2044748.22,
         "hours_to_event": 1803.5,
         "features": {
           "chg_1h": -0.01724137931034484,
@@ -785,6 +904,70 @@
         }
       },
       {
+        "token_id": "55646857661101414185895868270484735308265524878160019913167868460915119945202",
+        "question": "Will Kon Knueppel win the 2025–26 NBA Rookie of the Year award?",
+        "slug": "will-kon-knueppel-win-the-202526-nba-rookie-of-the-year-award",
+        "entry_ts": "2026-04-15T18:30:00",
+        "entry_yes_price": 0.392,
+        "entry_samples": 15,
+        "quality_ratio_24h": 0.9792,
+        "regime": "mean_revert",
+        "direction": "YES",
+        "confidence": 0.68,
+        "position": "medium",
+        "liquidity": 472165.7,
+        "volume": 1130573.89,
+        "hours_to_event": 773.5,
+        "features": {
+          "chg_1h": -0.11412429378531071,
+          "chg_4h": -0.1807732497387669,
+          "chg_24h": -0.1975435005117707,
+          "pct_rank_recent": 0.052083333333333336,
+          "rsi_14": 29.180136544666112,
+          "trend_slope_4h": -0.004332352941176471,
+          "trend_slope_24h": -0.0014757460661964188,
+          "noise_score": 1.4858486055960798
+        },
+        "reasons": [
+          "recent lower percentile bounce",
+          "recent percentile extreme",
+          "RSI extreme",
+          "24h move extended",
+          "noise acceptable"
+        ],
+        "risk_flags": [],
+        "outcomes": {
+          "4h": {
+            "edge": -0.0145,
+            "roi": -0.03699,
+            "hit": false,
+            "future_yes_price": 0.3775,
+            "future_ts": "2026-04-15T22:30:00"
+          },
+          "8h": {
+            "edge": 0.0725,
+            "roi": 0.184949,
+            "hit": true,
+            "future_yes_price": 0.4645,
+            "future_ts": "2026-04-16T02:30:00"
+          },
+          "12h": {
+            "edge": -0.015,
+            "roi": -0.038265,
+            "hit": false,
+            "future_yes_price": 0.377,
+            "future_ts": "2026-04-16T06:30:00"
+          },
+          "24h": {
+            "edge": -0.001,
+            "roi": -0.002551,
+            "hit": false,
+            "future_yes_price": 0.391,
+            "future_ts": "2026-04-16T18:30:00"
+          }
+        }
+      },
+      {
         "token_id": "94603648636330087039501304492699481091005420017442244191603206509188088089447",
         "question": "Will USA win the 2026 FIFA World Cup?",
         "slug": "will-usa-win-the-2026-fifa-world-cup-467",
@@ -796,8 +979,8 @@
         "direction": "YES",
         "confidence": 0.652,
         "position": "medium",
-        "liquidity": 2458246.47,
-        "volume": 12601778.46,
+        "liquidity": 3598000.04,
+        "volume": 29187151.63,
         "hours_to_event": 2285.5,
         "features": {
           "chg_1h": 0.0,
@@ -846,132 +1029,6 @@
             "future_ts": "2026-04-16T18:30:00"
           }
         }
-      },
-      {
-        "token_id": "70071592420137476676935286377781779672157004436137616627487590484756055232944",
-        "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
-        "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
-        "entry_ts": "2026-04-15T19:45:00",
-        "entry_yes_price": 0.058,
-        "entry_samples": 10,
-        "quality_ratio_24h": 0.9896,
-        "regime": "mean_revert",
-        "direction": "YES",
-        "confidence": 0.652,
-        "position": "medium",
-        "liquidity": 290528.57,
-        "volume": 8209452.65,
-        "hours_to_event": 22468.25,
-        "features": {
-          "chg_1h": -0.008547008547008555,
-          "chg_4h": -0.008547008547008555,
-          "chg_24h": -0.07199999999999995,
-          "pct_rank_recent": 0.020833333333333332,
-          "rsi_14": 37.72446149047877,
-          "trend_slope_4h": -1.0294117647058833e-05,
-          "trend_slope_24h": -3.420035268583829e-05,
-          "noise_score": 2.505244476651839
-        },
-        "reasons": [
-          "recent lower percentile bounce",
-          "recent percentile extreme",
-          "RSI extreme",
-          "24h move extended"
-        ],
-        "risk_flags": [],
-        "outcomes": {
-          "4h": {
-            "edge": 0.0005,
-            "roi": 0.008621,
-            "hit": true,
-            "future_yes_price": 0.0585,
-            "future_ts": "2026-04-16T00:00:00"
-          },
-          "8h": {
-            "edge": 0.0005,
-            "roi": 0.008621,
-            "hit": true,
-            "future_yes_price": 0.0585,
-            "future_ts": "2026-04-16T03:45:00"
-          },
-          "12h": {
-            "edge": 0.0015,
-            "roi": 0.025862,
-            "hit": true,
-            "future_yes_price": 0.0595,
-            "future_ts": "2026-04-16T07:45:00"
-          },
-          "24h": {
-            "edge": 0.0005,
-            "roi": 0.008621,
-            "hit": true,
-            "future_yes_price": 0.0585,
-            "future_ts": "2026-04-16T19:45:00"
-          }
-        }
-      },
-      {
-        "token_id": "107064985435494333113391038470401719113272800530429703182710416066774068907304",
-        "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
-        "slug": "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653",
-        "entry_ts": "2026-04-15T19:15:00",
-        "entry_yes_price": 0.0805,
-        "entry_samples": 15,
-        "quality_ratio_24h": 0.9896,
-        "regime": "mean_revert",
-        "direction": "YES",
-        "confidence": 0.66,
-        "position": "medium",
-        "liquidity": 490389.42,
-        "volume": 12414195.93,
-        "hours_to_event": 22468.75,
-        "features": {
-          "chg_1h": 0.0,
-          "chg_4h": -0.01226993865030676,
-          "chg_24h": -0.047337278106508916,
-          "pct_rank_recent": 0.052083333333333336,
-          "rsi_14": 28.153805757326367,
-          "trend_slope_4h": -3.382352941176474e-05,
-          "trend_slope_24h": -4.935906131307653e-05,
-          "noise_score": 1.41429381916022
-        },
-        "reasons": [
-          "recent lower percentile bounce",
-          "recent percentile extreme",
-          "RSI extreme",
-          "noise acceptable"
-        ],
-        "risk_flags": [],
-        "outcomes": {
-          "4h": {
-            "edge": 0.001,
-            "roi": 0.012422,
-            "hit": true,
-            "future_yes_price": 0.0815,
-            "future_ts": "2026-04-15T23:15:00"
-          },
-          "8h": {
-            "edge": 0.002,
-            "roi": 0.024845,
-            "hit": true,
-            "future_yes_price": 0.0825,
-            "future_ts": "2026-04-16T03:45:00"
-          },
-          "12h": {
-            "edge": 0.001,
-            "roi": 0.012422,
-            "hit": true,
-            "future_yes_price": 0.0815,
-            "future_ts": "2026-04-16T07:15:00"
-          },
-          "24h": {
-            "edge": 0.002,
-            "roi": 0.024845,
-            "hit": true,
-            "future_yes_price": 0.0825,
-            "future_ts": "2026-04-16T19:15:00"
-          }
-        }
       }
     ]
   },
@@ -983,146 +1040,146 @@
         "train_ts_max": "2026-04-15T18:45:00",
         "test_ts_min": "2026-04-15T19:00:00",
         "test_ts_max": "2026-04-15T19:30:00",
-        "train_candidates": 372,
-        "test_candidates": 558,
+        "train_candidates": 382,
+        "test_candidates": 573,
         "train_best": {
           "params": {
-            "pct_low": 0.08,
+            "pct_low": 0.1,
             "rsi_low": 30,
             "chg24h_min": 0.03,
             "noise_max": 1.8,
-            "min_strength": 2,
-            "pct_high": 0.92,
+            "min_strength": 3,
+            "pct_high": 0.9,
             "rsi_high": 70
           },
-          "score": -999,
-          "raw_signals": 6,
-          "dedup_signals": 3,
+          "score": 0.006235,
+          "raw_signals": 10,
+          "dedup_signals": 5,
           "raw_performance": {
             "4h": {
-              "count": 6,
-              "hit_rate": 0.1667,
-              "avg_edge": -0.000167,
+              "count": 10,
+              "hit_rate": 0.1,
+              "avg_edge": -0.00915,
               "median_edge": -0.00025,
-              "avg_roi": -0.002347,
-              "median_roi": -0.003521,
-              "max_consecutive_losses": 5
+              "avg_roi": -0.022397,
+              "median_roi": -0.003907,
+              "max_consecutive_losses": 9
             },
             "8h": {
-              "count": 6,
-              "hit_rate": 0.3333,
-              "avg_edge": -0.000417,
-              "median_edge": -0.001,
-              "avg_roi": -0.016293,
-              "median_roi": -0.014085,
-              "max_consecutive_losses": 2
+              "count": 10,
+              "hit_rate": 0.6,
+              "avg_edge": 0.02905,
+              "median_edge": 0.00075,
+              "avg_roi": 0.065071,
+              "median_roi": 0.011719,
+              "max_consecutive_losses": 1
             },
             "12h": {
-              "count": 6,
-              "hit_rate": 0.3333,
-              "avg_edge": 0.001083,
+              "count": 10,
+              "hit_rate": 0.2,
+              "avg_edge": -0.01665,
               "median_edge": -0.001,
-              "avg_roi": 0.00753,
-              "median_roi": -0.024648,
-              "max_consecutive_losses": 2
+              "avg_roi": -0.03382,
+              "median_roi": -0.042388,
+              "max_consecutive_losses": 4
             },
             "24h": {
-              "count": 6,
-              "hit_rate": 0.3333,
-              "avg_edge": 0.002083,
-              "median_edge": -0.0005,
-              "avg_roi": 0.014792,
-              "median_roi": -0.007043,
-              "max_consecutive_losses": 2
+              "count": 10,
+              "hit_rate": 0.2,
+              "avg_edge": -0.004,
+              "median_edge": -0.00125,
+              "avg_roi": -0.002606,
+              "median_roi": -0.007605,
+              "max_consecutive_losses": 4
             }
           },
           "dedup_performance": {
             "4h": {
-              "count": 3,
+              "count": 5,
               "hit_rate": 0.0,
-              "avg_edge": -0.000333,
+              "avg_edge": -0.0078,
               "median_edge": -0.0005,
-              "avg_roi": -0.004952,
-              "median_roi": -0.007042,
-              "max_consecutive_losses": 3
+              "avg_roi": -0.020569,
+              "median_roi": -0.007813,
+              "max_consecutive_losses": 5
             },
             "8h": {
-              "count": 3,
-              "hit_rate": 0.3333,
-              "avg_edge": -0.0005,
-              "median_edge": -0.001,
-              "avg_roi": -0.017595,
-              "median_roi": -0.014085,
-              "max_consecutive_losses": 1
+              "count": 5,
+              "hit_rate": 0.6,
+              "avg_edge": 0.0275,
+              "median_edge": 0.0005,
+              "avg_roi": 0.060931,
+              "median_roi": 0.007813,
+              "max_consecutive_losses": 2
             },
             "12h": {
-              "count": 3,
-              "hit_rate": 0.3333,
-              "avg_edge": 0.001,
+              "count": 5,
+              "hit_rate": 0.2,
+              "avg_edge": -0.0093,
               "median_edge": -0.001,
-              "avg_roi": 0.006356,
-              "median_roi": -0.028169,
-              "max_consecutive_losses": 1
+              "avg_roi": -0.01586,
+              "median_roi": -0.038265,
+              "max_consecutive_losses": 4
             },
             "24h": {
-              "count": 3,
-              "hit_rate": 0.3333,
-              "avg_edge": 0.002,
+              "count": 5,
+              "hit_rate": 0.2,
+              "avg_edge": -0.0028,
               "median_edge": -0.001,
-              "avg_roi": 0.01632,
-              "median_roi": -0.014085,
-              "max_consecutive_losses": 1
+              "avg_roi": 0.002425,
+              "median_roi": -0.002551,
+              "max_consecutive_losses": 4
             }
           }
         },
         "test_selected": {
           "params": {
-            "pct_low": 0.08,
+            "pct_low": 0.1,
             "rsi_low": 30,
             "chg24h_min": 0.03,
             "noise_max": 1.8,
-            "min_strength": 2,
-            "pct_high": 0.92,
+            "min_strength": 3,
+            "pct_high": 0.9,
             "rsi_high": 70
           },
-          "raw_signals": 13,
-          "dedup_signals": 6,
+          "raw_signals": 18,
+          "dedup_signals": 7,
           "dedup_performance": {
             "4h": {
-              "count": 6,
-              "hit_rate": 0.3333,
-              "avg_edge": 8.3e-05,
+              "count": 7,
+              "hit_rate": 0.2857,
+              "avg_edge": -0.006,
               "median_edge": 0.0,
-              "avg_roi": 0.002777,
+              "avg_roi": -0.011398,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 4
+            },
+            "8h": {
+              "count": 7,
+              "hit_rate": 0.7143,
+              "avg_edge": 0.022143,
+              "median_edge": 0.001,
+              "avg_roi": 0.063976,
+              "median_roi": 0.026667,
+              "max_consecutive_losses": 1
+            },
+            "12h": {
+              "count": 7,
+              "hit_rate": 0.4286,
+              "avg_edge": -0.017143,
+              "median_edge": 0.0,
+              "avg_roi": -0.028069,
               "median_roi": 0.0,
               "max_consecutive_losses": 3
             },
-            "8h": {
-              "count": 6,
-              "hit_rate": 0.5,
-              "avg_edge": 0.000333,
-              "median_edge": 0.0005,
-              "avg_roi": 0.00998,
-              "median_roi": 0.012422,
-              "max_consecutive_losses": 3
-            },
-            "12h": {
-              "count": 6,
-              "hit_rate": 0.5,
-              "avg_edge": 0.00075,
-              "median_edge": 0.0005,
-              "avg_roi": 0.015112,
-              "median_roi": 0.006211,
-              "max_consecutive_losses": 1
-            },
             "24h": {
-              "count": 6,
-              "hit_rate": 0.5,
-              "avg_edge": 0.001333,
-              "median_edge": 0.001,
-              "avg_roi": 0.031239,
-              "median_roi": 0.012422,
-              "max_consecutive_losses": 1
+              "count": 7,
+              "hit_rate": 0.4286,
+              "avg_edge": -0.004071,
+              "median_edge": -0.002,
+              "avg_roi": 0.014231,
+              "median_roi": -0.018939,
+              "max_consecutive_losses": 3
             }
           }
         },
@@ -1136,44 +1193,44 @@
             "pct_high": 0.88,
             "rsi_high": 62
           },
-          "raw_signals": 12,
-          "dedup_signals": 5,
+          "raw_signals": 18,
+          "dedup_signals": 7,
           "dedup_performance": {
             "4h": {
-              "count": 5,
-              "hit_rate": 0.2,
-              "avg_edge": 0.0,
+              "count": 7,
+              "hit_rate": 0.1429,
+              "avg_edge": -0.006143,
               "median_edge": 0.0,
-              "avg_roi": -0.000593,
+              "avg_roi": -0.015207,
               "median_roi": 0.0,
-              "max_consecutive_losses": 3
+              "max_consecutive_losses": 5
             },
             "8h": {
-              "count": 5,
-              "hit_rate": 0.4,
-              "avg_edge": 0.0004,
-              "median_edge": 0.0,
-              "avg_roi": 0.00946,
-              "median_roi": 0.0,
+              "count": 7,
+              "hit_rate": 0.5714,
+              "avg_edge": 0.022,
+              "median_edge": 0.001,
+              "avg_roi": 0.060166,
+              "median_roi": 0.024845,
               "max_consecutive_losses": 3
             },
             "12h": {
-              "count": 5,
-              "hit_rate": 0.6,
-              "avg_edge": 0.0012,
-              "median_edge": 0.001,
-              "avg_roi": 0.02236,
-              "median_roi": 0.012422,
-              "max_consecutive_losses": 2
+              "count": 7,
+              "hit_rate": 0.4286,
+              "avg_edge": -0.017143,
+              "median_edge": 0.0,
+              "avg_roi": -0.028069,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 4
             },
             "24h": {
-              "count": 5,
-              "hit_rate": 0.6,
-              "avg_edge": 0.0021,
-              "median_edge": 0.002,
-              "avg_roi": 0.050821,
-              "median_roi": 0.024845,
-              "max_consecutive_losses": 2
+              "count": 7,
+              "hit_rate": 0.4286,
+              "avg_edge": -0.003714,
+              "median_edge": 0.0,
+              "avg_roi": 0.023754,
+              "median_roi": 0.0,
+              "max_consecutive_losses": 4
             }
           }
         }
@@ -1184,146 +1241,146 @@
         "train_ts_max": "2026-04-15T19:30:00",
         "test_ts_min": "2026-04-15T19:45:00",
         "test_ts_max": "2026-04-15T20:00:00",
-        "train_candidates": 930,
-        "test_candidates": 372,
+        "train_candidates": 955,
+        "test_candidates": 382,
         "train_best": {
           "params": {
-            "pct_low": 0.1,
+            "pct_low": 0.08,
             "rsi_low": 30,
             "chg24h_min": 0.05,
             "noise_max": 1.8,
             "min_strength": 3,
-            "pct_high": 0.9,
+            "pct_high": 0.92,
             "rsi_high": 70
           },
-          "score": 0.07425,
-          "raw_signals": 16,
-          "dedup_signals": 5,
+          "score": 0.061098,
+          "raw_signals": 19,
+          "dedup_signals": 6,
           "raw_performance": {
             "4h": {
-              "count": 16,
-              "hit_rate": 0.1875,
-              "avg_edge": -0.000125,
-              "median_edge": 0.0,
-              "avg_roi": -0.002279,
-              "median_roi": 0.0,
-              "max_consecutive_losses": 5
+              "count": 19,
+              "hit_rate": 0.1579,
+              "avg_edge": -0.009211,
+              "median_edge": -0.001,
+              "avg_roi": -0.023912,
+              "median_roi": -0.015385,
+              "max_consecutive_losses": 7
             },
             "8h": {
-              "count": 16,
-              "hit_rate": 0.5,
-              "avg_edge": 0.000625,
-              "median_edge": 0.00025,
-              "avg_roi": 0.005842,
-              "median_roi": 0.003907,
+              "count": 19,
+              "hit_rate": 0.7895,
+              "avg_edge": 0.026368,
+              "median_edge": 0.002,
+              "avg_roi": 0.072528,
+              "median_roi": 0.061538,
               "max_consecutive_losses": 2
             },
             "12h": {
-              "count": 16,
-              "hit_rate": 0.5625,
-              "avg_edge": 0.001563,
-              "median_edge": 0.001,
-              "avg_roi": 0.020789,
-              "median_roi": 0.012422,
-              "max_consecutive_losses": 2
+              "count": 19,
+              "hit_rate": 0.4737,
+              "avg_edge": -0.017974,
+              "median_edge": -0.001,
+              "avg_roi": -0.024419,
+              "median_roi": -0.038265,
+              "max_consecutive_losses": 3
             },
             "24h": {
-              "count": 16,
-              "hit_rate": 0.5625,
-              "avg_edge": 0.002469,
-              "median_edge": 0.002,
-              "avg_roi": 0.039056,
-              "median_roi": 0.024845,
-              "max_consecutive_losses": 2
+              "count": 19,
+              "hit_rate": 0.4737,
+              "avg_edge": -0.005684,
+              "median_edge": -0.001,
+              "avg_roi": 0.023619,
+              "median_roi": -0.002551,
+              "max_consecutive_losses": 3
             }
           },
           "dedup_performance": {
             "4h": {
-              "count": 5,
-              "hit_rate": 0.2,
-              "avg_edge": 0.0001,
-              "median_edge": 0.0,
-              "avg_roi": 0.000922,
-              "median_roi": 0.0,
-              "max_consecutive_losses": 3
+              "count": 6,
+              "hit_rate": 0.1667,
+              "avg_edge": -0.006333,
+              "median_edge": -0.00025,
+              "avg_roi": -0.01507,
+              "median_roi": -0.003907,
+              "max_consecutive_losses": 4
             },
             "8h": {
-              "count": 5,
-              "hit_rate": 0.6,
-              "avg_edge": 0.0005,
-              "median_edge": 0.0005,
-              "avg_roi": 0.011022,
-              "median_roi": 0.007813,
-              "max_consecutive_losses": 2
+              "count": 6,
+              "hit_rate": 0.8333,
+              "avg_edge": 0.023417,
+              "median_edge": 0.0015,
+              "avg_roi": 0.066411,
+              "median_roi": 0.046906,
+              "max_consecutive_losses": 1
             },
             "12h": {
-              "count": 5,
-              "hit_rate": 0.6,
-              "avg_edge": 0.0014,
-              "median_edge": 0.001,
-              "avg_roi": 0.025725,
-              "median_roi": 0.012422,
-              "max_consecutive_losses": 2
+              "count": 6,
+              "hit_rate": 0.5,
+              "avg_edge": -0.007417,
+              "median_edge": 0.0,
+              "avg_roi": 0.000348,
+              "median_roi": -0.012921,
+              "max_consecutive_losses": 3
             },
             "24h": {
-              "count": 5,
-              "hit_rate": 0.6,
-              "avg_edge": 0.0024,
-              "median_edge": 0.002,
-              "avg_roi": 0.058957,
-              "median_roi": 0.024845,
-              "max_consecutive_losses": 2
+              "count": 6,
+              "hit_rate": 0.5,
+              "avg_edge": -0.0015,
+              "median_edge": 0.0005,
+              "avg_roi": 0.040645,
+              "median_roi": 0.011147,
+              "max_consecutive_losses": 3
             }
           }
         },
         "test_selected": {
           "params": {
-            "pct_low": 0.1,
+            "pct_low": 0.08,
             "rsi_low": 30,
             "chg24h_min": 0.05,
             "noise_max": 1.8,
             "min_strength": 3,
-            "pct_high": 0.9,
+            "pct_high": 0.92,
             "rsi_high": 70
           },
-          "raw_signals": 5,
-          "dedup_signals": 3,
+          "raw_signals": 7,
+          "dedup_signals": 4,
           "dedup_performance": {
             "4h": {
-              "count": 3,
-              "hit_rate": 0.3333,
-              "avg_edge": -0.000333,
-              "median_edge": 0.0,
-              "avg_roi": -0.006037,
-              "median_roi": 0.0,
-              "max_consecutive_losses": 2
+              "count": 4,
+              "hit_rate": 0.25,
+              "avg_edge": -0.004625,
+              "median_edge": -0.001,
+              "avg_roi": -0.01492,
+              "median_roi": -0.015267,
+              "max_consecutive_losses": 3
             },
             "8h": {
-              "count": 3,
+              "count": 4,
               "hit_rate": 1.0,
-              "avg_edge": 0.002167,
-              "median_edge": 0.002,
-              "avg_roi": 0.049082,
-              "median_roi": 0.053435,
+              "avg_edge": 0.01775,
+              "median_edge": 0.00275,
+              "avg_roi": 0.075113,
+              "median_roi": 0.061201,
               "max_consecutive_losses": 0
             },
             "12h": {
-              "count": 3,
-              "hit_rate": 1.0,
-              "avg_edge": 0.002167,
+              "count": 4,
+              "hit_rate": 0.75,
+              "avg_edge": -0.0105,
               "median_edge": 0.001,
-              "avg_roi": 0.05003,
-              "median_roi": 0.068702,
-              "max_consecutive_losses": 0
+              "avg_roi": 0.008722,
+              "median_roi": 0.040562,
+              "max_consecutive_losses": 1
             },
             "24h": {
-              "count": 3,
-              "hit_rate": 1.0,
-              "avg_edge": 0.004,
-              "median_edge": 0.003,
-              "avg_roi": 0.112871,
-              "median_roi": 0.10687,
-              "max_consecutive_losses": 0
+              "count": 4,
+              "hit_rate": 0.75,
+              "avg_edge": -0.007,
+              "median_edge": 0.0025,
+              "avg_roi": 0.0609,
+              "median_roi": 0.065857,
+              "max_consecutive_losses": 1
             }
           }
         },
@@ -1337,44 +1394,44 @@
             "pct_high": 0.88,
             "rsi_high": 62
           },
-          "raw_signals": 10,
-          "dedup_signals": 6,
+          "raw_signals": 14,
+          "dedup_signals": 8,
           "dedup_performance": {
             "4h": {
-              "count": 6,
+              "count": 8,
               "hit_rate": 0.5,
-              "avg_edge": 0.000417,
+              "avg_edge": -0.000875,
               "median_edge": 0.00025,
-              "avg_roi": 0.002355,
+              "avg_roi": -0.000911,
               "median_roi": 0.004311,
-              "max_consecutive_losses": 2
+              "max_consecutive_losses": 1
             },
             "8h": {
-              "count": 6,
-              "hit_rate": 0.8333,
-              "avg_edge": 0.003167,
-              "median_edge": 0.0015,
-              "avg_roi": 0.035286,
-              "median_roi": 0.03914,
+              "count": 8,
+              "hit_rate": 0.875,
+              "avg_edge": 0.017938,
+              "median_edge": 0.00275,
+              "avg_roi": 0.064507,
+              "median_roi": 0.061201,
               "max_consecutive_losses": 1
             },
             "12h": {
-              "count": 6,
-              "hit_rate": 0.8333,
-              "avg_edge": 0.004167,
-              "median_edge": 0.00125,
-              "avg_roi": 0.045195,
-              "median_roi": 0.047282,
-              "max_consecutive_losses": 1
+              "count": 8,
+              "hit_rate": 0.625,
+              "avg_edge": -0.0115,
+              "median_edge": 0.001,
+              "avg_roi": -0.002072,
+              "median_roi": 0.019142,
+              "max_consecutive_losses": 2
             },
             "24h": {
-              "count": 6,
-              "hit_rate": 0.8333,
-              "avg_edge": 0.004833,
-              "median_edge": 0.0025,
-              "avg_roi": 0.066646,
-              "median_roi": 0.065857,
-              "max_consecutive_losses": 1
+              "count": 8,
+              "hit_rate": 0.625,
+              "avg_edge": -0.004375,
+              "median_edge": 0.00125,
+              "avg_roi": 0.030552,
+              "median_roi": 0.016733,
+              "max_consecutive_losses": 2
             }
           }
         }
@@ -1385,8 +1442,8 @@
         "train_ts_max": "2026-04-15T20:00:00",
         "test_ts_min": "2026-04-15T20:15:00",
         "test_ts_max": "2026-04-15T20:45:00",
-        "train_candidates": 1302,
-        "test_candidates": 558,
+        "train_candidates": 1337,
+        "test_candidates": 573,
         "train_best": {
           "params": {
             "pct_low": 0.12,
@@ -1397,83 +1454,83 @@
             "pct_high": 0.88,
             "rsi_high": 62
           },
-          "score": 0.098992,
-          "raw_signals": 28,
-          "dedup_signals": 7,
+          "score": 0.07892,
+          "raw_signals": 42,
+          "dedup_signals": 9,
           "raw_performance": {
             "4h": {
-              "count": 28,
-              "hit_rate": 0.25,
-              "avg_edge": -1.8e-05,
+              "count": 42,
+              "hit_rate": 0.2381,
+              "avg_edge": -0.004774,
               "median_edge": 0.0,
-              "avg_roi": -0.001267,
+              "avg_roi": -0.01232,
               "median_roi": 0.0,
-              "max_consecutive_losses": 5
+              "max_consecutive_losses": 9
             },
             "8h": {
-              "count": 28,
-              "hit_rate": 0.5714,
-              "avg_edge": 0.001214,
-              "median_edge": 0.00075,
-              "avg_roi": 0.014504,
-              "median_roi": 0.012123,
-              "max_consecutive_losses": 4
+              "count": 42,
+              "hit_rate": 0.7143,
+              "avg_edge": 0.021774,
+              "median_edge": 0.002,
+              "avg_roi": 0.061206,
+              "median_roi": 0.056984,
+              "max_consecutive_losses": 3
             },
             "12h": {
-              "count": 28,
-              "hit_rate": 0.6071,
-              "avg_edge": 0.002018,
-              "median_edge": 0.001,
-              "avg_roi": 0.026062,
-              "median_roi": 0.019142,
-              "max_consecutive_losses": 2
+              "count": 42,
+              "hit_rate": 0.4048,
+              "avg_edge": -0.016976,
+              "median_edge": -0.0005,
+              "avg_roi": -0.027581,
+              "median_roi": -0.019133,
+              "max_consecutive_losses": 4
             },
             "24h": {
-              "count": 28,
-              "hit_rate": 0.6071,
-              "avg_edge": 0.002768,
-              "median_edge": 0.002,
-              "avg_roi": 0.045104,
-              "median_roi": 0.024845,
-              "max_consecutive_losses": 2
+              "count": 42,
+              "hit_rate": 0.4048,
+              "avg_edge": -0.005833,
+              "median_edge": -0.0005,
+              "avg_roi": 0.011424,
+              "median_roi": -0.001275,
+              "max_consecutive_losses": 4
             }
           },
           "dedup_performance": {
             "4h": {
-              "count": 7,
-              "hit_rate": 0.4286,
-              "avg_edge": 0.000571,
+              "count": 9,
+              "hit_rate": 0.3333,
+              "avg_edge": -0.003833,
               "median_edge": 0.0,
-              "avg_roi": 0.005265,
+              "avg_roi": -0.006464,
               "median_roi": 0.0,
-              "max_consecutive_losses": 3
+              "max_consecutive_losses": 5
             },
             "8h": {
-              "count": 7,
-              "hit_rate": 0.7143,
-              "avg_edge": 0.002286,
-              "median_edge": 0.0005,
-              "avg_roi": 0.023728,
-              "median_roi": 0.008621,
+              "count": 9,
+              "hit_rate": 0.7778,
+              "avg_edge": 0.017111,
+              "median_edge": 0.001,
+              "avg_roi": 0.056605,
+              "median_roi": 0.024845,
               "max_consecutive_losses": 2
             },
             "12h": {
-              "count": 7,
-              "hit_rate": 0.7143,
-              "avg_edge": 0.003786,
+              "count": 9,
+              "hit_rate": 0.5556,
+              "avg_edge": -0.002778,
               "median_edge": 0.001,
-              "avg_roi": 0.042317,
-              "median_roi": 0.025862,
-              "max_consecutive_losses": 2
+              "avg_roi": 0.018854,
+              "median_roi": 0.012422,
+              "max_consecutive_losses": 4
             },
             "24h": {
-              "count": 7,
-              "hit_rate": 0.7143,
-              "avg_edge": 0.004429,
-              "median_edge": 0.002,
-              "avg_roi": 0.064154,
-              "median_roi": 0.024845,
-              "max_consecutive_losses": 2
+              "count": 9,
+              "hit_rate": 0.5556,
+              "avg_edge": 0.001111,
+              "median_edge": 0.0005,
+              "avg_roi": 0.04424,
+              "median_roi": 0.008621,
+              "max_consecutive_losses": 4
             }
           }
         },
@@ -1487,44 +1544,44 @@
             "pct_high": 0.88,
             "rsi_high": 62
           },
-          "raw_signals": 10,
-          "dedup_signals": 5,
+          "raw_signals": 14,
+          "dedup_signals": 7,
           "dedup_performance": {
             "4h": {
-              "count": 5,
-              "hit_rate": 0.8,
-              "avg_edge": 0.0011,
+              "count": 7,
+              "hit_rate": 0.7143,
+              "avg_edge": 0.001786,
               "median_edge": 0.001,
-              "avg_roi": 0.024009,
+              "avg_roi": 0.019748,
               "median_roi": 0.017391,
               "max_consecutive_losses": 1
             },
             "8h": {
-              "count": 5,
+              "count": 7,
               "hit_rate": 1.0,
-              "avg_edge": 0.0017,
-              "median_edge": 0.001,
-              "avg_roi": 0.037963,
-              "median_roi": 0.024845,
+              "avg_edge": 0.011214,
+              "median_edge": 0.002,
+              "avg_roi": 0.052045,
+              "median_roi": 0.061069,
               "max_consecutive_losses": 0
             },
             "12h": {
-              "count": 5,
-              "hit_rate": 0.8,
-              "avg_edge": 0.0017,
+              "count": 7,
+              "hit_rate": 0.5714,
+              "avg_edge": -0.016071,
               "median_edge": 0.001,
-              "avg_roi": 0.036975,
-              "median_roi": 0.034783,
-              "max_consecutive_losses": 1
+              "avg_roi": -0.016538,
+              "median_roi": 0.012422,
+              "max_consecutive_losses": 2
             },
             "24h": {
-              "count": 5,
-              "hit_rate": 0.8,
-              "avg_edge": 0.0025,
-              "median_edge": 0.002,
-              "avg_roi": 0.067692,
-              "median_roi": 0.024845,
-              "max_consecutive_losses": 1
+              "count": 7,
+              "hit_rate": 0.5714,
+              "avg_edge": -0.006643,
+              "median_edge": 0.001,
+              "avg_roi": 0.02755,
+              "median_roi": 0.017391,
+              "max_consecutive_losses": 2
             }
           }
         },
@@ -1538,44 +1595,44 @@
             "pct_high": 0.88,
             "rsi_high": 62
           },
-          "raw_signals": 10,
-          "dedup_signals": 5,
+          "raw_signals": 14,
+          "dedup_signals": 7,
           "dedup_performance": {
             "4h": {
-              "count": 5,
-              "hit_rate": 0.8,
-              "avg_edge": 0.0011,
+              "count": 7,
+              "hit_rate": 0.7143,
+              "avg_edge": 0.001786,
               "median_edge": 0.001,
-              "avg_roi": 0.024009,
+              "avg_roi": 0.019748,
               "median_roi": 0.017391,
               "max_consecutive_losses": 1
             },
             "8h": {
-              "count": 5,
+              "count": 7,
               "hit_rate": 1.0,
-              "avg_edge": 0.0017,
-              "median_edge": 0.001,
-              "avg_roi": 0.037963,
-              "median_roi": 0.024845,
+              "avg_edge": 0.011214,
+              "median_edge": 0.002,
+              "avg_roi": 0.052045,
+              "median_roi": 0.061069,
               "max_consecutive_losses": 0
             },
             "12h": {
-              "count": 5,
-              "hit_rate": 0.8,
-              "avg_edge": 0.0017,
+              "count": 7,
+              "hit_rate": 0.5714,
+              "avg_edge": -0.016071,
               "median_edge": 0.001,
-              "avg_roi": 0.036975,
-              "median_roi": 0.034783,
-              "max_consecutive_losses": 1
+              "avg_roi": -0.016538,
+              "median_roi": 0.012422,
+              "max_consecutive_losses": 2
             },
             "24h": {
-              "count": 5,
-              "hit_rate": 0.8,
-              "avg_edge": 0.0025,
-              "median_edge": 0.002,
-              "avg_roi": 0.067692,
-              "median_roi": 0.024845,
-              "max_consecutive_losses": 1
+              "count": 7,
+              "hit_rate": 0.5714,
+              "avg_edge": -0.006643,
+              "median_edge": 0.001,
+              "avg_roi": 0.02755,
+              "median_roi": 0.017391,
+              "max_consecutive_losses": 2
             }
           }
         }
@@ -1583,78 +1640,78 @@
     ],
     "aggregate_selected_test": {
       "4h": {
-        "count": 14,
-        "hit_rate": 0.5,
-        "avg_edge": 0.000357,
-        "median_edge": 0.00025,
-        "avg_roi": 0.008471,
-        "median_roi": 0.003817,
-        "max_consecutive_losses": 3
+        "count": 18,
+        "hit_rate": 0.4444,
+        "avg_edge": -0.002667,
+        "median_edge": 0.0,
+        "avg_roi": -6.8e-05,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 4
       },
       "8h": {
-        "count": 14,
-        "hit_rate": 0.7857,
-        "avg_edge": 0.001214,
-        "median_edge": 0.001,
-        "avg_roi": 0.028353,
-        "median_roi": 0.024845,
-        "max_consecutive_losses": 3
+        "count": 18,
+        "hit_rate": 0.8889,
+        "avg_edge": 0.016917,
+        "median_edge": 0.002,
+        "avg_roi": 0.061811,
+        "median_roi": 0.057252,
+        "max_consecutive_losses": 1
       },
       "12h": {
-        "count": 14,
-        "hit_rate": 0.7143,
-        "avg_edge": 0.001393,
+        "count": 18,
+        "hit_rate": 0.5556,
+        "avg_edge": -0.01525,
         "median_edge": 0.001,
-        "avg_roi": 0.030402,
-        "median_roi": 0.023603,
-        "max_consecutive_losses": 1
+        "avg_roi": -0.015409,
+        "median_roi": 0.012422,
+        "max_consecutive_losses": 3
       },
       "24h": {
-        "count": 14,
-        "hit_rate": 0.7143,
-        "avg_edge": 0.002321,
-        "median_edge": 0.002,
-        "avg_roi": 0.061751,
-        "median_roi": 0.024845,
-        "max_consecutive_losses": 1
+        "count": 18,
+        "hit_rate": 0.5556,
+        "avg_edge": -0.005722,
+        "median_edge": 0.0015,
+        "avg_roi": 0.029781,
+        "median_roi": 0.021118,
+        "max_consecutive_losses": 3
       }
     },
     "aggregate_fixed_test": {
       "4h": {
-        "count": 16,
-        "hit_rate": 0.5,
-        "avg_edge": 0.0005,
-        "median_edge": 0.00025,
-        "avg_roi": 0.008201,
-        "median_roi": 0.003817,
-        "max_consecutive_losses": 3
+        "count": 22,
+        "hit_rate": 0.4545,
+        "avg_edge": -0.001705,
+        "median_edge": 0.0,
+        "avg_roi": 0.001114,
+        "median_roi": 0.0,
+        "max_consecutive_losses": 5
       },
       "8h": {
-        "count": 16,
-        "hit_rate": 0.75,
-        "avg_edge": 0.001844,
-        "median_edge": 0.001,
-        "avg_roi": 0.028052,
-        "median_roi": 0.024845,
+        "count": 22,
+        "hit_rate": 0.8182,
+        "avg_edge": 0.017091,
+        "median_edge": 0.002,
+        "avg_roi": 0.059161,
+        "median_roi": 0.057252,
         "max_consecutive_losses": 3
       },
       "12h": {
-        "count": 16,
-        "hit_rate": 0.75,
-        "avg_edge": 0.002469,
+        "count": 22,
+        "hit_rate": 0.5455,
+        "avg_edge": -0.01475,
         "median_edge": 0.001,
-        "avg_roi": 0.03549,
-        "median_roi": 0.030323,
-        "max_consecutive_losses": 2
+        "avg_roi": -0.014946,
+        "median_roi": 0.012422,
+        "max_consecutive_losses": 4
       },
       "24h": {
-        "count": 16,
-        "hit_rate": 0.75,
-        "avg_edge": 0.00325,
-        "median_edge": 0.002,
-        "avg_roi": 0.062028,
-        "median_roi": 0.024845,
-        "max_consecutive_losses": 2
+        "count": 22,
+        "hit_rate": 0.5455,
+        "avg_edge": -0.004886,
+        "median_edge": 0.00075,
+        "avg_roi": 0.027434,
+        "median_roi": 0.013006,
+        "max_consecutive_losses": 4
       }
     }
   }

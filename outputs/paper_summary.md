@@ -1,9 +1,9 @@
 # Paper Trade Summary
 
-- 生成时间: 2026-04-30T19:01:13
-- 纪律版本: v2
-- 执行桶: trade=['high_confidence', 'main_pool'] observe_only=['research'] blocked=['below_floor']
-- open / close / skip / halt: 15 / 15 / 545 / 216
+- 生成时间: 2026-04-30T19:32:08
+- 纪律版本: vNext-mr-core
+- 执行桶: trade=['main_pool'] observe_only=['high_confidence', 'research'] blocked=['below_floor']
+- open / close / skip / halt: 15 / 15 / 545 / 219
 - 当前持仓: 0 open / 15 closed
 - 实现交易数: 15
 - 胜率: 6.67%
@@ -15,26 +15,34 @@
 - profit_factor_like: 0.0101
 - 当前 halt: True (daily_loss_halt)
 
+## vNext Strategy Snapshot
+- trade_regimes: ['mean_revert']
+- observe_only_regimes: ['trend']
+- blocked_regimes: ['carry_no', 'contrarian']
+- blocked_clusters: ['world_cup', 'gta_vi', 'us_election']
+- allowed_clusters: ['other']
+- vnext_skip_count: 0
+
 ## Discipline v2 Gate (Paper → Micro Live)
 - eligible: False
-- closed_trades: 15 / >= 30
-- win_rate: 6.67% / >= 55%
-- avg_win_loss_ratio_like: 0.0503 / >= 1.3
+- closed_trades: 15 / >= 40
+- win_rate: 6.67% / >= 58%
+- avg_win_loss_ratio_like: 0.0503 / >= 1.5
 - recent_consecutive_losses: 0 / <= 3
-- flat_rate: 60.00% / <= 50%
+- flat_rate: 60.00% / <= 45%
 
 ## Execution Scope Split
 - 当前 open positions by policy: {}
-- 当前 closed positions by policy: {'observe_only': 2, 'trade': 6, 'blocked': 7}
-- 历史 open events by policy: {'observe_only': 2, 'trade': 6, 'blocked': 7}
-- 历史 skip events by policy: {'blocked': 164, 'trade': 207, 'observe_only': 174}
+- 当前 closed positions by policy: {'blocked': 12, 'trade': 1, 'observe_only': 2}
+- 历史 open events by policy: {'blocked': 12, 'trade': 1, 'observe_only': 2}
+- 历史 skip events by policy: {'observe_only': 338, 'trade': 207}
 
 ## Auto Downgrade Suggestions
-- [high] bucket/high_confidence -> tighten_gate | win_rate=0.00%, flat_rate=100.00%, pnl=0.0000
+- [high] bucket/main_pool -> tighten_gate | win_rate=0.00%, flat_rate=70.00%, pnl=-0.0143
 - [high] cluster/world_cup -> block | flat_rate=100.00%, pnl=0.0000, closed=4
 - [high] overall/paper_to_micro_live -> stay_paper | eligible=False, closed=15, win_rate=6.67%, flat_rate=60.00%
 - [high] regime/carry_no -> observe_only | flat_rate=100.00%, pnl=0.0000, closed=7
-- [low] bucket/main_pool -> keep | closed=8, win_rate=12.50%, flat_rate=25.00%, pnl=-0.1477
+- [low] bucket/research -> keep | closed=5, win_rate=20.00%, flat_rate=40.00%, pnl=-0.1335
 - [low] cluster/gta_vi -> monitor | 样本不足: closed=2 < 3
 - [low] cluster/other -> keep | closed=4, win_rate=0.00%, flat_rate=0.00%, pnl=-0.1447
 - [low] cluster/us_election -> keep | closed=5, win_rate=20.00%, flat_rate=60.00%, pnl=-0.0030
@@ -62,6 +70,9 @@
 - bucket=main_pool policy=observe_only: 174
 - cooldown after consecutive losses: 4
 
+## vNext Skip Reasons
+- 暂无 vNext 专属拦截
+
 ## By Regime
 - trend: closed=2 wins=0 win_rate=0.00% pnl=-0.0127
 - carry_no: closed=7 wins=0 win_rate=0.00% pnl=0.0000
@@ -74,10 +85,10 @@
 - gta_vi: closed=2 wins=0 flat=2 win_rate=0.00% flat_rate=100.00% pnl=0.0000
 
 ## By Bucket
-- main_pool: closed=8 wins=1 flat=2 win_rate=12.50% flat_rate=25.00% pnl=-0.1477
-- high_confidence: closed=7 wins=0 flat=7 win_rate=0.00% flat_rate=100.00% pnl=0.0000
+- main_pool: closed=10 wins=0 flat=7 win_rate=0.00% flat_rate=70.00% pnl=-0.0143
+- research: closed=5 wins=1 flat=2 win_rate=20.00% flat_rate=40.00% pnl=-0.1335
 
 ## By Execution Policy
-- trade: closed=6 wins=0 flat=2 win_rate=0.00% flat_rate=33.33% pnl=-0.1447
-- blocked: closed=7 wins=0 flat=7 win_rate=0.00% flat_rate=100.00% pnl=0.0000
-- observe_only: closed=2 wins=1 flat=0 win_rate=50.00% flat_rate=0.00% pnl=-0.0030
+- blocked: closed=12 wins=1 flat=9 win_rate=8.33% flat_rate=75.00% pnl=-0.0112
+- trade: closed=1 wins=0 flat=0 win_rate=0.00% flat_rate=0.00% pnl=-0.0015
+- observe_only: closed=2 wins=0 flat=0 win_rate=0.00% flat_rate=0.00% pnl=-0.1350

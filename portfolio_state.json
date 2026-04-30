@@ -377,10 +377,10 @@
     }
   ],
   "cash": 20.0,
-  "updated_at": "2026-04-30T19:01:13",
+  "updated_at": "2026-04-30T19:32:07",
   "portfolio_health": {
     "mode": "paper_trade",
-    "discipline_version": "v2",
+    "discipline_version": "vNext-mr-core",
     "halted": true,
     "halt_reason": "daily_loss_halt",
     "recent_fail_count": 0,
@@ -392,8 +392,8 @@
     "closed_positions": 15,
     "open_bucket_counts": {},
     "closed_bucket_counts": {
-      "main_pool": 8,
-      "high_confidence": 7
+      "main_pool": 10,
+      "research": 5
     },
     "total_open_exposure": 0,
     "open_pnl_like": 0,

@@ -1,27 +1,27 @@
 # Proposed Config Patch
 
-- 生成时间: 2026-04-30T19:01:13
+- 生成时间: 2026-04-30T19:32:08
 - requires_manual_review: True
-- change_count: 1
+- change_count: 0
 
 ## Proposed Changes
-- discipline_v2.buckets.high_confidence_min: 0.7 -> 0.72 | win_rate=0.00%, flat_rate=100.00%, pnl=0.0000
+- 当前没有新的配置补丁建议
 
 ## Proposed Config Excerpt
 {
   "discipline_v2": {
-    "version": "v2",
+    "version": "vNext-mr-core",
     "buckets": {
-      "high_confidence_min": 0.72,
-      "main_pool_min": 0.58,
-      "research_min": 0.5
+      "high_confidence_min": 0.74,
+      "main_pool_min": 0.64,
+      "research_min": 0.56
     },
     "execution": {
       "trade_buckets": [
-        "high_confidence",
         "main_pool"
       ],
       "observe_only_buckets": [
+        "high_confidence",
         "research"
       ],
       "blocked_buckets": [
@@ -29,24 +29,27 @@
       ],
       "overrides": {
         "blocked_clusters": [
+          "gta_vi",
           "world_cup"
         ],
         "observe_only_clusters": [
           "us_election"
         ],
         "blocked_regimes": [
-          "carry_no"
+          "carry_no",
+          "contrarian",
+          "trend"
         ],
         "observe_only_regimes": []
       }
     },
     "release_gates": {
       "paper_to_micro_live": {
-        "min_closed_trades": 30,
-        "min_win_rate": 0.55,
-        "min_avg_win_loss_ratio_like": 1.3,
+        "min_closed_trades": 40,
+        "min_win_rate": 0.58,
+        "min_avg_win_loss_ratio_like": 1.5,
         "max_consecutive_losses": 3,
-        "max_flat_rate": 0.5
+        "max_flat_rate": 0.45
       }
     }
   }
