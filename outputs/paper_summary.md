@@ -1,9 +1,9 @@
 # Paper Trade Summary
 
-- 生成时间: 2026-04-30T20:32:24
+- 生成时间: 2026-04-30T21:03:31
 - 纪律版本: vNext-mr-core
 - 执行桶: trade=['main_pool'] observe_only=['high_confidence', 'research'] blocked=['below_floor']
-- open / close / skip / halt: 15 / 15 / 545 / 221
+- open / close / skip / halt: 15 / 15 / 545 / 223
 - 当前持仓: 0 open / 15 closed
 - 实现交易数: 15
 - 胜率: 6.67%
@@ -21,6 +21,12 @@
 - blocked_regimes: ['carry_no', 'contrarian']
 - blocked_clusters: ['world_cup', 'gta_vi', 'us_election']
 - allowed_clusters: ['other']
+- whitelist_keywords: ['nhl', 'stanley cup']
+- observe_keywords: ['rookie of the year', 'nba rookie']
+- blocklist_keywords: ['world cup', 'fifa', 'democratic presidential nomination', '2028 us presidential election', 'released before june 2026', 'gta vi']
+- whitelist_hit_count: 132
+- observe_hit_count: 3
+- blocklist_hit_count: 328
 - vnext_skip_count: 0
 
 ## Discipline v2 Gate (Paper → Micro Live)
@@ -72,6 +78,14 @@
 
 ## vNext Skip Reasons
 - 暂无 vNext 专属拦截
+
+## v6 Whitelist / Blocklist Monitor
+- whitelist_hit_count: 132
+- observe_hit_count: 3
+- blocklist_hit_count: 328
+- whitelist_examples: ['Will the Ottawa Senators win the 2026 NHL Stanley Cup?', 'Will the Minnesota Wild win the 2026 NHL Stanley Cup?', 'Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?', 'Will the Dallas Stars win the 2026 NHL Stanley Cup?', 'Will the Dallas Stars win the 2026 NHL Stanley Cup?']
+- observe_examples: ['Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?', 'Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?', 'Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?']
+- blocklist_examples: ['Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?', 'Will Panama win the 2026 FIFA World Cup?', 'Will Iraq win the 2026 FIFA World Cup?', 'Will Bernie Sanders win the 2028 Democratic presidential nomination?', 'Will Zohran Mamdani win the 2028 Democratic presidential nomination?']
 
 ## By Regime
 - trend: closed=2 wins=0 win_rate=0.00% pnl=-0.0127

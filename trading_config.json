@@ -109,7 +109,9 @@
       ],
       "question_whitelist_keywords": [
         "nhl",
-        "stanley cup",
+        "stanley cup"
+      ],
+      "question_observe_keywords": [
         "rookie of the year",
         "nba rookie"
       ],
