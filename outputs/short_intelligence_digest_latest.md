@@ -39,13 +39,6 @@
   原始题目: Will the San Antonio Spurs win the 2026 NBA Finals?
 
 ## 谨慎观察
-- 选举盘：Kamala Harris能否赢得 2028 美国总统大选？ | 美国大选 / 趋势延续
-  观察原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
-  链接（中文导读）: 中文导读：选举盘：Kamala Harris能否赢得 2028 美国总统大选？
-  Link (English source): English source: Will Kamala Harris win the 2028 US Presidential Election?
-  URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-us-presidential-election
-  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will Kamala Harris win the 2028 US Presidential Election?
 - 选举盘：Josh Shapiro能否赢得 2028 民主党总统提名？ | 美国大选 / 趋势延续
   观察原因: 短周期价格已经出现可见偏移，这类信号更适合放进今日观察池，而不是直接忽略。
   链接（中文导读）: 中文导读：选举盘：Josh Shapiro能否赢得 2028 民主党总统提名？
@@ -53,6 +46,13 @@
   URL: https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
   原始题目: Will Josh Shapiro win the 2028 Democratic presidential nomination?
+- 选举盘：Marco Rubio能否赢得 2028 美国总统大选？ | 美国大选 / 均值回归
+  观察原因: 它属于“美国大选”里的均值回归型线索，虽然爆发力一般，但还值得继续盯一眼。
+  链接（中文导读）: 中文导读：选举盘：Marco Rubio能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will Marco Rubio win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-marco-rubio-win-the-2028-us-presidential-election
+  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
+  原始题目: Will Marco Rubio win the 2028 US Presidential Election?
 
 ## 今天不碰
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
@@ -77,10 +77,10 @@
   原始题目: Will Switzerland win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.5941 | total=17
-- 倾向保留: 均值回归 | score=0.1613 | total=31
+- 倾向保留: 趋势延续 | score=0.54 | total=15
+- 倾向保留: 均值回归 | score=0.2576 | total=33
 - 应继续降权: 世界杯主题 | score=-0.1176 | flat=4
-- 应继续降权: 美国大选 | score=0.1296 | flat=1
+- 应继续降权: 美国大选 | score=0.0926 | flat=1
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。

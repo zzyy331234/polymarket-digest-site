@@ -41,16 +41,16 @@
 - [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [research] Will the Boston Celtics win the 2026 NBA Finals? | NO | conf=0.69 | catalyst=price_dislocation
 - [research] New Playboi Carti Album before GTA VI? | YES | conf=0.66 | catalyst=theme_cluster
-- [watch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 - [watch] Will Josh Shapiro win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
+- [watch] Will Marco Rubio win the 2028 US Presidential Election? | NO | conf=0.66 | catalyst=mean_reversion
 - [do_not_touch] Will Colombia win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
-- Will Kamala Harris win the 2028 US Presidential Election? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.293, 24h=0.293).
 - Will Josh Shapiro win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=0.095, 24h=0.095).
 - Will Marco Rubio win the 2028 US Presidential Election? | cluster=us_election | regime=mean_revert | why=Relevant within active cluster=us_election and current regime=mean_revert.
 - Will Jon Ossoff win the 2028 Democratic presidential nomination? | cluster=us_election | regime=mean_revert | why=Short-term dislocation detected (1h=0.000, 4h=0.120, 24h=0.120).
-- Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=-0.008, 4h=0.859, 24h=0.859).
+- Will the Minnesota Wild win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | why=Short-term dislocation detected (1h=0.000, 4h=-0.865, 24h=-0.865).
+- New Rihanna Album before GTA VI? | cluster=gta_vi | regime=trend | why=Short-term dislocation detected (1h=-0.009, 4h=0.150, 24h=0.150).
 
 ## 今日避坑
 - Will Colombia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
@@ -60,7 +60,7 @@
 - Will Belgium win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=low_tradability
 
 ## 后验复盘快照
-- outcomes: {'pending': 17, 'flat': 116, 'hit': 19, 'miss': 48}
+- outcomes: {'pending': 17, 'flat': 115, 'hit': 20, 'miss': 48}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
