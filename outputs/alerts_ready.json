@@ -17,8 +17,12 @@
       "liquidity good",
       "cluster=other"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.9995,
     "no_price": 0.0005,
@@ -55,7 +59,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.72,
+    "pipeline_score": 0.69,
     "market_url": "https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
     "templates": {
       "short": "[trend] YES conf=0.69 | Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
@@ -79,8 +83,12 @@
       "RSI extreme",
       "cluster=other"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.115,
     "no_price": 0.885,
@@ -89,8 +97,8 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.21052631578947373,
-    "latest_ts": "2026-04-28T20:44:04",
+    "chg_7d": 0.0,
+    "latest_ts": "2026-04-30T13:31:03",
     "features": {
       "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
       "question": "Putin out as President of Russia by December 31, 2026?",
@@ -99,25 +107,25 @@
       "no_price": 0.885,
       "liquidity": 208360.1236,
       "volume": 4270273.573890949,
-      "latest_ts": "2026-04-28T20:44:04",
-      "history_points": 10240,
+      "latest_ts": "2026-04-30T13:31:03",
+      "history_points": 10244,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.21052631578947373,
+      "chg_7d": 0.0,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
       "pct_rank_7d": 1.0,
-      "pct_rank_30d": 0.92119140625,
+      "pct_rank_30d": 0.921222178836392,
       "noise_score": 0.0,
-      "hours_to_event": 5907.265555555556,
+      "hours_to_event": 5866.4825,
       "event_time": "2026-12-31",
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.644,
+    "pipeline_score": 0.614,
     "market_url": "https://polymarket.com/question/putin-out-before-2027",
     "templates": {
       "short": "[mean_revert] NO conf=0.62 | Putin out as President of Russia by December 31, 2026? | https://polymarket.com/question/putin-out-before-2027",

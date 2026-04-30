@@ -28,31 +28,31 @@
   原始题目: Putin out as President of Russia by December 31, 2026?
 
 ## 今天不碰
-- 观察盘：Will the Phoenix Suns win the 2026 NBA Finals? | 其他事件 | 低效拖时间盘
-  避开原因: 流动性差，退出困难
-  链接（中文导读）: 中文导读：观察盘：Will the Phoenix Suns win the 2026 NBA Finals?
-  Link (English source): English source: Will the Phoenix Suns win the 2026 NBA Finals?
-  URL: https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will the Phoenix Suns win the 2026 NBA Finals?
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: 噪音过高，方向不稳定
   链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Turkiye win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-turkiye-win-the-2026-fifa-world-cup
+  Link (English source): English source: Will Uruguay win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-uruguay-win-the-2026-fifa-world-cup-932
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Turkiye win the 2026 FIFA World Cup?
+  原始题目: Will Uruguay win the 2026 FIFA World Cup?
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: 噪音过高，方向不稳定
   链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Canada win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-canada-win-the-2026-fifa-world-cup-755
+  Link (English source): English source: Will Colombia win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-colombia-win-the-2026-fifa-world-cup-734
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Canada win the 2026 FIFA World Cup?
+  原始题目: Will Colombia win the 2026 FIFA World Cup?
+- 选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  避开原因: 噪音过高，方向不稳定
+  链接（中文导读）: 中文导读：选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Kim Kardashian win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-kim-kardashian-win-the-2028-democratic-presidential-nomination
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Kim Kardashian win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.5941 | total=17
-- 倾向保留: 均值回归 | score=0.2581 | total=31
+- 倾向保留: 趋势延续 | score=0.6167 | total=18
+- 倾向保留: 均值回归 | score=0.2667 | total=30
 - 应继续降权: 世界杯主题 | score=-0.1176 | flat=4
 - 应继续降权: 美国大选 | score=0.2037 | flat=1
 

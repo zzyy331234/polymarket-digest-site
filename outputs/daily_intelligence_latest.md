@@ -18,20 +18,20 @@
 
 ## 可直接关注的 Ready Alerts
 - [research] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [watch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
+- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.62 | catalyst=mean_reversion
 
 ## 观察名单
 - Putin out as President of Russia by December 31, 2026? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
 
 ## 今日避坑
-- Will the Phoenix Suns win the 2026 NBA Finals? | cluster=other | regime=carry_no | blocking=low_tradability
-- Will Turkiye win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
-- Will Canada win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
-- Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=high_noise
-- Will MrBeast win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=high_noise
+- Will Uruguay win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
+- Will Colombia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
+- Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=high_noise
+- Will Switzerland win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
+- Will Mexico win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=high_noise
 
 ## 后验复盘快照
-- outcomes: {'pending': 17, 'flat': 116, 'hit': 22, 'miss': 45}
+- outcomes: {'pending': 17, 'flat': 116, 'hit': 23, 'miss': 44}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
