@@ -14,8 +14,8 @@
 - [do_not_touch] Will Turkiye win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Colombia win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will the Phoenix Suns win the 2026 NBA Finals? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Tim Walz win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Tucker Carlson win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
@@ -29,7 +29,7 @@
 - Will Belgium win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 107, 'miss': 54, 'hit': 19, 'pending': 20}
+- outcomes: {'miss': 55, 'flat': 106, 'hit': 19, 'pending': 20}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
