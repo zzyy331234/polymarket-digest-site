@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T06:04:02",
+  "generated_at": "2026-05-02T06:33:33",
   "discipline_v2": {
     "version": "vNext-mr-core",
     "buckets": {
@@ -63,7 +63,7 @@
     "open_count": 15,
     "close_count": 15,
     "skip_count": 545,
-    "halt_count": 265
+    "halt_count": 266
   },
   "portfolio": {
     "open_positions": 0,
@@ -334,7 +334,7 @@
     }
   ],
   "latest_cycle": {
-    "ran_at": "2026-05-02T06:04:02",
+    "ran_at": "2026-05-02T06:33:33",
     "mode": "paper_trade",
     "discipline_version": "vNext-mr-core",
     "discipline_buckets": {
@@ -373,7 +373,7 @@
     "ready_buckets": {
       "main_pool": 4
     },
-    "latest_count": 35,
+    "latest_count": 34,
     "opened": 0,
     "opened_buckets": {},
     "closed": 0,
