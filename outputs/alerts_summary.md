@@ -10,7 +10,7 @@
 - 问题: Will the Boston Celtics win the 2026 NBA Finals?
 - Cluster: other
 - URL: https://polymarket.com/question/will-the-boston-celtics-win-the-2026-nba-finals
-- 原因: 4h move visible, 24h move strong, 7d move strong
+- 原因: 24h move strong, 7d move strong, 24h and 7d aligned
 
 ## 3. [trend] NO conf=0.68
 - 问题: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
