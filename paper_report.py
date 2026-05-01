@@ -90,6 +90,10 @@ def signal_execution_policy(signal: Dict, config: Dict) -> str:
     discipline = config.get('discipline_v2') or {}
     execution = discipline.get('execution') or {}
     overrides = execution.get('overrides') or {}
+    strategy_vnext = config.get('strategy_vnext') or {}
+    tradability_gate = strategy_vnext.get('tradability_gate') or {}
+    signal_rules = strategy_vnext.get('signal_rules') or {}
+
     cluster = signal.get('cluster', 'other')
     regime = signal.get('regime', 'other')
     bucket = classify_bucket(signal.get('confidence'), config)
@@ -99,9 +103,23 @@ def signal_execution_policy(signal: Dict, config: Dict) -> str:
     blocked_regimes = set(overrides.get('blocked_regimes', []))
     observe_only_regimes = set(overrides.get('observe_only_regimes', []))
 
-    if cluster in blocked_clusters or regime in blocked_regimes:
+    vnext_blocked_clusters = set(tradability_gate.get('blocked_clusters', []) or [])
+    vnext_allowed_clusters = set(tradability_gate.get('allowed_clusters', []) or [])
+    vnext_trade_regimes = set(signal_rules.get('trade_regimes', []) or [])
+    vnext_observe_regimes = set(signal_rules.get('observe_only_regimes', []) or [])
+    vnext_blocked_regimes = set(signal_rules.get('blocked_regimes', []) or [])
+
+    if cluster in blocked_clusters or cluster in vnext_blocked_clusters:
         return 'blocked'
-    if cluster in observe_only_clusters or regime in observe_only_regimes:
+    if regime in blocked_regimes or regime in vnext_blocked_regimes:
+        return 'blocked'
+    if vnext_allowed_clusters and cluster not in vnext_allowed_clusters:
+        return 'blocked'
+    if cluster in observe_only_clusters or regime in observe_only_regimes or regime in vnext_observe_regimes:
+        return 'observe_only'
+    if vnext_trade_regimes:
+        if regime in vnext_trade_regimes:
+            return bucket_execution_policy(bucket, config)
         return 'observe_only'
     return bucket_execution_policy(bucket, config)
 
@@ -233,6 +251,8 @@ def build_patch_proposal(config: Dict, summary: Dict) -> Dict:
                     'reason': reason,
                 })
         elif scope == 'regime' and action in ('observe_only', 'downgrade'):
+            if target in blocked_regimes:
+                continue
             if target not in observe_only_regimes:
                 observe_only_regimes.append(target)
                 changes.append({
@@ -290,6 +310,11 @@ def summarize() -> Dict:
     config = load_json(CONFIG_FILE, {})
     discipline = config.get('discipline_v2') or {}
     release_gate = (discipline.get('release_gates') or {}).get('paper_to_micro_live') or {}
+    strategy_vnext = config.get('strategy_vnext') or {}
+    tradability_gate = strategy_vnext.get('tradability_gate') or {}
+    whitelist_keywords = [str(x).lower() for x in (tradability_gate.get('question_whitelist_keywords', []) or [])]
+    observe_keywords = [str(x).lower() for x in (tradability_gate.get('question_observe_keywords', []) or [])]
+    blocklist_keywords = [str(x).lower() for x in (tradability_gate.get('question_blocklist_keywords', []) or [])]
     portfolio = load_json(PORTFOLIO_FILE, {'positions': [], 'portfolio_health': {}})
     cycle = load_json(CYCLE_JSON, {})
     events = load_events()
@@ -399,6 +424,34 @@ def summarize() -> Dict:
         }
         for k, v in policy_stats.items()
     }
+    vnext_skip_reasons = {
+        k: v for k, v in dict(skip_reasons).items()
+        if str(k).startswith('vnext ')
+    }
+    whitelist_hit_count = 0
+    observe_hit_count = 0
+    blocklist_hit_count = 0
+    whitelist_examples = []
+    observe_examples = []
+    blocklist_examples = []
+    for ev in opens + skips + closes:
+        question_text = f"{ev.get('question') or ''} {ev.get('slug') or ''}".lower()
+        hit_whitelist = any(k in question_text for k in whitelist_keywords) if whitelist_keywords else False
+        hit_blocklist = any(k in question_text for k in blocklist_keywords) if blocklist_keywords else False
+        hit_observe = any(k in question_text for k in observe_keywords) if observe_keywords else False
+        if hit_whitelist:
+            whitelist_hit_count += 1
+            if len(whitelist_examples) < 5:
+                whitelist_examples.append(ev.get('question') or ev.get('slug') or '-')
+        if hit_observe:
+            observe_hit_count += 1
+            if len(observe_examples) < 5:
+                observe_examples.append(ev.get('question') or ev.get('slug') or '-')
+        if hit_blocklist:
+            blocklist_hit_count += 1
+            if len(blocklist_examples) < 5:
+                blocklist_examples.append(ev.get('question') or ev.get('slug') or '-')
+
     recommendations = [
         {
             'scope': 'overall',
@@ -475,6 +528,20 @@ def summarize() -> Dict:
         'by_execution_policy': policy_summary,
         'recommendations': recommendations,
         'latest_cycle': cycle,
+        'vnext': {
+            'strategy': config.get('strategy_vnext', {}),
+            'skip_reasons': vnext_skip_reasons,
+            'skip_count': sum(vnext_skip_reasons.values()) if vnext_skip_reasons else 0,
+            'whitelist_keywords': whitelist_keywords,
+            'observe_keywords': observe_keywords,
+            'blocklist_keywords': blocklist_keywords,
+            'whitelist_hit_count': whitelist_hit_count,
+            'observe_hit_count': observe_hit_count,
+            'blocklist_hit_count': blocklist_hit_count,
+            'whitelist_examples': whitelist_examples,
+            'observe_examples': observe_examples,
+            'blocklist_examples': blocklist_examples,
+        },
     }
     return summary
 
@@ -508,6 +575,20 @@ def save(summary: Dict) -> None:
         f"- profit_factor_like: {perf['profit_factor_like'] if perf['profit_factor_like'] is not None else 'N/A'}",
         f"- 当前 halt: {health.get('halted')} ({health.get('halt_reason')})",
         '',
+        '## vNext Strategy Snapshot',
+        f"- trade_regimes: {(summary.get('vnext', {}).get('strategy', {}).get('signal_rules', {}) or {}).get('trade_regimes', [])}",
+        f"- observe_only_regimes: {(summary.get('vnext', {}).get('strategy', {}).get('signal_rules', {}) or {}).get('observe_only_regimes', [])}",
+        f"- blocked_regimes: {(summary.get('vnext', {}).get('strategy', {}).get('signal_rules', {}) or {}).get('blocked_regimes', [])}",
+        f"- blocked_clusters: {(summary.get('vnext', {}).get('strategy', {}).get('tradability_gate', {}) or {}).get('blocked_clusters', [])}",
+        f"- allowed_clusters: {(summary.get('vnext', {}).get('strategy', {}).get('tradability_gate', {}) or {}).get('allowed_clusters', [])}",
+        f"- whitelist_keywords: {summary.get('vnext', {}).get('whitelist_keywords', [])}",
+        f"- observe_keywords: {summary.get('vnext', {}).get('observe_keywords', [])}",
+        f"- blocklist_keywords: {summary.get('vnext', {}).get('blocklist_keywords', [])}",
+        f"- whitelist_hit_count: {summary.get('vnext', {}).get('whitelist_hit_count', 0)}",
+        f"- observe_hit_count: {summary.get('vnext', {}).get('observe_hit_count', 0)}",
+        f"- blocklist_hit_count: {summary.get('vnext', {}).get('blocklist_hit_count', 0)}",
+        f"- vnext_skip_count: {summary.get('vnext', {}).get('skip_count', 0)}",
+        '',
         '## Discipline v2 Gate (Paper → Micro Live)',
         f"- eligible: {gate['eligible']}",
         f"- closed_trades: {gate['actuals']['closed_trades']} / >= {gate['thresholds'].get('min_closed_trades', 30)}",
@@ -540,6 +621,21 @@ def save(summary: Dict) -> None:
             md.append(f'- {k}: {v}')
     else:
         md.append('- 暂无 skip 记录')
+
+    md.extend(['', '## vNext Skip Reasons'])
+    if summary.get('vnext', {}).get('skip_reasons'):
+        for k, v in summary['vnext']['skip_reasons'].items():
+            md.append(f'- {k}: {v}')
+    else:
+        md.append('- 暂无 vNext 专属拦截')
+
+    md.extend(['', '## v6 Whitelist / Blocklist Monitor'])
+    md.append(f"- whitelist_hit_count: {summary.get('vnext', {}).get('whitelist_hit_count', 0)}")
+    md.append(f"- observe_hit_count: {summary.get('vnext', {}).get('observe_hit_count', 0)}")
+    md.append(f"- blocklist_hit_count: {summary.get('vnext', {}).get('blocklist_hit_count', 0)}")
+    md.append(f"- whitelist_examples: {summary.get('vnext', {}).get('whitelist_examples', [])}")
+    md.append(f"- observe_examples: {summary.get('vnext', {}).get('observe_examples', [])}")
+    md.append(f"- blocklist_examples: {summary.get('vnext', {}).get('blocklist_examples', [])}")
 
     md.extend(['', '## By Regime'])
     if summary['by_regime']:

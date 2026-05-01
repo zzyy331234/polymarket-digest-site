@@ -30,6 +30,11 @@ def infer_execution_readiness(sig: Dict[str, Any], config: Dict[str, Any] = None
     blocked_clusters = set((((config.get('discipline_v2') or {}).get('execution') or {}).get('overrides') or {}).get('blocked_clusters', []) or [])
     blocked_regimes = set((((config.get('discipline_v2') or {}).get('execution') or {}).get('overrides') or {}).get('blocked_regimes', []) or [])
     observe_only_clusters = set((((config.get('discipline_v2') or {}).get('execution') or {}).get('overrides') or {}).get('observe_only_clusters', []) or [])
+    observe_only_regimes = set((((config.get('discipline_v2') or {}).get('execution') or {}).get('overrides') or {}).get('observe_only_regimes', []) or [])
+    strategy_vnext = config.get('strategy_vnext') or {}
+    trade_regimes = set(((strategy_vnext.get('signal_rules') or {}).get('trade_regimes') or []) or [])
+    vnext_observe_regimes = set(((strategy_vnext.get('signal_rules') or {}).get('observe_only_regimes') or []) or [])
+    vnext_blocked_clusters = set(((strategy_vnext.get('tradability_gate') or {}).get('blocked_clusters') or []) or [])
 
     cluster = sig.get('cluster')
     regime = sig.get('regime')
@@ -37,15 +42,17 @@ def infer_execution_readiness(sig: Dict[str, Any], config: Dict[str, Any] = None
     blocking = sig.get('blocking_flags', []) or []
     advisory = sig.get('advisory_flags', []) or []
 
-    if blocking or cluster in blocked_clusters or regime in blocked_regimes:
+    if blocking or cluster in blocked_clusters or cluster in vnext_blocked_clusters or regime in blocked_regimes:
         return 'do_not_touch'
-    if cluster in observe_only_clusters:
+    if cluster in observe_only_clusters or regime in observe_only_regimes or regime in vnext_observe_regimes:
+        return 'watch'
+    if trade_regimes and regime not in trade_regimes:
         return 'watch'
     if confidence >= 0.72 and len(advisory) == 0:
         return 'candidate'
     if confidence >= 0.64 and len(advisory) <= 1:
         return 'research'
-    if confidence >= 0.58 and len(advisory) == 0 and regime not in ('carry_no',):
+    if confidence >= 0.58 and len(advisory) == 0 and regime not in ('carry_no', 'contrarian'):
         return 'watch'
     return 'do_not_touch'
 

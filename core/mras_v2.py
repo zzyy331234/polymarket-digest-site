@@ -30,6 +30,65 @@ class MRASv2:
     def __init__(self, config: Optional[Dict] = None):
         config = config or {}
         self.low_tradability_config = config.get("low_tradability") or {}
+        self.strategy_vnext = config.get("strategy_vnext") or {}
+
+    def _vnext_gate(self, feature: Dict, regime: str) -> Optional[str]:
+        cfg = self.strategy_vnext or {}
+        tradability = cfg.get("tradability_gate") or {}
+        signal_rules = cfg.get("signal_rules") or {}
+        risk = cfg.get("risk") or {}
+
+        blocked_regimes = set(signal_rules.get("blocked_regimes", []) or [])
+        observe_only_regimes = set(signal_rules.get("observe_only_regimes", []) or [])
+        trade_regimes = set(signal_rules.get("trade_regimes", []) or [])
+        blocked_clusters = set(tradability.get("blocked_clusters", []) or [])
+        allowed_clusters = set(tradability.get("allowed_clusters", []) or [])
+        whitelist_keywords = [str(x).lower() for x in (tradability.get("question_whitelist_keywords", []) or [])]
+        observe_keywords = [str(x).lower() for x in (tradability.get("question_observe_keywords", []) or [])]
+        blocklist_keywords = [str(x).lower() for x in (tradability.get("question_blocklist_keywords", []) or [])]
+
+        cluster = str(feature.get("cluster") or "other")
+        liquidity = float(feature.get("liquidity") or 0.0)
+        noise = feature.get("noise_score")
+        hours_to_event = feature.get("hours_to_event")
+        yes_price = float(feature.get("yes_price") or 0.0)
+        confidence = float(feature.get("confidence") or 0.0)
+        question_text = f"{feature.get('question') or ''} {feature.get('slug') or ''}".lower()
+
+        if regime in blocked_regimes:
+            return "blocked_regime"
+        if cluster in blocked_clusters:
+            return "blocked_cluster"
+        if allowed_clusters and cluster not in allowed_clusters:
+            return "cluster_not_allowed"
+        if blocklist_keywords and any(k in question_text for k in blocklist_keywords):
+            return "question_blocklisted_v6"
+        if observe_keywords and any(k in question_text for k in observe_keywords):
+            return "question_observe_only_v6"
+        if whitelist_keywords and not any(k in question_text for k in whitelist_keywords):
+            return "question_not_whitelisted_v6"
+        if trade_regimes and regime not in trade_regimes and regime not in observe_only_regimes:
+            return "regime_not_enabled"
+        if liquidity < float(tradability.get("min_liquidity", 0) or 0):
+            return "liquidity_below_vnext_min"
+        if noise is not None and noise > float(tradability.get("max_noise_score", 99) or 99):
+            return "noise_above_vnext_max"
+        if hours_to_event is not None:
+            min_h = tradability.get("min_hours_to_event")
+            max_h = tradability.get("max_hours_to_event")
+            if min_h is not None and hours_to_event < float(min_h):
+                return "event_too_near_vnext"
+            if max_h is not None and hours_to_event > float(max_h):
+                return "event_too_far_vnext"
+        low = tradability.get("yes_price_low")
+        high = tradability.get("yes_price_high")
+        if low is not None and yes_price <= float(low):
+            return "deep_tail_price_vnext"
+        if high is not None and yes_price >= float(high):
+            return "ceiling_price_vnext"
+        if risk.get("daily_loss_halt") is not None and confidence <= 0:
+            return "invalid_confidence"
+        return None
 
     def _low_tradability_rule(self, regime: str) -> Dict:
         shared = dict(DEFAULT_LOW_TRADABILITY.get("shared", {}))
@@ -284,7 +343,7 @@ class MRASv2:
                     local_advisory.append("low_tradability")
                     local_blocking.append("low_tradability")
                     mr_reasons.append("low tradability profile")
-                return build_signal(
+                signal = build_signal(
                     feature,
                     "mean_revert",
                     direction,
@@ -296,6 +355,13 @@ class MRASv2:
                     advisory_flags=local_advisory,
                     blocking_flags=local_blocking,
                 )
+                gate_reason = self._vnext_gate(signal, "mean_revert")
+                if gate_reason:
+                    signal.setdefault("advisory_flags", []).append(gate_reason)
+                    signal.setdefault("blocking_flags", []).append(gate_reason)
+                    signal.setdefault("risk_flags", []).append(gate_reason)
+                    signal.setdefault("reasons", []).append(f"vNext gate: {gate_reason}")
+                return signal
 
         # 4) contrarian
         con_reasons: List[str] = []

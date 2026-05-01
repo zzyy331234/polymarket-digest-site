@@ -104,6 +104,10 @@ def signal_execution_policy(signal: Dict, config: Dict) -> str:
     discipline = config.get('discipline_v2') or {}
     execution = discipline.get('execution') or {}
     overrides = execution.get('overrides') or {}
+    strategy_vnext = config.get('strategy_vnext') or {}
+    tradability_gate = strategy_vnext.get('tradability_gate') or {}
+    signal_rules = strategy_vnext.get('signal_rules') or {}
+
     cluster = signal.get('cluster', 'other')
     regime = signal.get('regime', 'other')
     bucket = classify_bucket(signal.get('confidence'), config)
@@ -113,9 +117,23 @@ def signal_execution_policy(signal: Dict, config: Dict) -> str:
     blocked_regimes = set(overrides.get('blocked_regimes', []))
     observe_only_regimes = set(overrides.get('observe_only_regimes', []))
 
-    if cluster in blocked_clusters or regime in blocked_regimes:
+    vnext_blocked_clusters = set(tradability_gate.get('blocked_clusters', []) or [])
+    vnext_allowed_clusters = set(tradability_gate.get('allowed_clusters', []) or [])
+    vnext_trade_regimes = set(signal_rules.get('trade_regimes', []) or [])
+    vnext_observe_regimes = set(signal_rules.get('observe_only_regimes', []) or [])
+    vnext_blocked_regimes = set(signal_rules.get('blocked_regimes', []) or [])
+
+    if cluster in blocked_clusters or cluster in vnext_blocked_clusters:
         return 'blocked'
-    if cluster in observe_only_clusters or regime in observe_only_regimes:
+    if regime in blocked_regimes or regime in vnext_blocked_regimes:
+        return 'blocked'
+    if vnext_allowed_clusters and cluster not in vnext_allowed_clusters:
+        return 'blocked'
+    if cluster in observe_only_clusters or regime in observe_only_regimes or regime in vnext_observe_regimes:
+        return 'observe_only'
+    if vnext_trade_regimes:
+        if regime in vnext_trade_regimes:
+            return bucket_execution_policy(bucket, config)
         return 'observe_only'
     return bucket_execution_policy(bucket, config)
 
@@ -233,6 +251,9 @@ def open_position(signal: Dict, size: float, config: Dict) -> Dict:
         'execution_policy': signal_execution_policy(signal, config),
         'entry_yes_price': signal.get('yes_price'),
         'size_usd': size,
+        'noise_score': signal.get('noise_score'),
+        'hours_to_event': signal.get('hours_to_event'),
+        'liquidity': signal.get('liquidity'),
         'thesis': ', '.join(signal.get('reasons', [])[:3]),
     }
 
@@ -294,6 +315,68 @@ def close_position(pos: Dict, latest_sig: Dict, reason: str) -> Tuple[Dict, Dict
 
 def add_reason(counter: Dict[str, int], reason: str) -> None:
     counter[reason] = counter.get(reason, 0) + 1
+
+
+def vnext_precheck(signal: Dict, config: Dict) -> Tuple[bool, str]:
+    strategy_vnext = config.get('strategy_vnext') or {}
+    tradability_gate = strategy_vnext.get('tradability_gate') or {}
+    signal_rules = strategy_vnext.get('signal_rules') or {}
+
+    cluster = signal.get('cluster', 'other')
+    regime = signal.get('regime', 'other')
+    liquidity = float(signal.get('liquidity', 0) or 0)
+    noise = signal.get('noise_score')
+    hours_to_event = signal.get('hours_to_event')
+    yes_price = float(signal.get('yes_price', 0) or 0)
+    confidence = float(signal.get('confidence', 0) or 0)
+
+    blocked_clusters = set(tradability_gate.get('blocked_clusters', []) or [])
+    allowed_clusters = set(tradability_gate.get('allowed_clusters', []) or [])
+    trade_regimes = set(signal_rules.get('trade_regimes', []) or [])
+    blocked_regimes = set(signal_rules.get('blocked_regimes', []) or [])
+    whitelist_keywords = [str(x).lower() for x in (tradability_gate.get('question_whitelist_keywords', []) or [])]
+    observe_keywords = [str(x).lower() for x in (tradability_gate.get('question_observe_keywords', []) or [])]
+    blocklist_keywords = [str(x).lower() for x in (tradability_gate.get('question_blocklist_keywords', []) or [])]
+    question_text = f"{signal.get('question') or ''} {signal.get('slug') or ''}".lower()
+
+    if cluster in blocked_clusters:
+        return False, f'vnext blocked cluster={cluster}'
+    if allowed_clusters and cluster not in allowed_clusters:
+        return False, f'vnext cluster not allowed={cluster}'
+    if blocklist_keywords and any(k in question_text for k in blocklist_keywords):
+        return False, 'vnext question blocklisted'
+    if observe_keywords and any(k in question_text for k in observe_keywords):
+        return False, 'vnext question observe-only'
+    if whitelist_keywords and not any(k in question_text for k in whitelist_keywords):
+        return False, 'vnext question not whitelisted'
+    if regime in blocked_regimes:
+        return False, f'vnext blocked regime={regime}'
+    if trade_regimes and regime not in trade_regimes:
+        return False, f'vnext regime not tradable={regime}'
+    min_liquidity = tradability_gate.get('min_liquidity')
+    if min_liquidity is not None and liquidity < float(min_liquidity):
+        return False, 'vnext liquidity too low'
+    max_noise = tradability_gate.get('max_noise_score')
+    if noise is not None and max_noise is not None and float(noise) > float(max_noise):
+        return False, 'vnext noise too high'
+    min_hours = tradability_gate.get('min_hours_to_event')
+    max_hours = tradability_gate.get('max_hours_to_event')
+    if hours_to_event is not None and min_hours is not None and float(hours_to_event) < float(min_hours):
+        return False, 'vnext event too near'
+    if hours_to_event is not None and max_hours is not None and float(hours_to_event) > float(max_hours):
+        return False, 'vnext event too far'
+    low = tradability_gate.get('yes_price_low')
+    high = tradability_gate.get('yes_price_high')
+    if low is not None and yes_price <= float(low):
+        return False, 'vnext yes price too low'
+    if high is not None and yes_price >= float(high):
+        return False, 'vnext yes price too high'
+
+    mr_rules = (signal_rules.get('mean_revert') or {}) if regime == 'mean_revert' else {}
+    min_conf = mr_rules.get('min_confidence')
+    if min_conf is not None and confidence < float(min_conf):
+        return False, 'vnext confidence below min'
+    return True, 'ok'
 
 
 def main() -> None:
@@ -393,6 +476,20 @@ def main() -> None:
                 add_reason(cycle_summary['skip_reasons'], reason)
                 add_reason(cycle_summary['skipped_buckets'], bucket)
                 continue
+            vnext_ok, vnext_reason = vnext_precheck(sig, config)
+            if not vnext_ok:
+                append_trade({
+                    'type': 'skip',
+                    'time': now_iso(),
+                    'question': sig.get('question'),
+                    'reason': vnext_reason,
+                    'signal_bucket': bucket,
+                    'execution_policy': policy,
+                })
+                cycle_summary['skipped'] += 1
+                add_reason(cycle_summary['skip_reasons'], vnext_reason)
+                add_reason(cycle_summary['skipped_buckets'], bucket)
+                continue
             if used_budget >= daily_budget:
                 reason = 'daily budget reached'
                 append_trade({
@@ -411,7 +508,9 @@ def main() -> None:
                 (((config.get('discipline_v2') or {}).get('buckets') or {}).get('main_pool_min', 0.58) or 0.58)
             )
             ok, reason, size = can_open(sig, portfolio, opened_today, min_confidence=min_confidence)
+            vnext_risk = (config.get('strategy_vnext') or {}).get('risk') or {}
             size = min(size, float(config.get('max_single_size_usd', 3.0) or 3.0))
+            size = min(size, float(vnext_risk.get('max_single_size_usd', size) or size))
             if not ok:
                 append_trade({
                     'type': 'skip',
