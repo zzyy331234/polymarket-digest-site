@@ -1,10 +1,10 @@
 # Polymarket Alert Pipeline Summary
 
-## 1. [trend] YES conf=0.69
-- 问题: Will Tucker Carlson win the 2028 US Presidential Election?
+## 1. [trend] NO conf=0.68
+- 问题: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-tucker-carlson-win-the-2028-us-presidential-election
-- 原因: 4h move visible, 24h move strong, 7d move strong
+- URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
+- 原因: 24h move strong, 7d move strong, 24h and 7d aligned
 
 ## 2. [trend] YES conf=0.69
 - 问题: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
@@ -18,8 +18,8 @@
 - URL: https://polymarket.com/question/will-the-boston-celtics-win-the-2026-nba-finals
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 4. [carry_no] NO conf=0.71
-- 问题: Will Hillary Clinton win the 2028 Democratic presidential nomination?
+## 4. [trend] YES conf=0.69
+- 问题: Will Tucker Carlson win the 2028 US Presidential Election?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination
-- 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
+- URL: https://polymarket.com/question/will-tucker-carlson-win-the-2028-us-presidential-election
+- 原因: 4h move visible, 24h move strong, 7d move strong
