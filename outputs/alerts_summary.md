@@ -10,7 +10,7 @@
 - 问题: Will the Boston Celtics win the 2026 NBA Finals?
 - Cluster: other
 - URL: https://polymarket.com/question/will-the-boston-celtics-win-the-2026-nba-finals
-- 原因: 4h move visible, 24h move strong, 7d move strong
+- 原因: 24h move strong, 7d move strong, 24h and 7d aligned
 
 ## 3. [trend] YES conf=0.69
 - 问题: Will Donald Trump Jr. win the 2028 Republican presidential nomination?
@@ -23,9 +23,3 @@
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
-
-## 5. [trend] NO conf=0.63
-- 问题: New Rihanna Album before GTA VI?
-- Cluster: gta_vi
-- URL: https://polymarket.com/question/new-rhianna-album-before-gta-vi-926
-- 原因: 4h move visible, 24h move strong, 7d move strong
