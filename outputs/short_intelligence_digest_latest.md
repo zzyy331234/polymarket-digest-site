@@ -13,30 +13,30 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Turkiye win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-turkiye-win-the-2026-fifa-world-cup
+- 选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Hillary Clinton win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Turkiye win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Colombia win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-colombia-win-the-2026-fifa-world-cup-734
+  原始题目: Will Hillary Clinton win the 2028 Democratic presidential nomination?
+- 观察盘：Will the Phoenix Suns win the 2026 NBA Finals? | 其他事件 | 低效拖时间盘
+  链接（中文导读）: 中文导读：观察盘：Will the Phoenix Suns win the 2026 NBA Finals?
+  Link (English source): English source: Will the Phoenix Suns win the 2026 NBA Finals?
+  URL: https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Colombia win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Switzerland win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-switzerland-win-the-2026-fifa-world-cup
+  原始题目: Will the Phoenix Suns win the 2026 NBA Finals?
+- 选举盘：Tim Walz能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Tim Walz能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Tim Walz win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-tim-walz-win-the-2028-democratic-presidential-nomination-475
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Switzerland win the 2026 FIFA World Cup?
+  原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.5381 | total=21
+- 倾向保留: 趋势延续 | score=0.4429 | total=21
 - 倾向保留: 均值回归 | score=0.1129 | total=31
 - 应继续降权: 世界杯主题 | score=-0.0526 | flat=2
-- 应继续降权: 其他事件 | score=0.0957 | flat=5
+- 应继续降权: 其他事件 | score=0.0851 | flat=6
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
