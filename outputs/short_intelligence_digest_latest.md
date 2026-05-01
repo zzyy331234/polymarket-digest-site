@@ -4,7 +4,7 @@
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
 
 ## 今日主线
-今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 世界杯主题、GTA VI 主题 这类 flat-heavy 噪音盘。
+今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 世界杯主题、美国大选 这类 flat-heavy 噪音盘。
 
 ## 主观察池
 - 今天没有值得放进主栏的候选。
@@ -33,10 +33,10 @@
   原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.3826 | total=23
-- 倾向保留: 均值回归 | score=0.1552 | total=29
+- 倾向保留: 趋势延续 | score=0.5136 | total=22
+- 倾向保留: 均值回归 | score=0.1667 | total=30
 - 应继续降权: 世界杯主题 | score=-0.0526 | flat=2
-- 应继续降权: GTA VI 主题 | score=0.1 | flat=4
+- 应继续降权: 美国大选 | score=0.1296 | flat=1
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
