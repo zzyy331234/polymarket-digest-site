@@ -6,11 +6,11 @@
 - URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 2. [trend] YES conf=0.69
-- 问题: Will the Anaheim Ducks win the 2026 NHL Stanley Cup?
+## 2. [trend] NO conf=0.68
+- 问题: Xi Jinping out before 2027?
 - Cluster: other
-- URL: https://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup
-- 原因: 4h move visible, 24h move strong, 7d move strong
+- URL: https://polymarket.com/question/xi-jinping-out-before-2027
+- 原因: 24h move strong, 7d move strong, 4h and 24h aligned
 
 ## 3. [carry_no] NO conf=0.71
 - 问题: Will Hillary Clinton win the 2028 Democratic presidential nomination?
