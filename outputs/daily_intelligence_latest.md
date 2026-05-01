@@ -11,12 +11,12 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
+- [do_not_touch] Will Kamala Harris win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Turkiye win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Colombia win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
-- [do_not_touch] Will the Phoenix Suns win the 2026 NBA Finals? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Tim Walz win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Mark Cuban win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will the San Antonio Spurs win the 2026 NBA Finals? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
