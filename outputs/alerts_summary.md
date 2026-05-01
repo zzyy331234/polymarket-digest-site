@@ -7,19 +7,19 @@
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 2. [trend] YES conf=0.69
-- 问题: Will the Anaheim Ducks win the 2026 NHL Stanley Cup?
+- 问题: Will the San Antonio Spurs win the 2026 NBA Finals?
 - Cluster: other
-- URL: https://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup
+- URL: https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 3. [carry_no] NO conf=0.71
+## 3. [trend] YES conf=0.69
+- 问题: Will Kamala Harris win the 2028 Democratic presidential nomination?
+- Cluster: us_election
+- URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641
+- 原因: 4h move visible, 24h move strong, 7d move strong
+
+## 4. [carry_no] NO conf=0.71
 - 问题: Will Hillary Clinton win the 2028 Democratic presidential nomination?
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination
-- 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
-
-## 4. [carry_no] NO conf=0.71
-- 问题: Will Tim Walz win the 2028 Democratic presidential nomination?
-- Cluster: us_election
-- URL: https://polymarket.com/question/will-tim-walz-win-the-2028-democratic-presidential-nomination-475
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
