@@ -1,0 +1,50 @@
+[
+  {
+    "capability_id": "cheap_news_search",
+    "category": "search",
+    "provider": "provider_a",
+    "unit_cost": 0.01,
+    "latency_sec": 2,
+    "quality_score": 0.55,
+    "reliability_score": 0.8,
+    "historical_success_rate": 0.9088,
+    "historical_confidence_delta_avg": 0.1304,
+    "historical_roi_avg": 12.5594,
+    "supported_tasks": [
+      "market_verification",
+      "event_research"
+    ]
+  },
+  {
+    "capability_id": "premium_news_verify",
+    "category": "verification",
+    "provider": "provider_b",
+    "unit_cost": 0.03,
+    "latency_sec": 4,
+    "quality_score": 0.82,
+    "reliability_score": 0.88,
+    "historical_success_rate": 0.81,
+    "historical_confidence_delta_avg": 0.18,
+    "historical_roi_avg": 5.5,
+    "supported_tasks": [
+      "market_verification",
+      "event_research"
+    ]
+  },
+  {
+    "capability_id": "deep_reasoning_model",
+    "category": "reasoning",
+    "provider": "provider_c",
+    "unit_cost": 0.08,
+    "latency_sec": 10,
+    "quality_score": 0.91,
+    "reliability_score": 0.9,
+    "historical_success_rate": 0.73,
+    "historical_confidence_delta_avg": 0.22,
+    "historical_roi_avg": 2.1,
+    "supported_tasks": [
+      "market_verification",
+      "report_synthesis"
+    ]
+  }
+]

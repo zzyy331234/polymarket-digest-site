@@ -1,0 +1,8 @@
+{
+  "auto_buy_threshold": 0.05,
+  "max_budget_ratio": 0.15,
+  "min_expected_roi": 2.0,
+  "confidence_upgrade_trigger": 0.6,
+  "high_risk_requires_double_verify": true,
+  "min_procurement_score": 0.15
+}

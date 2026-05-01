@@ -1,0 +1,10 @@
+{
+  "task_id": "pm_breakout_001",
+  "task_type": "market_verification",
+  "topic": "Polymarket 异动验证",
+  "expected_value": 6.5,
+  "urgency": 0.9,
+  "risk_level": "medium",
+  "budget_cap": 0.1,
+  "target_confidence": 0.6
+}

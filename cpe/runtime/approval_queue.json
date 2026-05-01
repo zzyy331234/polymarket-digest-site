@@ -1,0 +1,38 @@
+[
+  {
+    "request_id": "apr_demo_001",
+    "task_id": "pm_breakout_001",
+    "capability_id": "deep_reasoning_model",
+    "expected_cost": 0.08,
+    "expected_benefit": "higher confidence on high-value verification task",
+    "reason": "manual approval required for expensive capability",
+    "status": "approved",
+    "created_at": "2026-05-01T16:16:06.472995+08:00",
+    "reviewed_at": "2026-05-01T16:16:06.473530+08:00",
+    "reviewer_note": "demo approval granted"
+  },
+  {
+    "request_id": "apr_pm_breakout_001_manual_demo",
+    "task_id": "pm_breakout_001",
+    "capability_id": "deep_reasoning_model",
+    "expected_cost": 0.04,
+    "expected_benefit": "force exercise manual approval flow",
+    "reason": "manual demo path",
+    "status": "approved",
+    "created_at": "2026-05-01T17:06:11.140375+08:00",
+    "reviewed_at": "2026-05-01T17:07:50.549917+08:00",
+    "reviewer_note": "manual demo auto-approved"
+  },
+  {
+    "request_id": "apr_pm_breakout_001_manual_demo",
+    "task_id": "pm_breakout_001",
+    "capability_id": "deep_reasoning_model",
+    "expected_cost": 0.04,
+    "expected_benefit": "force exercise manual approval flow",
+    "reason": "manual demo path",
+    "status": "pending",
+    "created_at": "2026-05-01T17:07:50.549007+08:00",
+    "reviewed_at": "",
+    "reviewer_note": ""
+  }
+]
