@@ -24,8 +24,8 @@
 ## 今日避坑
 - Will Turkiye win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Colombia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
-- Will Mexico win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Switzerland win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
+- Will Mexico win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Belgium win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 
 ## 后验复盘快照
