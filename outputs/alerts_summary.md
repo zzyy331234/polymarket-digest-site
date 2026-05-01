@@ -23,3 +23,9 @@
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
+
+## 5. [trend] NO conf=0.63
+- 问题: New Rihanna Album before GTA VI?
+- Cluster: gta_vi
+- URL: https://polymarket.com/question/new-rhianna-album-before-gta-vi-926
+- 原因: 4h move visible, 24h move strong, 7d move strong
