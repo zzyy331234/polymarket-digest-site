@@ -12,9 +12,9 @@
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Hillary Clinton win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Tim Walz win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will the Boston Celtics win the 2026 NBA Finals? | NO | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will Donald Trump Jr. win the 2028 Republican presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
