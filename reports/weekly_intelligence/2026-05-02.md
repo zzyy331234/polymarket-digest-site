@@ -7,26 +7,26 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- mean_revert: score=0.0735 total=34 hit=9 flat=13 unresolved=0 avg_conf=0.6299
-- trend: score=-0.0895 total=19 hit=4 flat=11 unresolved=1 avg_conf=0.6515
+- mean_revert: score=0.0645 total=31 hit=8 flat=12 unresolved=0 avg_conf=0.6279
+- trend: score=-0.0318 total=22 hit=5 flat=11 unresolved=1 avg_conf=0.6438
 - carry_no: score=-0.3143 total=63 hit=0 flat=32 unresolved=19 avg_conf=0.7062
 
 ## Worst Regimes
 - carry_no: score=-0.3143 total=63 hit=0 flat=32 unresolved=19 avg_conf=0.7062
-- trend: score=-0.0895 total=19 hit=4 flat=11 unresolved=1 avg_conf=0.6515
-- mean_revert: score=0.0735 total=34 hit=9 flat=13 unresolved=0 avg_conf=0.6299
+- trend: score=-0.0318 total=22 hit=5 flat=11 unresolved=1 avg_conf=0.6438
+- mean_revert: score=0.0645 total=31 hit=8 flat=12 unresolved=0 avg_conf=0.6279
 
 ## Best Clusters
-- gta_vi: score=0.2778 total=9 hit=4 flat=3 unresolved=0 avg_conf=0.6069
-- other: score=-0.0217 total=46 hit=8 flat=10 unresolved=20 avg_conf=0.6668
-- us_election: score=-0.3088 total=34 hit=1 flat=23 unresolved=0 avg_conf=0.6782
+- gta_vi: score=0.1875 total=8 hit=3 flat=3 unresolved=0 avg_conf=0.6072
+- other: score=0.0106 total=47 hit=9 flat=9 unresolved=20 avg_conf=0.6632
+- us_election: score=-0.3088 total=34 hit=1 flat=23 unresolved=0 avg_conf=0.6765
 - world_cup: score=-0.3704 total=27 hit=0 flat=20 unresolved=0 avg_conf=0.707
 
 ## Worst Clusters
 - world_cup: score=-0.3704 total=27 hit=0 flat=20 unresolved=0 avg_conf=0.707
-- us_election: score=-0.3088 total=34 hit=1 flat=23 unresolved=0 avg_conf=0.6782
-- other: score=-0.0217 total=46 hit=8 flat=10 unresolved=20 avg_conf=0.6668
-- gta_vi: score=0.2778 total=9 hit=4 flat=3 unresolved=0 avg_conf=0.6069
+- us_election: score=-0.3088 total=34 hit=1 flat=23 unresolved=0 avg_conf=0.6765
+- other: score=0.0106 total=47 hit=9 flat=9 unresolved=20 avg_conf=0.6632
+- gta_vi: score=0.1875 total=8 hit=3 flat=3 unresolved=0 avg_conf=0.6072
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。

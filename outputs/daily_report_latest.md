@@ -14,8 +14,8 @@
 - overrides: {'blocked_clusters': ['world_cup', 'gta_vi'], 'observe_only_clusters': ['us_election'], 'blocked_regimes': ['carry_no', 'trend', 'contrarian'], 'observe_only_regimes': []}
 
 ## 最新周期
-- ran_at: 2026-05-02T19:33:33
-- ready_count: 4 / ready_buckets: {'main_pool': 4}
+- ran_at: 2026-05-02T21:21:21
+- ready_count: 5 / ready_buckets: {'main_pool': 4, 'research': 1}
 - opened: 0 / opened_buckets: {}
 - closed: 0 / skipped: 0 / skipped_buckets: {}
 - skip_reasons: {}
@@ -31,7 +31,7 @@
 - thresholds: {'min_closed_trades': 40, 'min_win_rate': 0.58, 'min_avg_win_loss_ratio_like': 1.5, 'max_consecutive_losses': 3, 'max_flat_rate': 0.45}
 
 ## Proposal
-- generated_at: 2026-05-02T19:33:33
+- generated_at: 2026-05-02T21:21:21
 - change_count: 0
 - requires_manual_review: True
 - 今日无新的 proposal 变更
