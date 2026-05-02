@@ -33,8 +33,8 @@
   原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.4455 | total=22
-- 倾向保留: 均值回归 | score=0.15 | total=30
+- 倾向保留: 趋势延续 | score=0.4667 | total=21
+- 倾向保留: 均值回归 | score=0.1774 | total=31
 - 应继续降权: 世界杯主题 | score=-0.0526 | flat=2
 - 应继续降权: 其他事件 | score=0.1064 | flat=4
 
