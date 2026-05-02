@@ -27,7 +27,7 @@
 - Will the Boston Celtics win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 136, 'hit': 15, 'miss': 29, 'pending': 20}
+- outcomes: {'flat': 137, 'hit': 16, 'miss': 27, 'pending': 20}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
