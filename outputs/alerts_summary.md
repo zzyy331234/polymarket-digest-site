@@ -23,9 +23,3 @@
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-tim-walz-win-the-2028-democratic-presidential-nomination-475
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
-
-## 5. [trend] NO conf=0.59
-- 问题: Russia-Ukraine Ceasefire before GTA VI?
-- Cluster: gta_vi
-- URL: https://polymarket.com/question/russia-ukraine-ceasefire-before-gta-vi-554
-- 原因: 4h move visible, 24h move strong, 4h and 24h aligned

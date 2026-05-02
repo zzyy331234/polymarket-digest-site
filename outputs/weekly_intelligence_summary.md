@@ -7,26 +7,26 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- mean_revert: score=0.0645 total=31 hit=8 flat=12 unresolved=0 avg_conf=0.6279
-- trend: score=-0.0318 total=22 hit=5 flat=11 unresolved=1 avg_conf=0.6438
+- mean_revert: score=0.0893 total=28 hit=8 flat=11 unresolved=0 avg_conf=0.6319
+- trend: score=0.012 total=25 hit=7 flat=13 unresolved=1 avg_conf=0.6462
 - carry_no: score=-0.3143 total=63 hit=0 flat=32 unresolved=19 avg_conf=0.7062
 
 ## Worst Regimes
 - carry_no: score=-0.3143 total=63 hit=0 flat=32 unresolved=19 avg_conf=0.7062
-- trend: score=-0.0318 total=22 hit=5 flat=11 unresolved=1 avg_conf=0.6438
-- mean_revert: score=0.0645 total=31 hit=8 flat=12 unresolved=0 avg_conf=0.6279
+- trend: score=0.012 total=25 hit=7 flat=13 unresolved=1 avg_conf=0.6462
+- mean_revert: score=0.0893 total=28 hit=8 flat=11 unresolved=0 avg_conf=0.6319
 
 ## Best Clusters
-- gta_vi: score=0.1875 total=8 hit=3 flat=3 unresolved=0 avg_conf=0.6072
-- other: score=0.0106 total=47 hit=9 flat=9 unresolved=20 avg_conf=0.6632
-- us_election: score=-0.3088 total=34 hit=1 flat=23 unresolved=0 avg_conf=0.6765
+- gta_vi: score=0.3125 total=8 hit=4 flat=3 unresolved=0 avg_conf=0.6078
+- other: score=0.0326 total=46 hit=10 flat=9 unresolved=20 avg_conf=0.6666
+- us_election: score=-0.3143 total=35 hit=1 flat=24 unresolved=0 avg_conf=0.6777
 - world_cup: score=-0.3704 total=27 hit=0 flat=20 unresolved=0 avg_conf=0.707
 
 ## Worst Clusters
 - world_cup: score=-0.3704 total=27 hit=0 flat=20 unresolved=0 avg_conf=0.707
-- us_election: score=-0.3088 total=34 hit=1 flat=23 unresolved=0 avg_conf=0.6765
-- other: score=0.0106 total=47 hit=9 flat=9 unresolved=20 avg_conf=0.6632
-- gta_vi: score=0.1875 total=8 hit=3 flat=3 unresolved=0 avg_conf=0.6072
+- us_election: score=-0.3143 total=35 hit=1 flat=24 unresolved=0 avg_conf=0.6777
+- other: score=0.0326 total=46 hit=10 flat=9 unresolved=20 avg_conf=0.6666
+- gta_vi: score=0.3125 total=8 hit=4 flat=3 unresolved=0 avg_conf=0.6078
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。
