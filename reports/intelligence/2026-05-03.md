@@ -27,7 +27,7 @@
 - Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'hit': 19, 'flat': 135, 'miss': 26, 'pending': 20}
+- outcomes: {'flat': 136, 'hit': 18, 'miss': 26, 'pending': 20}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
