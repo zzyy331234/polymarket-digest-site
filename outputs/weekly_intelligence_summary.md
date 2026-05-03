@@ -7,26 +7,26 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- mean_revert: score=0.0167 total=30 hit=8 flat=15 unresolved=0 avg_conf=0.6373
-- trend: score=0.0143 total=21 hit=6 flat=11 unresolved=1 avg_conf=0.6461
+- trend: score=0.0591 total=22 hit=7 flat=11 unresolved=1 avg_conf=0.639
+- mean_revert: score=-0.0517 total=29 hit=6 flat=15 unresolved=0 avg_conf=0.6357
 - carry_no: score=-0.3619 total=63 hit=0 flat=38 unresolved=19 avg_conf=0.7062
 
 ## Worst Regimes
 - carry_no: score=-0.3619 total=63 hit=0 flat=38 unresolved=19 avg_conf=0.7062
-- trend: score=0.0143 total=21 hit=6 flat=11 unresolved=1 avg_conf=0.6461
-- mean_revert: score=0.0167 total=30 hit=8 flat=15 unresolved=0 avg_conf=0.6373
+- mean_revert: score=-0.0517 total=29 hit=6 flat=15 unresolved=0 avg_conf=0.6357
+- trend: score=0.0591 total=22 hit=7 flat=11 unresolved=1 avg_conf=0.639
 
 ## Best Clusters
-- gta_vi: score=0.3125 total=8 hit=4 flat=3 unresolved=0 avg_conf=0.624
-- other: score=-0.0444 total=45 hit=8 flat=12 unresolved=20 avg_conf=0.6679
-- us_election: score=-0.2794 total=34 hit=2 flat=23 unresolved=0 avg_conf=0.6776
+- gta_vi: score=0.1875 total=8 hit=3 flat=3 unresolved=0 avg_conf=0.6131
+- other: score=-0.0222 total=45 hit=9 flat=12 unresolved=20 avg_conf=0.6661
+- us_election: score=-0.3088 total=34 hit=1 flat=23 unresolved=0 avg_conf=0.6769
 - world_cup: score=-0.4815 total=27 hit=0 flat=26 unresolved=0 avg_conf=0.707
 
 ## Worst Clusters
 - world_cup: score=-0.4815 total=27 hit=0 flat=26 unresolved=0 avg_conf=0.707
-- us_election: score=-0.2794 total=34 hit=2 flat=23 unresolved=0 avg_conf=0.6776
-- other: score=-0.0444 total=45 hit=8 flat=12 unresolved=20 avg_conf=0.6679
-- gta_vi: score=0.3125 total=8 hit=4 flat=3 unresolved=0 avg_conf=0.624
+- us_election: score=-0.3088 total=34 hit=1 flat=23 unresolved=0 avg_conf=0.6769
+- other: score=-0.0222 total=45 hit=9 flat=12 unresolved=20 avg_conf=0.6661
+- gta_vi: score=0.1875 total=8 hit=3 flat=3 unresolved=0 avg_conf=0.6131
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。
