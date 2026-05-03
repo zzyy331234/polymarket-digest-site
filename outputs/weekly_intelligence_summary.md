@@ -7,26 +7,26 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- mean_revert: score=-0.0161 total=31 hit=8 flat=17 unresolved=0 avg_conf=0.6363
-- trend: score=-0.11 total=20 hit=4 flat=12 unresolved=1 avg_conf=0.6342
+- mean_revert: score=-0.0469 total=32 hit=8 flat=19 unresolved=0 avg_conf=0.6359
+- trend: score=-0.0895 total=19 hit=4 flat=11 unresolved=1 avg_conf=0.6431
 - carry_no: score=-0.3619 total=63 hit=0 flat=38 unresolved=19 avg_conf=0.7062
 
 ## Worst Regimes
 - carry_no: score=-0.3619 total=63 hit=0 flat=38 unresolved=19 avg_conf=0.7062
-- trend: score=-0.11 total=20 hit=4 flat=12 unresolved=1 avg_conf=0.6342
-- mean_revert: score=-0.0161 total=31 hit=8 flat=17 unresolved=0 avg_conf=0.6363
+- trend: score=-0.0895 total=19 hit=4 flat=11 unresolved=1 avg_conf=0.6431
+- mean_revert: score=-0.0469 total=32 hit=8 flat=19 unresolved=0 avg_conf=0.6359
 
 ## Best Clusters
-- gta_vi: score=0.3889 total=9 hit=5 flat=3 unresolved=0 avg_conf=0.6134
-- other: score=-0.1163 total=43 hit=5 flat=12 unresolved=20 avg_conf=0.6659
-- us_election: score=-0.3143 total=35 hit=2 flat=26 unresolved=0 avg_conf=0.6759
+- gta_vi: score=0.4375 total=8 hit=5 flat=3 unresolved=0 avg_conf=0.6165
+- other: score=-0.1136 total=44 hit=5 flat=12 unresolved=20 avg_conf=0.667
+- us_election: score=-0.3286 total=35 hit=2 flat=27 unresolved=0 avg_conf=0.6767
 - world_cup: score=-0.4815 total=27 hit=0 flat=26 unresolved=0 avg_conf=0.707
 
 ## Worst Clusters
 - world_cup: score=-0.4815 total=27 hit=0 flat=26 unresolved=0 avg_conf=0.707
-- us_election: score=-0.3143 total=35 hit=2 flat=26 unresolved=0 avg_conf=0.6759
-- other: score=-0.1163 total=43 hit=5 flat=12 unresolved=20 avg_conf=0.6659
-- gta_vi: score=0.3889 total=9 hit=5 flat=3 unresolved=0 avg_conf=0.6134
+- us_election: score=-0.3286 total=35 hit=2 flat=27 unresolved=0 avg_conf=0.6767
+- other: score=-0.1136 total=44 hit=5 flat=12 unresolved=20 avg_conf=0.667
+- gta_vi: score=0.4375 total=8 hit=5 flat=3 unresolved=0 avg_conf=0.6165
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。
