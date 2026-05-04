@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-05-04",
+    "title": "Polymarket 情报样刊",
+    "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
+    "markdown_path": "reports/short_digest/2026-05-04.md",
+    "json_path": "reports/short_digest/2026-05-04.json"
+  },
+  {
     "date": "2026-05-03",
     "title": "Polymarket 情报样刊",
     "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
