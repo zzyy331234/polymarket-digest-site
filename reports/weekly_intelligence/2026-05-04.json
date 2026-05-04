@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-04T12:49:14",
+  "generated_at": "2026-05-04T13:03:01",
   "window_days": 7,
   "review_count": 113,
   "regime_stats": {
     "trend": {
       "total": 31,
-      "hit": 2,
-      "miss": 7,
-      "flat": 21,
+      "hit": 6,
+      "miss": 8,
+      "flat": 16,
       "unresolved": 1,
       "avg_confidence": 0.6339
     },
     "mean_revert": {
       "total": 20,
-      "hit": 3,
+      "hit": 4,
       "miss": 2,
-      "flat": 15,
+      "flat": 14,
       "unresolved": 0,
       "avg_confidence": 0.633
     },
@@ -31,9 +31,9 @@
   "cluster_stats": {
     "other": {
       "total": 46,
-      "hit": 2,
-      "miss": 8,
-      "flat": 16,
+      "hit": 7,
+      "miss": 9,
+      "flat": 10,
       "unresolved": 20,
       "avg_confidence": 0.6591
     },
@@ -65,24 +65,24 @@
   "ranked_regimes": {
     "best": [
       {
-        "name": "mean_revert",
-        "score": -0.225,
-        "total": 20,
-        "hit": 3,
-        "miss": 2,
-        "flat": 15,
-        "unresolved": 0,
-        "avg_confidence": 0.633
-      },
-      {
         "name": "trend",
-        "score": -0.2806,
+        "score": -0.071,
         "total": 31,
-        "hit": 2,
-        "miss": 7,
-        "flat": 21,
+        "hit": 6,
+        "miss": 8,
+        "flat": 16,
         "unresolved": 1,
         "avg_confidence": 0.6339
+      },
+      {
+        "name": "mean_revert",
+        "score": -0.15,
+        "total": 20,
+        "hit": 4,
+        "miss": 2,
+        "flat": 14,
+        "unresolved": 0,
+        "avg_confidence": 0.633
       },
       {
         "name": "carry_no",
@@ -107,24 +107,24 @@
         "avg_confidence": 0.7061
       },
       {
-        "name": "trend",
-        "score": -0.2806,
-        "total": 31,
-        "hit": 2,
-        "miss": 7,
-        "flat": 21,
-        "unresolved": 1,
-        "avg_confidence": 0.6339
-      },
-      {
         "name": "mean_revert",
-        "score": -0.225,
+        "score": -0.15,
         "total": 20,
-        "hit": 3,
+        "hit": 4,
         "miss": 2,
-        "flat": 15,
+        "flat": 14,
         "unresolved": 0,
         "avg_confidence": 0.633
+      },
+      {
+        "name": "trend",
+        "score": -0.071,
+        "total": 31,
+        "hit": 6,
+        "miss": 8,
+        "flat": 16,
+        "unresolved": 1,
+        "avg_confidence": 0.6339
       }
     ]
   },
@@ -142,11 +142,11 @@
       },
       {
         "name": "other",
-        "score": -0.2174,
+        "score": -0.0435,
         "total": 46,
-        "hit": 2,
-        "miss": 8,
-        "flat": 16,
+        "hit": 7,
+        "miss": 9,
+        "flat": 10,
         "unresolved": 20,
         "avg_confidence": 0.6591
       },
@@ -194,11 +194,11 @@
       },
       {
         "name": "other",
-        "score": -0.2174,
+        "score": -0.0435,
         "total": 46,
-        "hit": 2,
-        "miss": 8,
-        "flat": 16,
+        "hit": 7,
+        "miss": 9,
+        "flat": 10,
         "unresolved": 20,
         "avg_confidence": 0.6591
       },

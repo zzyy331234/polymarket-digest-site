@@ -9,28 +9,29 @@
     "confidence": 0.6163,
     "entry_yes_price": 0.255,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-05-04T13:02:03",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 24.43,
+    "post_move_abs": 0.025000000000000022,
     "post_move_6h": -0.010000000000000009,
-    "post_move_24h": null,
+    "post_move_24h": 0.034999999999999976,
     "post_move_48h": null,
     "window_6h_ready": true,
-    "window_24h_ready": false,
+    "window_24h_ready": true,
     "window_48h_ready": false,
     "mfe_6h": 0.0,
     "mae_6h": -0.010000000000000009,
     "mfe_24h": 0.0,
     "mae_24h": -0.010000000000000009,
-    "mfe_48h": 0.0,
+    "mfe_48h": 0.034999999999999976,
     "mae_48h": -0.010000000000000009,
-    "outcome": "miss",
+    "outcome": "hit",
     "notes": [
-      "judge_on_6h_window",
-      "6h close reached -0.010"
+      "market still visible in latest candidate set",
+      "judge_on_24h_window",
+      "24h close reached +0.015"
     ]
   },
   {
@@ -43,29 +44,29 @@
     "confidence": 0.6112,
     "entry_yes_price": 0.0925,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 8.6,
-    "post_move_abs": -0.003500000000000003,
+    "hours_elapsed": 24.43,
+    "post_move_abs": -0.024499999999999994,
     "post_move_6h": 0.0010000000000000009,
-    "post_move_24h": null,
+    "post_move_24h": -0.022999999999999993,
     "post_move_48h": null,
     "window_6h_ready": true,
-    "window_24h_ready": false,
+    "window_24h_ready": true,
     "window_48h_ready": false,
     "mfe_6h": 0.004500000000000004,
     "mae_6h": 0.0,
     "mfe_24h": 0.004500000000000004,
     "mae_24h": -0.003500000000000003,
     "mfe_48h": 0.004500000000000004,
-    "mae_48h": -0.003500000000000003,
-    "outcome": "flat",
+    "mae_48h": -0.024999999999999994,
+    "outcome": "hit",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_6h_window",
-      "6h close stayed within ±0.010"
+      "judge_on_24h_window",
+      "24h close reached -0.015"
     ]
   },
   {
@@ -78,29 +79,29 @@
     "confidence": 0.5884,
     "entry_yes_price": 0.0385,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 8.6,
-    "post_move_abs": 0.006499999999999999,
+    "hours_elapsed": 24.43,
+    "post_move_abs": 0.04,
     "post_move_6h": 0.005999999999999998,
-    "post_move_24h": null,
+    "post_move_24h": 0.0395,
     "post_move_48h": null,
     "window_6h_ready": true,
-    "window_24h_ready": false,
+    "window_24h_ready": true,
     "window_48h_ready": false,
     "mfe_6h": 0.006499999999999999,
     "mae_6h": -0.0030000000000000027,
     "mfe_24h": 0.006499999999999999,
     "mae_24h": -0.0030000000000000027,
-    "mfe_48h": 0.006499999999999999,
+    "mfe_48h": 0.04,
     "mae_48h": -0.0030000000000000027,
-    "outcome": "flat",
+    "outcome": "hit",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_6h_window",
-      "6h close stayed within ±0.010"
+      "judge_on_24h_window",
+      "24h close reached +0.015"
     ]
   },
   {
@@ -147,17 +148,17 @@
     "confidence": 0.564,
     "entry_yes_price": 0.485,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 8.6,
+    "hours_elapsed": 24.43,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
-    "post_move_24h": null,
+    "post_move_24h": 0.0,
     "post_move_48h": null,
     "window_6h_ready": true,
-    "window_24h_ready": false,
+    "window_24h_ready": true,
     "window_48h_ready": false,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
@@ -168,8 +169,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_6h_window",
-      "6h close stayed within ±0.010"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
@@ -2052,12 +2053,12 @@
     "confidence": 0.63,
     "entry_yes_price": 0.0035,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 438.3,
-    "post_move_abs": 0.029,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0009999999999999996,
     "post_move_48h": 0.0009999999999999996,
@@ -2072,7 +2073,6 @@
     "mae_48h": -0.001,
     "outcome": "flat",
     "notes": [
-      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -4311,12 +4311,12 @@
     "confidence": 0.6299,
     "entry_yes_price": 0.2085,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 77.17,
-    "post_move_abs": 0.006000000000000005,
+    "hours_elapsed": 93.0,
+    "post_move_abs": 0.0040000000000000036,
     "post_move_6h": -0.0010000000000000009,
     "post_move_24h": 0.0010000000000000009,
     "post_move_48h": -0.0020000000000000018,
@@ -4482,12 +4482,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-05-04T13:00:02",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 71.96,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -4502,6 +4502,7 @@
     "mae_48h": 0.0,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -4516,11 +4517,11 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 56.16,
+    "hours_elapsed": 71.96,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -4857,12 +4858,12 @@
     "confidence": 0.664,
     "entry_yes_price": 0.0665,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-05-04T13:02:03",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 72.0,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": -0.0010000000000000009,
     "post_move_48h": -0.0020000000000000018,
@@ -4877,6 +4878,7 @@
     "mae_48h": -0.0020000000000000018,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -4933,20 +4935,20 @@
     "post_move_abs": null,
     "post_move_6h": -0.0015000000000000013,
     "post_move_24h": -0.0020000000000000018,
-    "post_move_48h": null,
+    "post_move_48h": -0.02,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.0020000000000000018,
     "mfe_24h": 0.0,
     "mae_24h": -0.0020000000000000018,
     "mfe_48h": 0.0,
     "mae_48h": -0.028499999999999998,
-    "outcome": "flat",
+    "outcome": "miss",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close reached -0.020"
     ]
   },
   {
@@ -4967,10 +4969,10 @@
     "post_move_abs": null,
     "post_move_6h": -0.001999999999999995,
     "post_move_24h": -0.0049999999999999975,
-    "post_move_48h": null,
+    "post_move_48h": -0.007499999999999996,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.001999999999999995,
     "mfe_24h": 0.0,
@@ -4979,8 +4981,8 @@
     "mae_48h": -0.0049999999999999975,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -4993,28 +4995,29 @@
     "confidence": 0.624,
     "entry_yes_price": 0.316,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-05-04T13:02:03",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 61.48,
+    "post_move_abs": 0.030999999999999972,
     "post_move_6h": -0.0050000000000000044,
     "post_move_24h": -0.0050000000000000044,
-    "post_move_48h": null,
+    "post_move_48h": 0.046499999999999986,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.0050000000000000044,
     "mfe_24h": 0.0,
     "mae_24h": -0.0050000000000000044,
     "mfe_48h": 0.0,
     "mae_48h": -0.005500000000000005,
-    "outcome": "flat",
+    "outcome": "miss",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "market still visible in latest candidate set",
+      "judge_on_48h_window",
+      "48h close reached +0.020"
     ]
   },
   {
@@ -5035,10 +5038,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0020000000000000018,
     "post_move_24h": 0.0020000000000000018,
-    "post_move_48h": null,
+    "post_move_48h": 0.0015000000000000013,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0030000000000000027,
     "mae_6h": 0.0,
     "mfe_24h": 0.0030000000000000027,
@@ -5047,8 +5050,8 @@
     "mae_48h": 0.0,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5069,10 +5072,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0005000000000000004,
-    "post_move_48h": null,
+    "post_move_48h": 0.0015000000000000013,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0010000000000000009,
@@ -5081,8 +5084,8 @@
     "mae_48h": 0.0,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5103,10 +5106,10 @@
     "post_move_abs": null,
     "post_move_6h": -0.0029999999999999957,
     "post_move_24h": -0.000999999999999994,
-    "post_move_48h": null,
+    "post_move_48h": -0.0004999999999999935,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.0029999999999999957,
     "mfe_24h": 0.008,
@@ -5115,8 +5118,8 @@
     "mae_48h": -0.0049999999999999975,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5137,10 +5140,10 @@
     "post_move_abs": null,
     "post_move_6h": -0.0050000000000000044,
     "post_move_24h": -0.010000000000000009,
-    "post_move_48h": null,
+    "post_move_48h": -0.010000000000000009,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.010000000000000009,
     "mfe_24h": 0.0,
@@ -5149,8 +5152,8 @@
     "mae_48h": -0.010000000000000009,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5171,10 +5174,10 @@
     "post_move_abs": null,
     "post_move_6h": -0.02499999999999991,
     "post_move_24h": -0.039999999999999925,
-    "post_move_48h": null,
+    "post_move_48h": -0.039999999999999925,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.02499999999999991,
     "mfe_24h": 0.0,
@@ -5183,8 +5186,8 @@
     "mae_48h": -0.039999999999999925,
     "outcome": "hit",
     "notes": [
-      "judge_on_24h_window",
-      "24h close reached -0.015"
+      "judge_on_48h_window",
+      "48h close reached -0.020"
     ]
   },
   {
@@ -5197,18 +5200,18 @@
     "confidence": 0.69,
     "entry_yes_price": 0.2155,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 34.64,
-    "post_move_abs": -0.009000000000000008,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": -0.0040000000000000036,
-    "post_move_48h": null,
+    "post_move_48h": -0.004500000000000004,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5217,9 +5220,8 @@
     "mae_48h": -0.009000000000000008,
     "outcome": "flat",
     "notes": [
-      "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5240,10 +5242,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": -0.008,
-    "post_move_48h": null,
+    "post_move_48h": -0.003500000000000003,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.004499999999999997,
     "mae_6h": 0.0,
     "mfe_24h": 0.004499999999999997,
@@ -5252,8 +5254,8 @@
     "mae_48h": -0.0125,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5274,10 +5276,10 @@
     "post_move_abs": null,
     "post_move_6h": -0.005000000000000001,
     "post_move_24h": -0.0010000000000000009,
-    "post_move_48h": null,
+    "post_move_48h": -0.0010000000000000009,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.006000000000000002,
     "mfe_24h": 0.0,
@@ -5286,8 +5288,8 @@
     "mae_48h": -0.006000000000000002,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5308,10 +5310,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0015000000000000013,
-    "post_move_48h": null,
+    "post_move_48h": 0.006499999999999978,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0015000000000000013,
     "mae_6h": -0.0015000000000000013,
     "mfe_24h": 0.0015000000000000013,
@@ -5320,8 +5322,8 @@
     "mae_48h": -0.0015000000000000013,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5334,18 +5336,18 @@
     "confidence": 0.604,
     "entry_yes_price": 0.0355,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-05-04T13:02:03",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 50.47,
+    "post_move_abs": 0.0085,
     "post_move_6h": -0.007499999999999996,
     "post_move_24h": -0.001999999999999995,
-    "post_move_48h": null,
+    "post_move_48h": 0.0085,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.009499999999999998,
     "mfe_24h": 0.0010000000000000009,
@@ -5354,8 +5356,9 @@
     "mae_48h": -0.009499999999999998,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "market still visible in latest candidate set",
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5368,18 +5371,18 @@
     "confidence": 0.62,
     "entry_yes_price": 0.0835,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 33.61,
-    "post_move_abs": -0.008000000000000007,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": -0.0040000000000000036,
     "post_move_24h": -0.007500000000000007,
-    "post_move_48h": null,
+    "post_move_48h": -0.006000000000000005,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.0040000000000000036,
     "mfe_24h": 0.0,
@@ -5388,9 +5391,8 @@
     "mae_48h": -0.008000000000000007,
     "outcome": "flat",
     "notes": [
-      "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5437,18 +5439,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5458,8 +5460,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5472,18 +5474,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0015,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5493,8 +5495,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5507,18 +5509,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5528,8 +5530,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5542,18 +5544,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0035,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5563,8 +5565,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5577,18 +5579,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0035,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5598,8 +5600,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5612,18 +5614,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5633,8 +5635,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5647,18 +5649,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5668,8 +5670,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5682,18 +5684,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5703,8 +5705,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5717,18 +5719,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0045,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5738,8 +5740,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5752,18 +5754,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0035,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5773,8 +5775,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5795,10 +5797,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5807,8 +5809,8 @@
     "mae_48h": 0.0,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5821,18 +5823,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5841,9 +5843,8 @@
     "mae_48h": 0.0,
     "outcome": "flat",
     "notes": [
-      "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5856,18 +5857,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0065,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5877,8 +5878,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5891,18 +5892,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0065,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5912,8 +5913,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5926,18 +5927,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0065,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5947,8 +5948,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5961,18 +5962,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0065,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -5982,8 +5983,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -5996,18 +5997,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0065,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -6017,8 +6018,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6031,18 +6032,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0075,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -6052,8 +6053,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6099,18 +6100,18 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0065,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:00:02",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.41,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -6120,8 +6121,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6167,29 +6168,28 @@
     "confidence": 0.664,
     "entry_yes_price": 0.555,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": 0.019999999999999907,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.019999999999999907,
-    "post_move_48h": null,
+    "post_move_48h": 0.009999999999999898,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.019999999999999907,
     "mae_24h": 0.0,
     "mfe_48h": 0.019999999999999907,
     "mae_48h": 0.0,
-    "outcome": "miss",
+    "outcome": "flat",
     "notes": [
-      "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close reached +0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6210,10 +6210,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": -0.0020000000000000018,
-    "post_move_48h": null,
+    "post_move_48h": -0.0040000000000000036,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -6222,8 +6222,8 @@
     "mae_48h": -0.0030000000000000027,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6236,29 +6236,29 @@
     "confidence": 0.664,
     "entry_yes_price": 0.0365,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": 0.0085,
+    "hours_elapsed": 48.44,
+    "post_move_abs": 0.042,
     "post_move_6h": 0.0005000000000000004,
     "post_move_24h": 0.0025000000000000022,
-    "post_move_48h": null,
+    "post_move_48h": 0.042,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0005000000000000004,
     "mae_6h": -0.0005000000000000004,
     "mfe_24h": 0.010500000000000002,
     "mae_24h": -0.0024999999999999953,
     "mfe_48h": 0.010500000000000002,
     "mae_48h": -0.0024999999999999953,
-    "outcome": "flat",
+    "outcome": "hit",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close reached +0.020"
     ]
   },
   {
@@ -6279,10 +6279,10 @@
     "post_move_abs": null,
     "post_move_6h": -0.002999999999999999,
     "post_move_24h": -0.002999999999999999,
-    "post_move_48h": null,
+    "post_move_48h": -0.002999999999999999,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.0034999999999999996,
     "mfe_24h": 0.0010000000000000009,
@@ -6291,8 +6291,8 @@
     "mae_48h": -0.004,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6313,10 +6313,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0020000000000000018,
     "post_move_24h": -0.0025000000000000022,
-    "post_move_48h": null,
+    "post_move_48h": -0.0050000000000000044,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0030000000000000027,
     "mae_6h": -0.0020000000000000018,
     "mfe_24h": 0.0030000000000000027,
@@ -6325,8 +6325,8 @@
     "mae_48h": -0.006499999999999992,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6339,29 +6339,29 @@
     "confidence": 0.66,
     "entry_yes_price": 0.0315,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": 0.003999999999999997,
+    "hours_elapsed": 48.44,
+    "post_move_abs": 0.0315,
     "post_move_6h": -0.0010000000000000009,
     "post_move_24h": 0.0010000000000000009,
-    "post_move_48h": null,
+    "post_move_48h": 0.032,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.0010000000000000009,
     "mfe_24h": 0.003999999999999997,
     "mae_24h": -0.0010000000000000009,
     "mfe_48h": 0.008,
     "mae_48h": -0.0010000000000000009,
-    "outcome": "flat",
+    "outcome": "hit",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close reached +0.020"
     ]
   },
   {
@@ -6374,18 +6374,18 @@
     "confidence": 0.644,
     "entry_yes_price": 0.076,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-05-04T13:02:03",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 48.44,
+    "post_move_abs": -0.011499999999999996,
     "post_move_6h": -0.0020000000000000018,
     "post_move_24h": -0.0015000000000000013,
-    "post_move_48h": null,
+    "post_move_48h": -0.009499999999999995,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": -0.007999999999999993,
     "mfe_24h": 0.0005000000000000004,
@@ -6394,8 +6394,9 @@
     "mae_48h": -0.011499999999999996,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "market still visible in latest candidate set",
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6408,29 +6409,29 @@
     "confidence": 0.63,
     "entry_yes_price": 0.1005,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": -0.01150000000000001,
+    "hours_elapsed": 48.44,
+    "post_move_abs": -0.0325,
     "post_move_6h": 0.0010000000000000009,
     "post_move_24h": -0.008000000000000007,
-    "post_move_48h": null,
+    "post_move_48h": -0.031,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0010000000000000009,
     "mae_6h": 0.0,
     "mfe_24h": 0.0014999999999999875,
     "mae_24h": -0.014500000000000013,
     "mfe_48h": 0.0014999999999999875,
     "mae_48h": -0.014500000000000013,
-    "outcome": "flat",
+    "outcome": "miss",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close reached -0.020"
     ]
   },
   {
@@ -6443,18 +6444,18 @@
     "confidence": 0.6265,
     "entry_yes_price": 0.0515,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": 0.03300000000000001,
+    "hours_elapsed": 48.44,
+    "post_move_abs": 0.023,
     "post_move_6h": 0.0010000000000000009,
     "post_move_24h": 0.025,
-    "post_move_48h": null,
+    "post_move_48h": 0.022,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0025000000000000022,
     "mae_6h": 0.0,
     "mfe_24h": 0.033999999999999996,
@@ -6464,8 +6465,8 @@
     "outcome": "miss",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close reached +0.015"
+      "judge_on_48h_window",
+      "48h close reached +0.020"
     ]
   },
   {
@@ -6478,18 +6479,18 @@
     "confidence": 0.624,
     "entry_yes_price": 0.0405,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": 0.0,
+    "hours_elapsed": 48.44,
+    "post_move_abs": -0.0040000000000000036,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": -0.0040000000000000036,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -6499,8 +6500,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6513,18 +6514,18 @@
     "confidence": 0.624,
     "entry_yes_price": 0.115,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.44,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -6534,8 +6535,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6548,18 +6549,18 @@
     "confidence": 0.6227,
     "entry_yes_price": 0.0535,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": -0.0010000000000000009,
+    "hours_elapsed": 48.44,
+    "post_move_abs": 0.0005000000000000004,
     "post_move_6h": 0.0,
     "post_move_24h": -0.0015000000000000013,
-    "post_move_48h": null,
+    "post_move_48h": -0.0010000000000000009,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0015000000000000013,
     "mae_6h": -0.0010000000000000009,
     "mfe_24h": 0.0015000000000000013,
@@ -6569,8 +6570,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6617,18 +6618,18 @@
     "confidence": 0.6,
     "entry_yes_price": 0.0765,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-05-04T13:02:03",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 48.44,
+    "post_move_abs": 0.025999999999999995,
     "post_move_6h": -0.0020000000000000018,
     "post_move_24h": -0.005500000000000005,
-    "post_move_48h": null,
+    "post_move_48h": 0.010499999999999995,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0020000000000000018,
     "mae_6h": -0.0020000000000000018,
     "mfe_24h": 0.0020000000000000018,
@@ -6637,8 +6638,9 @@
     "mae_48h": -0.011499999999999996,
     "outcome": "flat",
     "notes": [
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "market still visible in latest candidate set",
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6651,18 +6653,18 @@
     "confidence": 0.6,
     "entry_yes_price": 0.093,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
-    "post_move_abs": 0.0315,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": 0.0155,
     "post_move_24h": 0.037500000000000006,
-    "post_move_48h": null,
+    "post_move_48h": 0.004500000000000004,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0155,
     "mae_6h": 0.0,
     "mfe_24h": 0.04400000000000001,
@@ -6671,9 +6673,8 @@
     "mae_48h": 0.0,
     "outcome": "miss",
     "notes": [
-      "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close reached +0.015"
+      "judge_on_48h_window",
+      "48h adverse excursion reached +0.020"
     ]
   },
   {
@@ -6686,18 +6687,18 @@
     "confidence": 0.5756,
     "entry_yes_price": 0.235,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-05-04T13:02:03",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 48.44,
+    "post_move_abs": 0.04500000000000004,
     "post_move_6h": 0.0,
     "post_move_24h": 0.020000000000000018,
-    "post_move_48h": null,
+    "post_move_48h": 0.05499999999999999,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.020000000000000018,
@@ -6706,8 +6707,9 @@
     "mae_48h": 0.0,
     "outcome": "miss",
     "notes": [
-      "judge_on_24h_window",
-      "24h close reached +0.015"
+      "market still visible in latest candidate set",
+      "judge_on_48h_window",
+      "48h close reached +0.020"
     ]
   },
   {
@@ -6720,18 +6722,18 @@
     "confidence": 0.564,
     "entry_yes_price": 0.485,
     "event_time": null,
-    "latest_ts": "2026-05-03T21:12:04",
+    "latest_ts": "2026-05-04T13:02:03",
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 32.61,
+    "hours_elapsed": 48.44,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": null,
+    "post_move_48h": 0.0,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
@@ -6741,8 +6743,8 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_24h_window",
-      "24h close stayed within ±0.015"
+      "judge_on_48h_window",
+      "48h close stayed within ±0.020"
     ]
   },
   {
@@ -6763,10 +6765,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.015000000000000013,
     "post_move_24h": -0.010000000000000009,
-    "post_move_48h": null,
+    "post_move_48h": 0.015000000000000013,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": false,
+    "window_48h_ready": true,
     "mfe_6h": 0.015000000000000013,
     "mae_6h": 0.0,
     "mfe_24h": 0.015000000000000013,
@@ -6775,8 +6777,8 @@
     "mae_48h": -0.025000000000000022,
     "outcome": "miss",
     "notes": [
-      "judge_on_24h_window",
-      "24h adverse excursion reached -0.015"
+      "judge_on_48h_window",
+      "48h adverse excursion reached -0.020"
     ]
   }
 ]

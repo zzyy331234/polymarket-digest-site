@@ -24,10 +24,10 @@
 - Will the Phoenix Suns win the 2026 NBA Finals? | cluster=other | regime=carry_no | blocking=
 - Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=trend | blocking=
-- Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | blocking=
+- Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'miss': 17, 'flat': 156, 'hit': 7, 'pending': 20}
+- outcomes: {'hit': 12, 'flat': 150, 'miss': 18, 'pending': 20}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
