@@ -7,26 +7,26 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- trend: score=-0.071 total=31 hit=6 flat=16 unresolved=1 avg_conf=0.6339
-- mean_revert: score=-0.15 total=20 hit=4 flat=14 unresolved=0 avg_conf=0.633
+- trend: score=-0.09 total=30 hit=6 flat=17 unresolved=1 avg_conf=0.6388
+- mean_revert: score=-0.0952 total=21 hit=5 flat=14 unresolved=0 avg_conf=0.6307
 - carry_no: score=-0.3677 total=62 hit=0 flat=38 unresolved=19 avg_conf=0.7061
 
 ## Worst Regimes
 - carry_no: score=-0.3677 total=62 hit=0 flat=38 unresolved=19 avg_conf=0.7061
-- mean_revert: score=-0.15 total=20 hit=4 flat=14 unresolved=0 avg_conf=0.633
-- trend: score=-0.071 total=31 hit=6 flat=16 unresolved=1 avg_conf=0.6339
+- mean_revert: score=-0.0952 total=21 hit=5 flat=14 unresolved=0 avg_conf=0.6307
+- trend: score=-0.09 total=30 hit=6 flat=17 unresolved=1 avg_conf=0.6388
 
 ## Best Clusters
-- gta_vi: score=0.125 total=8 hit=3 flat=4 unresolved=0 avg_conf=0.6062
-- other: score=-0.0435 total=46 hit=7 flat=10 unresolved=20 avg_conf=0.6591
-- us_election: score=-0.4375 total=32 hit=0 flat=28 unresolved=0 avg_conf=0.6823
+- gta_vi: score=0.125 total=8 hit=3 flat=4 unresolved=0 avg_conf=0.6099
+- other: score=-0.0326 total=46 hit=8 flat=11 unresolved=20 avg_conf=0.6614
+- us_election: score=-0.4375 total=32 hit=0 flat=28 unresolved=0 avg_conf=0.681
 - world_cup: score=-0.4815 total=27 hit=0 flat=26 unresolved=0 avg_conf=0.707
 
 ## Worst Clusters
 - world_cup: score=-0.4815 total=27 hit=0 flat=26 unresolved=0 avg_conf=0.707
-- us_election: score=-0.4375 total=32 hit=0 flat=28 unresolved=0 avg_conf=0.6823
-- other: score=-0.0435 total=46 hit=7 flat=10 unresolved=20 avg_conf=0.6591
-- gta_vi: score=0.125 total=8 hit=3 flat=4 unresolved=0 avg_conf=0.6062
+- us_election: score=-0.4375 total=32 hit=0 flat=28 unresolved=0 avg_conf=0.681
+- other: score=-0.0326 total=46 hit=8 flat=11 unresolved=20 avg_conf=0.6614
+- gta_vi: score=0.125 total=8 hit=3 flat=4 unresolved=0 avg_conf=0.6099
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。
