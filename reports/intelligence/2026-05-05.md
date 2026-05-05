@@ -27,7 +27,7 @@
 - Will Donald Trump Jr. win the 2028 Republican presidential nomination? | cluster=us_election | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 150, 'miss': 17, 'hit': 12, 'pending': 21}
+- outcomes: {'flat': 150, 'miss': 16, 'hit': 13, 'pending': 21}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
