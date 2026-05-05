@@ -1,11 +1,11 @@
 {
   "signals": [],
-  "last_scan": "2026-05-05T17:00:00.506986",
-  "last_status": "ok",
-  "scanned_count": 20,
-  "market_count": 30,
+  "last_scan": "2026-05-05T17:30:01.170539",
+  "last_status": "error",
+  "scanned_count": 0,
+  "market_count": 0,
   "new_signal_count": 0,
   "tracked_wallet_count": 1,
   "total_signal_count": 0,
-  "last_error": null
+  "last_error": "无法获取市场数据"
 }
