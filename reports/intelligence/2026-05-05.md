@@ -11,7 +11,7 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Hillary Clinton win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will the Phoenix Suns win the 2026 NBA Finals? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Donald Trump Jr. win the 2028 Republican presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
@@ -20,14 +20,14 @@
 - 当前无 watchlist。
 
 ## 今日避坑
+- Will Eric Trump win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
 - Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will the Phoenix Suns win the 2026 NBA Finals? | cluster=other | regime=carry_no | blocking=
-- Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=trend | blocking=
 - Will Donald Trump Jr. win the 2028 Republican presidential nomination? | cluster=us_election | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 150, 'miss': 16, 'hit': 13, 'pending': 21}
+- outcomes: {'flat': 149, 'miss': 17, 'hit': 13, 'pending': 21}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

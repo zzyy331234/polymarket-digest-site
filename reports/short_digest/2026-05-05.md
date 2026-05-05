@@ -13,6 +13,12 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
+- 选举盘：Eric Trump能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Eric Trump能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will Eric Trump win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Eric Trump win the 2028 US Presidential Election?
 - 选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   链接（中文导读）: 中文导读：选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？
   Link (English source): English source: Will Hillary Clinton win the 2028 Democratic presidential nomination?
@@ -25,18 +31,12 @@
   URL: https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will the Phoenix Suns win the 2026 NBA Finals?
-- 选举盘：Tim Walz能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  链接（中文导读）: 中文导读：选举盘：Tim Walz能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Tim Walz win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-tim-walz-win-the-2028-democratic-presidential-nomination-475
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.028 | total=25
-- 倾向保留: 均值回归 | score=-0.208 | total=25
+- 倾向保留: 趋势延续 | score=0.0115 | total=26
+- 倾向保留: 均值回归 | score=-0.2375 | total=24
 - 应继续降权: 世界杯主题 | score=-0.4815 | flat=26
-- 应继续降权: 美国大选 | score=-0.3939 | flat=28
+- 应继续降权: 美国大选 | score=-0.3906 | flat=27
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
