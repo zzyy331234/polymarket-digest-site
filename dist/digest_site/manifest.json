@@ -1,19 +1,20 @@
 {
   "generated_from": "/Users/mac/.openclaw/workspace/polymarket",
-  "latest_issue": "2026-05-05",
-  "archive_count": 8,
+  "latest_issue": "2026-05-06",
+  "archive_count": 9,
   "latest_entry": {
-    "date": "2026-05-05",
+    "date": "2026-05-06",
     "title": "Polymarket 情报样刊",
     "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-    "markdown_path": "reports/short_digest/2026-05-05.md",
-    "json_path": "reports/short_digest/2026-05-05.json"
+    "markdown_path": "reports/short_digest/2026-05-06.md",
+    "json_path": "reports/short_digest/2026-05-06.json"
   },
   "files": {
     "index": "index.html",
     "latest": "latest/short_intelligence_digest_latest.html",
     "archive_home": "archive/archive.html",
     "archive_pages": [
+      "archive/2026-05-06.html",
       "archive/2026-05-05.html",
       "archive/2026-05-04.html",
       "archive/2026-05-03.html",

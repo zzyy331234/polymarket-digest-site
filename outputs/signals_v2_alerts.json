@@ -18,13 +18,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -85,13 +83,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -152,13 +148,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -219,13 +213,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -286,13 +278,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -353,13 +343,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -420,13 +408,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -487,13 +473,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -554,13 +538,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -621,13 +603,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -688,13 +668,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -755,13 +733,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -818,12 +794,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
@@ -878,12 +850,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -941,12 +911,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1002,12 +970,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0065,
     "no_price": 0.9935,
@@ -1062,12 +1026,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1125,12 +1087,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1188,12 +1148,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1249,12 +1207,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0005,
     "no_price": 0.9995,
@@ -1310,12 +1264,8 @@
       "liquidity good",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.9995,
     "no_price": 0.0005,
@@ -1354,9 +1304,74 @@
     "cluster": "other"
   },
   {
-    "token_id": "91031279171981959197361710127213577102576826515163085396576756946418341946256",
-    "question": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-    "slug": "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687",
+    "token_id": "5771676627182954113677164857547228277089396639521594262964034606220001939923",
+    "question": "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
+    "slug": "will-the-minnesota-timberwolves-win-the-2026-nba-finals",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: question_not_whitelisted_v6",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "yes_price": 0.0395,
+    "no_price": 0.9605,
+    "liquidity": 512547.54,
+    "volume": 13780782.54,
+    "chg_1h": -0.11235955056179771,
+    "chg_4h": -0.11235955056179771,
+    "chg_24h": -0.10227272727272721,
+    "chg_7d": 5.583333333333334,
+    "latest_ts": "2026-05-06T16:10:02",
+    "features": {
+      "token_id": "5771676627182954113677164857547228277089396639521594262964034606220001939923",
+      "question": "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
+      "slug": "will-the-minnesota-timberwolves-win-the-2026-nba-finals",
+      "yes_price": 0.0395,
+      "no_price": 0.9605,
+      "liquidity": 512547.53767,
+      "volume": 13780782.537587607,
+      "latest_ts": "2026-05-06T16:10:02",
+      "history_points": 14093,
+      "chg_1h": -0.11235955056179771,
+      "chg_4h": -0.11235955056179771,
+      "chg_24h": -0.10227272727272721,
+      "chg_7d": 5.583333333333334,
+      "rsi_14": 4.453859093588235,
+      "volatility": 0.013060240670433636,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -2.227396982889541e-05,
+      "pct_rank_7d": 0.9506877757591488,
+      "pct_rank_30d": 0.9833960122046406,
+      "noise_score": 5.3237312014270435,
+      "hours_to_event": 1327.8327777777777,
+      "event_time": "2026-07-01",
+      "spread": null
+    },
+    "cluster": "other"
+  },
+  {
+    "token_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
+    "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+    "slug": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
     "regime": "mean_revert",
     "direction": "NO",
     "confidence": 0.664,
@@ -1371,116 +1386,569 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
+      "high_noise",
       "question_blocklisted_v6"
     ],
-    "yes_price": 0.0475,
-    "no_price": 0.9525,
-    "liquidity": 155701.8,
-    "volume": 10406877.59,
+    "advisory_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.0465,
+    "no_price": 0.9535,
+    "liquidity": 246383.62,
+    "volume": 7699303.88,
     "chg_1h": 0.0,
-    "chg_4h": 0.1309523809523809,
-    "chg_24h": 0.1309523809523809,
-    "chg_7d": 0.06741573033707872,
-    "latest_ts": "2026-05-05T17:29:05",
+    "chg_4h": 0.0,
+    "chg_24h": -0.03125000000000003,
+    "chg_7d": 0.2567567567567568,
+    "latest_ts": "2026-05-06T16:11:05",
     "features": {
-      "token_id": "91031279171981959197361710127213577102576826515163085396576756946418341946256",
-      "question": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-      "slug": "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687",
-      "yes_price": 0.0475,
-      "no_price": 0.9525,
-      "liquidity": 155701.80479,
-      "volume": 10406877.590616625,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
+      "token_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
+      "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+      "slug": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
+      "yes_price": 0.0465,
+      "no_price": 0.9535,
+      "liquidity": 246383.61864,
+      "volume": 7699303.875247213,
+      "latest_ts": "2026-05-06T16:11:05",
+      "history_points": 14094,
       "chg_1h": 0.0,
-      "chg_4h": 0.1309523809523809,
-      "chg_24h": 0.1309523809523809,
-      "chg_7d": 0.06741573033707872,
-      "rsi_14": 99.9999999999541,
-      "volatility": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": -0.03125000000000003,
+      "chg_7d": 0.2567567567567568,
+      "rsi_14": 34.62996191053223,
+      "volatility": 0.005274752312116803,
       "trend_slope_4h": 0.0,
-      "trend_slope_24h": 2.4055157132286447e-05,
-      "pct_rank_7d": 0.9866402770905492,
-      "pct_rank_30d": 0.9961672226559728,
-      "noise_score": 0.0,
-      "hours_to_event": 21990.515277777777,
+      "trend_slope_24h": -2.1777003484320578e-05,
+      "pct_rank_7d": 0.9574468085106383,
+      "pct_rank_30d": 0.9848871860366113,
+      "noise_score": 3.555905059758201,
+      "hours_to_event": 21967.81527777778,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election"
   },
   {
-    "token_id": "5771676627182954113677164857547228277089396639521594262964034606220001939923",
-    "question": "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
-    "slug": "will-the-minnesota-timberwolves-win-the-2026-nba-finals",
+    "token_id": "11171618905857319805355893398009978356002287408842633593535559412449299952250",
+    "question": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: question_blocklisted_v6",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.1085,
+    "no_price": 0.8915,
+    "liquidity": 182373.89,
+    "volume": 9534441.2,
+    "chg_1h": 0.0483091787439614,
+    "chg_4h": 0.0483091787439614,
+    "chg_24h": 0.0483091787439614,
+    "chg_7d": -0.044052863436123385,
+    "latest_ts": "2026-05-06T16:12:00",
+    "features": {
+      "token_id": "11171618905857319805355893398009978356002287408842633593535559412449299952250",
+      "question": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "slug": "will-marco-rubio-win-the-2028-us-presidential-election",
+      "yes_price": 0.1085,
+      "no_price": 0.8915,
+      "liquidity": 182373.89291,
+      "volume": 9534441.200242946,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
+      "chg_1h": 0.0483091787439614,
+      "chg_4h": 0.0483091787439614,
+      "chg_24h": 0.0483091787439614,
+      "chg_7d": -0.044052863436123385,
+      "rsi_14": 99.50296288620747,
+      "volatility": 0.0049543180175489615,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 2.1539941277715922e-05,
+      "pct_rank_7d": 0.9948119325551232,
+      "pct_rank_30d": 0.8124157502660518,
+      "noise_score": 5.74245157315448,
+      "hours_to_event": 21967.8,
+      "event_time": "2028-11-07",
+      "spread": null
+    },
+    "cluster": "us_election"
+  },
+  {
+    "token_id": "96972794085445478502118386209219626048407104930213167197946285611747327241358",
+    "question": "Will Donald Trump Jr. win the 2028 Republican presidential nomination?",
+    "slug": "will-donald-trump-jr-win-the-2028-republican-presidential-nomination",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: question_not_whitelisted_v6",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "yes_price": 0.0375,
+    "no_price": 0.9625,
+    "liquidity": 159977.74,
+    "volume": 7707360.03,
+    "chg_1h": -0.025974025974025997,
+    "chg_4h": -0.025974025974025997,
+    "chg_24h": -0.07407407407407414,
+    "chg_7d": 0.3392857142857142,
+    "latest_ts": "2026-05-06T16:12:00",
+    "features": {
+      "token_id": "96972794085445478502118386209219626048407104930213167197946285611747327241358",
+      "question": "Will Donald Trump Jr. win the 2028 Republican presidential nomination?",
+      "slug": "will-donald-trump-jr-win-the-2028-republican-presidential-nomination",
+      "yes_price": 0.0375,
+      "no_price": 0.9625,
+      "liquidity": 159977.73819,
+      "volume": 7707360.029358072,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 10022,
+      "chg_1h": -0.025974025974025997,
+      "chg_4h": -0.025974025974025997,
+      "chg_24h": -0.07407407407407414,
+      "chg_7d": 0.3392857142857142,
+      "rsi_14": 7.090316940657061,
+      "volatility": 0.004767324916116816,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -2.6946441227093273e-05,
+      "pct_rank_7d": 0.940337224383917,
+      "pct_rank_30d": 0.9716623428457394,
+      "noise_score": 3.0852918272827896,
+      "hours_to_event": 21967.8,
+      "event_time": "2028-11-07",
+      "spread": null
+    },
+    "cluster": "us_election"
+  },
+  {
+    "token_id": "54533043819946592547517511176940999955633860128497669742211153063842200957669",
+    "question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+    "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
+    "regime": "mean_revert",
+    "direction": "YES",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "lower percentile bounce setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: question_blocklisted_v6",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.2525,
+    "no_price": 0.7475,
+    "liquidity": 113639.9,
+    "volume": 24972425.31,
+    "chg_1h": -0.04174573055028467,
+    "chg_4h": -0.04174573055028467,
+    "chg_24h": -0.04174573055028467,
+    "chg_7d": -0.06307977736549171,
+    "latest_ts": "2026-05-06T16:12:00",
+    "features": {
+      "token_id": "54533043819946592547517511176940999955633860128497669742211153063842200957669",
+      "question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
+      "yes_price": 0.2525,
+      "no_price": 0.7475,
+      "liquidity": 113639.89736,
+      "volume": 24972425.3105586,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
+      "chg_1h": -0.04174573055028467,
+      "chg_4h": -0.04174573055028467,
+      "chg_24h": -0.04174573055028467,
+      "chg_7d": -0.06307977736549171,
+      "rsi_14": 7.197143077064538e-07,
+      "volatility": 0.004238406775494098,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -5.212108939961532e-05,
+      "pct_rank_7d": 0.0015564202334630351,
+      "pct_rank_30d": 0.011422490244767648,
+      "noise_score": 6.855654600401044,
+      "hours_to_event": 21967.8,
+      "event_time": "2028-11-07",
+      "spread": null
+    },
+    "cluster": "us_election"
+  },
+  {
+    "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+    "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: liquidity_below_vnext_min",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "liquidity_below_vnext_min"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "liquidity_below_vnext_min"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "liquidity_below_vnext_min"
+    ],
+    "yes_price": 0.315,
+    "no_price": 0.685,
+    "liquidity": 88036.12,
+    "volume": 684702.44,
+    "chg_1h": 0.03278688524590167,
+    "chg_4h": 0.03278688524590167,
+    "chg_24h": 0.03278688524590167,
+    "chg_7d": 0.3404255319148937,
+    "latest_ts": "2026-05-06T16:12:00",
+    "features": {
+      "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+      "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "yes_price": 0.315,
+      "no_price": 0.685,
+      "liquidity": 88036.1188,
+      "volume": 684702.4405900055,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
+      "chg_1h": 0.03278688524590167,
+      "chg_4h": 0.03278688524590167,
+      "chg_24h": 0.03278688524590167,
+      "chg_7d": 0.3404255319148937,
+      "rsi_14": 99.99999840973227,
+      "volatility": 0.004762869522590014,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 4.738280854510483e-05,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 0.9965235899255055,
+      "noise_score": 6.855654600401043,
+      "hours_to_event": 1303.8,
+      "event_time": "2026-06-30",
+      "spread": null
+    },
+    "cluster": "other"
+  },
+  {
+    "token_id": "68803485030073596962715540294172682212192134248970512695855620898253368033218",
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+    "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: liquidity_below_vnext_min",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "liquidity_below_vnext_min"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "liquidity_below_vnext_min"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "liquidity_below_vnext_min"
+    ],
+    "yes_price": 0.1305,
+    "no_price": 0.8695,
+    "liquidity": 40216.96,
+    "volume": 1823255.86,
+    "chg_1h": 0.04400000000000004,
+    "chg_4h": 0.04400000000000004,
+    "chg_24h": 0.048192771084337394,
+    "chg_7d": -0.7336734693877551,
+    "latest_ts": "2026-05-06T16:12:00",
+    "features": {
+      "token_id": "68803485030073596962715540294172682212192134248970512695855620898253368033218",
+      "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+      "yes_price": 0.1305,
+      "no_price": 0.8695,
+      "liquidity": 40216.95955,
+      "volume": 1823255.8628129908,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
+      "chg_1h": 0.04400000000000004,
+      "chg_4h": 0.04400000000000004,
+      "chg_24h": 0.048192771084337394,
+      "chg_7d": -0.7336734693877551,
+      "rsi_14": 99.85821027072268,
+      "volatility": 0.0045702504117714066,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 2.9973676217474966e-05,
+      "pct_rank_7d": 0.9976653696498055,
+      "pct_rank_30d": 0.9952465413267116,
+      "noise_score": 5.867996081858208,
+      "hours_to_event": 1303.8,
+      "event_time": "2026-06-30",
+      "spread": null
+    },
+    "cluster": "other"
+  },
+  {
+    "token_id": "75262277240576503541125200255351734877619831936165222710769956674779076695947",
+    "question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+    "slug": "will-john-cornyn-win-the-2026-republican-primary",
+    "regime": "mean_revert",
+    "direction": "YES",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "lower percentile bounce setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: question_not_whitelisted_v6",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "yes_price": 0.385,
+    "no_price": 0.615,
+    "liquidity": 36221.94,
+    "volume": 3243317.32,
+    "chg_1h": -0.11494252873563215,
+    "chg_4h": -0.11494252873563215,
+    "chg_24h": -0.11494252873563215,
+    "chg_7d": null,
+    "latest_ts": "2026-05-06T16:12:00",
+    "features": {
+      "token_id": "75262277240576503541125200255351734877619831936165222710769956674779076695947",
+      "question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "slug": "will-john-cornyn-win-the-2026-republican-primary",
+      "yes_price": 0.385,
+      "no_price": 0.615,
+      "liquidity": 36221.9361,
+      "volume": 3243317.3204552354,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 620,
+      "chg_1h": -0.11494252873563215,
+      "chg_4h": -0.11494252873563215,
+      "chg_24h": -0.11494252873563215,
+      "chg_7d": null,
+      "rsi_14": 1.1407786175254842e-05,
+      "volatility": 0.011670012386026057,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -0.0002369140427255239,
+      "pct_rank_7d": 0.00967741935483871,
+      "pct_rank_30d": 0.00967741935483871,
+      "noise_score": 6.855654600401044,
+      "hours_to_event": 463.8,
+      "event_time": "2026-05-26",
+      "spread": null
+    },
+    "cluster": "other"
+  },
+  {
+    "token_id": "43891259347116330522865864075089973515827852946539612217753302847337982135578",
+    "question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+    "slug": "will-ken-paxton-win-the-2026-republican-primary",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: question_not_whitelisted_v6",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "yes_price": 0.605,
+    "no_price": 0.395,
+    "liquidity": 27577.76,
+    "volume": 4360589.72,
+    "chg_1h": 0.09009009009008996,
+    "chg_4h": 0.09009009009008996,
+    "chg_24h": 0.09009009009008996,
+    "chg_7d": null,
+    "latest_ts": "2026-05-06T16:12:00",
+    "features": {
+      "token_id": "43891259347116330522865864075089973515827852946539612217753302847337982135578",
+      "question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "slug": "will-ken-paxton-win-the-2026-republican-primary",
+      "yes_price": 0.605,
+      "no_price": 0.395,
+      "liquidity": 27577.7591,
+      "volume": 4360589.7170790555,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 1047,
+      "chg_1h": 0.09009009009008996,
+      "chg_4h": 0.09009009009008996,
+      "chg_24h": 0.09009009009008996,
+      "chg_7d": null,
+      "rsi_14": 99.99998859221384,
+      "volatility": 0.009146766464723113,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0002369140427255236,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
+      "noise_score": 6.855654600401044,
+      "hours_to_event": 463.8,
+      "event_time": "2026-05-26",
+      "spread": null
+    },
+    "cluster": "other"
+  },
+  {
+    "token_id": "59742411602053785892348440048778056320272639465974092140970920277782290781360",
+    "question": "Will the Detroit Pistons win the 2026 NBA Finals?",
+    "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
     "regime": "trend",
     "direction": "YES",
-    "confidence": 0.66,
+    "confidence": 0.6516,
     "position": "medium",
-    "quality": 0.675,
+    "quality": 0.6645,
     "risk_score": 0.4,
     "reasons": [
       "4h move visible",
       "24h move strong",
       "7d move strong",
       "24h and 7d aligned",
-      "4h and 24h slope aligned",
       "liquidity good",
       "cluster=other"
     ],
     "risk_flags": [
       "high_noise",
-      "trend_noisy",
-      "cooldown_active"
+      "trend_noisy"
     ],
     "advisory_flags": [
       "high_noise",
-      "trend_noisy",
-      "cooldown_active"
+      "trend_noisy"
     ],
     "blocking_flags": [
       "high_noise",
       "trend_noisy"
     ],
-    "yes_price": 0.0445,
-    "no_price": 0.9555,
-    "liquidity": 512547.54,
-    "volume": 13780782.54,
-    "chg_1h": -0.011111111111111122,
-    "chg_4h": 2.2962962962962963,
-    "chg_24h": 2.1785714285714284,
-    "chg_7d": 3.6842105263157894,
-    "latest_ts": "2026-05-05T17:29:05",
+    "yes_price": 0.06,
+    "no_price": 0.94,
+    "liquidity": 218667.28,
+    "volume": 16480656.96,
+    "chg_1h": 0.07142857142857137,
+    "chg_4h": 0.07142857142857137,
+    "chg_24h": 0.09090909090909087,
+    "chg_7d": 5.666666666666667,
+    "latest_ts": "2026-05-06T16:11:05",
     "features": {
-      "token_id": "5771676627182954113677164857547228277089396639521594262964034606220001939923",
-      "question": "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
-      "slug": "will-the-minnesota-timberwolves-win-the-2026-nba-finals",
-      "yes_price": 0.0445,
-      "no_price": 0.9555,
-      "liquidity": 512547.53767,
-      "volume": 13780782.537587607,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": -0.011111111111111122,
-      "chg_4h": 2.2962962962962963,
-      "chg_24h": 2.1785714285714284,
-      "chg_7d": 3.6842105263157894,
-      "rsi_14": 38.75773940030864,
-      "volatility": 0.0063974302020229,
-      "trend_slope_4h": 2.063088345872382e-05,
-      "trend_slope_24h": 0.00013556388634590425,
-      "pct_rank_7d": 0.9693221177634834,
-      "pct_rank_30d": 0.9911988075803818,
-      "noise_score": 3.873040863911249,
-      "hours_to_event": 1350.5152777777778,
+      "token_id": "59742411602053785892348440048778056320272639465974092140970920277782290781360",
+      "question": "Will the Detroit Pistons win the 2026 NBA Finals?",
+      "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
+      "yes_price": 0.06,
+      "no_price": 0.94,
+      "liquidity": 218667.27541,
+      "volume": 16480656.9602729,
+      "latest_ts": "2026-05-06T16:11:05",
+      "history_points": 14094,
+      "chg_1h": 0.07142857142857137,
+      "chg_4h": 0.07142857142857137,
+      "chg_24h": 0.09090909090909087,
+      "chg_7d": 5.666666666666667,
+      "rsi_14": 94.18673892413769,
+      "volatility": 0.007970442178017326,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 2.550270769489107e-05,
+      "pct_rank_7d": 0.935391800726518,
+      "pct_rank_30d": 0.9633886760323542,
+      "noise_score": 5.543254670379358,
+      "hours_to_event": 1327.8152777777777,
       "event_time": "2026-07-01",
       "spread": null
     },
@@ -1491,387 +1959,127 @@
     "question": "Will the New York Knicks win the 2026 NBA Finals?",
     "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
     "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.66,
-    "position": "medium",
-    "quality": 0.675,
-    "risk_score": 0.4,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "7d move strong",
-      "24h and 7d aligned",
-      "4h and 24h slope aligned",
-      "liquidity good",
-      "cluster=other"
-    ],
-    "risk_flags": [
-      "high_noise",
-      "trend_noisy",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "high_noise",
-      "trend_noisy",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "high_noise",
-      "trend_noisy"
-    ],
-    "yes_price": 0.0995,
-    "no_price": 0.9005,
-    "liquidity": 278007.21,
-    "volume": 11565415.1,
-    "chg_1h": -0.024509803921568516,
-    "chg_4h": 0.15697674418604665,
-    "chg_24h": 0.20606060606060606,
-    "chg_7d": 2.2622950819672134,
-    "latest_ts": "2026-05-05T17:29:05",
-    "features": {
-      "token_id": "20257190540739490630509657713144742134547949967093643458458133445357169845406",
-      "question": "Will the New York Knicks win the 2026 NBA Finals?",
-      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
-      "yes_price": 0.0995,
-      "no_price": 0.9005,
-      "liquidity": 278007.20714,
-      "volume": 11565415.096777871,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": -0.024509803921568516,
-      "chg_4h": 0.15697674418604665,
-      "chg_24h": 0.20606060606060606,
-      "chg_7d": 2.2622950819672134,
-      "rsi_14": 65.73283159329699,
-      "volatility": 0.004295484545113053,
-      "trend_slope_4h": 2.9993055926499677e-05,
-      "trend_slope_24h": 6.649387791581019e-05,
-      "pct_rank_7d": 0.9829292429490352,
-      "pct_rank_30d": 0.9951025622826318,
-      "noise_score": 5.059205348531968,
-      "hours_to_event": 1350.5152777777778,
-      "event_time": "2026-07-01",
-      "spread": null
-    },
-    "cluster": "other"
-  },
-  {
-    "token_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
-    "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
-    "slug": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
-    "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.66,
-    "position": "medium",
-    "quality": 0.675,
-    "risk_score": 0.4,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "7d move strong",
-      "24h and 7d aligned",
-      "liquidity good",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "high_noise",
-      "trend_noisy",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "high_noise",
-      "trend_noisy",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "high_noise",
-      "trend_noisy"
-    ],
-    "yes_price": 0.0465,
-    "no_price": 0.9535,
-    "liquidity": 246383.62,
-    "volume": 7699303.88,
-    "chg_1h": -0.03125000000000003,
-    "chg_4h": 0.2739726027397261,
-    "chg_24h": 0.2567567567567568,
-    "chg_7d": 0.22368421052631582,
-    "latest_ts": "2026-05-05T17:29:05",
-    "features": {
-      "token_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
-      "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
-      "slug": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
-      "yes_price": 0.0465,
-      "no_price": 0.9535,
-      "liquidity": 246383.61864,
-      "volume": 7699303.875247213,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": -0.03125000000000003,
-      "chg_4h": 0.2739726027397261,
-      "chg_24h": 0.2567567567567568,
-      "chg_7d": 0.22368421052631582,
-      "rsi_14": 34.62996191053223,
-      "volatility": 0.005274752312116803,
-      "trend_slope_4h": -1.557280388539404e-06,
-      "trend_slope_24h": 4.698026295130595e-05,
-      "pct_rank_7d": 0.9473033151904997,
-      "pct_rank_30d": 0.9848818226985592,
-      "noise_score": 3.555905059758201,
-      "hours_to_event": 21990.515277777777,
-      "event_time": "2028-11-07",
-      "spread": null
-    },
-    "cluster": "us_election"
-  },
-  {
-    "token_id": "96972794085445478502118386209219626048407104930213167197946285611747327241358",
-    "question": "Will Donald Trump Jr. win the 2028 Republican presidential nomination?",
-    "slug": "will-donald-trump-jr-win-the-2028-republican-presidential-nomination",
-    "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.66,
-    "position": "medium",
-    "quality": 0.675,
-    "risk_score": 0.4,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "7d move strong",
-      "24h and 7d aligned",
-      "liquidity good",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "high_noise",
-      "trend_noisy",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "high_noise",
-      "trend_noisy",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "high_noise",
-      "trend_noisy"
-    ],
-    "yes_price": 0.0385,
-    "no_price": 0.9615,
-    "liquidity": 159977.74,
-    "volume": 7707360.03,
-    "chg_1h": -0.049382716049382755,
-    "chg_4h": 0.2222222222222222,
-    "chg_24h": 0.1666666666666666,
-    "chg_7d": 0.8333333333333331,
-    "latest_ts": "2026-05-05T17:29:05",
-    "features": {
-      "token_id": "96972794085445478502118386209219626048407104930213167197946285611747327241358",
-      "question": "Will Donald Trump Jr. win the 2028 Republican presidential nomination?",
-      "slug": "will-donald-trump-jr-win-the-2028-republican-presidential-nomination",
-      "yes_price": 0.0385,
-      "no_price": 0.9615,
-      "liquidity": 159977.73819,
-      "volume": 7707360.029358072,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 10016,
-      "chg_1h": -0.049382716049382755,
-      "chg_4h": 0.2222222222222222,
-      "chg_24h": 0.1666666666666666,
-      "chg_7d": 0.8333333333333331,
-      "rsi_14": 12.460441791296503,
-      "volatility": 0.004006741196383696,
-      "trend_slope_4h": -3.2891898443952326e-06,
-      "trend_slope_24h": 3.331094970204811e-05,
-      "pct_rank_7d": 0.9309747649678377,
-      "pct_rank_30d": 0.9721445686900958,
-      "noise_score": 3.509029786622863,
-      "hours_to_event": 21990.515277777777,
-      "event_time": "2028-11-07",
-      "spread": null
-    },
-    "cluster": "us_election"
-  },
-  {
-    "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770",
-    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-    "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
-    "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.6468,
-    "position": "medium",
-    "quality": 0.6211,
-    "risk_score": 0.25,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "7d move strong",
-      "24h and 7d aligned",
-      "liquidity good",
-      "cluster=other"
-    ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
-    "blocking_flags": [],
-    "yes_price": 0.595,
-    "no_price": 0.405,
-    "liquidity": 249722.38,
-    "volume": 10348873.77,
-    "chg_1h": 0.0,
-    "chg_4h": 0.05309734513274342,
-    "chg_24h": 0.05309734513274342,
-    "chg_7d": 0.15533980582524265,
-    "latest_ts": "2026-05-05T17:29:05",
-    "features": {
-      "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770",
-      "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-      "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
-      "yes_price": 0.595,
-      "no_price": 0.405,
-      "liquidity": 249722.3813,
-      "volume": 10348873.77244655,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": 0.05309734513274342,
-      "chg_24h": 0.05309734513274342,
-      "chg_7d": 0.15533980582524265,
-      "rsi_14": 0.7854561206233939,
-      "volatility": 0.0,
-      "trend_slope_4h": -7.593282738841214e-05,
-      "trend_slope_24h": 0.00013526798762297925,
-      "pct_rank_7d": 0.9792182088075211,
-      "pct_rank_30d": 0.994037901909291,
-      "noise_score": 0.0,
-      "hours_to_event": 1350.5152777777778,
-      "event_time": "2026-07-01",
-      "spread": null
-    },
-    "cluster": "other"
-  },
-  {
-    "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
-    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
-    "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
-    "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.63,
-    "position": "small",
-    "quality": 0.6,
-    "risk_score": 0.25,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "7d move strong",
-      "24h and 7d aligned",
-      "4h and 24h slope aligned",
-      "liquidity good",
-      "cluster=other"
-    ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
-    "blocking_flags": [],
-    "yes_price": 0.305,
-    "no_price": 0.695,
-    "liquidity": 88036.12,
-    "volume": 684702.44,
-    "chg_1h": 0.0,
-    "chg_4h": 0.150943396226415,
-    "chg_24h": 0.10909090909090897,
-    "chg_7d": 0.3555555555555555,
-    "latest_ts": "2026-05-05T17:29:05",
-    "features": {
-      "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
-      "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
-      "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
-      "yes_price": 0.305,
-      "no_price": 0.695,
-      "liquidity": 88036.1188,
-      "volume": 684702.4405900055,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": 0.150943396226415,
-      "chg_24h": 0.10909090909090897,
-      "chg_7d": 0.3555555555555555,
-      "rsi_14": 99.99940142496925,
-      "volatility": 0.0034416646697771796,
-      "trend_slope_4h": 7.494668677297816e-05,
-      "trend_slope_24h": 0.00012821070243538728,
-      "pct_rank_7d": 0.9878772884710539,
-      "pct_rank_30d": 0.9965221094470864,
-      "noise_score": 0.0,
-      "hours_to_event": 1326.5152777777778,
-      "event_time": "2026-06-30",
-      "spread": null
-    },
-    "cluster": "other"
-  },
-  {
-    "token_id": "52393600221905688380980180540161090876971894580569515967716227210336633318551",
-    "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
-    "slug": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup",
-    "regime": "trend",
     "direction": "NO",
-    "confidence": 0.63,
-    "position": "small",
-    "quality": 0.6,
-    "risk_score": 0.25,
+    "confidence": 0.6427,
+    "position": "medium",
+    "quality": 0.6534,
+    "risk_score": 0.4,
     "reasons": [
       "4h move visible",
       "24h move strong",
       "7d move strong",
       "4h and 24h aligned",
-      "4h and 24h slope aligned",
       "liquidity good",
       "cluster=other"
     ],
     "risk_flags": [
-      "cooldown_active"
+      "high_noise",
+      "trend_noisy"
     ],
     "advisory_flags": [
-      "cooldown_active"
+      "high_noise",
+      "trend_noisy"
     ],
-    "blocking_flags": [],
-    "yes_price": 0.0565,
-    "no_price": 0.9435,
-    "liquidity": 73679.5,
-    "volume": 9254464.79,
-    "chg_1h": 0.0,
-    "chg_4h": -0.12403100775193798,
-    "chg_24h": -0.13076923076923078,
-    "chg_7d": 0.36144578313253006,
-    "latest_ts": "2026-05-05T17:29:05",
+    "blocking_flags": [
+      "high_noise",
+      "trend_noisy"
+    ],
+    "yes_price": 0.0905,
+    "no_price": 0.9095,
+    "liquidity": 278007.21,
+    "volume": 11565415.1,
+    "chg_1h": -0.09045226130653274,
+    "chg_4h": -0.09045226130653274,
+    "chg_24h": -0.08121827411167519,
+    "chg_7d": 1.7424242424242422,
+    "latest_ts": "2026-05-06T16:11:05",
     "features": {
-      "token_id": "52393600221905688380980180540161090876971894580569515967716227210336633318551",
-      "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
-      "slug": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup",
-      "yes_price": 0.0565,
-      "no_price": 0.9435,
-      "liquidity": 73679.50194,
-      "volume": 9254464.789352939,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": -0.12403100775193798,
-      "chg_24h": -0.13076923076923078,
-      "chg_7d": 0.36144578313253006,
-      "rsi_14": 2.0122977133496533e-06,
-      "volatility": 0.0,
-      "trend_slope_4h": -2.360574098194954e-06,
-      "trend_slope_24h": -3.7054571776173366e-05,
-      "pct_rank_7d": 0.07545769421078674,
-      "pct_rank_30d": 0.6595216126055788,
-      "noise_score": 0.0,
-      "hours_to_event": 1326.5152777777778,
-      "event_time": "2026-06-30",
+      "token_id": "20257190540739490630509657713144742134547949967093643458458133445357169845406",
+      "question": "Will the New York Knicks win the 2026 NBA Finals?",
+      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
+      "yes_price": 0.0905,
+      "no_price": 0.9095,
+      "liquidity": 278007.20714,
+      "volume": 11565415.096777871,
+      "latest_ts": "2026-05-06T16:11:05",
+      "history_points": 14094,
+      "chg_1h": -0.09045226130653274,
+      "chg_4h": -0.09045226130653274,
+      "chg_24h": -0.08121827411167519,
+      "chg_7d": 1.7424242424242422,
+      "rsi_14": 1.5825165784643076,
+      "volatility": 0.010149088230358887,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -3.830653624952773e-05,
+      "pct_rank_7d": 0.9535547483134406,
+      "pct_rank_30d": 0.9841776642542927,
+      "noise_score": 5.901115785171789,
+      "hours_to_event": 1327.8152777777777,
+      "event_time": "2026-07-01",
+      "spread": null
+    },
+    "cluster": "other"
+  },
+  {
+    "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+    "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+    "regime": "mean_revert",
+    "direction": "YES",
+    "confidence": 0.624,
+    "position": "small",
+    "quality": 0.61,
+    "risk_score": 0.32,
+    "reasons": [
+      "lower percentile bounce setup",
+      "RSI extreme",
+      "vNext gate: question_not_whitelisted_v6",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "yes_price": 0.1525,
+    "no_price": 0.8475,
+    "liquidity": 252986.71,
+    "volume": 25616670.3,
+    "chg_1h": -0.019292604501607736,
+    "chg_4h": -0.019292604501607736,
+    "chg_24h": -0.012944983818770238,
+    "chg_7d": -0.04388714733542323,
+    "latest_ts": "2026-05-06T16:11:05",
+    "features": {
+      "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
+      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "yes_price": 0.1525,
+      "no_price": 0.8475,
+      "liquidity": 252986.71272,
+      "volume": 25616670.30135267,
+      "latest_ts": "2026-05-06T16:11:05",
+      "history_points": 14094,
+      "chg_1h": -0.019292604501607736,
+      "chg_4h": -0.019292604501607736,
+      "chg_24h": -0.012944983818770238,
+      "chg_7d": -0.04388714733542323,
+      "rsi_14": 6.771751367710294,
+      "volatility": 0.0022244692554266787,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 7.3989337139498824e-06,
+      "pct_rank_7d": 0.0012973533990659055,
+      "pct_rank_30d": 0.45700297999148576,
+      "noise_score": 4.589274428963432,
+      "hours_to_event": 1327.8152777777777,
+      "event_time": "2026-07-01",
       "spread": null
     },
     "cluster": "other"
@@ -1893,110 +2101,48 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
+      "high_noise",
       "question_blocklisted_v6"
     ],
-    "yes_price": 0.0815,
-    "no_price": 0.9185,
+    "advisory_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.0805,
+    "no_price": 0.9195,
     "liquidity": 251183.52,
     "volume": 12666747.77,
-    "chg_1h": 0.0,
-    "chg_4h": -0.012121212121212132,
-    "chg_24h": -0.012121212121212132,
-    "chg_7d": -0.07909604519774004,
-    "latest_ts": "2026-05-05T17:29:05",
+    "chg_1h": -0.01226993865030676,
+    "chg_4h": -0.01226993865030676,
+    "chg_24h": -0.01226993865030676,
+    "chg_7d": -0.11538461538461534,
+    "latest_ts": "2026-05-06T16:11:05",
     "features": {
       "token_id": "107064985435494333113391038470401719113272800530429703182710416066774068907304",
       "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
       "slug": "will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653",
-      "yes_price": 0.0815,
-      "no_price": 0.9185,
+      "yes_price": 0.0805,
+      "no_price": 0.9195,
       "liquidity": 251183.51995,
       "volume": 12666747.768986188,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": -0.012121212121212132,
-      "chg_24h": -0.012121212121212132,
-      "chg_7d": -0.07909604519774004,
-      "rsi_14": 0.582574557964719,
-      "volatility": 0.0,
-      "trend_slope_4h": -1.1426904381340586e-05,
-      "trend_slope_24h": -3.253678202288447e-06,
-      "pct_rank_7d": 0.025977238990598714,
-      "pct_rank_30d": 0.045212577187877065,
-      "noise_score": 0.0,
-      "hours_to_event": 21990.515277777777,
-      "event_time": "2028-11-07",
-      "spread": null
-    },
-    "cluster": "us_election"
-  },
-  {
-    "token_id": "98250445447699368679516529207365255018790721464590833209064266254238063117329",
-    "question": "Will Gavin Newsom win the 2028 US Presidential Election?",
-    "slug": "will-gavin-newsom-win-the-2028-us-presidential-election",
-    "regime": "mean_revert",
-    "direction": "YES",
-    "confidence": 0.624,
-    "position": "small",
-    "quality": 0.61,
-    "risk_score": 0.32,
-    "reasons": [
-      "lower percentile bounce setup",
-      "RSI extreme",
-      "vNext gate: question_blocklisted_v6",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "question_blocklisted_v6"
-    ],
-    "yes_price": 0.1705,
-    "no_price": 0.8295,
-    "liquidity": 244032.67,
-    "volume": 16232719.5,
-    "chg_1h": 0.0,
-    "chg_4h": -0.011594202898550576,
-    "chg_24h": -0.011594202898550576,
-    "chg_7d": -0.017291066282420605,
-    "latest_ts": "2026-05-05T17:29:05",
-    "features": {
-      "token_id": "98250445447699368679516529207365255018790721464590833209064266254238063117329",
-      "question": "Will Gavin Newsom win the 2028 US Presidential Election?",
-      "slug": "will-gavin-newsom-win-the-2028-us-presidential-election",
-      "yes_price": 0.1705,
-      "no_price": 0.8295,
-      "liquidity": 244032.66754,
-      "volume": 16232719.499163086,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": -0.011594202898550576,
-      "chg_24h": -0.011594202898550576,
-      "chg_7d": -0.017291066282420605,
-      "rsi_14": 0.0,
-      "volatility": 0.0,
+      "latest_ts": "2026-05-06T16:11:05",
+      "history_points": 14094,
+      "chg_1h": -0.01226993865030676,
+      "chg_4h": -0.01226993865030676,
+      "chg_24h": -0.01226993865030676,
+      "chg_7d": -0.11538461538461534,
+      "rsi_14": 0.0004888354311844978,
+      "volatility": 0.0012457559234162797,
       "trend_slope_4h": 0.0,
-      "trend_slope_24h": -8.74732986628587e-06,
-      "pct_rank_7d": 0.047996041563582385,
-      "pct_rank_30d": 0.23479310100078074,
-      "noise_score": 0.0,
-      "hours_to_event": 21990.515277777777,
+      "trend_slope_24h": -4.093027160908446e-06,
+      "pct_rank_7d": 0.0012973533990659055,
+      "pct_rank_30d": 0.009223783170143324,
+      "noise_score": 6.855654600401043,
+      "hours_to_event": 21967.81527777778,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -2021,13 +2167,11 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_not_whitelisted_v6",
-      "cooldown_active"
+      "question_not_whitelisted_v6"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_not_whitelisted_v6",
-      "cooldown_active"
+      "question_not_whitelisted_v6"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -2041,7 +2185,7 @@
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": 0.0,
-    "latest_ts": "2026-05-05T17:29:05",
+    "latest_ts": "2026-05-06T16:11:05",
     "features": {
       "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
       "question": "Putin out as President of Russia by December 31, 2026?",
@@ -2050,8 +2194,8 @@
       "no_price": 0.885,
       "liquidity": 208360.1236,
       "volume": 4270273.573890949,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
+      "latest_ts": "2026-05-06T16:11:05",
+      "history_points": 14094,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -2061,9 +2205,9 @@
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
       "pct_rank_7d": 1.0,
-      "pct_rank_30d": 0.9427212719142594,
+      "pct_rank_30d": 0.9427415921668795,
       "noise_score": 0.0,
-      "hours_to_event": 5742.515277777778,
+      "hours_to_event": 5719.815277777778,
       "event_time": "2026-12-31",
       "spread": null
     },
@@ -2086,47 +2230,48 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
+      "high_noise",
       "question_blocklisted_v6"
     ],
-    "yes_price": 0.4905,
-    "no_price": 0.5095,
+    "advisory_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.4915,
+    "no_price": 0.5085,
     "liquidity": 136604.85,
     "volume": 4080105.07,
-    "chg_1h": 0.0,
-    "chg_4h": 0.001020408163265307,
-    "chg_24h": 0.001020408163265307,
-    "chg_7d": 0.014477766287487088,
-    "latest_ts": "2026-05-05T17:29:05",
+    "chg_1h": 0.002038735983690114,
+    "chg_4h": 0.002038735983690114,
+    "chg_24h": 0.002038735983690114,
+    "chg_7d": 0.008205128205128212,
+    "latest_ts": "2026-05-06T16:12:00",
     "features": {
       "token_id": "105267568073659068217311993901927962476298440625043565106676088842803600775810",
       "question": "Will bitcoin hit $1m before GTA VI?",
       "slug": "will-bitcoin-hit-1m-before-gta-vi-872",
-      "yes_price": 0.4905,
-      "no_price": 0.5095,
+      "yes_price": 0.4915,
+      "no_price": 0.5085,
       "liquidity": 136604.8472,
       "volume": 4080105.073256541,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": 0.001020408163265307,
-      "chg_24h": 0.001020408163265307,
-      "chg_7d": 0.014477766287487088,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
+      "chg_1h": 0.002038735983690114,
+      "chg_4h": 0.002038735983690114,
+      "chg_24h": 0.002038735983690114,
+      "chg_7d": 0.008205128205128212,
       "rsi_14": 100.0,
-      "volatility": 0.0,
+      "volatility": 0.00020699104537905564,
       "trend_slope_4h": 0.0,
-      "trend_slope_24h": 2.1868324665714976e-06,
-      "pct_rank_7d": 0.9878772884710539,
-      "pct_rank_30d": 0.726027397260274,
-      "noise_score": 0.0,
-      "hours_to_event": 2070.5152777777776,
+      "trend_slope_24h": 4.738280854510483e-06,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 0.7375665129478538,
+      "noise_score": 6.855654600401046,
+      "hours_to_event": 2047.8,
       "event_time": "2026-07-31",
       "spread": null
     },
@@ -2149,12 +2294,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -2164,10 +2307,10 @@
     "liquidity": 48232.85,
     "volume": 1815145.97,
     "chg_1h": 0.0,
-    "chg_4h": 0.01980198019801982,
-    "chg_24h": 0.01980198019801982,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-05-05T17:29:05",
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": 0.6885245901639345,
+    "latest_ts": "2026-05-06T16:12:00",
     "features": {
       "token_id": "21695138873211375451055566770107682325494206727818897067665810321709249824909",
       "question": "Will China invades Taiwan before GTA VI?",
@@ -2176,87 +2319,24 @@
       "no_price": 0.485,
       "liquidity": 48232.8535,
       "volume": 1815145.9748730606,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
       "chg_1h": 0.0,
-      "chg_4h": 0.01980198019801982,
-      "chg_24h": 0.01980198019801982,
-      "chg_7d": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": 0.6885245901639345,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
-      "trend_slope_24h": 4.373664933142996e-05,
+      "trend_slope_24h": 0.0,
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 2070.5152777777776,
+      "hours_to_event": 2047.8,
       "event_time": "2026-07-31",
       "spread": null
     },
     "cluster": "gta_vi"
-  },
-  {
-    "token_id": "75262277240576503541125200255351734877619831936165222710769956674779076695947",
-    "question": "Will John Cornyn win the 2026 Texas Republican Primary?",
-    "slug": "will-john-cornyn-win-the-2026-republican-primary",
-    "regime": "mean_revert",
-    "direction": "NO",
-    "confidence": 0.624,
-    "position": "small",
-    "quality": 0.61,
-    "risk_score": 0.32,
-    "reasons": [
-      "upper percentile fade setup",
-      "RSI extreme",
-      "vNext gate: question_not_whitelisted_v6",
-      "cluster=other"
-    ],
-    "risk_flags": [
-      "question_not_whitelisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "question_not_whitelisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "question_not_whitelisted_v6"
-    ],
-    "yes_price": 0.435,
-    "no_price": 0.565,
-    "liquidity": 36221.94,
-    "volume": 3243317.32,
-    "chg_1h": 0.0,
-    "chg_4h": 0.023529411764705903,
-    "chg_24h": 0.023529411764705903,
-    "chg_7d": null,
-    "latest_ts": "2026-05-05T17:29:05",
-    "features": {
-      "token_id": "75262277240576503541125200255351734877619831936165222710769956674779076695947",
-      "question": "Will John Cornyn win the 2026 Texas Republican Primary?",
-      "slug": "will-john-cornyn-win-the-2026-republican-primary",
-      "yes_price": 0.435,
-      "no_price": 0.565,
-      "liquidity": 36221.9361,
-      "volume": 3243317.3204552354,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 614,
-      "chg_1h": 0.0,
-      "chg_4h": 0.023529411764705903,
-      "chg_24h": 0.023529411764705903,
-      "chg_7d": null,
-      "rsi_14": 100.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 4.373664933142997e-05,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 1.0,
-      "noise_score": 0.0,
-      "hours_to_event": 486.5152777777778,
-      "event_time": "2026-05-26",
-      "spread": null
-    },
-    "cluster": "other"
   },
   {
     "token_id": "88275040060084773376557187972215267513049848642895776801789297917961077894224",
@@ -2275,243 +2355,180 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
+      "high_noise",
       "question_blocklisted_v6"
     ],
-    "yes_price": 0.575,
-    "no_price": 0.425,
+    "advisory_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.565,
+    "no_price": 0.435,
     "liquidity": 23226.11,
     "volume": 732292.31,
-    "chg_1h": 0.0,
-    "chg_4h": 0.017699115044247805,
-    "chg_24h": 0.026785714285714107,
-    "chg_7d": 0.008771929824561412,
-    "latest_ts": "2026-05-05T17:29:05",
+    "chg_1h": -0.017391304347826105,
+    "chg_4h": -0.017391304347826105,
+    "chg_24h": -0.017391304347826105,
+    "chg_7d": 0.1299999999999999,
+    "latest_ts": "2026-05-06T16:12:00",
     "features": {
       "token_id": "88275040060084773376557187972215267513049848642895776801789297917961077894224",
       "question": "New Playboi Carti Album before GTA VI?",
       "slug": "new-playboi-carti-album-before-gta-vi-421",
-      "yes_price": 0.575,
-      "no_price": 0.425,
+      "yes_price": 0.565,
+      "no_price": 0.435,
       "liquidity": 23226.1123,
       "volume": 732292.3135329477,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": 0.017699115044247805,
-      "chg_24h": 0.026785714285714107,
-      "chg_7d": 0.008771929824561412,
-      "rsi_14": 99.99952359169572,
-      "volatility": 0.0,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
+      "chg_1h": -0.017391304347826105,
+      "chg_4h": -0.017391304347826105,
+      "chg_24h": -0.017391304347826105,
+      "chg_7d": 0.1299999999999999,
+      "rsi_14": 5.706228839130745e-05,
+      "volatility": 0.0017657236131900314,
       "trend_slope_4h": 0.0,
-      "trend_slope_24h": 5.401057505803221e-05,
-      "pct_rank_7d": 0.9839188520534389,
-      "pct_rank_30d": 0.9943218113421819,
-      "noise_score": 0.0,
-      "hours_to_event": 2070.5152777777776,
+      "trend_slope_24h": -4.738280854510483e-05,
+      "pct_rank_7d": 0.9496757457846952,
+      "pct_rank_30d": 0.9479247960269599,
+      "noise_score": 6.855654600401044,
+      "hours_to_event": 2047.8,
       "event_time": "2026-07-31",
       "spread": null
     },
     "cluster": "gta_vi"
   },
   {
-    "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
-    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-    "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
-    "regime": "mean_revert",
-    "direction": "YES",
-    "confidence": 0.604,
-    "position": "small",
-    "quality": 0.585,
-    "risk_score": 0.32,
-    "reasons": [
-      "lower percentile bounce setup",
-      "24h move extended",
-      "vNext gate: question_not_whitelisted_v6",
-      "cluster=other"
-    ],
-    "risk_flags": [
-      "high_noise",
-      "question_not_whitelisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "high_noise",
-      "question_not_whitelisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "high_noise",
-      "question_not_whitelisted_v6"
-    ],
-    "yes_price": 0.1555,
-    "no_price": 0.8445,
-    "liquidity": 252986.71,
-    "volume": 25616670.3,
-    "chg_1h": 0.006472491909385119,
-    "chg_4h": -0.2320987654320988,
-    "chg_24h": -0.23960880195599019,
-    "chg_7d": -0.03715170278637774,
-    "latest_ts": "2026-05-05T17:29:05",
-    "features": {
-      "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
-      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
-      "yes_price": 0.1555,
-      "no_price": 0.8445,
-      "liquidity": 252986.71272,
-      "volume": 25616670.30135267,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.006472491909385119,
-      "chg_4h": -0.2320987654320988,
-      "chg_24h": -0.23960880195599019,
-      "chg_7d": -0.03715170278637774,
-      "rsi_14": 49.67194293966842,
-      "volatility": 0.0010412924892006666,
-      "trend_slope_4h": 4.452013986761066e-06,
-      "trend_slope_24h": -0.0002177810574896999,
-      "pct_rank_7d": 0.046759030183077685,
-      "pct_rank_30d": 0.5672510469160338,
-      "noise_score": 5.393242116879397,
-      "hours_to_event": 1350.5152777777778,
-      "event_time": "2026-07-01",
-      "spread": null
-    },
-    "cluster": "other"
-  },
-  {
-    "token_id": "68803485030073596962715540294172682212192134248970512695855620898253368033218",
-    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
-    "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+    "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770",
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+    "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
     "regime": "trend",
     "direction": "YES",
-    "confidence": 0.6,
+    "confidence": 0.6144,
     "position": "small",
-    "quality": 0.6,
+    "quality": 0.618,
     "risk_score": 0.4,
     "reasons": [
       "4h move visible",
       "24h move strong",
       "7d move strong",
       "24h and 7d aligned",
-      "4h and 24h slope aligned",
+      "liquidity good",
       "cluster=other"
     ],
     "risk_flags": [
       "high_noise",
-      "trend_noisy",
-      "cooldown_active"
+      "trend_noisy"
     ],
     "advisory_flags": [
       "high_noise",
-      "trend_noisy",
-      "cooldown_active"
+      "trend_noisy"
     ],
     "blocking_flags": [
       "high_noise",
       "trend_noisy"
     ],
-    "yes_price": 0.125,
-    "no_price": 0.875,
-    "liquidity": 40216.96,
-    "volume": 1823255.86,
-    "chg_1h": 0.004016064257028116,
-    "chg_4h": 0.23152709359605902,
-    "chg_24h": 0.2437810945273631,
-    "chg_7d": 1.1929824561403508,
-    "latest_ts": "2026-05-05T17:29:05",
+    "yes_price": 0.625,
+    "no_price": 0.375,
+    "liquidity": 249722.38,
+    "volume": 10348873.77,
+    "chg_1h": 0.05042016806722694,
+    "chg_4h": 0.05042016806722694,
+    "chg_24h": 0.05042016806722694,
+    "chg_7d": 0.2135922330097087,
+    "latest_ts": "2026-05-06T16:11:05",
     "features": {
-      "token_id": "68803485030073596962715540294172682212192134248970512695855620898253368033218",
-      "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
-      "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
-      "yes_price": 0.125,
-      "no_price": 0.875,
-      "liquidity": 40216.95955,
-      "volume": 1823255.8628129908,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.004016064257028116,
-      "chg_4h": 0.23152709359605902,
-      "chg_24h": 0.2437810945273631,
-      "chg_7d": 1.1929824561403508,
-      "rsi_14": 98.25501600334248,
-      "volatility": 0.0010038680992839545,
-      "trend_slope_4h": 2.1181478635674483e-06,
-      "trend_slope_24h": 0.00010025612349323143,
-      "pct_rank_7d": 0.8349826818406729,
-      "pct_rank_30d": 0.9526581020654411,
+      "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770",
+      "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+      "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+      "yes_price": 0.625,
+      "no_price": 0.375,
+      "liquidity": 249722.3813,
+      "volume": 10348873.77244655,
+      "latest_ts": "2026-05-06T16:11:05",
+      "history_points": 14094,
+      "chg_1h": 0.05042016806722694,
+      "chg_4h": 0.05042016806722694,
+      "chg_24h": 0.05042016806722694,
+      "chg_7d": 0.2135922330097087,
+      "rsi_14": 99.99039446572914,
+      "volatility": 0.0051191146768954695,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0001227908148272534,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
       "noise_score": 6.855654600401045,
-      "hours_to_event": 1326.5152777777778,
-      "event_time": "2026-06-30",
+      "hours_to_event": 1327.8152777777777,
+      "event_time": "2026-07-01",
       "spread": null
     },
     "cluster": "other"
   },
   {
-    "token_id": "114248353339288476395516704859280406139740194553592209059241667781908210476009",
-    "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
-    "slug": "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
+    "token_id": "86989765000750155883097827320609652927052275812009422751609183177638176999827",
+    "question": "Will the Buffalo Sabres win the 2026 NHL Stanley Cup?",
+    "slug": "will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup",
     "regime": "trend",
     "direction": "NO",
-    "confidence": 0.5874,
+    "confidence": 0.5792,
     "position": "small",
-    "quality": 0.5467,
-    "risk_score": 0.25,
+    "quality": 0.574,
+    "risk_score": 0.4,
     "reasons": [
       "4h move visible",
       "24h move strong",
       "7d move strong",
-      "4h and 24h aligned",
-      "4h and 24h slope aligned",
+      "24h and 7d aligned",
       "liquidity good",
       "cluster=other"
     ],
     "risk_flags": [
-      "cooldown_active"
+      "high_noise",
+      "trend_noisy"
     ],
     "advisory_flags": [
-      "cooldown_active"
+      "high_noise",
+      "trend_noisy"
     ],
-    "blocking_flags": [],
-    "yes_price": 0.0705,
-    "no_price": 0.9295,
-    "liquidity": 60294.58,
-    "volume": 2109502.0,
-    "chg_1h": 0.0,
-    "chg_4h": -0.06622516556291397,
-    "chg_24h": -0.05369127516778528,
-    "chg_7d": 0.7848101265822783,
-    "latest_ts": "2026-05-05T17:29:05",
+    "blocking_flags": [
+      "high_noise",
+      "trend_noisy"
+    ],
+    "yes_price": 0.0715,
+    "no_price": 0.9285,
+    "liquidity": 60055.39,
+    "volume": 3468895.37,
+    "chg_1h": -0.07741935483870975,
+    "chg_4h": -0.07741935483870975,
+    "chg_24h": -0.07741935483870975,
+    "chg_7d": -0.8540816326530613,
+    "latest_ts": "2026-05-06T16:12:00",
     "features": {
-      "token_id": "114248353339288476395516704859280406139740194553592209059241667781908210476009",
-      "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
-      "slug": "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
-      "yes_price": 0.0705,
-      "no_price": 0.9295,
-      "liquidity": 60294.57916,
-      "volume": 2109502.0036429884,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": -0.06622516556291397,
-      "chg_24h": -0.05369127516778528,
-      "chg_7d": 0.7848101265822783,
-      "rsi_14": 4.115272079729948e-05,
-      "volatility": 0.003519233652075439,
-      "trend_slope_4h": -2.1902593960710536e-05,
-      "trend_slope_24h": -2.128860471875935e-05,
-      "pct_rank_7d": 0.8792676892627412,
-      "pct_rank_30d": 0.9572006529916957,
-      "noise_score": 0.0,
-      "hours_to_event": 1326.5152777777778,
+      "token_id": "86989765000750155883097827320609652927052275812009422751609183177638176999827",
+      "question": "Will the Buffalo Sabres win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup",
+      "yes_price": 0.0715,
+      "no_price": 0.9285,
+      "liquidity": 60055.38701,
+      "volume": 3468895.368080987,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
+      "chg_1h": -0.07741935483870975,
+      "chg_4h": -0.07741935483870975,
+      "chg_24h": -0.07741935483870975,
+      "chg_7d": -0.8540816326530613,
+      "rsi_14": 3.4292213513253955e-10,
+      "volatility": 0.007860318020007235,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -2.84296851270629e-05,
+      "pct_rank_7d": 0.4591439688715953,
+      "pct_rank_30d": 0.7496275274920184,
+      "noise_score": 6.855654600401044,
+      "hours_to_event": 1303.8,
       "event_time": "2026-06-30",
       "spread": null
     },
@@ -2522,57 +2539,62 @@
     "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
     "slug": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
     "regime": "trend",
-    "direction": "NO",
-    "confidence": 0.5659,
+    "direction": "YES",
+    "confidence": 0.5706,
     "position": "small",
-    "quality": 0.5199,
-    "risk_score": 0.25,
+    "quality": 0.5633,
+    "risk_score": 0.4,
     "reasons": [
       "4h move visible",
+      "24h move strong",
       "7d move strong",
-      "4h and 24h aligned",
-      "4h and 24h slope aligned",
+      "24h and 7d aligned",
       "liquidity good",
       "cluster=other"
     ],
     "risk_flags": [
-      "cooldown_active"
+      "high_noise",
+      "trend_noisy"
     ],
     "advisory_flags": [
-      "cooldown_active"
+      "high_noise",
+      "trend_noisy"
     ],
-    "blocking_flags": [],
-    "yes_price": 0.3515,
-    "no_price": 0.6485,
+    "blocking_flags": [
+      "high_noise",
+      "trend_noisy"
+    ],
+    "yes_price": 0.3765,
+    "no_price": 0.6235,
     "liquidity": 78256.48,
     "volume": 14003210.69,
-    "chg_1h": 0.0,
-    "chg_4h": -0.027662517289073332,
-    "chg_24h": -0.030344827586206925,
-    "chg_7d": 0.23550087873462217,
-    "latest_ts": "2026-05-05T17:29:05",
+    "chg_1h": 0.07112375533428172,
+    "chg_4h": 0.07112375533428172,
+    "chg_24h": 0.0680851063829788,
+    "chg_7d": 0.25919732441471577,
+    "latest_ts": "2026-05-06T16:12:00",
     "features": {
       "token_id": "101738487887518832481587379955535423775326921556438741919099866785354159699479",
       "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
       "slug": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
-      "yes_price": 0.3515,
-      "no_price": 0.6485,
+      "yes_price": 0.3765,
+      "no_price": 0.6235,
       "liquidity": 78256.47865,
       "volume": 14003210.692322055,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
-      "chg_1h": 0.0,
-      "chg_4h": -0.027662517289073332,
-      "chg_24h": -0.030344827586206925,
-      "chg_7d": 0.23550087873462217,
-      "rsi_14": 0.0004055155842905833,
-      "volatility": 0.00028802583761255833,
-      "trend_slope_4h": -7.334420827289803e-06,
-      "trend_slope_24h": -5.123476322868586e-05,
-      "pct_rank_7d": 0.8805047006432459,
-      "pct_rank_30d": 0.9657179359784229,
-      "noise_score": 0.0,
-      "hours_to_event": 1326.5152777777778,
+      "latest_ts": "2026-05-06T16:12:00",
+      "history_points": 14095,
+      "chg_1h": 0.07112375533428172,
+      "chg_4h": 0.07112375533428172,
+      "chg_24h": 0.0680851063829788,
+      "chg_7d": 0.25919732441471577,
+      "rsi_14": 99.98455684862375,
+      "volatility": 0.007229902118908252,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.00011599676014984317,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 0.9975877970911671,
+      "noise_score": 6.855654600401045,
+      "hours_to_event": 1303.8,
       "event_time": "2026-06-30",
       "spread": null
     },
@@ -2594,12 +2616,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -2611,8 +2631,8 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-05-05T17:29:05",
+    "chg_7d": 0.02105263157894739,
+    "latest_ts": "2026-05-06T16:11:05",
     "features": {
       "token_id": "90435811253665578014957380826505992530054077692143838383981805324273750424057",
       "question": "Will Jesus Christ return before GTA VI?",
@@ -2621,20 +2641,20 @@
       "no_price": 0.515,
       "liquidity": 378687.3072,
       "volume": 11204472.520001942,
-      "latest_ts": "2026-05-05T17:29:05",
-      "history_points": 14089,
+      "latest_ts": "2026-05-06T16:11:05",
+      "history_points": 14094,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": 0.02105263157894739,
       "rsi_14": 36.36082182644651,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.9903513112320633,
-      "pct_rank_30d": 0.9972318830293136,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 0.997232865048957,
       "noise_score": 0.0,
-      "hours_to_event": 2070.5152777777776,
+      "hours_to_event": 2047.8152777777777,
       "event_time": "2026-07-31",
       "spread": null
     },
