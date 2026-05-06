@@ -33,8 +33,8 @@
   原始题目: Will the Phoenix Suns win the 2026 NBA Finals?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.15 | total=26
-- 倾向保留: 均值回归 | score=-0.3045 | total=22
+- 倾向保留: 均值回归 | score=-0.1682 | total=22
+- 倾向保留: 趋势延续 | score=-0.1885 | total=26
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=25
 - 应继续降权: 美国大选 | score=-0.4464 | flat=27
 
