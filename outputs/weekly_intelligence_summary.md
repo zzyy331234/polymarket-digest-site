@@ -7,26 +7,26 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- trend: score=-0.0923 total=26 hit=5 flat=14 unresolved=2 avg_conf=0.6354
-- mean_revert: score=-0.1682 total=22 hit=4 flat=15 unresolved=1 avg_conf=0.6404
+- trend: score=-0.15 total=26 hit=4 flat=15 unresolved=2 avg_conf=0.635
+- mean_revert: score=-0.3045 total=22 hit=2 flat=17 unresolved=1 avg_conf=0.6404
 - carry_no: score=-0.4846 total=39 hit=0 flat=37 unresolved=2 avg_conf=0.71
 
 ## Worst Regimes
 - carry_no: score=-0.4846 total=39 hit=0 flat=37 unresolved=2 avg_conf=0.71
-- mean_revert: score=-0.1682 total=22 hit=4 flat=15 unresolved=1 avg_conf=0.6404
-- trend: score=-0.0923 total=26 hit=5 flat=14 unresolved=2 avg_conf=0.6354
+- mean_revert: score=-0.3045 total=22 hit=2 flat=17 unresolved=1 avg_conf=0.6404
+- trend: score=-0.15 total=26 hit=4 flat=15 unresolved=2 avg_conf=0.635
 
 ## Best Clusters
-- other: score=0.0556 total=27 hit=7 flat=9 unresolved=5 avg_conf=0.6471
+- other: score=-0.1111 total=27 hit=4 flat=12 unresolved=5 avg_conf=0.6495
 - gta_vi: score=-0.2143 total=7 hit=1 flat=5 unresolved=0 avg_conf=0.6019
-- us_election: score=-0.4464 total=28 hit=1 flat=27 unresolved=0 avg_conf=0.6737
+- us_election: score=-0.4464 total=28 hit=1 flat=27 unresolved=0 avg_conf=0.6709
 - world_cup: score=-0.5 total=25 hit=0 flat=25 unresolved=0 avg_conf=0.71
 
 ## Worst Clusters
 - world_cup: score=-0.5 total=25 hit=0 flat=25 unresolved=0 avg_conf=0.71
-- us_election: score=-0.4464 total=28 hit=1 flat=27 unresolved=0 avg_conf=0.6737
+- us_election: score=-0.4464 total=28 hit=1 flat=27 unresolved=0 avg_conf=0.6709
 - gta_vi: score=-0.2143 total=7 hit=1 flat=5 unresolved=0 avg_conf=0.6019
-- other: score=0.0556 total=27 hit=7 flat=9 unresolved=5 avg_conf=0.6471
+- other: score=-0.1111 total=27 hit=4 flat=12 unresolved=5 avg_conf=0.6495
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。
