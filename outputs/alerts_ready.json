@@ -17,8 +17,12 @@
       "liquidity good",
       "cluster=other"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.9995,
     "no_price": 0.0005,
@@ -55,7 +59,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.72,
+    "pipeline_score": 0.69,
     "market_url": "https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
     "templates": {
       "short": "[trend] YES conf=0.69 | Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
@@ -79,28 +83,32 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
-    "liquidity": 3616608.52,
-    "volume": 10526210.5,
+    "liquidity": 3367853.14,
+    "volume": 10699932.38,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": -0.15384615384615385,
-    "latest_ts": "2026-05-06T17:24:03",
+    "latest_ts": "2026-05-07T17:00:04",
     "features": {
       "token_id": "67028631656597977031363620447645908995417871899828777750494099295092202422178",
       "question": "Will Eric Trump win the 2028 US Presidential Election?",
       "slug": "will-eric-trump-win-the-2028-us-presidential-election",
       "yes_price": 0.0055,
       "no_price": 0.9945,
-      "liquidity": 3616608.525,
-      "volume": 10526210.503860036,
-      "latest_ts": "2026-05-06T17:24:03",
-      "history_points": 14167,
+      "liquidity": 3367853.13789,
+      "volume": 10699932.378320035,
+      "latest_ts": "2026-05-07T17:00:04",
+      "history_points": 14181,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -109,15 +117,15 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.11790170613700025,
-      "pct_rank_30d": 0.03268158396273029,
+      "pct_rank_7d": 0.12795064377682402,
+      "pct_rank_30d": 0.03363655595515126,
       "noise_score": 0.0,
-      "hours_to_event": 21966.599166666667,
+      "hours_to_event": 21942.998888888887,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Eric Trump win the 2028 US Presidential Election? | https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
@@ -141,45 +149,49 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0065,
     "no_price": 0.9935,
-    "liquidity": 2475673.88,
-    "volume": 40388486.66,
+    "liquidity": 2484515.21,
+    "volume": 40420796.18,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": -0.13333333333333333,
-    "latest_ts": "2026-05-06T17:24:03",
+    "chg_7d": 0.0,
+    "latest_ts": "2026-05-07T17:00:04",
     "features": {
       "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
       "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
       "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0065,
       "no_price": 0.9935,
-      "liquidity": 2475673.8846,
-      "volume": 40388486.66162932,
-      "latest_ts": "2026-05-06T17:24:03",
-      "history_points": 14167,
+      "liquidity": 2484515.20519,
+      "volume": 40420796.18161229,
+      "latest_ts": "2026-05-07T17:00:04",
+      "history_points": 14181,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.13333333333333333,
+      "chg_7d": 0.0,
       "rsi_14": 2.5832811494423282,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
       "pct_rank_7d": 1.0,
-      "pct_rank_30d": 0.27719347780052234,
+      "pct_rank_30d": 0.27790705874056837,
       "noise_score": 0.0,
-      "hours_to_event": 21966.599166666667,
+      "hours_to_event": 21942.998888888887,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Hillary Clinton win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
@@ -203,8 +215,12 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0005,
     "no_price": 0.9995,
@@ -241,7 +257,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will the Phoenix Suns win the 2026 NBA Finals? | https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals",
