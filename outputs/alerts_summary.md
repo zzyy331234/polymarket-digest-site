@@ -18,8 +18,8 @@
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
 
-## 4. [carry_no] NO conf=0.71
-- 问题: Will the Phoenix Suns win the 2026 NBA Finals?
+## 4. [trend] YES conf=0.67
+- 问题: Will the New York Knicks win the 2026 NBA Finals?
 - Cluster: other
-- URL: https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals
-- 原因: ultra low YES price, better classified as carry_no than trend, cluster=other
+- URL: https://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals
+- 原因: 4h move visible, 24h move strong, 7d move strong
