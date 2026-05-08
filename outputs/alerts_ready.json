@@ -17,8 +17,12 @@
       "liquidity good",
       "cluster=other"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.9995,
     "no_price": 0.0005,
@@ -55,7 +59,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.72,
+    "pipeline_score": 0.69,
     "market_url": "https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
     "templates": {
       "short": "[trend] YES conf=0.69 | Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
@@ -63,71 +67,6 @@
       "execution": "执行候选：[trend] YES\n问题：Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?\n建议仓位：medium\n当前YES：0.9995\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award"
     },
     "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.9995\nWill Cooper Flagg win the 2025–26 NBA Rookie of the Year award?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award"
-  },
-  {
-    "token_id": "1755198236548058730692725634969806667163093356894670716555961840777456036471",
-    "question": "Will the Anaheim Ducks win the 2026 NHL Stanley Cup?",
-    "slug": "will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup",
-    "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.69,
-    "position": "medium",
-    "quality": 0.675,
-    "risk_score": 0.25,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "7d move strong",
-      "24h and 7d aligned",
-      "liquidity good",
-      "cluster=other"
-    ],
-    "risk_flags": [],
-    "advisory_flags": [],
-    "blocking_flags": [],
-    "yes_price": 0.0505,
-    "no_price": 0.9495,
-    "liquidity": 155037.9,
-    "volume": 1591723.54,
-    "chg_1h": 0.0,
-    "chg_4h": 1.148936170212766,
-    "chg_24h": 1.148936170212766,
-    "chg_7d": 1.0612244897959184,
-    "latest_ts": "2026-05-07T20:08:00",
-    "features": {
-      "token_id": "1755198236548058730692725634969806667163093356894670716555961840777456036471",
-      "question": "Will the Anaheim Ducks win the 2026 NHL Stanley Cup?",
-      "slug": "will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup",
-      "yes_price": 0.0505,
-      "no_price": 0.9495,
-      "liquidity": 155037.89606,
-      "volume": 1591723.539321003,
-      "latest_ts": "2026-05-07T20:08:00",
-      "history_points": 14364,
-      "chg_1h": 0.0,
-      "chg_4h": 1.148936170212766,
-      "chg_24h": 1.148936170212766,
-      "chg_7d": 1.0612244897959184,
-      "rsi_14": 99.94841388186047,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 0.9959621275410749,
-      "noise_score": 0.0,
-      "hours_to_event": 1275.8666666666666,
-      "event_time": "2026-06-30",
-      "spread": null
-    },
-    "cluster": "other",
-    "pipeline_score": 0.72,
-    "market_url": "https://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup",
-    "templates": {
-      "short": "[trend] YES conf=0.69 | Will the Anaheim Ducks win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup",
-      "detailed": "[trend] YES | conf=0.69 | pos=medium | yes=0.0505\nWill the Anaheim Ducks win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup",
-      "execution": "执行候选：[trend] YES\n问题：Will the Anaheim Ducks win the 2026 NHL Stanley Cup?\n建议仓位：medium\n当前YES：0.0505\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup"
-    },
-    "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.0505\nWill the Anaheim Ducks win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup"
   },
   {
     "token_id": "67028631656597977031363620447645908995417871899828777750494099295092202422178",
@@ -144,28 +83,32 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
-    "liquidity": 3360526.71,
-    "volume": 10745255.47,
+    "liquidity": 3393792.35,
+    "volume": 10799727.89,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": -0.15384615384615385,
-    "latest_ts": "2026-05-07T20:08:00",
+    "latest_ts": "2026-05-08T13:30:00",
     "features": {
       "token_id": "67028631656597977031363620447645908995417871899828777750494099295092202422178",
       "question": "Will Eric Trump win the 2028 US Presidential Election?",
       "slug": "will-eric-trump-win-the-2028-us-presidential-election",
       "yes_price": 0.0055,
       "no_price": 0.9945,
-      "liquidity": 3360526.71337,
-      "volume": 10745255.469720032,
-      "latest_ts": "2026-05-07T20:08:00",
-      "history_points": 14364,
+      "liquidity": 3393792.35329,
+      "volume": 10799727.89198602,
+      "latest_ts": "2026-05-08T13:30:00",
+      "history_points": 14387,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -174,15 +117,15 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.17722878625134264,
-      "pct_rank_30d": 0.04594820384294068,
+      "pct_rank_7d": 0.19671658986175114,
+      "pct_rank_30d": 0.047473413498297076,
       "noise_score": 0.0,
-      "hours_to_event": 21939.866666666665,
+      "hours_to_event": 21922.5,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Eric Trump win the 2028 US Presidential Election? | https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
@@ -206,28 +149,32 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0065,
     "no_price": 0.9935,
-    "liquidity": 2478924.26,
-    "volume": 40431393.24,
+    "liquidity": 2497552.1,
+    "volume": 40439848.05,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": 0.0,
-    "latest_ts": "2026-05-07T20:08:00",
+    "latest_ts": "2026-05-08T13:30:00",
     "features": {
       "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
       "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
       "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0065,
       "no_price": 0.9935,
-      "liquidity": 2478924.25999,
-      "volume": 40431393.23894228,
-      "latest_ts": "2026-05-07T20:08:00",
-      "history_points": 14364,
+      "liquidity": 2497552.10316,
+      "volume": 40439848.04693326,
+      "latest_ts": "2026-05-08T13:30:00",
+      "history_points": 14387,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -237,14 +184,14 @@
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
       "pct_rank_7d": 1.0,
-      "pct_rank_30d": 0.28710665552770814,
+      "pct_rank_30d": 0.28824633349551676,
       "noise_score": 0.0,
-      "hours_to_event": 21939.866666666665,
+      "hours_to_event": 21922.5,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Hillary Clinton win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
@@ -252,5 +199,71 @@
       "execution": "执行候选：[carry_no] NO\n问题：Will Hillary Clinton win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0065\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination"
     },
     "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0065\nWill Hillary Clinton win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination"
+  },
+  {
+    "token_id": "106572879185916710503631021854572801471104977091252507745096331167318654083650",
+    "question": "Will the Phoenix Suns win the 2026 NBA Finals?",
+    "slug": "will-the-phoenix-suns-win-the-2026-nba-finals",
+    "regime": "carry_no",
+    "direction": "NO",
+    "confidence": 0.71,
+    "position": "medium",
+    "quality": 0.7,
+    "risk_score": 0.25,
+    "reasons": [
+      "ultra low YES price",
+      "better classified as carry_no than trend",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0005,
+    "no_price": 0.9995,
+    "liquidity": 1990116.29,
+    "volume": 17570704.05,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": -0.6666666666666666,
+    "latest_ts": "2026-04-28T16:15:03",
+    "features": {
+      "token_id": "106572879185916710503631021854572801471104977091252507745096331167318654083650",
+      "question": "Will the Phoenix Suns win the 2026 NBA Finals?",
+      "slug": "will-the-phoenix-suns-win-the-2026-nba-finals",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 1990116.2899,
+      "volume": 17570704.051959917,
+      "latest_ts": "2026-04-28T16:15:03",
+      "history_points": 9973,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": -0.6666666666666666,
+      "rsi_14": 0.0,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.8336906584992343,
+      "pct_rank_30d": 0.2729369297102176,
+      "noise_score": 0.0,
+      "hours_to_event": 1519.7491666666667,
+      "event_time": "2026-07-01",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.6799999999999999,
+    "market_url": "https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals",
+    "templates": {
+      "short": "[carry_no] NO conf=0.71 | Will the Phoenix Suns win the 2026 NBA Finals? | https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals",
+      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill the Phoenix Suns win the 2026 NBA Finals?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals",
+      "execution": "执行候选：[carry_no] NO\n问题：Will the Phoenix Suns win the 2026 NBA Finals?\n建议仓位：medium\n当前YES：0.0005\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals"
+    },
+    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill the Phoenix Suns win the 2026 NBA Finals?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-the-phoenix-suns-win-the-2026-nba-finals"
   }
 ]

@@ -13,8 +13,8 @@
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Hillary Clinton win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will the Phoenix Suns win the 2026 NBA Finals? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [do_not_touch] Will the Anaheim Ducks win the 2026 NHL Stanley Cup? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
@@ -24,7 +24,7 @@
 - Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will the Phoenix Suns win the 2026 NBA Finals? | cluster=other | regime=carry_no | blocking=
 - Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=trend | blocking=
-- Will the Anaheim Ducks win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | blocking=
+- Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 158, 'miss': 14, 'hit': 6, 'pending': 22}
