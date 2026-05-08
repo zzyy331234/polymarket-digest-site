@@ -1694,10 +1694,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
