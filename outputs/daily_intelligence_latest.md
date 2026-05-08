@@ -14,7 +14,7 @@
 - [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Marco Rubio win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
-- [do_not_touch] Will the New York Knicks win the 2026 NBA Finals? | YES | conf=0.67 | catalyst=price_dislocation
+- [do_not_touch] Xi Jinping out before 2027? | NO | conf=0.65 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
@@ -24,7 +24,7 @@
 - Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=trend | blocking=
 - Will Marco Rubio win the 2028 US Presidential Election? | cluster=us_election | regime=trend | blocking=
-- Will the New York Knicks win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=
+- Xi Jinping out before 2027? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
 - outcomes: {'flat': 158, 'miss': 14, 'hit': 6, 'pending': 22}
