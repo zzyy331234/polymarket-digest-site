@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T18:06:32",
+  "generated_at": "2026-05-09T18:35:55",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -656,8 +656,8 @@
     },
     "regime_outcomes": {
       "mean_revert::hit": 5,
-      "trend::flat": 19,
-      "mean_revert::flat": 26,
+      "trend::flat": 20,
+      "mean_revert::flat": 25,
       "carry_no::flat": 113,
       "mean_revert::miss": 3,
       "carry_no::miss": 6,
