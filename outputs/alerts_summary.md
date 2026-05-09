@@ -18,8 +18,8 @@
 - URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
 
-## 4. [trend] YES conf=0.61
-- 问题: Will John Cornyn win the 2026 Texas Republican Primary?
+## 4. [trend] YES conf=0.66
+- 问题: Will the New York Knicks win the 2026 NBA Finals?
 - Cluster: other
-- URL: https://polymarket.com/question/will-john-cornyn-win-the-2026-republican-primary
-- 原因: 4h move visible, 24h move strong, 4h and 24h aligned
+- URL: https://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals
+- 原因: 4h move visible, 24h move strong, 7d move strong
