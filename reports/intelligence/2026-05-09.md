@@ -27,7 +27,7 @@
 - Will the New York Knicks win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 158, 'miss': 13, 'hit': 7, 'pending': 22}
+- outcomes: {'hit': 8, 'flat': 158, 'miss': 12, 'pending': 22}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
