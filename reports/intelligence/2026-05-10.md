@@ -27,7 +27,7 @@
 - Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'miss': 11, 'flat': 154, 'hit': 12, 'pending': 23}
+- outcomes: {'flat': 153, 'hit': 14, 'miss': 10, 'pending': 23}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
