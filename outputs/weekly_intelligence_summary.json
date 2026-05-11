@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-11T15:03:59",
+  "generated_at": "2026-05-11T15:35:10",
   "window_days": 7,
   "review_count": 72,
   "regime_stats": {
     "mean_revert": {
-      "total": 34,
+      "total": 35,
       "hit": 9,
-      "miss": 2,
-      "flat": 22,
+      "miss": 4,
+      "flat": 21,
       "unresolved": 1,
-      "avg_confidence": 0.6369
+      "avg_confidence": 0.6349
     },
     "trend": {
-      "total": 12,
-      "hit": 2,
+      "total": 11,
+      "hit": 1,
       "miss": 0,
       "flat": 9,
       "unresolved": 1,
-      "avg_confidence": 0.638
+      "avg_confidence": 0.6469
     },
     "carry_no": {
       "total": 26,
@@ -30,20 +30,20 @@
   },
   "cluster_stats": {
     "gta_vi": {
-      "total": 8,
-      "hit": 1,
+      "total": 9,
+      "hit": 2,
       "miss": 1,
       "flat": 5,
       "unresolved": 1,
-      "avg_confidence": 0.619
+      "avg_confidence": 0.6129
     },
     "other": {
-      "total": 21,
-      "hit": 10,
-      "miss": 1,
-      "flat": 8,
+      "total": 20,
+      "hit": 8,
+      "miss": 3,
+      "flat": 7,
       "unresolved": 2,
-      "avg_confidence": 0.6395
+      "avg_confidence": 0.6444
     },
     "us_election": {
       "total": 29,
@@ -66,23 +66,23 @@
     "best": [
       {
         "name": "mean_revert",
-        "score": -0.0647,
-        "total": 34,
+        "score": -0.0486,
+        "total": 35,
         "hit": 9,
-        "miss": 2,
-        "flat": 22,
+        "miss": 4,
+        "flat": 21,
         "unresolved": 1,
-        "avg_confidence": 0.6369
+        "avg_confidence": 0.6349
       },
       {
         "name": "trend",
-        "score": -0.225,
-        "total": 12,
-        "hit": 2,
+        "score": -0.3364,
+        "total": 11,
+        "hit": 1,
         "miss": 0,
         "flat": 9,
         "unresolved": 1,
-        "avg_confidence": 0.638
+        "avg_confidence": 0.6469
       },
       {
         "name": "carry_no",
@@ -108,23 +108,23 @@
       },
       {
         "name": "trend",
-        "score": -0.225,
-        "total": 12,
-        "hit": 2,
+        "score": -0.3364,
+        "total": 11,
+        "hit": 1,
         "miss": 0,
         "flat": 9,
         "unresolved": 1,
-        "avg_confidence": 0.638
+        "avg_confidence": 0.6469
       },
       {
         "name": "mean_revert",
-        "score": -0.0647,
-        "total": 34,
+        "score": -0.0486,
+        "total": 35,
         "hit": 9,
-        "miss": 2,
-        "flat": 22,
+        "miss": 4,
+        "flat": 21,
         "unresolved": 1,
-        "avg_confidence": 0.6369
+        "avg_confidence": 0.6349
       }
     ]
   },
@@ -132,23 +132,23 @@
     "best": [
       {
         "name": "other",
-        "score": 0.2667,
-        "total": 21,
-        "hit": 10,
-        "miss": 1,
-        "flat": 8,
+        "score": 0.205,
+        "total": 20,
+        "hit": 8,
+        "miss": 3,
+        "flat": 7,
         "unresolved": 2,
-        "avg_confidence": 0.6395
+        "avg_confidence": 0.6444
       },
       {
         "name": "gta_vi",
-        "score": -0.2125,
-        "total": 8,
-        "hit": 1,
+        "score": -0.0778,
+        "total": 9,
+        "hit": 2,
         "miss": 1,
         "flat": 5,
         "unresolved": 1,
-        "avg_confidence": 0.619
+        "avg_confidence": 0.6129
       },
       {
         "name": "world_cup",
@@ -194,23 +194,23 @@
       },
       {
         "name": "gta_vi",
-        "score": -0.2125,
-        "total": 8,
-        "hit": 1,
+        "score": -0.0778,
+        "total": 9,
+        "hit": 2,
         "miss": 1,
         "flat": 5,
         "unresolved": 1,
-        "avg_confidence": 0.619
+        "avg_confidence": 0.6129
       },
       {
         "name": "other",
-        "score": 0.2667,
-        "total": 21,
-        "hit": 10,
-        "miss": 1,
-        "flat": 8,
+        "score": 0.205,
+        "total": 20,
+        "hit": 8,
+        "miss": 3,
+        "flat": 7,
         "unresolved": 2,
-        "avg_confidence": 0.6395
+        "avg_confidence": 0.6444
       }
     ]
   },
