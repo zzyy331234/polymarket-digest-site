@@ -27,7 +27,7 @@
 - Will the Anaheim Ducks win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'hit': 15, 'flat': 153, 'miss': 9, 'pending': 23}
+- outcomes: {'flat': 153, 'hit': 14, 'miss': 10, 'pending': 23}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
