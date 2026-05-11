@@ -7,10 +7,10 @@
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 2. [trend] YES conf=0.69
-- 问题: Will Kamala Harris win the 2028 Democratic presidential nomination?
-- Cluster: us_election
-- URL: https://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641
-- 原因: 4h move visible, 24h move strong, 4h and 24h aligned
+- 问题: Will the Anaheim Ducks win the 2026 NHL Stanley Cup?
+- Cluster: other
+- URL: https://polymarket.com/question/will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup
+- 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 3. [carry_no] NO conf=0.71
 - 问题: Will Eric Trump win the 2028 US Presidential Election?
@@ -18,8 +18,8 @@
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
 
-## 4. [trend] YES conf=0.63
-- 问题: Will the Oklahoma City Thunder win the 2026 NBA Finals?
-- Cluster: other
-- URL: https://polymarket.com/question/will-the-oklahoma-city-thunder-win-the-2026-nba-finals
-- 原因: 4h move visible, 7d move strong, 24h and 7d aligned
+## 4. [carry_no] NO conf=0.71
+- 问题: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+- Cluster: us_election
+- URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination
+- 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
