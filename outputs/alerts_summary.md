@@ -17,3 +17,9 @@
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
+
+## 4. [trend] YES conf=0.63
+- 问题: Will the Oklahoma City Thunder win the 2026 NBA Finals?
+- Cluster: other
+- URL: https://polymarket.com/question/will-the-oklahoma-city-thunder-win-the-2026-nba-finals
+- 原因: 4h move visible, 7d move strong, 24h and 7d aligned
