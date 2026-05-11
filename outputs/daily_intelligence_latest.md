@@ -14,7 +14,6 @@
 - [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Kamala Harris win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
-- [do_not_touch] Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | YES | conf=0.63 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
