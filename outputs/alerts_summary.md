@@ -17,9 +17,3 @@
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
-
-## 4. [trend] NO conf=0.65
-- 问题: Will the Detroit Pistons win the 2026 NBA Finals?
-- Cluster: other
-- URL: https://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals
-- 原因: 24h move strong, 7d move strong, 24h and 7d aligned
