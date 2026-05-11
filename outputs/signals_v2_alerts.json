@@ -744,10 +744,12 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "deep_tail_world_cup"

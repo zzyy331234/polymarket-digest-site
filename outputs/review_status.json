@@ -1,13 +1,13 @@
 [
   {
-    "saved_at": "2026-05-10T19:02:02",
+    "saved_at": "2026-05-10T19:35:42",
     "question": "New Rihanna Album before GTA VI?",
     "slug": "new-rhianna-album-before-gta-vi-926",
     "cluster": "gta_vi",
     "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.5651,
-    "entry_yes_price": 0.685,
+    "direction": "NO",
+    "confidence": 0.6,
+    "entry_yes_price": 0.58,
     "event_time": null,
     "latest_ts": null,
     "review_status": "unresolved",
@@ -15,26 +15,26 @@
     "resolved": false,
     "hours_elapsed": null,
     "post_move_abs": null,
-    "post_move_6h": -0.15500000000000003,
+    "post_move_6h": -0.07499999999999996,
     "post_move_24h": null,
     "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": false,
     "window_48h_ready": false,
-    "mfe_6h": 0.0050000000000000044,
-    "mae_6h": -0.14500000000000002,
-    "mfe_24h": 0.0050000000000000044,
-    "mae_24h": -0.17500000000000004,
-    "mfe_48h": 0.0050000000000000044,
-    "mae_48h": -0.17500000000000004,
-    "outcome": "miss",
+    "mfe_6h": 0.04500000000000004,
+    "mae_6h": -0.05499999999999994,
+    "mfe_24h": 0.07500000000000007,
+    "mae_24h": -0.07499999999999996,
+    "mfe_48h": 0.07500000000000007,
+    "mae_48h": -0.07499999999999996,
+    "outcome": "hit",
     "notes": [
       "judge_on_6h_window",
       "6h close reached -0.010"
     ]
   },
   {
-    "saved_at": "2026-05-10T19:02:02",
+    "saved_at": "2026-05-10T19:35:42",
     "question": "Will Jesus Christ return before GTA VI?",
     "slug": "will-jesus-christ-return-before-gta-vi-665",
     "cluster": "gta_vi",
@@ -47,7 +47,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 23.85,
+    "hours_elapsed": 23.29,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": null,
@@ -5525,7 +5525,7 @@
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Iraq win the 2026 FIFA World Cup?",
     "slug": "will-iraq-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5538,14 +5538,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5555,12 +5555,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Panama win the 2026 FIFA World Cup?",
     "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
     "cluster": "world_cup",
@@ -5577,10 +5577,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": -0.001,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5589,12 +5589,12 @@
     "mae_48h": -0.001,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Bosnia-Herzegovina win the 2026 FIFA World Cup?",
     "slug": "will-bosnia-herzegovina-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5607,14 +5607,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5624,12 +5624,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Qatar win the 2026 FIFA World Cup?",
     "slug": "will-qatar-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5646,10 +5646,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": -0.001,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5658,12 +5658,12 @@
     "mae_48h": -0.001,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Tunisia win the 2026 FIFA World Cup?",
     "slug": "will-tunisia-win-the-2026-fifa-world-cup-165",
     "cluster": "world_cup",
@@ -5676,14 +5676,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5693,12 +5693,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Haiti win the 2026 FIFA World Cup?",
     "slug": "will-haiti-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5711,14 +5711,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5728,12 +5728,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Jordan win the 2026 FIFA World Cup?",
     "slug": "will-jordan-win-the-2026-fifa-world-cup-233",
     "cluster": "world_cup",
@@ -5746,14 +5746,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5763,12 +5763,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Cape Verde win the 2026 FIFA World Cup?",
     "slug": "will-cape-verde-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5785,10 +5785,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": -0.001,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5797,12 +5797,12 @@
     "mae_48h": -0.001,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Algeria win the 2026 FIFA World Cup?",
     "slug": "will-algeria-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5815,14 +5815,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5832,12 +5832,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Ghana win the 2026 FIFA World Cup?",
     "slug": "will-ghana-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5850,14 +5850,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5867,12 +5867,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Ivory Coast win the 2026 FIFA World Cup?",
     "slug": "will-ivory-coast-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5885,14 +5885,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5902,12 +5902,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will South Africa win the 2026 FIFA World Cup?",
     "slug": "will-south-africa-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5924,24 +5924,24 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
     "mae_24h": 0.0,
     "mfe_48h": 0.0,
-    "mae_48h": 0.0,
+    "mae_48h": -0.001,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Eric Trump win the 2028 US Presidential Election?",
     "slug": "will-eric-trump-win-the-2028-us-presidential-election",
     "cluster": "us_election",
@@ -5954,14 +5954,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -5971,12 +5971,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
     "slug": "will-kim-kardashian-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -5989,14 +5989,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6006,12 +6006,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Hunter Biden win the 2028 Democratic presidential nomination?",
     "slug": "will-person-a-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6024,14 +6024,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6041,12 +6041,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
     "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6059,14 +6059,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6076,12 +6076,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
     "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6094,14 +6094,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6111,12 +6111,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
     "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
     "cluster": "us_election",
@@ -6129,14 +6129,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6146,12 +6146,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
     "slug": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6164,14 +6164,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6181,12 +6181,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
     "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6199,14 +6199,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6216,12 +6216,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?",
     "slug": "will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
     "cluster": "other",
@@ -6234,7 +6234,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -271.43,
+    "hours_elapsed": -271.94,
     "post_move_abs": 0.0,
     "post_move_6h": null,
     "post_move_24h": null,
@@ -6254,7 +6254,7 @@
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will JD Vance win the 2028 US Presidential Election?",
     "slug": "will-jd-vance-win-the-2028-us-presidential-election",
     "cluster": "us_election",
@@ -6271,10 +6271,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": -0.0015000000000000013,
-    "post_move_48h": -0.0015000000000000013,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6283,12 +6283,12 @@
     "mae_48h": -0.0015000000000000013,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will the New York Knicks win the 2026 NBA Finals?",
     "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
     "cluster": "other",
@@ -6301,29 +6301,29 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.023999999999999994,
     "post_move_6h": 0.0,
     "post_move_24h": 0.007000000000000006,
-    "post_move_48h": 0.017,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.007000000000000006,
     "mae_24h": 0.0,
     "mfe_48h": 0.030000000000000013,
     "mae_48h": 0.0,
-    "outcome": "hit",
+    "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h favorable excursion reached +0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Kamala Harris win the 2028 US Presidential Election?",
     "slug": "will-kamala-harris-win-the-2028-us-presidential-election",
     "cluster": "us_election",
@@ -6340,10 +6340,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0005000000000000004,
-    "post_move_48h": 0.0010000000000000009,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0010000000000000009,
@@ -6352,12 +6352,12 @@
     "mae_48h": 0.0,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
     "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
     "cluster": "other",
@@ -6370,29 +6370,29 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.020000000000000018,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.020000000000000018,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
     "mae_24h": 0.0,
     "mfe_48h": 0.020000000000000018,
     "mae_48h": 0.0,
-    "outcome": "miss",
+    "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close reached +0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Xi Jinping out before 2027?",
     "slug": "xi-jinping-out-before-2027",
     "cluster": "other",
@@ -6409,24 +6409,24 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": -0.0010000000000000009,
-    "post_move_48h": 0.000999999999999987,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
     "mae_24h": -0.0010000000000000009,
-    "mfe_48h": 0.001999999999999988,
+    "mfe_48h": 0.0049999999999999906,
     "mae_48h": -0.0010000000000000009,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
     "slug": "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election",
     "cluster": "us_election",
@@ -6443,10 +6443,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": -0.0005000000000000004,
-    "post_move_48h": -0.0010000000000000009,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6455,12 +6455,12 @@
     "mae_48h": -0.0010000000000000009,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Putin out as President of Russia by December 31, 2026?",
     "slug": "putin-out-before-2027",
     "cluster": "other",
@@ -6473,14 +6473,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6490,12 +6490,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Jon Ossoff win the 2028 US Presidential Election?",
     "slug": "will-jon-ossoff-win-the-2028-us-presidential-election",
     "cluster": "us_election",
@@ -6511,11 +6511,11 @@
     "hours_elapsed": null,
     "post_move_abs": null,
     "post_move_6h": 0.0,
-    "post_move_24h": 0.0,
-    "post_move_48h": -0.0020000000000000018,
+    "post_move_24h": -0.0010000000000000009,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6524,12 +6524,12 @@
     "mae_48h": -0.0020000000000000018,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will bitcoin hit $1m before GTA VI?",
     "slug": "will-bitcoin-hit-1m-before-gta-vi-872",
     "cluster": "gta_vi",
@@ -6542,14 +6542,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0020000000000000018,
     "post_move_6h": 0.0,
     "post_move_24h": -0.0005000000000000004,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6559,12 +6559,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
     "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
     "cluster": "other",
@@ -6577,29 +6577,29 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.010000000000000009,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.010000000000000009,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
     "mae_24h": 0.0,
     "mfe_48h": 0.020000000000000018,
     "mae_48h": 0.0,
-    "outcome": "miss",
+    "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h adverse excursion reached +0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Russia-Ukraine Ceasefire before GTA VI?",
     "slug": "russia-ukraine-ceasefire-before-gta-vi-554",
     "cluster": "gta_vi",
@@ -6612,7 +6612,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -22.16,
+    "hours_elapsed": -22.68,
     "post_move_abs": 0.0,
     "post_move_6h": null,
     "post_move_24h": null,
@@ -6632,7 +6632,7 @@
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Trump out as President before GTA VI?",
     "slug": "trump-out-as-president-before-gta-vi-846",
     "cluster": "gta_vi",
@@ -6645,14 +6645,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6662,12 +6662,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will John Cornyn win the 2026 Texas Republican Primary?",
     "slug": "will-john-cornyn-win-the-2026-republican-primary",
     "cluster": "other",
@@ -6684,10 +6684,10 @@
     "post_move_abs": null,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": -0.014999999999999958,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6696,12 +6696,12 @@
     "mae_48h": -0.019999999999999962,
     "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will Jesus Christ return before GTA VI?",
     "slug": "will-jesus-christ-return-before-gta-vi-665",
     "cluster": "gta_vi",
@@ -6714,14 +6714,14 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 48.29,
+    "hours_elapsed": 47.77,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
-    "post_move_48h": 0.0,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.0,
@@ -6731,12 +6731,12 @@
     "outcome": "flat",
     "notes": [
       "market still visible in latest candidate set",
-      "judge_on_48h_window",
-      "48h close stayed within ±0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   },
   {
-    "saved_at": "2026-05-09T18:35:49",
+    "saved_at": "2026-05-09T19:06:39",
     "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
     "slug": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
     "cluster": "other",
@@ -6752,21 +6752,21 @@
     "hours_elapsed": null,
     "post_move_abs": null,
     "post_move_6h": 0.0,
-    "post_move_24h": 0.007000000000000006,
-    "post_move_48h": -0.0005000000000000004,
+    "post_move_24h": 0.006500000000000006,
+    "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
-    "window_48h_ready": true,
+    "window_48h_ready": false,
     "mfe_6h": null,
     "mae_6h": null,
     "mfe_24h": 0.007000000000000006,
     "mae_24h": 0.0,
     "mfe_48h": 0.010000000000000009,
     "mae_48h": -0.023999999999999966,
-    "outcome": "hit",
+    "outcome": "flat",
     "notes": [
-      "judge_on_48h_window",
-      "48h favorable excursion reached -0.020"
+      "judge_on_24h_window",
+      "24h close stayed within ±0.015"
     ]
   }
 ]
