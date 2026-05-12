@@ -33,8 +33,8 @@
   原始题目: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.0857 | total=14
-- 倾向保留: 均值回归 | score=-0.2633 | total=30
+- 倾向保留: 趋势延续 | score=0.0929 | total=14
+- 倾向保留: 均值回归 | score=-0.19 | total=30
 - 应继续降权: 美国大选 | score=-0.5 | flat=29
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=14
 
