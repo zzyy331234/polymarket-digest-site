@@ -17,12 +17,8 @@
       "liquidity good",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.9995,
     "no_price": 0.0005,
@@ -59,7 +55,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.69,
+    "pipeline_score": 0.72,
     "market_url": "https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
     "templates": {
       "short": "[trend] YES conf=0.69 | Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
@@ -86,12 +82,8 @@
       "liquidity good",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.093,
     "no_price": 0.907,
@@ -128,7 +120,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.69,
+    "pipeline_score": 0.72,
     "market_url": "https://polymarket.com/question/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
     "templates": {
       "short": "[trend] YES conf=0.69 | Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
@@ -152,12 +144,8 @@
       "better classified as carry_no than trend",
       "cluster=world_cup"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
@@ -194,7 +182,7 @@
       "spread": null
     },
     "cluster": "world_cup",
-    "pipeline_score": 0.6799999999999999,
+    "pipeline_score": 0.71,
     "market_url": "https://polymarket.com/question/will-canada-win-the-2026-fifa-world-cup-755",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Canada win the 2026 FIFA World Cup? | https://polymarket.com/question/will-canada-win-the-2026-fifa-world-cup-755",
@@ -218,12 +206,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
@@ -260,7 +244,7 @@
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
+    "pipeline_score": 0.71,
     "market_url": "https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Eric Trump win the 2028 US Presidential Election? | https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
@@ -284,12 +268,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0075,
     "no_price": 0.9925,
@@ -326,7 +306,7 @@
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
+    "pipeline_score": 0.71,
     "market_url": "https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Oprah Winfrey win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
