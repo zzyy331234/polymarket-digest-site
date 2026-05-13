@@ -12,9 +12,10 @@
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Canada win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
+- [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Tucker Carlson win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
-- [do_not_touch] Will Marco Rubio win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | NO | conf=0.63 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
