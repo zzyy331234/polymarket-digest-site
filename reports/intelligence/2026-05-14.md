@@ -14,7 +14,7 @@
 - [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Oprah Winfrey win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [do_not_touch] Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | NO | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will the Cleveland Cavaliers win the 2026 NBA Finals? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
@@ -23,8 +23,8 @@
 - Will Eric Trump win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
 - Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=trend | blocking=
+- Will the Cleveland Cavaliers win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=
 - Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | blocking=
-- Will Marco Rubio win the 2028 US Presidential Election? | cluster=us_election | regime=trend | blocking=
 
 ## 后验复盘快照
 - outcomes: {'flat': 156, 'miss': 12, 'hit': 9, 'pending': 23}

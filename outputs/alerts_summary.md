@@ -6,10 +6,10 @@
 - URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 2. [trend] NO conf=0.69
-- 问题: Will the Montreal Canadiens win the 2026 NHL Stanley Cup?
+## 2. [trend] YES conf=0.69
+- 问题: Will the Cleveland Cavaliers win the 2026 NBA Finals?
 - Cluster: other
-- URL: https://polymarket.com/question/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup
+- URL: https://polymarket.com/question/will-the-cleveland-cavaliers-win-the-2026-nba-finals
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 3. [carry_no] NO conf=0.71
