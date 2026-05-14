@@ -7,18 +7,12 @@
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 2. [carry_no] NO conf=0.71
-- 问题: Will Canada win the 2026 FIFA World Cup?
-- Cluster: world_cup
-- URL: https://polymarket.com/question/will-canada-win-the-2026-fifa-world-cup-755
-- 原因: ultra low YES price, better classified as carry_no than trend, cluster=world_cup
-
-## 3. [carry_no] NO conf=0.71
 - 问题: Will Eric Trump win the 2028 US Presidential Election?
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
 
-## 4. [carry_no] NO conf=0.71
+## 3. [carry_no] NO conf=0.71
 - 问题: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination

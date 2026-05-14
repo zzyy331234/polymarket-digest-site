@@ -13,12 +13,6 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Canada win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-canada-win-the-2026-fifa-world-cup-755
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Canada win the 2026 FIFA World Cup?
 - 选举盘：Eric Trump能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
   链接（中文导读）: 中文导读：选举盘：Eric Trump能否赢得 2028 美国总统大选？
   Link (English source): English source: Will Eric Trump win the 2028 US Presidential Election?
@@ -31,6 +25,12 @@
   URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+- 观察盘：Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | 其他事件 | 趋势延续
+  链接（中文导读）: 中文导读：观察盘：Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
+  Link (English source): English source: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
+  URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
+  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
+  原始题目: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
 
 ## 周度偏好
 - 倾向保留: 均值回归 | score=-0.2138 | total=29
