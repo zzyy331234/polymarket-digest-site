@@ -12,14 +12,14 @@
 - URL: https://polymarket.com/question/will-the-cleveland-cavaliers-win-the-2026-nba-finals
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 3. [carry_no] NO conf=0.71
+## 3. [trend] YES conf=0.69
+- 问题: Will Ron DeSantis win the 2028 Republican presidential nomination?
+- Cluster: us_election
+- URL: https://polymarket.com/question/will-ron-desantis-win-the-2028-republican-presidential-nomination
+- 原因: 4h move visible, 24h move strong, 7d move strong
+
+## 4. [carry_no] NO conf=0.71
 - 问题: Will Eric Trump win the 2028 US Presidential Election?
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
-- 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
-
-## 4. [carry_no] NO conf=0.71
-- 问题: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-- Cluster: us_election
-- URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
