@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T14:14:54",
+  "generated_at": "2026-05-15T14:36:59",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-05-15",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、世界杯主题 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 世界杯主题、美国大选 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -259,49 +259,49 @@
   "best_regimes": [
     {
       "name": "trend",
-      "score": -0.2077,
-      "total": 13,
-      "hit": 1,
+      "score": -0.1214,
+      "total": 14,
+      "hit": 2,
       "miss": 4,
       "flat": 7,
       "unresolved": 1,
-      "avg_confidence": 0.6415,
+      "avg_confidence": 0.6428,
       "name_cn": "趋势延续"
     },
     {
       "name": "mean_revert",
-      "score": -0.2667,
+      "score": -0.2852,
       "total": 27,
       "hit": 3,
-      "miss": 3,
-      "flat": 20,
+      "miss": 2,
+      "flat": 21,
       "unresolved": 1,
-      "avg_confidence": 0.6351,
+      "avg_confidence": 0.6299,
       "name_cn": "均值回归"
     }
   ],
   "worst_clusters": [
     {
-      "name": "us_election",
-      "score": -0.5,
-      "total": 28,
-      "hit": 0,
-      "miss": 0,
-      "flat": 28,
-      "unresolved": 0,
-      "avg_confidence": 0.6689,
-      "name_cn": "美国大选"
-    },
-    {
       "name": "world_cup",
       "score": -0.5,
-      "total": 17,
+      "total": 19,
       "hit": 0,
       "miss": 0,
-      "flat": 17,
+      "flat": 19,
       "unresolved": 0,
       "avg_confidence": 0.71,
       "name_cn": "世界杯主题"
+    },
+    {
+      "name": "us_election",
+      "score": -0.4483,
+      "total": 29,
+      "hit": 1,
+      "miss": 0,
+      "flat": 28,
+      "unresolved": 0,
+      "avg_confidence": 0.6702,
+      "name_cn": "美国大选"
     }
   ],
   "paper_gate_eligible": false,
