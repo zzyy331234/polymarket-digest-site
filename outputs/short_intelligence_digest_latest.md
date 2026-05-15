@@ -33,8 +33,8 @@
   原始题目: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.0143 | total=14
-- 倾向保留: 均值回归 | score=-0.3172 | total=29
+- 倾向保留: 趋势延续 | score=0.0231 | total=13
+- 倾向保留: 均值回归 | score=-0.34 | total=30
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=19
 - 应继续降权: 美国大选 | score=-0.4464 | flat=27
 
