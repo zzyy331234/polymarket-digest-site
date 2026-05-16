@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T22:00:47",
+  "generated_at": "2026-05-16T23:52:01",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -163,85 +163,6 @@
       "evidence_score": 0.4783,
       "thesis_summary": "[trend] YES on 'Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?' because 4h move visible.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.251).",
-      "do_not_trade_if": [
-        "Advisory flags worsen or increase before entry.",
-        "Liquidity/exit quality deteriorates materially before action."
-      ]
-    },
-    {
-      "token_id": "59742411602053785892348440048778056320272639465974092140970920277782290781360",
-      "question": "Will the Detroit Pistons win the 2026 NBA Finals?",
-      "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
-      "regime": "trend",
-      "direction": "YES",
-      "confidence": 0.69,
-      "position": "medium",
-      "quality": 0.675,
-      "risk_score": 0.25,
-      "reasons": [
-        "4h move visible",
-        "24h move strong",
-        "7d move strong",
-        "4h and 24h aligned",
-        "4h and 24h slope aligned",
-        "liquidity good",
-        "cluster=other"
-      ],
-      "risk_flags": [
-        "cooldown_active"
-      ],
-      "advisory_flags": [
-        "cooldown_active"
-      ],
-      "blocking_flags": [],
-      "yes_price": 0.0425,
-      "no_price": 0.9575,
-      "liquidity": 292661.26,
-      "volume": 18400154.78,
-      "chg_1h": 0.024096385542168693,
-      "chg_4h": 0.07594936708860767,
-      "chg_24h": 1.4285714285714286,
-      "chg_7d": -0.3609022556390977,
-      "latest_ts": "2026-05-16T21:42:18",
-      "features": {
-        "token_id": "59742411602053785892348440048778056320272639465974092140970920277782290781360",
-        "question": "Will the Detroit Pistons win the 2026 NBA Finals?",
-        "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
-        "yes_price": 0.0425,
-        "no_price": 0.9575,
-        "liquidity": 292661.26447,
-        "volume": 18400154.77709182,
-        "latest_ts": "2026-05-16T21:42:18",
-        "history_points": 17568,
-        "chg_1h": 0.024096385542168693,
-        "chg_4h": 0.07594936708860767,
-        "chg_24h": 1.4285714285714286,
-        "chg_7d": -0.3609022556390977,
-        "rsi_14": 51.84581182912922,
-        "volatility": 0.05235441155906211,
-        "trend_slope_4h": 5.494505494505502e-05,
-        "trend_slope_24h": 0.00011028048521742315,
-        "pct_rank_7d": 0.5146666666666667,
-        "pct_rank_30d": 0.4816712204007286,
-        "noise_score": 1.7493249110209805,
-        "hours_to_event": 1082.295,
-        "event_time": "2026-07-01",
-        "spread": null
-      },
-      "cluster": "other",
-      "pipeline_score": 0.69,
-      "market_url": "https://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals",
-      "templates": {
-        "short": "[trend] YES conf=0.69 | Will the Detroit Pistons win the 2026 NBA Finals? | https://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals",
-        "detailed": "[trend] YES | conf=0.69 | pos=medium | yes=0.0425\nWill the Detroit Pistons win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals",
-        "execution": "执行候选：[trend] YES\n问题：Will the Detroit Pistons win the 2026 NBA Finals?\n建议仓位：medium\n当前YES：0.0425\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals"
-      },
-      "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.0425\nWill the Detroit Pistons win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals",
-      "catalyst_type": "price_dislocation",
-      "execution_readiness": "do_not_touch",
-      "evidence_score": 0.4783,
-      "thesis_summary": "[trend] YES on 'Will the Detroit Pistons win the 2026 NBA Finals?' because 4h move visible.",
-      "why_now": "Short-term dislocation detected (1h=0.024, 4h=0.076, 24h=1.429).",
       "do_not_trade_if": [
         "Advisory flags worsen or increase before entry.",
         "Liquidity/exit quality deteriorates materially before action."
@@ -520,72 +441,6 @@
       ]
     },
     {
-      "token_id": "59742411602053785892348440048778056320272639465974092140970920277782290781360",
-      "question": "Will the Detroit Pistons win the 2026 NBA Finals?",
-      "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
-      "regime": "trend",
-      "direction": "YES",
-      "confidence": 0.69,
-      "position": "medium",
-      "quality": 0.675,
-      "risk_score": 0.25,
-      "reasons": [
-        "4h move visible",
-        "24h move strong",
-        "7d move strong",
-        "4h and 24h aligned",
-        "4h and 24h slope aligned",
-        "liquidity good",
-        "cluster=other"
-      ],
-      "risk_flags": [],
-      "advisory_flags": [],
-      "blocking_flags": [],
-      "yes_price": 0.0425,
-      "no_price": 0.9575,
-      "liquidity": 292661.26,
-      "volume": 18400154.78,
-      "chg_1h": 0.024096385542168693,
-      "chg_4h": 0.07594936708860767,
-      "chg_24h": 1.4285714285714286,
-      "chg_7d": -0.3609022556390977,
-      "latest_ts": "2026-05-16T21:42:18",
-      "features": {
-        "token_id": "59742411602053785892348440048778056320272639465974092140970920277782290781360",
-        "question": "Will the Detroit Pistons win the 2026 NBA Finals?",
-        "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
-        "yes_price": 0.0425,
-        "no_price": 0.9575,
-        "liquidity": 292661.26447,
-        "volume": 18400154.77709182,
-        "latest_ts": "2026-05-16T21:42:18",
-        "history_points": 17568,
-        "chg_1h": 0.024096385542168693,
-        "chg_4h": 0.07594936708860767,
-        "chg_24h": 1.4285714285714286,
-        "chg_7d": -0.3609022556390977,
-        "rsi_14": 51.84581182912922,
-        "volatility": 0.05235441155906211,
-        "trend_slope_4h": 5.494505494505502e-05,
-        "trend_slope_24h": 0.00011028048521742315,
-        "pct_rank_7d": 0.5146666666666667,
-        "pct_rank_30d": 0.4816712204007286,
-        "noise_score": 1.7493249110209805,
-        "hours_to_event": 1082.295,
-        "event_time": "2026-07-01",
-        "spread": null
-      },
-      "cluster": "other",
-      "catalyst_type": "price_dislocation",
-      "execution_readiness": "do_not_touch",
-      "evidence_score": 0.5282,
-      "thesis_summary": "[trend] YES on 'Will the Detroit Pistons win the 2026 NBA Finals?' because 4h move visible.",
-      "why_now": "Short-term dislocation detected (1h=0.024, 4h=0.076, 24h=1.429).",
-      "do_not_trade_if": [
-        "Liquidity/exit quality deteriorates materially before action."
-      ]
-    },
-    {
       "token_id": "104480514270625615787868282411330496385404675495672110015326625654626015018993",
       "question": "Will Ron DeSantis win the 2028 US Presidential Election?",
       "slug": "will-ron-desantis-win-the-2028-us-presidential-election",
@@ -647,6 +502,79 @@
       "thesis_summary": "[trend] YES on 'Will Ron DeSantis win the 2028 US Presidential Election?' because 4h move visible.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=-0.120, 24h=0.431).",
       "do_not_trade_if": [
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
+    },
+    {
+      "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486",
+      "question": "Will Panama win the 2026 FIFA World Cup?",
+      "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "deep-tail World Cup outright",
+        "cluster=world_cup"
+      ],
+      "risk_flags": [
+        "deep_tail_world_cup"
+      ],
+      "advisory_flags": [
+        "deep_tail_world_cup"
+      ],
+      "blocking_flags": [
+        "deep_tail_world_cup"
+      ],
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "liquidity": 7966686.27,
+      "volume": 12804887.74,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": -0.4,
+      "latest_ts": "2026-05-16T22:31:53",
+      "features": {
+        "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486",
+        "question": "Will Panama win the 2026 FIFA World Cup?",
+        "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
+        "yes_price": 0.0015,
+        "no_price": 0.9985,
+        "liquidity": 7966686.27303,
+        "volume": 12804887.740756964,
+        "latest_ts": "2026-05-16T22:31:53",
+        "history_points": 17572,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "chg_7d": -0.4,
+        "rsi_14": 0.0,
+        "volatility": 0.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 0.5367059718524154,
+        "pct_rank_30d": 0.2785112679262463,
+        "noise_score": 0.0,
+        "hours_to_event": 1537.4686111111112,
+        "event_time": "2026-07-20",
+        "spread": null
+      },
+      "cluster": "world_cup",
+      "catalyst_type": "theme_cluster",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will Panama win the 2026 FIFA World Cup?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=world_cup and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "World Cup cluster remains blocked / low-tradability heavy.",
+        "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
     }
