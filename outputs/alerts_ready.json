@@ -69,6 +69,76 @@
     "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.9995\nWill Cooper Flagg win the 2025–26 NBA Rookie of the Year award?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award"
   },
   {
+    "token_id": "59742411602053785892348440048778056320272639465974092140970920277782290781360",
+    "question": "Will the Detroit Pistons win the 2026 NBA Finals?",
+    "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
+    "regime": "trend",
+    "direction": "YES",
+    "confidence": 0.69,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "4h and 24h aligned",
+      "4h and 24h slope aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0425,
+    "no_price": 0.9575,
+    "liquidity": 292661.26,
+    "volume": 18400154.78,
+    "chg_1h": 0.024096385542168693,
+    "chg_4h": 0.07594936708860767,
+    "chg_24h": 1.4285714285714286,
+    "chg_7d": -0.3609022556390977,
+    "latest_ts": "2026-05-16T21:42:18",
+    "features": {
+      "token_id": "59742411602053785892348440048778056320272639465974092140970920277782290781360",
+      "question": "Will the Detroit Pistons win the 2026 NBA Finals?",
+      "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
+      "yes_price": 0.0425,
+      "no_price": 0.9575,
+      "liquidity": 292661.26447,
+      "volume": 18400154.77709182,
+      "latest_ts": "2026-05-16T21:42:18",
+      "history_points": 17568,
+      "chg_1h": 0.024096385542168693,
+      "chg_4h": 0.07594936708860767,
+      "chg_24h": 1.4285714285714286,
+      "chg_7d": -0.3609022556390977,
+      "rsi_14": 51.84581182912922,
+      "volatility": 0.05235441155906211,
+      "trend_slope_4h": 5.494505494505502e-05,
+      "trend_slope_24h": 0.00011028048521742315,
+      "pct_rank_7d": 0.5146666666666667,
+      "pct_rank_30d": 0.4816712204007286,
+      "noise_score": 1.7493249110209805,
+      "hours_to_event": 1082.295,
+      "event_time": "2026-07-01",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.69,
+    "market_url": "https://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals",
+    "templates": {
+      "short": "[trend] YES conf=0.69 | Will the Detroit Pistons win the 2026 NBA Finals? | https://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals",
+      "detailed": "[trend] YES | conf=0.69 | pos=medium | yes=0.0425\nWill the Detroit Pistons win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals",
+      "execution": "执行候选：[trend] YES\n问题：Will the Detroit Pistons win the 2026 NBA Finals?\n建议仓位：medium\n当前YES：0.0425\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals"
+    },
+    "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.0425\nWill the Detroit Pistons win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-detroit-pistons-win-the-2026-nba-finals"
+  },
+  {
     "token_id": "104480514270625615787868282411330496385404675495672110015326625654626015018993",
     "question": "Will Ron DeSantis win the 2028 US Presidential Election?",
     "slug": "will-ron-desantis-win-the-2028-us-presidential-election",
