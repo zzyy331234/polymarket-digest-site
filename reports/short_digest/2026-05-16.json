@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T13:35:44",
+  "generated_at": "2026-05-16T15:09:47",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-05-16",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
@@ -259,24 +259,24 @@
   "best_regimes": [
     {
       "name": "trend",
-      "score": 0.18,
-      "total": 10,
-      "hit": 3,
-      "miss": 4,
-      "flat": 2,
-      "unresolved": 1,
-      "avg_confidence": 0.6342,
+      "score": -0.0214,
+      "total": 14,
+      "hit": 2,
+      "miss": 5,
+      "flat": 3,
+      "unresolved": 4,
+      "avg_confidence": 0.6426,
       "name_cn": "趋势延续"
     },
     {
       "name": "mean_revert",
-      "score": -0.3091,
+      "score": -0.3212,
       "total": 33,
-      "hit": 3,
-      "miss": 3,
-      "flat": 26,
-      "unresolved": 1,
-      "avg_confidence": 0.6404,
+      "hit": 2,
+      "miss": 1,
+      "flat": 22,
+      "unresolved": 8,
+      "avg_confidence": 0.6367,
       "name_cn": "均值回归"
     }
   ],
@@ -294,13 +294,13 @@
     },
     {
       "name": "us_election",
-      "score": -0.4464,
+      "score": -0.3607,
       "total": 28,
-      "hit": 1,
+      "hit": 0,
       "miss": 0,
-      "flat": 27,
-      "unresolved": 0,
-      "avg_confidence": 0.6709,
+      "flat": 15,
+      "unresolved": 13,
+      "avg_confidence": 0.667,
       "name_cn": "美国大选"
     }
   ],
