@@ -69,6 +69,75 @@
     "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.9995\nWill Cooper Flagg win the 2025–26 NBA Rookie of the Year award?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award"
   },
   {
+    "token_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
+    "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+    "slug": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
+    "regime": "trend",
+    "direction": "YES",
+    "confidence": 0.69,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "liquidity good",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0515,
+    "no_price": 0.9485,
+    "liquidity": 229494.93,
+    "volume": 8137922.62,
+    "chg_1h": 0.0,
+    "chg_4h": -0.028301886792452855,
+    "chg_24h": 0.10752688172043005,
+    "chg_7d": 0.11956521739130431,
+    "latest_ts": "2026-05-17T01:15:30",
+    "features": {
+      "token_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
+      "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+      "slug": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
+      "yes_price": 0.0515,
+      "no_price": 0.9485,
+      "liquidity": 229494.92735,
+      "volume": 8137922.624963244,
+      "latest_ts": "2026-05-17T01:15:30",
+      "history_points": 17589,
+      "chg_1h": 0.0,
+      "chg_4h": -0.028301886792452855,
+      "chg_24h": 0.10752688172043005,
+      "chg_7d": 0.11956521739130431,
+      "rsi_14": 38.34704640384741,
+      "volatility": 0.013512735790667854,
+      "trend_slope_4h": -3.937728937728941e-05,
+      "trend_slope_24h": 2.9369730719056043e-05,
+      "pct_rank_7d": 0.9829931972789115,
+      "pct_rank_30d": 0.9946557507533117,
+      "noise_score": 1.5141419801828613,
+      "hours_to_event": 21718.741666666665,
+      "event_time": "2028-11-07",
+      "spread": null
+    },
+    "cluster": "us_election",
+    "pipeline_score": 0.69,
+    "market_url": "https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
+    "templates": {
+      "short": "[trend] YES conf=0.69 | Will Josh Shapiro win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
+      "detailed": "[trend] YES | conf=0.69 | pos=medium | yes=0.0515\nWill Josh Shapiro win the 2028 Democratic presidential nomination?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
+      "execution": "执行候选：[trend] YES\n问题：Will Josh Shapiro win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0515\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977"
+    },
+    "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.0515\nWill Josh Shapiro win the 2028 Democratic presidential nomination?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977"
+  },
+  {
     "token_id": "104480514270625615787868282411330496385404675495672110015326625654626015018993",
     "question": "Will Ron DeSantis win the 2028 US Presidential Election?",
     "slug": "will-ron-desantis-win-the-2028-us-presidential-election",
@@ -136,71 +205,5 @@
       "execution": "执行候选：[trend] YES\n问题：Will Ron DeSantis win the 2028 US Presidential Election?\n建议仓位：medium\n当前YES：0.0365\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election"
     },
     "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.0365\nWill Ron DeSantis win the 2028 US Presidential Election?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election"
-  },
-  {
-    "token_id": "67028631656597977031363620447645908995417871899828777750494099295092202422178",
-    "question": "Will Eric Trump win the 2028 US Presidential Election?",
-    "slug": "will-eric-trump-win-the-2028-us-presidential-election",
-    "regime": "carry_no",
-    "direction": "NO",
-    "confidence": 0.71,
-    "position": "medium",
-    "quality": 0.7,
-    "risk_score": 0.25,
-    "reasons": [
-      "ultra low YES price",
-      "better classified as carry_no than trend",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
-    "blocking_flags": [],
-    "yes_price": 0.0055,
-    "no_price": 0.9945,
-    "liquidity": 3586617.65,
-    "volume": 11679109.63,
-    "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-05-14T19:06:00",
-    "features": {
-      "token_id": "67028631656597977031363620447645908995417871899828777750494099295092202422178",
-      "question": "Will Eric Trump win the 2028 US Presidential Election?",
-      "slug": "will-eric-trump-win-the-2028-us-presidential-election",
-      "yes_price": 0.0055,
-      "no_price": 0.9945,
-      "liquidity": 3586617.64814,
-      "volume": 11679109.631243082,
-      "latest_ts": "2026-05-14T19:06:00",
-      "history_points": 16823,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": 0.0,
-      "rsi_14": 0.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 0.1854009391903941,
-      "noise_score": 0.0,
-      "hours_to_event": 21772.9,
-      "event_time": "2028-11-07",
-      "spread": null
-    },
-    "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
-    "market_url": "https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
-    "templates": {
-      "short": "[carry_no] NO conf=0.71 | Will Eric Trump win the 2028 US Presidential Election? | https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
-      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0055\nWill Eric Trump win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
-      "execution": "执行候选：[carry_no] NO\n问题：Will Eric Trump win the 2028 US Presidential Election?\n建议仓位：medium\n当前YES：0.0055\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election"
-    },
-    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0055\nWill Eric Trump win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election"
   }
 ]
