@@ -202,5 +202,74 @@
       "execution": "执行候选：[carry_no] NO\n问题：Will Eric Trump win the 2028 US Presidential Election?\n建议仓位：medium\n当前YES：0.0055\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election"
     },
     "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0055\nWill Eric Trump win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election"
+  },
+  {
+    "token_id": "20257190540739490630509657713144742134547949967093643458458133445357169845406",
+    "question": "Will the New York Knicks win the 2026 NBA Finals?",
+    "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
+    "regime": "trend",
+    "direction": "YES",
+    "confidence": 0.6452,
+    "position": "medium",
+    "quality": 0.619,
+    "risk_score": 0.25,
+    "reasons": [
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "4h and 24h slope aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.1435,
+    "no_price": 0.8565,
+    "liquidity": 325062.6,
+    "volume": 13877722.0,
+    "chg_1h": 0.0,
+    "chg_4h": 0.00701754385964913,
+    "chg_24h": 0.05128205128205112,
+    "chg_7d": 0.27555555555555544,
+    "latest_ts": "2026-05-17T14:33:00",
+    "features": {
+      "token_id": "20257190540739490630509657713144742134547949967093643458458133445357169845406",
+      "question": "Will the New York Knicks win the 2026 NBA Finals?",
+      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
+      "yes_price": 0.1435,
+      "no_price": 0.8565,
+      "liquidity": 325062.60164,
+      "volume": 13877721.995720683,
+      "latest_ts": "2026-05-17T14:33:00",
+      "history_points": 17730,
+      "chg_1h": 0.0,
+      "chg_4h": 0.00701754385964913,
+      "chg_24h": 0.05128205128205112,
+      "chg_7d": 0.27555555555555544,
+      "rsi_14": 76.59781915022839,
+      "volatility": 0.0014225193628428332,
+      "trend_slope_4h": 1.3169446883230916e-05,
+      "trend_slope_24h": 3.5406798296710264e-05,
+      "pct_rank_7d": 0.8835842820418656,
+      "pct_rank_30d": 0.979639029892837,
+      "noise_score": 0.0,
+      "hours_to_event": 1065.45,
+      "event_time": "2026-07-01",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.6452,
+    "market_url": "https://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals",
+    "templates": {
+      "short": "[trend] YES conf=0.65 | Will the New York Knicks win the 2026 NBA Finals? | https://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals",
+      "detailed": "[trend] YES | conf=0.65 | pos=medium | yes=0.1435\nWill the New York Knicks win the 2026 NBA Finals?\n原因: 24h move strong, 7d move strong\nhttps://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals",
+      "execution": "执行候选：[trend] YES\n问题：Will the New York Knicks win the 2026 NBA Finals?\n建议仓位：medium\n当前YES：0.1435\n置信度：0.65\n理由：24h move strong, 7d move strong\n链接：https://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals"
+    },
+    "alert_text": "[trend] YES | conf=0.65 | pos=medium | yes=0.1435\nWill the New York Knicks win the 2026 NBA Finals?\n原因: 24h move strong, 7d move strong\nhttps://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals"
   }
 ]

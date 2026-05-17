@@ -17,3 +17,9 @@
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
+
+## 4. [trend] YES conf=0.65
+- 问题: Will the New York Knicks win the 2026 NBA Finals?
+- Cluster: other
+- URL: https://polymarket.com/question/will-the-new-york-knicks-win-the-2026-nba-finals
+- 原因: 24h move strong, 7d move strong, 24h and 7d aligned
