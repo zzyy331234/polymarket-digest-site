@@ -1,75 +1,5 @@
 [
   {
-    "token_id": "21929863894047830651599085392978377118642353711084157807549430066031384497667",
-    "question": "Will the Cleveland Cavaliers win the 2026 NBA Finals?",
-    "slug": "will-the-cleveland-cavaliers-win-the-2026-nba-finals",
-    "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.69,
-    "position": "medium",
-    "quality": 0.675,
-    "risk_score": 0.25,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "7d move strong",
-      "24h and 7d aligned",
-      "4h and 24h slope aligned",
-      "liquidity good",
-      "cluster=other"
-    ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
-    "blocking_flags": [],
-    "yes_price": 0.0385,
-    "no_price": 0.9615,
-    "liquidity": 707311.57,
-    "volume": 14695825.34,
-    "chg_1h": -0.025316455696202556,
-    "chg_4h": -0.025316455696202556,
-    "chg_24h": 0.9743589743589743,
-    "chg_7d": 1.0810810810810811,
-    "latest_ts": "2026-05-18T19:06:01",
-    "features": {
-      "token_id": "21929863894047830651599085392978377118642353711084157807549430066031384497667",
-      "question": "Will the Cleveland Cavaliers win the 2026 NBA Finals?",
-      "slug": "will-the-cleveland-cavaliers-win-the-2026-nba-finals",
-      "yes_price": 0.0385,
-      "no_price": 0.9615,
-      "liquidity": 707311.57094,
-      "volume": 14695825.343643967,
-      "latest_ts": "2026-05-18T19:06:01",
-      "history_points": 18221,
-      "chg_1h": -0.025316455696202556,
-      "chg_4h": -0.025316455696202556,
-      "chg_24h": 0.9743589743589743,
-      "chg_7d": 1.0810810810810811,
-      "rsi_14": 0.617340246525373,
-      "volatility": 0.002570357158441185,
-      "trend_slope_4h": -3.4835273021342457e-06,
-      "trend_slope_24h": -4.250633436979511e-06,
-      "pct_rank_7d": 0.8973852984706463,
-      "pct_rank_30d": 0.37418363426815215,
-      "noise_score": 0.0,
-      "hours_to_event": 1036.8997222222222,
-      "event_time": "2026-07-01",
-      "spread": null
-    },
-    "cluster": "other",
-    "pipeline_score": 0.69,
-    "market_url": "https://polymarket.com/question/will-the-cleveland-cavaliers-win-the-2026-nba-finals",
-    "templates": {
-      "short": "[trend] YES conf=0.69 | Will the Cleveland Cavaliers win the 2026 NBA Finals? | https://polymarket.com/question/will-the-cleveland-cavaliers-win-the-2026-nba-finals",
-      "detailed": "[trend] YES | conf=0.69 | pos=medium | yes=0.0385\nWill the Cleveland Cavaliers win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-cleveland-cavaliers-win-the-2026-nba-finals",
-      "execution": "执行候选：[trend] YES\n问题：Will the Cleveland Cavaliers win the 2026 NBA Finals?\n建议仓位：medium\n当前YES：0.0385\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-cleveland-cavaliers-win-the-2026-nba-finals"
-    },
-    "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.0385\nWill the Cleveland Cavaliers win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-cleveland-cavaliers-win-the-2026-nba-finals"
-  },
-  {
     "token_id": "85111524713956582520646495718683425629132278867496750899986579388014440159452",
     "question": "Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?",
     "slug": "will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
@@ -272,5 +202,74 @@
       "execution": "执行候选：[carry_no] NO\n问题：Will Eric Trump win the 2028 US Presidential Election?\n建议仓位：medium\n当前YES：0.0055\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election"
     },
     "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0055\nWill Eric Trump win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election"
+  },
+  {
+    "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+    "question": "Xi Jinping out before 2027?",
+    "slug": "xi-jinping-out-before-2027",
+    "regime": "trend",
+    "direction": "NO",
+    "confidence": 0.6509,
+    "position": "medium",
+    "quality": 0.6262,
+    "risk_score": 0.25,
+    "reasons": [
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "4h and 24h slope aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0655,
+    "no_price": 0.9345,
+    "liquidity": 208584.9,
+    "volume": 9458685.38,
+    "chg_1h": 0.0,
+    "chg_4h": -0.015037593984962419,
+    "chg_24h": -0.05755395683453242,
+    "chg_7d": -0.1208053691275167,
+    "latest_ts": "2026-05-18T19:35:03",
+    "features": {
+      "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+      "question": "Xi Jinping out before 2027?",
+      "slug": "xi-jinping-out-before-2027",
+      "yes_price": 0.0655,
+      "no_price": 0.9345,
+      "liquidity": 208584.90131,
+      "volume": 9458685.377429813,
+      "latest_ts": "2026-05-18T19:35:03",
+      "history_points": 18250,
+      "chg_1h": 0.0,
+      "chg_4h": -0.015037593984962419,
+      "chg_24h": -0.05755395683453242,
+      "chg_7d": -0.1208053691275167,
+      "rsi_14": 0.0,
+      "volatility": 0.0,
+      "trend_slope_4h": -2.755704792377207e-06,
+      "trend_slope_24h": -4.234132242512939e-06,
+      "pct_rank_7d": 0.10165369649805447,
+      "pct_rank_30d": 0.0793972602739726,
+      "noise_score": 0.0,
+      "hours_to_event": 5428.4158333333335,
+      "event_time": "2026-12-31",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.6509,
+    "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
+    "templates": {
+      "short": "[trend] NO conf=0.65 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
+      "detailed": "[trend] NO | conf=0.65 | pos=medium | yes=0.0655\nXi Jinping out before 2027?\n原因: 24h move strong, 7d move strong\nhttps://polymarket.com/question/xi-jinping-out-before-2027",
+      "execution": "执行候选：[trend] NO\n问题：Xi Jinping out before 2027?\n建议仓位：medium\n当前YES：0.0655\n置信度：0.65\n理由：24h move strong, 7d move strong\n链接：https://polymarket.com/question/xi-jinping-out-before-2027"
+    },
+    "alert_text": "[trend] NO | conf=0.65 | pos=medium | yes=0.0655\nXi Jinping out before 2027?\n原因: 24h move strong, 7d move strong\nhttps://polymarket.com/question/xi-jinping-out-before-2027"
   }
 ]
