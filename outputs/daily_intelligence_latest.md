@@ -11,7 +11,6 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will the Cleveland Cavaliers win the 2026 NBA Finals? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Ron DeSantis win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
@@ -22,9 +21,9 @@
 ## 今日避坑
 - Will Eric Trump win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
 - Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
-- Will the Cleveland Cavaliers win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=
 - Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=trend | blocking=
 - Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | blocking=
+- Will Ron DeSantis win the 2028 US Presidential Election? | cluster=us_election | regime=trend | blocking=
 
 ## 后验复盘快照
 - outcomes: {'flat': 141, 'miss': 10, 'hit': 7, 'pending': 42}
