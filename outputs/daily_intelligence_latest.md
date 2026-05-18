@@ -11,9 +11,9 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will the Buffalo Sabres win the 2026 NHL Stanley Cup? | NO | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will the Buffalo Sabres win the 2026 NHL Stanley Cup? | NO | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Ron DeSantis win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
