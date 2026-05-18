@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T14:35:50",
+  "generated_at": "2026-05-18T15:05:53",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -29,8 +29,12 @@
         "better classified as carry_no than trend",
         "cluster=us_election"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
+      "risk_flags": [
+        "cooldown_active"
+      ],
+      "advisory_flags": [
+        "cooldown_active"
+      ],
       "blocking_flags": [],
       "yes_price": 0.0055,
       "no_price": 0.9945,
@@ -67,7 +71,7 @@
         "spread": null
       },
       "cluster": "us_election",
-      "pipeline_score": 0.71,
+      "pipeline_score": 0.6799999999999999,
       "market_url": "https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
       "templates": {
         "short": "[carry_no] NO conf=0.71 | Will Eric Trump win the 2028 US Presidential Election? | https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
@@ -77,10 +81,11 @@
       "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0055\nWill Eric Trump win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
       "catalyst_type": "structural",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.548,
+      "evidence_score": 0.498,
       "thesis_summary": "[carry_no] NO on 'Will Eric Trump win the 2028 US Presidential Election?' because ultra low YES price.",
       "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
       "do_not_trade_if": [
+        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
@@ -103,8 +108,12 @@
         "liquidity good",
         "cluster=other"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
+      "risk_flags": [
+        "cooldown_active"
+      ],
+      "advisory_flags": [
+        "cooldown_active"
+      ],
       "blocking_flags": [],
       "yes_price": 0.9995,
       "no_price": 0.0005,
@@ -141,7 +150,7 @@
         "spread": null
       },
       "cluster": "other",
-      "pipeline_score": 0.72,
+      "pipeline_score": 0.69,
       "market_url": "https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
       "templates": {
         "short": "[trend] YES conf=0.69 | Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
@@ -151,10 +160,11 @@
       "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.9995\nWill Cooper Flagg win the 2025–26 NBA Rookie of the Year award?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
       "catalyst_type": "price_dislocation",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.5282,
+      "evidence_score": 0.4783,
       "thesis_summary": "[trend] YES on 'Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?' because 4h move visible.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.251).",
       "do_not_trade_if": [
+        "Advisory flags worsen or increase before entry.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
     },
@@ -176,8 +186,12 @@
         "liquidity good",
         "cluster=us_election"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
+      "risk_flags": [
+        "cooldown_active"
+      ],
+      "advisory_flags": [
+        "cooldown_active"
+      ],
       "blocking_flags": [],
       "yes_price": 0.0365,
       "no_price": 0.9635,
@@ -214,7 +228,7 @@
         "spread": null
       },
       "cluster": "us_election",
-      "pipeline_score": 0.72,
+      "pipeline_score": 0.69,
       "market_url": "https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election",
       "templates": {
         "short": "[trend] YES conf=0.69 | Will Ron DeSantis win the 2028 US Presidential Election? | https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election",
@@ -224,10 +238,11 @@
       "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.0365\nWill Ron DeSantis win the 2028 US Presidential Election?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election",
       "catalyst_type": "price_dislocation",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.5282,
+      "evidence_score": 0.4783,
       "thesis_summary": "[trend] YES on 'Will Ron DeSantis win the 2028 US Presidential Election?' because 4h move visible.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=-0.120, 24h=0.431).",
       "do_not_trade_if": [
+        "Advisory flags worsen or increase before entry.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
     }
@@ -517,23 +532,23 @@
       ],
       "yes_price": 0.0015,
       "no_price": 0.9985,
-      "liquidity": 8183713.62,
-      "volume": 12499074.11,
+      "liquidity": 8601963.11,
+      "volume": 12758719.98,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": -0.4,
-      "latest_ts": "2026-05-17T18:49:03",
+      "latest_ts": "2026-05-18T15:00:02",
       "features": {
         "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995",
         "question": "Will Iraq win the 2026 FIFA World Cup?",
         "slug": "will-iraq-win-the-2026-fifa-world-cup",
         "yes_price": 0.0015,
         "no_price": 0.9985,
-        "liquidity": 8183713.62285,
-        "volume": 12499074.107149934,
-        "latest_ts": "2026-05-17T18:49:03",
-        "history_points": 17948,
+        "liquidity": 8601963.10602,
+        "volume": 12758719.984710889,
+        "latest_ts": "2026-05-18T15:00:02",
+        "history_points": 17976,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -542,10 +557,10 @@
         "volatility": 0.0,
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
-        "pct_rank_7d": 0.6467551622418879,
-        "pct_rank_30d": 0.6658123467795855,
+        "pct_rank_7d": 0.8874501992031872,
+        "pct_rank_30d": 0.6663328882955051,
         "noise_score": 0.0,
-        "hours_to_event": 1517.1825,
+        "hours_to_event": 1496.9994444444444,
         "event_time": "2026-07-20",
         "spread": null
       },
