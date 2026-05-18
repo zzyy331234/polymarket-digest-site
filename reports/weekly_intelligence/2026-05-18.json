@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T20:33:32",
+  "generated_at": "2026-05-18T21:04:05",
   "window_days": 7,
   "review_count": 66,
   "regime_stats": {
@@ -9,7 +9,7 @@
       "miss": 0,
       "flat": 16,
       "unresolved": 10,
-      "avg_confidence": 0.6295
+      "avg_confidence": 0.624
     },
     "carry_no": {
       "total": 28,
@@ -59,7 +59,7 @@
       "miss": 2,
       "flat": 9,
       "unresolved": 6,
-      "avg_confidence": 0.6292
+      "avg_confidence": 0.6203
     }
   },
   "ranked_regimes": {
@@ -72,7 +72,7 @@
         "miss": 0,
         "flat": 16,
         "unresolved": 10,
-        "avg_confidence": 0.6295
+        "avg_confidence": 0.624
       },
       {
         "name": "trend",
@@ -124,7 +124,7 @@
         "miss": 0,
         "flat": 16,
         "unresolved": 10,
-        "avg_confidence": 0.6295
+        "avg_confidence": 0.624
       }
     ]
   },
@@ -148,7 +148,7 @@
         "miss": 2,
         "flat": 9,
         "unresolved": 6,
-        "avg_confidence": 0.6292
+        "avg_confidence": 0.6203
       },
       {
         "name": "us_election",
@@ -200,7 +200,7 @@
         "miss": 2,
         "flat": 9,
         "unresolved": 6,
-        "avg_confidence": 0.6292
+        "avg_confidence": 0.6203
       },
       {
         "name": "gta_vi",
