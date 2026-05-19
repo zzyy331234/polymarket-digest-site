@@ -11,9 +11,9 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
-- [do_not_touch] Will Ron DeSantis win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will Josh Shapiro win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | NO | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
@@ -22,8 +22,8 @@
 - Will Eric Trump win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
 - Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=trend | blocking=
-- Will Ron DeSantis win the 2028 US Presidential Election? | cluster=us_election | regime=trend | blocking=
-- Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=deep_tail_world_cup
+- Will Josh Shapiro win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | blocking=
+- Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | blocking=
 
 ## 后验复盘快照
 - outcomes: {'flat': 141, 'miss': 10, 'hit': 8, 'pending': 41}
