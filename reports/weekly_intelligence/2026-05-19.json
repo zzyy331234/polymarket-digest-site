@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T14:28:46",
+  "generated_at": "2026-05-19T15:13:02",
   "window_days": 7,
   "review_count": 67,
   "regime_stats": {
@@ -22,10 +22,10 @@
     "trend": {
       "total": 8,
       "hit": 1,
-      "miss": 2,
-      "flat": 2,
+      "miss": 1,
+      "flat": 3,
       "unresolved": 3,
-      "avg_confidence": 0.6415
+      "avg_confidence": 0.6519
     }
   },
   "cluster_stats": {
@@ -56,23 +56,23 @@
     "other": {
       "total": 18,
       "hit": 2,
-      "miss": 3,
-      "flat": 7,
+      "miss": 2,
+      "flat": 8,
       "unresolved": 6,
-      "avg_confidence": 0.6234
+      "avg_confidence": 0.628
     }
   },
   "ranked_regimes": {
     "best": [
       {
         "name": "trend",
-        "score": -0.075,
+        "score": -0.1375,
         "total": 8,
         "hit": 1,
-        "miss": 2,
-        "flat": 2,
+        "miss": 1,
+        "flat": 3,
         "unresolved": 3,
-        "avg_confidence": 0.6415
+        "avg_confidence": 0.6519
       },
       {
         "name": "mean_revert",
@@ -118,13 +118,13 @@
       },
       {
         "name": "trend",
-        "score": -0.075,
+        "score": -0.1375,
         "total": 8,
         "hit": 1,
-        "miss": 2,
-        "flat": 2,
+        "miss": 1,
+        "flat": 3,
         "unresolved": 3,
-        "avg_confidence": 0.6415
+        "avg_confidence": 0.6519
       }
     ]
   },
@@ -142,13 +142,13 @@
       },
       {
         "name": "other",
-        "score": -0.15,
+        "score": -0.1778,
         "total": 18,
         "hit": 2,
-        "miss": 3,
-        "flat": 7,
+        "miss": 2,
+        "flat": 8,
         "unresolved": 6,
-        "avg_confidence": 0.6234
+        "avg_confidence": 0.628
       },
       {
         "name": "us_election",
@@ -194,13 +194,13 @@
       },
       {
         "name": "other",
-        "score": -0.15,
+        "score": -0.1778,
         "total": 18,
         "hit": 2,
-        "miss": 3,
-        "flat": 7,
+        "miss": 2,
+        "flat": 8,
         "unresolved": 6,
-        "avg_confidence": 0.6234
+        "avg_confidence": 0.628
       },
       {
         "name": "gta_vi",
