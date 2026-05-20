@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T18:56:33",
+  "generated_at": "2026-05-20T19:41:24",
   "window_days": 7,
   "review_count": 62,
   "regime_stats": {
@@ -25,7 +25,7 @@
       "miss": 2,
       "flat": 4,
       "unresolved": 3,
-      "avg_confidence": 0.6501
+      "avg_confidence": 0.6469
     }
   },
   "cluster_stats": {
@@ -35,7 +35,7 @@
       "miss": 0,
       "flat": 9,
       "unresolved": 13,
-      "avg_confidence": 0.6791
+      "avg_confidence": 0.6779
     },
     "world_cup": {
       "total": 18,
@@ -51,7 +51,7 @@
       "miss": 2,
       "flat": 6,
       "unresolved": 6,
-      "avg_confidence": 0.6304
+      "avg_confidence": 0.6299
     },
     "gta_vi": {
       "total": 5,
@@ -72,7 +72,7 @@
         "miss": 2,
         "flat": 4,
         "unresolved": 3,
-        "avg_confidence": 0.6501
+        "avg_confidence": 0.6469
       },
       {
         "name": "mean_revert",
@@ -124,7 +124,7 @@
         "miss": 2,
         "flat": 4,
         "unresolved": 3,
-        "avg_confidence": 0.6501
+        "avg_confidence": 0.6469
       }
     ]
   },
@@ -138,7 +138,7 @@
         "miss": 2,
         "flat": 6,
         "unresolved": 6,
-        "avg_confidence": 0.6304
+        "avg_confidence": 0.6299
       },
       {
         "name": "us_election",
@@ -148,7 +148,7 @@
         "miss": 0,
         "flat": 9,
         "unresolved": 13,
-        "avg_confidence": 0.6791
+        "avg_confidence": 0.6779
       },
       {
         "name": "gta_vi",
@@ -200,7 +200,7 @@
         "miss": 0,
         "flat": 9,
         "unresolved": 13,
-        "avg_confidence": 0.6791
+        "avg_confidence": 0.6779
       },
       {
         "name": "other",
@@ -210,7 +210,7 @@
         "miss": 2,
         "flat": 6,
         "unresolved": 6,
-        "avg_confidence": 0.6304
+        "avg_confidence": 0.6299
       }
     ]
   },
