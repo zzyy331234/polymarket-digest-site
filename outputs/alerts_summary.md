@@ -12,8 +12,8 @@
 - URL: https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977
 - 原因: 24h move strong, 7d move strong, 24h and 7d aligned
 
-## 3. [trend] NO conf=0.69
-- 问题: Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
+## 3. [trend] YES conf=0.69
+- 问题: Will Ron DeSantis win the 2028 US Presidential Election?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653
-- 原因: 4h move visible, 24h move strong, 4h and 24h aligned
+- URL: https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election
+- 原因: 4h move visible, 24h move strong, 7d move strong
