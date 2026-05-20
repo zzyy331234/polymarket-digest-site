@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T16:11:35",
+  "generated_at": "2026-05-20T17:11:06",
   "window_days": 7,
   "review_count": 63,
   "regime_stats": {
@@ -25,7 +25,7 @@
       "miss": 2,
       "flat": 5,
       "unresolved": 3,
-      "avg_confidence": 0.6429
+      "avg_confidence": 0.651
     }
   },
   "cluster_stats": {
@@ -35,7 +35,7 @@
       "miss": 2,
       "flat": 7,
       "unresolved": 6,
-      "avg_confidence": 0.6245
+      "avg_confidence": 0.6299
     },
     "us_election": {
       "total": 22,
@@ -72,7 +72,7 @@
         "miss": 2,
         "flat": 5,
         "unresolved": 3,
-        "avg_confidence": 0.6429
+        "avg_confidence": 0.651
       },
       {
         "name": "mean_revert",
@@ -124,7 +124,7 @@
         "miss": 2,
         "flat": 5,
         "unresolved": 3,
-        "avg_confidence": 0.6429
+        "avg_confidence": 0.651
       }
     ]
   },
@@ -138,7 +138,7 @@
         "miss": 2,
         "flat": 7,
         "unresolved": 6,
-        "avg_confidence": 0.6245
+        "avg_confidence": 0.6299
       },
       {
         "name": "us_election",
@@ -210,7 +210,7 @@
         "miss": 2,
         "flat": 7,
         "unresolved": 6,
-        "avg_confidence": 0.6245
+        "avg_confidence": 0.6299
       }
     ]
   },
