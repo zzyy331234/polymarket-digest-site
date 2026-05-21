@@ -27,7 +27,7 @@
 - Will the San Antonio Spurs win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 138, 'miss': 12, 'hit': 8, 'pending': 42}
+- outcomes: {'flat': 138, 'miss': 11, 'hit': 9, 'pending': 42}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
