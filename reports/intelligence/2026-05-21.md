@@ -14,6 +14,7 @@
 - [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Ron DeSantis win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will the San Antonio Spurs win the 2026 NBA Finals? | NO | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
@@ -23,10 +24,10 @@
 - Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | cluster=other | regime=trend | blocking=
 - Will Ron DeSantis win the 2028 US Presidential Election? | cluster=us_election | regime=trend | blocking=
-- Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=deep_tail_world_cup
+- Will the San Antonio Spurs win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 138, 'miss': 11, 'hit': 9, 'pending': 42}
+- outcomes: {'flat': 138, 'miss': 12, 'hit': 8, 'pending': 42}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
