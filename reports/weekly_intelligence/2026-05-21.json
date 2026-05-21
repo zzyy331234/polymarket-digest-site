@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:46:34",
+  "generated_at": "2026-05-21T10:48:28",
   "window_days": 7,
   "review_count": 60,
   "regime_stats": {
@@ -12,20 +12,20 @@
       "avg_confidence": 0.71
     },
     "mean_revert": {
-      "total": 21,
-      "hit": 0,
+      "total": 23,
+      "hit": 2,
       "miss": 0,
       "flat": 11,
       "unresolved": 10,
-      "avg_confidence": 0.6297
+      "avg_confidence": 0.6327
     },
     "trend": {
-      "total": 12,
-      "hit": 6,
-      "miss": 1,
+      "total": 10,
+      "hit": 4,
+      "miss": 0,
       "flat": 2,
-      "unresolved": 3,
-      "avg_confidence": 0.6469
+      "unresolved": 4,
+      "avg_confidence": 0.645
     }
   },
   "cluster_stats": {
@@ -40,18 +40,18 @@
     "us_election": {
       "total": 20,
       "hit": 0,
-      "miss": 1,
-      "flat": 6,
+      "miss": 0,
+      "flat": 7,
       "unresolved": 13,
-      "avg_confidence": 0.6811
+      "avg_confidence": 0.6813
     },
     "other": {
       "total": 17,
       "hit": 6,
       "miss": 0,
-      "flat": 5,
-      "unresolved": 6,
-      "avg_confidence": 0.6291
+      "flat": 4,
+      "unresolved": 7,
+      "avg_confidence": 0.6298
     },
     "gta_vi": {
       "total": 5,
@@ -66,23 +66,23 @@
     "best": [
       {
         "name": "trend",
-        "score": 0.3667,
-        "total": 12,
-        "hit": 6,
-        "miss": 1,
+        "score": 0.22,
+        "total": 10,
+        "hit": 4,
+        "miss": 0,
         "flat": 2,
-        "unresolved": 3,
-        "avg_confidence": 0.6469
+        "unresolved": 4,
+        "avg_confidence": 0.645
       },
       {
         "name": "mean_revert",
-        "score": -0.3571,
-        "total": 21,
-        "hit": 0,
+        "score": -0.2391,
+        "total": 23,
+        "hit": 2,
         "miss": 0,
         "flat": 11,
         "unresolved": 10,
-        "avg_confidence": 0.6297
+        "avg_confidence": 0.6327
       },
       {
         "name": "carry_no",
@@ -108,23 +108,23 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.3571,
-        "total": 21,
-        "hit": 0,
+        "score": -0.2391,
+        "total": 23,
+        "hit": 2,
         "miss": 0,
         "flat": 11,
         "unresolved": 10,
-        "avg_confidence": 0.6297
+        "avg_confidence": 0.6327
       },
       {
         "name": "trend",
-        "score": 0.3667,
-        "total": 12,
-        "hit": 6,
-        "miss": 1,
+        "score": 0.22,
+        "total": 10,
+        "hit": 4,
+        "miss": 0,
         "flat": 2,
-        "unresolved": 3,
-        "avg_confidence": 0.6469
+        "unresolved": 4,
+        "avg_confidence": 0.645
       }
     ]
   },
@@ -132,23 +132,23 @@
     "best": [
       {
         "name": "other",
-        "score": 0.1353,
+        "score": 0.1529,
         "total": 17,
         "hit": 6,
         "miss": 0,
-        "flat": 5,
-        "unresolved": 6,
-        "avg_confidence": 0.6291
+        "flat": 4,
+        "unresolved": 7,
+        "avg_confidence": 0.6298
       },
       {
         "name": "us_election",
-        "score": -0.28,
+        "score": -0.305,
         "total": 20,
         "hit": 0,
-        "miss": 1,
-        "flat": 6,
+        "miss": 0,
+        "flat": 7,
         "unresolved": 13,
-        "avg_confidence": 0.6811
+        "avg_confidence": 0.6813
       },
       {
         "name": "gta_vi",
@@ -194,23 +194,23 @@
       },
       {
         "name": "us_election",
-        "score": -0.28,
+        "score": -0.305,
         "total": 20,
         "hit": 0,
-        "miss": 1,
-        "flat": 6,
+        "miss": 0,
+        "flat": 7,
         "unresolved": 13,
-        "avg_confidence": 0.6811
+        "avg_confidence": 0.6813
       },
       {
         "name": "other",
-        "score": 0.1353,
+        "score": 0.1529,
         "total": 17,
         "hit": 6,
         "miss": 0,
-        "flat": 5,
-        "unresolved": 6,
-        "avg_confidence": 0.6291
+        "flat": 4,
+        "unresolved": 7,
+        "avg_confidence": 0.6298
       }
     ]
   },
