@@ -1,5 +1,10 @@
 # Polymarket 情报样刊归档
 
+- 2026-05-23 | Polymarket 情报样刊
+  摘要: 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
+  Markdown: reports/short_digest/2026-05-23.md
+  JSON: reports/short_digest/2026-05-23.json
+
 - 2026-05-22 | Polymarket 情报样刊
   摘要: 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
   Markdown: reports/short_digest/2026-05-22.md
