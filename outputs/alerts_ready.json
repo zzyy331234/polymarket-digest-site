@@ -138,6 +138,75 @@
     "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.0365\nWill Ron DeSantis win the 2028 US Presidential Election?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election"
   },
   {
+    "token_id": "114248353339288476395516704859280406139740194553592209059241667781908210476009",
+    "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
+    "slug": "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
+    "regime": "trend",
+    "direction": "YES",
+    "confidence": 0.69,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.1915,
+    "no_price": 0.8085,
+    "liquidity": 118533.06,
+    "volume": 2975119.25,
+    "chg_1h": 0.0,
+    "chg_4h": 0.029569892473118305,
+    "chg_24h": 0.7649769585253456,
+    "chg_7d": 1.0052356020942408,
+    "latest_ts": "2026-05-22T17:38:03",
+    "features": {
+      "token_id": "114248353339288476395516704859280406139740194553592209059241667781908210476009",
+      "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
+      "yes_price": 0.1915,
+      "no_price": 0.8085,
+      "liquidity": 118533.05757,
+      "volume": 2975119.2451099944,
+      "latest_ts": "2026-05-22T17:38:03",
+      "history_points": 19181,
+      "chg_1h": 0.0,
+      "chg_4h": 0.029569892473118305,
+      "chg_24h": 0.7649769585253456,
+      "chg_7d": 1.0052356020942408,
+      "rsi_14": 61.325406700030925,
+      "volatility": 0.006605444557726614,
+      "trend_slope_4h": -4.2830064882991945e-07,
+      "trend_slope_24h": 0.0005636225579416556,
+      "pct_rank_7d": 0.9923736892278361,
+      "pct_rank_30d": 0.9966112298628852,
+      "noise_score": 0.0,
+      "hours_to_event": 918.3658333333333,
+      "event_time": "2026-06-30",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.69,
+    "market_url": "https://polymarket.com/question/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
+    "templates": {
+      "short": "[trend] YES conf=0.69 | Will the Montreal Canadiens win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
+      "detailed": "[trend] YES | conf=0.69 | pos=medium | yes=0.1915\nWill the Montreal Canadiens win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
+      "execution": "执行候选：[trend] YES\n问题：Will the Montreal Canadiens win the 2026 NHL Stanley Cup?\n建议仓位：medium\n当前YES：0.1915\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup"
+    },
+    "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.1915\nWill the Montreal Canadiens win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup"
+  },
+  {
     "token_id": "67028631656597977031363620447645908995417871899828777750494099295092202422178",
     "question": "Will Eric Trump win the 2028 US Presidential Election?",
     "slug": "will-eric-trump-win-the-2028-us-presidential-election",
