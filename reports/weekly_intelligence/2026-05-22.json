@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-22T10:49:30",
+  "generated_at": "2026-05-22T12:24:01",
   "window_days": 7,
   "review_count": 53,
   "regime_stats": {
     "trend": {
-      "total": 11,
-      "hit": 3,
-      "miss": 1,
-      "flat": 4,
+      "total": 13,
+      "hit": 1,
+      "miss": 2,
+      "flat": 7,
       "unresolved": 3,
-      "avg_confidence": 0.6359
+      "avg_confidence": 0.6388
     },
     "carry_no": {
       "total": 23,
@@ -20,22 +20,22 @@
       "avg_confidence": 0.71
     },
     "mean_revert": {
-      "total": 19,
+      "total": 17,
       "hit": 2,
       "miss": 1,
-      "flat": 8,
+      "flat": 6,
       "unresolved": 8,
-      "avg_confidence": 0.6251
+      "avg_confidence": 0.6228
     }
   },
   "cluster_stats": {
     "other": {
       "total": 16,
-      "hit": 5,
-      "miss": 2,
-      "flat": 3,
+      "hit": 3,
+      "miss": 3,
+      "flat": 4,
       "unresolved": 6,
-      "avg_confidence": 0.6227
+      "avg_confidence": 0.6268
     },
     "us_election": {
       "total": 18,
@@ -43,7 +43,7 @@
       "miss": 0,
       "flat": 7,
       "unresolved": 11,
-      "avg_confidence": 0.6832
+      "avg_confidence": 0.6808
     },
     "world_cup": {
       "total": 14,
@@ -65,24 +65,24 @@
   "ranked_regimes": {
     "best": [
       {
-        "name": "trend",
-        "score": 0.0364,
-        "total": 11,
-        "hit": 3,
-        "miss": 1,
-        "flat": 4,
-        "unresolved": 3,
-        "avg_confidence": 0.6359
-      },
-      {
         "name": "mean_revert",
-        "score": -0.1895,
-        "total": 19,
+        "score": -0.1529,
+        "total": 17,
         "hit": 2,
         "miss": 1,
-        "flat": 8,
+        "flat": 6,
         "unresolved": 8,
-        "avg_confidence": 0.6251
+        "avg_confidence": 0.6228
+      },
+      {
+        "name": "trend",
+        "score": -0.2385,
+        "total": 13,
+        "hit": 1,
+        "miss": 2,
+        "flat": 7,
+        "unresolved": 3,
+        "avg_confidence": 0.6388
       },
       {
         "name": "carry_no",
@@ -107,24 +107,24 @@
         "avg_confidence": 0.71
       },
       {
-        "name": "mean_revert",
-        "score": -0.1895,
-        "total": 19,
-        "hit": 2,
-        "miss": 1,
-        "flat": 8,
-        "unresolved": 8,
-        "avg_confidence": 0.6251
+        "name": "trend",
+        "score": -0.2385,
+        "total": 13,
+        "hit": 1,
+        "miss": 2,
+        "flat": 7,
+        "unresolved": 3,
+        "avg_confidence": 0.6388
       },
       {
-        "name": "trend",
-        "score": 0.0364,
-        "total": 11,
-        "hit": 3,
+        "name": "mean_revert",
+        "score": -0.1529,
+        "total": 17,
+        "hit": 2,
         "miss": 1,
-        "flat": 4,
-        "unresolved": 3,
-        "avg_confidence": 0.6359
+        "flat": 6,
+        "unresolved": 8,
+        "avg_confidence": 0.6228
       }
     ]
   },
@@ -132,13 +132,13 @@
     "best": [
       {
         "name": "other",
-        "score": 0.1437,
+        "score": -0.0125,
         "total": 16,
-        "hit": 5,
-        "miss": 2,
-        "flat": 3,
+        "hit": 3,
+        "miss": 3,
+        "flat": 4,
         "unresolved": 6,
-        "avg_confidence": 0.6227
+        "avg_confidence": 0.6268
       },
       {
         "name": "us_election",
@@ -148,7 +148,7 @@
         "miss": 0,
         "flat": 7,
         "unresolved": 11,
-        "avg_confidence": 0.6832
+        "avg_confidence": 0.6808
       },
       {
         "name": "gta_vi",
@@ -200,17 +200,17 @@
         "miss": 0,
         "flat": 7,
         "unresolved": 11,
-        "avg_confidence": 0.6832
+        "avg_confidence": 0.6808
       },
       {
         "name": "other",
-        "score": 0.1437,
+        "score": -0.0125,
         "total": 16,
-        "hit": 5,
-        "miss": 2,
-        "flat": 3,
+        "hit": 3,
+        "miss": 3,
+        "flat": 4,
         "unresolved": 6,
-        "avg_confidence": 0.6227
+        "avg_confidence": 0.6268
       }
     ]
   },
