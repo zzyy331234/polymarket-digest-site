@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T18:38:49",
+  "generated_at": "2026-05-22T19:08:50",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-05-22",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
@@ -265,7 +265,7 @@
       "miss": 2,
       "flat": 7,
       "unresolved": 8,
-      "avg_confidence": 0.619,
+      "avg_confidence": 0.622,
       "name_cn": "均值回归"
     },
     {
