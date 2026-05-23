@@ -6,25 +6,19 @@
 - URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 2. [trend] NO conf=0.69
-- 问题: Will the San Antonio Spurs win the 2026 NBA Finals?
-- Cluster: other
-- URL: https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals
-- 原因: 4h move visible, 24h move strong, 7d move strong
-
-## 3. [trend] YES conf=0.69
+## 2. [trend] YES conf=0.69
 - 问题: Will Ron DeSantis win the 2028 US Presidential Election?
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 4. [carry_no] NO conf=0.71
+## 3. [carry_no] NO conf=0.71
 - 问题: Will Sweden win the 2026 FIFA World Cup?
 - Cluster: world_cup
 - URL: https://polymarket.com/question/will-sweden-win-the-2026-fifa-world-cup
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=world_cup
 
-## 5. [carry_no] NO conf=0.71
+## 4. [carry_no] NO conf=0.71
 - 问题: Will Eric Trump win the 2028 US Presidential Election?
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
