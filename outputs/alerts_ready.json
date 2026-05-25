@@ -17,8 +17,12 @@
       "liquidity good",
       "cluster=other"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.9995,
     "no_price": 0.0005,
@@ -55,7 +59,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.72,
+    "pipeline_score": 0.69,
     "market_url": "https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
     "templates": {
       "short": "[trend] YES conf=0.69 | Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award",
@@ -63,6 +67,75 @@
       "execution": "执行候选：[trend] YES\n问题：Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?\n建议仓位：medium\n当前YES：0.9995\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award"
     },
     "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.9995\nWill Cooper Flagg win the 2025–26 NBA Rookie of the Year award?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award"
+  },
+  {
+    "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770",
+    "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+    "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+    "regime": "trend",
+    "direction": "NO",
+    "confidence": 0.69,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.495,
+    "no_price": 0.505,
+    "liquidity": 266847.59,
+    "volume": 13416087.0,
+    "chg_1h": 0.0,
+    "chg_4h": 0.04210526315789478,
+    "chg_24h": -0.1951219512195122,
+    "chg_7d": -0.1538461538461538,
+    "latest_ts": "2026-05-25T16:05:00",
+    "features": {
+      "token_id": "49500299856831034491021962156746701298730459370557900271970866855042624695770",
+      "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+      "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+      "yes_price": 0.495,
+      "no_price": 0.505,
+      "liquidity": 266847.5934,
+      "volume": 13416086.995199962,
+      "latest_ts": "2026-05-25T16:05:00",
+      "history_points": 19843,
+      "chg_1h": 0.0,
+      "chg_4h": 0.04210526315789478,
+      "chg_24h": -0.1951219512195122,
+      "chg_7d": -0.1538461538461538,
+      "rsi_14": 70.60639224934339,
+      "volatility": 0.006810714932437716,
+      "trend_slope_4h": 0.00027551942186088564,
+      "trend_slope_24h": -0.0008035105823711521,
+      "pct_rank_7d": 0.5540765391014975,
+      "pct_rank_30d": 0.3894068437232273,
+      "noise_score": 0.0,
+      "hours_to_event": 871.9166666666666,
+      "event_time": "2026-07-01",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.69,
+    "market_url": "https://polymarket.com/question/will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+    "templates": {
+      "short": "[trend] NO conf=0.69 | Will the Oklahoma City Thunder win the 2026 NBA Finals? | https://polymarket.com/question/will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+      "detailed": "[trend] NO | conf=0.69 | pos=medium | yes=0.4950\nWill the Oklahoma City Thunder win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+      "execution": "执行候选：[trend] NO\n问题：Will the Oklahoma City Thunder win the 2026 NBA Finals?\n建议仓位：medium\n当前YES：0.4950\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
+    },
+    "alert_text": "[trend] NO | conf=0.69 | pos=medium | yes=0.4950\nWill the Oklahoma City Thunder win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-oklahoma-city-thunder-win-the-2026-nba-finals"
   },
   {
     "token_id": "104480514270625615787868282411330496385404675495672110015326625654626015018993",
@@ -82,8 +155,12 @@
       "liquidity good",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0365,
     "no_price": 0.9635,
@@ -120,7 +197,7 @@
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.72,
+    "pipeline_score": 0.69,
     "market_url": "https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election",
     "templates": {
       "short": "[trend] YES conf=0.69 | Will Ron DeSantis win the 2028 US Presidential Election? | https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election",
@@ -144,8 +221,12 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
@@ -182,7 +263,7 @@
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Eric Trump win the 2028 US Presidential Election? | https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election",
