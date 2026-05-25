@@ -1,15 +1,15 @@
 # Polymarket Alert Pipeline Summary
 
 ## 1. [trend] YES conf=0.69
+- 问题: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?
+- Cluster: other
+- URL: https://polymarket.com/question/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup
+- 原因: 24h move strong, 7d move strong, 24h and 7d aligned
+
+## 2. [trend] YES conf=0.69
 - 问题: Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?
 - Cluster: other
 - URL: https://polymarket.com/question/will-cooper-flagg-win-the-202526-nba-rookie-of-the-year-award
-- 原因: 4h move visible, 24h move strong, 7d move strong
-
-## 2. [trend] NO conf=0.69
-- 问题: Will the Oklahoma City Thunder win the 2026 NBA Finals?
-- Cluster: other
-- URL: https://polymarket.com/question/will-the-oklahoma-city-thunder-win-the-2026-nba-finals
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 3. [trend] YES conf=0.69
