@@ -27,7 +27,7 @@
 - Will the Oklahoma City Thunder win the 2026 NBA Finals? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 140, 'miss': 14, 'hit': 6, 'pending': 40}
+- outcomes: {'flat': 140, 'miss': 13, 'hit': 7, 'pending': 40}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
