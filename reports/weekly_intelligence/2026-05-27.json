@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-05-27T19:35:53",
+  "generated_at": "2026-05-27T20:17:12",
   "window_days": 7,
   "review_count": 63,
   "regime_stats": {
     "trend": {
-      "total": 10,
-      "hit": 3,
+      "total": 9,
+      "hit": 2,
       "miss": 2,
       "flat": 3,
       "unresolved": 2,
-      "avg_confidence": 0.66
+      "avg_confidence": 0.666
     },
     "mean_revert": {
-      "total": 20,
+      "total": 21,
       "hit": 1,
-      "miss": 2,
+      "miss": 3,
       "flat": 9,
       "unresolved": 8,
-      "avg_confidence": 0.623
+      "avg_confidence": 0.6221
     },
     "carry_no": {
       "total": 33,
@@ -55,34 +55,34 @@
     },
     "other": {
       "total": 13,
-      "hit": 3,
-      "miss": 3,
+      "hit": 2,
+      "miss": 4,
       "flat": 2,
       "unresolved": 5,
-      "avg_confidence": 0.64
+      "avg_confidence": 0.6398
     }
   },
   "ranked_regimes": {
     "best": [
       {
         "name": "trend",
-        "score": 0.11,
-        "total": 10,
-        "hit": 3,
+        "score": 0.0111,
+        "total": 9,
+        "hit": 2,
         "miss": 2,
         "flat": 3,
         "unresolved": 2,
-        "avg_confidence": 0.66
+        "avg_confidence": 0.666
       },
       {
         "name": "mean_revert",
-        "score": -0.255,
-        "total": 20,
+        "score": -0.2429,
+        "total": 21,
         "hit": 1,
-        "miss": 2,
+        "miss": 3,
         "flat": 9,
         "unresolved": 8,
-        "avg_confidence": 0.623
+        "avg_confidence": 0.6221
       },
       {
         "name": "carry_no",
@@ -108,23 +108,23 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.255,
-        "total": 20,
+        "score": -0.2429,
+        "total": 21,
         "hit": 1,
-        "miss": 2,
+        "miss": 3,
         "flat": 9,
         "unresolved": 8,
-        "avg_confidence": 0.623
+        "avg_confidence": 0.6221
       },
       {
         "name": "trend",
-        "score": 0.11,
-        "total": 10,
-        "hit": 3,
+        "score": 0.0111,
+        "total": 9,
+        "hit": 2,
         "miss": 2,
         "flat": 3,
         "unresolved": 2,
-        "avg_confidence": 0.66
+        "avg_confidence": 0.666
       }
     ]
   },
@@ -132,13 +132,13 @@
     "best": [
       {
         "name": "other",
-        "score": 0.0769,
+        "score": 0.0,
         "total": 13,
-        "hit": 3,
-        "miss": 3,
+        "hit": 2,
+        "miss": 4,
         "flat": 2,
         "unresolved": 5,
-        "avg_confidence": 0.64
+        "avg_confidence": 0.6398
       },
       {
         "name": "gta_vi",
@@ -204,13 +204,13 @@
       },
       {
         "name": "other",
-        "score": 0.0769,
+        "score": 0.0,
         "total": 13,
-        "hit": 3,
-        "miss": 3,
+        "hit": 2,
+        "miss": 4,
         "flat": 2,
         "unresolved": 5,
-        "avg_confidence": 0.64
+        "avg_confidence": 0.6398
       }
     ]
   },
