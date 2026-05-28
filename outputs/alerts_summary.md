@@ -12,7 +12,13 @@
 - URL: https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 3. [carry_no] NO conf=0.71
+## 3. [trend] YES conf=0.69
+- 问题: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
+- Cluster: other
+- URL: https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup
+- 原因: 4h move visible, 24h move strong, 7d move strong
+
+## 4. [carry_no] NO conf=0.71
 - 问题: Will Eric Trump win the 2028 US Presidential Election?
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
