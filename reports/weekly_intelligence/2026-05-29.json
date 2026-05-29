@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T13:35:51",
+  "generated_at": "2026-05-29T15:12:26",
   "window_days": 7,
-  "review_count": 63,
+  "review_count": 64,
   "regime_stats": {
     "carry_no": {
       "total": 33,
@@ -14,18 +14,18 @@
     "mean_revert": {
       "total": 20,
       "hit": 0,
-      "miss": 1,
-      "flat": 11,
+      "miss": 0,
+      "flat": 12,
       "unresolved": 8,
       "avg_confidence": 0.628
     },
     "trend": {
-      "total": 10,
+      "total": 11,
       "hit": 3,
-      "miss": 2,
-      "flat": 3,
+      "miss": 4,
+      "flat": 2,
       "unresolved": 2,
-      "avg_confidence": 0.6405
+      "avg_confidence": 0.6459
     }
   },
   "cluster_stats": {
@@ -38,12 +38,12 @@
       "avg_confidence": 0.71
     },
     "us_election": {
-      "total": 17,
+      "total": 18,
       "hit": 0,
       "miss": 0,
-      "flat": 8,
+      "flat": 9,
       "unresolved": 9,
-      "avg_confidence": 0.6748
+      "avg_confidence": 0.6746
     },
     "gta_vi": {
       "total": 8,
@@ -56,31 +56,31 @@
     "other": {
       "total": 13,
       "hit": 2,
-      "miss": 2,
-      "flat": 4,
+      "miss": 3,
+      "flat": 3,
       "unresolved": 5,
-      "avg_confidence": 0.6372
+      "avg_confidence": 0.6394
     }
   },
   "ranked_regimes": {
     "best": [
       {
         "name": "trend",
-        "score": 0.11,
-        "total": 10,
+        "score": 0.1455,
+        "total": 11,
         "hit": 3,
-        "miss": 2,
-        "flat": 3,
+        "miss": 4,
+        "flat": 2,
         "unresolved": 2,
-        "avg_confidence": 0.6405
+        "avg_confidence": 0.6459
       },
       {
         "name": "mean_revert",
-        "score": -0.355,
+        "score": -0.38,
         "total": 20,
         "hit": 0,
-        "miss": 1,
-        "flat": 11,
+        "miss": 0,
+        "flat": 12,
         "unresolved": 8,
         "avg_confidence": 0.628
       },
@@ -108,23 +108,23 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.355,
+        "score": -0.38,
         "total": 20,
         "hit": 0,
-        "miss": 1,
-        "flat": 11,
+        "miss": 0,
+        "flat": 12,
         "unresolved": 8,
         "avg_confidence": 0.628
       },
       {
         "name": "trend",
-        "score": 0.11,
-        "total": 10,
+        "score": 0.1455,
+        "total": 11,
         "hit": 3,
-        "miss": 2,
-        "flat": 3,
+        "miss": 4,
+        "flat": 2,
         "unresolved": 2,
-        "avg_confidence": 0.6405
+        "avg_confidence": 0.6459
       }
     ]
   },
@@ -132,13 +132,13 @@
     "best": [
       {
         "name": "other",
-        "score": -0.0769,
+        "score": -0.0385,
         "total": 13,
         "hit": 2,
-        "miss": 2,
-        "flat": 4,
+        "miss": 3,
+        "flat": 3,
         "unresolved": 5,
-        "avg_confidence": 0.6372
+        "avg_confidence": 0.6394
       },
       {
         "name": "gta_vi",
@@ -152,13 +152,13 @@
       },
       {
         "name": "us_election",
-        "score": -0.3412,
-        "total": 17,
+        "score": -0.35,
+        "total": 18,
         "hit": 0,
         "miss": 0,
-        "flat": 8,
+        "flat": 9,
         "unresolved": 9,
-        "avg_confidence": 0.6748
+        "avg_confidence": 0.6746
       },
       {
         "name": "world_cup",
@@ -184,13 +184,13 @@
       },
       {
         "name": "us_election",
-        "score": -0.3412,
-        "total": 17,
+        "score": -0.35,
+        "total": 18,
         "hit": 0,
         "miss": 0,
-        "flat": 8,
+        "flat": 9,
         "unresolved": 9,
-        "avg_confidence": 0.6748
+        "avg_confidence": 0.6746
       },
       {
         "name": "gta_vi",
@@ -204,13 +204,13 @@
       },
       {
         "name": "other",
-        "score": -0.0769,
+        "score": -0.0385,
         "total": 13,
         "hit": 2,
-        "miss": 2,
-        "flat": 4,
+        "miss": 3,
+        "flat": 3,
         "unresolved": 5,
-        "avg_confidence": 0.6372
+        "avg_confidence": 0.6394
       }
     ]
   },
