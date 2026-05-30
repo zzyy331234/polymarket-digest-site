@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T03:16:45",
+  "generated_at": "2026-05-31T05:44:42",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -395,23 +395,23 @@
       "blocking_flags": [],
       "yes_price": 0.0065,
       "no_price": 0.9935,
-      "liquidity": 2363030.91,
-      "volume": 40735372.23,
+      "liquidity": 2363573.02,
+      "volume": 40735539.18,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": 0.0,
-      "latest_ts": "2026-05-31T03:09:05",
+      "latest_ts": "2026-05-31T04:12:54",
       "features": {
         "token_id": "48218088132821386640274752564592889805082274744128282833036735027928992155024",
         "question": "Will George Clooney win the 2028 Democratic presidential nomination?",
         "slug": "will-george-clooney-win-the-2028-democratic-presidential-nomination",
         "yes_price": 0.0065,
         "no_price": 0.9935,
-        "liquidity": 2363030.91439,
-        "volume": 40735372.22781349,
-        "latest_ts": "2026-05-31T03:09:05",
-        "history_points": 16940,
+        "liquidity": 2363573.02256,
+        "volume": 40735539.18314649,
+        "latest_ts": "2026-05-31T04:12:54",
+        "history_points": 16958,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -421,9 +421,9 @@
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
         "pct_rank_7d": 1.0,
-        "pct_rank_30d": 0.5411452184179457,
+        "pct_rank_30d": 0.541632267956127,
         "noise_score": 0.0,
-        "hours_to_event": 21380.848611111112,
+        "hours_to_event": 21379.785,
         "event_time": "2028-11-07",
         "spread": null
       },
@@ -577,7 +577,7 @@
       "pending": 40
     },
     "regime_outcomes": {
-      "carry_no::flat": 108,
+      "carry_no::flat": 107,
       "mean_revert::flat": 25,
       "mean_revert::miss": 4,
       "mean_revert::hit": 3,
@@ -587,7 +587,7 @@
       "trend::miss": 6,
       "mean_revert::pending": 11,
       "trend::pending": 5,
-      "trend::flat": 8
+      "trend::flat": 9
     },
     "cluster_outcomes": {
       "world_cup::flat": 41,
@@ -602,8 +602,8 @@
       "us_election::pending": 11,
       "gta_vi::miss": 1,
       "gta_vi::flat": 5,
-      "gta_vi::hit": 1,
-      "gta_vi::pending": 1
+      "gta_vi::pending": 1,
+      "gta_vi::hit": 1
     }
   },
   "regime_snapshot": {
