@@ -810,3 +810,4 @@
 {"scan_time": "2026-05-31T17:30:00.850840", "status": "ok", "scanned_count": 20, "market_count": 30, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": null}
 {"scan_time": "2026-05-31T18:00:01.145386", "status": "ok", "scanned_count": 20, "market_count": 30, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": null}
 {"scan_time": "2026-05-31T18:30:01.082355", "status": "ok", "scanned_count": 20, "market_count": 30, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": null}
+{"scan_time": "2026-05-31T19:00:00.335497", "status": "ok", "scanned_count": 20, "market_count": 30, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": null}

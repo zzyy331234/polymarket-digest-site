@@ -12,8 +12,8 @@
 - URL: https://polymarket.com/question/will-ron-desantis-win-the-2028-us-presidential-election
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
-## 3. [trend] YES conf=0.65
-- 问题: Will Gavin Newsom win the 2028 Democratic presidential nomination?
+## 3. [carry_no] NO conf=0.71
+- 问题: Will Eric Trump win the 2028 US Presidential Election?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568
-- 原因: 4h move visible, 24h move strong, 24h and 7d aligned
+- URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
+- 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
