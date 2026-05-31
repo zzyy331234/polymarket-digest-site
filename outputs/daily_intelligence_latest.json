@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T12:49:37",
+  "generated_at": "2026-05-31T15:09:01",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -532,23 +532,23 @@
       ],
       "yes_price": 0.0005,
       "no_price": 0.9995,
-      "liquidity": 11049415.87,
+      "liquidity": 11068505.57,
       "volume": 17534283.58,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": 0.0,
-      "latest_ts": "2026-05-31T11:04:07",
+      "latest_ts": "2026-05-31T13:06:23",
       "features": {
         "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486",
         "question": "Will Panama win the 2026 FIFA World Cup?",
         "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
         "yes_price": 0.0005,
         "no_price": 0.9995,
-        "liquidity": 11049415.87283,
+        "liquidity": 11068505.57209,
         "volume": 17534283.575756878,
-        "latest_ts": "2026-05-31T11:04:07",
-        "history_points": 21812,
+        "latest_ts": "2026-05-31T13:06:23",
+        "history_points": 21829,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -558,9 +558,9 @@
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
         "pct_rank_7d": 1.0,
-        "pct_rank_30d": 0.11342380341096645,
+        "pct_rank_30d": 0.11411425168354024,
         "noise_score": 0.0,
-        "hours_to_event": 1188.931388888889,
+        "hours_to_event": 1186.893611111111,
         "event_time": "2026-07-20",
         "spread": null
       },
@@ -612,8 +612,8 @@
       "us_election::pending": 11,
       "gta_vi::miss": 1,
       "gta_vi::flat": 5,
-      "gta_vi::pending": 1,
-      "gta_vi::hit": 1
+      "gta_vi::hit": 1,
+      "gta_vi::pending": 1
     }
   },
   "regime_snapshot": {
