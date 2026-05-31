@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T16:06:44",
+  "generated_at": "2026-05-31T16:38:34",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -163,6 +163,84 @@
       "evidence_score": 0.4783,
       "thesis_summary": "[trend] YES on 'Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award?' because 4h move visible.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=0.237, 24h=0.251).",
+      "do_not_trade_if": [
+        "Advisory flags worsen or increase before entry.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
+    },
+    {
+      "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
+      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "regime": "trend",
+      "direction": "YES",
+      "confidence": 0.69,
+      "position": "medium",
+      "quality": 0.675,
+      "risk_score": 0.25,
+      "reasons": [
+        "24h move strong",
+        "7d move strong",
+        "24h and 7d aligned",
+        "4h and 24h slope aligned",
+        "liquidity good",
+        "cluster=other"
+      ],
+      "risk_flags": [
+        "cooldown_active"
+      ],
+      "advisory_flags": [
+        "cooldown_active"
+      ],
+      "blocking_flags": [],
+      "yes_price": 0.6435,
+      "no_price": 0.3565,
+      "liquidity": 342889.43,
+      "volume": 32920013.71,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0015564202334630364,
+      "chg_24h": 1.5284872298624752,
+      "chg_7d": 3.1650485436893203,
+      "latest_ts": "2026-05-31T16:37:04",
+      "features": {
+        "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
+        "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+        "yes_price": 0.6435,
+        "no_price": 0.3565,
+        "liquidity": 342889.42662,
+        "volume": 32920013.70991625,
+        "latest_ts": "2026-05-31T16:37:04",
+        "history_points": 21889,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0015564202334630364,
+        "chg_24h": 1.5284872298624752,
+        "chg_7d": 3.1650485436893203,
+        "rsi_14": 81.77141657656398,
+        "volatility": 0.08790384728145326,
+        "trend_slope_4h": 7.968509984639024e-06,
+        "trend_slope_24h": 0.002226015859650342,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": 0.0,
+        "hours_to_event": 727.3822222222223,
+        "event_time": "2026-07-01",
+        "spread": null
+      },
+      "cluster": "other",
+      "pipeline_score": 0.69,
+      "market_url": "https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "templates": {
+        "short": "[trend] YES conf=0.69 | Will the San Antonio Spurs win the 2026 NBA Finals? | https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals",
+        "detailed": "[trend] YES | conf=0.69 | pos=medium | yes=0.6435\nWill the San Antonio Spurs win the 2026 NBA Finals?\n原因: 24h move strong, 7d move strong\nhttps://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals",
+        "execution": "执行候选：[trend] YES\n问题：Will the San Antonio Spurs win the 2026 NBA Finals?\n建议仓位：medium\n当前YES：0.6435\n置信度：0.69\n理由：24h move strong, 7d move strong\n链接：https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+      },
+      "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.6435\nWill the San Antonio Spurs win the 2026 NBA Finals?\n原因: 24h move strong, 7d move strong\nhttps://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "catalyst_type": "price_dislocation",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.4783,
+      "thesis_summary": "[trend] YES on 'Will the San Antonio Spurs win the 2026 NBA Finals?' because 24h move strong.",
+      "why_now": "Short-term dislocation detected (1h=0.000, 4h=0.002, 24h=1.528).",
       "do_not_trade_if": [
         "Advisory flags worsen or increase before entry.",
         "Liquidity/exit quality deteriorates materially before action."
@@ -441,6 +519,71 @@
       ]
     },
     {
+      "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
+      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "regime": "trend",
+      "direction": "YES",
+      "confidence": 0.69,
+      "position": "medium",
+      "quality": 0.675,
+      "risk_score": 0.25,
+      "reasons": [
+        "24h move strong",
+        "7d move strong",
+        "24h and 7d aligned",
+        "4h and 24h slope aligned",
+        "liquidity good",
+        "cluster=other"
+      ],
+      "risk_flags": [],
+      "advisory_flags": [],
+      "blocking_flags": [],
+      "yes_price": 0.6435,
+      "no_price": 0.3565,
+      "liquidity": 342889.43,
+      "volume": 32920013.71,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0015564202334630364,
+      "chg_24h": 1.5284872298624752,
+      "chg_7d": 3.1650485436893203,
+      "latest_ts": "2026-05-31T16:37:04",
+      "features": {
+        "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
+        "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+        "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+        "yes_price": 0.6435,
+        "no_price": 0.3565,
+        "liquidity": 342889.42662,
+        "volume": 32920013.70991625,
+        "latest_ts": "2026-05-31T16:37:04",
+        "history_points": 21889,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0015564202334630364,
+        "chg_24h": 1.5284872298624752,
+        "chg_7d": 3.1650485436893203,
+        "rsi_14": 81.77141657656398,
+        "volatility": 0.08790384728145326,
+        "trend_slope_4h": 7.968509984639024e-06,
+        "trend_slope_24h": 0.002226015859650342,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": 0.0,
+        "hours_to_event": 727.3822222222223,
+        "event_time": "2026-07-01",
+        "spread": null
+      },
+      "cluster": "other",
+      "catalyst_type": "price_dislocation",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.5282,
+      "thesis_summary": "[trend] YES on 'Will the San Antonio Spurs win the 2026 NBA Finals?' because 24h move strong.",
+      "why_now": "Short-term dislocation detected (1h=0.000, 4h=0.002, 24h=1.528).",
+      "do_not_trade_if": [
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
+    },
+    {
       "token_id": "104480514270625615787868282411330496385404675495672110015326625654626015018993",
       "question": "Will Ron DeSantis win the 2028 US Presidential Election?",
       "slug": "will-ron-desantis-win-the-2028-us-presidential-election",
@@ -504,94 +647,21 @@
       "do_not_trade_if": [
         "Liquidity/exit quality deteriorates materially before action."
       ]
-    },
-    {
-      "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486",
-      "question": "Will Panama win the 2026 FIFA World Cup?",
-      "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
-      "regime": "carry_no",
-      "direction": "NO",
-      "confidence": 0.71,
-      "position": "medium",
-      "quality": 0.7,
-      "risk_score": 0.25,
-      "reasons": [
-        "ultra low YES price",
-        "better classified as carry_no than trend",
-        "deep-tail World Cup outright",
-        "cluster=world_cup"
-      ],
-      "risk_flags": [
-        "deep_tail_world_cup"
-      ],
-      "advisory_flags": [
-        "deep_tail_world_cup"
-      ],
-      "blocking_flags": [
-        "deep_tail_world_cup"
-      ],
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "liquidity": 11068255.9,
-      "volume": 17544299.29,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": 0.0,
-      "latest_ts": "2026-05-31T15:36:12",
-      "features": {
-        "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486",
-        "question": "Will Panama win the 2026 FIFA World Cup?",
-        "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
-        "yes_price": 0.0005,
-        "no_price": 0.9995,
-        "liquidity": 11068255.89741,
-        "volume": 17544299.28575688,
-        "latest_ts": "2026-05-31T15:36:12",
-        "history_points": 21848,
-        "chg_1h": 0.0,
-        "chg_4h": 0.0,
-        "chg_24h": 0.0,
-        "chg_7d": 0.0,
-        "rsi_14": 0.0,
-        "volatility": 0.0,
-        "trend_slope_4h": 0.0,
-        "trend_slope_24h": 0.0,
-        "pct_rank_7d": 1.0,
-        "pct_rank_30d": 0.1148846576345661,
-        "noise_score": 0.0,
-        "hours_to_event": 1184.3966666666668,
-        "event_time": "2026-07-20",
-        "spread": null
-      },
-      "cluster": "world_cup",
-      "catalyst_type": "theme_cluster",
-      "execution_readiness": "do_not_touch",
-      "evidence_score": 0.398,
-      "thesis_summary": "[carry_no] NO on 'Will Panama win the 2026 FIFA World Cup?' because ultra low YES price.",
-      "why_now": "Relevant within active cluster=world_cup and current regime=carry_no.",
-      "do_not_trade_if": [
-        "Any blocking flag remains active.",
-        "Advisory flags worsen or increase before entry.",
-        "World Cup cluster remains blocked / low-tradability heavy.",
-        "Carry_no remains stale or still observe-only / blocked.",
-        "Liquidity/exit quality deteriorates materially before action."
-      ]
     }
   ],
   "review_stats": {
     "outcomes": {
       "flat": 142,
-      "miss": 10,
-      "hit": 8,
+      "miss": 11,
+      "hit": 7,
       "pending": 40
     },
     "regime_outcomes": {
       "carry_no::flat": 107,
       "mean_revert::flat": 27,
-      "mean_revert::miss": 3,
+      "mean_revert::miss": 4,
       "mean_revert::hit": 3,
-      "trend::hit": 5,
+      "trend::hit": 4,
       "carry_no::miss": 2,
       "carry_no::pending": 24,
       "trend::miss": 5,
@@ -605,8 +675,8 @@
       "other::flat": 20,
       "crypto_launch::flat": 1,
       "crypto_launch::miss": 1,
-      "other::hit": 7,
-      "other::miss": 6,
+      "other::hit": 6,
+      "other::miss": 7,
       "us_election::miss": 2,
       "other::pending": 28,
       "us_election::pending": 11,
