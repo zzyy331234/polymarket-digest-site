@@ -10,7 +10,13 @@
 - 今天没有值得放进主栏的候选。
 
 ## 谨慎观察
-- 暂无需要单列跟踪的观察项。
+- 体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 / 均值回归
+  观察原因: 它属于“其他事件”里的均值回归型线索，虽然爆发力一般，但还值得继续盯一眼。
+  链接（中文导读）: 中文导读：体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
+  Link (English source): English source: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
+  URL: https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup
+  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
+  原始题目: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
 
 ## 今天不碰
 - 选举盘：Eric Trump能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
