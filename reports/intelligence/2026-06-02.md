@@ -11,10 +11,10 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [watch] Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | NO | conf=0.62 | catalyst=mean_reversion
 - [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Ron DeSantis win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | NO | conf=0.62 | catalyst=mean_reversion
 
 ## 观察名单
 - Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | why=Relevant within active cluster=other and current regime=mean_revert.
