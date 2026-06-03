@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T16:07:59",
+  "generated_at": "2026-06-03T16:39:50",
   "window_days": 7,
   "review_count": 54,
   "regime_stats": {
@@ -9,7 +9,7 @@
       "miss": 0,
       "flat": 5,
       "unresolved": 3,
-      "avg_confidence": 0.6572
+      "avg_confidence": 0.6556
     },
     "mean_revert": {
       "total": 20,
@@ -43,7 +43,7 @@
       "miss": 0,
       "flat": 13,
       "unresolved": 8,
-      "avg_confidence": 0.6797
+      "avg_confidence": 0.679
     },
     "gta_vi": {
       "total": 6,
@@ -82,7 +82,7 @@
         "miss": 0,
         "flat": 5,
         "unresolved": 3,
-        "avg_confidence": 0.6572
+        "avg_confidence": 0.6556
       },
       {
         "name": "carry_no",
@@ -114,7 +114,7 @@
         "miss": 0,
         "flat": 5,
         "unresolved": 3,
-        "avg_confidence": 0.6572
+        "avg_confidence": 0.6556
       },
       {
         "name": "mean_revert",
@@ -158,7 +158,7 @@
         "miss": 0,
         "flat": 13,
         "unresolved": 8,
-        "avg_confidence": 0.6797
+        "avg_confidence": 0.679
       },
       {
         "name": "world_cup",
@@ -190,7 +190,7 @@
         "miss": 0,
         "flat": 13,
         "unresolved": 8,
-        "avg_confidence": 0.6797
+        "avg_confidence": 0.679
       },
       {
         "name": "gta_vi",
