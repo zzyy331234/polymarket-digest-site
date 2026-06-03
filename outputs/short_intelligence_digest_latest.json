@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-03T18:39:28",
+  "generated_at": "2026-06-03T19:08:28",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-06-03",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 世界杯主题、美国大选 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 世界杯主题、GTA VI 主题 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -265,16 +265,16 @@
       "miss": 0,
       "flat": 3,
       "unresolved": 3,
-      "avg_confidence": 0.6597,
+      "avg_confidence": 0.6554,
       "name_cn": "趋势延续"
     },
     {
       "name": "mean_revert",
-      "score": -0.2545,
+      "score": -0.3227,
       "total": 22,
-      "hit": 2,
+      "hit": 1,
       "miss": 0,
-      "flat": 12,
+      "flat": 13,
       "unresolved": 8,
       "avg_confidence": 0.6331,
       "name_cn": "均值回归"
@@ -293,15 +293,15 @@
       "name_cn": "世界杯主题"
     },
     {
-      "name": "us_election",
-      "score": -0.3857,
-      "total": 21,
+      "name": "gta_vi",
+      "score": -0.45,
+      "total": 6,
       "hit": 0,
       "miss": 0,
-      "flat": 13,
-      "unresolved": 8,
-      "avg_confidence": 0.6812,
-      "name_cn": "美国大选"
+      "flat": 5,
+      "unresolved": 1,
+      "avg_confidence": 0.6207,
+      "name_cn": "GTA VI 主题"
     }
   ],
   "paper_gate_eligible": false,
