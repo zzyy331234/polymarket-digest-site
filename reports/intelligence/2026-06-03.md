@@ -14,6 +14,7 @@
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Ron DeSantis win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | NO | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? | YES | conf=0.63 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
