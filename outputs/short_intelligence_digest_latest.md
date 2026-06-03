@@ -4,10 +4,19 @@
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
 
 ## 今日主线
-今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 世界杯主题、GTA VI 主题 这类 flat-heavy 噪音盘。
+今天的主线不是扩张出手，而是收缩注意力：主看“体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？”，继续回避 世界杯主题、GTA VI 主题 这类 flat-heavy 噪音盘。
 
 ## 主观察池
-- 今天没有值得放进主栏的候选。
+- 体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
+  标签: 研究观察 | 方向=YES | conf=0.66 | evidence=0.48
+  类型: 其他事件 / 均值回归
+  观点: 短线指标已偏极端，继续追价性价比一般，更适合按均值回归思路处理。
+  现在看它的原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
+  链接（中文导读）: 中文导读：体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
+  Link (English source): English source: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
+  URL: https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup
+  值得点开的原因: 因为短线指标已经偏极端，点开原盘可以先看有没有继续被情绪推着走。
+  原始题目: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
 
 ## 谨慎观察
 - 暂无需要单列跟踪的观察项。

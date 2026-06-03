@@ -9,8 +9,15 @@
 - realized_pnl_like=-0.14775
 
 ## 今日优先候选
-- 当前无 candidate/research 级别信号。
+### 1. Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? [research] 
+- 方向: YES | conf=0.66 | evidence=0.48
+- regime/cluster: mean_revert / other
+- thesis: [mean_revert] YES on 'Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?' because lower percentile bounce setup.
+- why_now: Short-term dislocation detected (1h=0.000, 4h=0.000, 24h=-0.308).
+- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
+
 ## 可直接关注的 Ready Alerts
+- [research] Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | YES | conf=0.66 | catalyst=price_dislocation
 - [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Cooper Flagg win the 2025–26 NBA Rookie of the Year award? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Ron DeSantis win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation

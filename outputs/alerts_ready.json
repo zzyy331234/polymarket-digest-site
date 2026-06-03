@@ -202,5 +202,72 @@
       "execution": "执行候选：[carry_no] NO\n问题：Will Eric Trump win the 2028 US Presidential Election?\n建议仓位：medium\n当前YES：0.0055\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election"
     },
     "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0055\nWill Eric Trump win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election"
+  },
+  {
+    "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+    "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+    "regime": "mean_revert",
+    "direction": "YES",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "lower percentile bounce setup",
+      "RSI extreme",
+      "24h move extended",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.405,
+    "no_price": 0.595,
+    "liquidity": 231282.61,
+    "volume": 1432146.87,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": -0.3076923076923076,
+    "chg_7d": -0.18181818181818177,
+    "latest_ts": "2026-06-04T07:11:00",
+    "features": {
+      "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+      "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "yes_price": 0.405,
+      "no_price": 0.595,
+      "liquidity": 231282.6083,
+      "volume": 1432146.8669980164,
+      "latest_ts": "2026-06-04T07:11:00",
+      "history_points": 23404,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": -0.3076923076923076,
+      "chg_7d": -0.18181818181818177,
+      "rsi_14": 0.0,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -2.3931405469389745e-05,
+      "pct_rank_7d": 0.06221889055472264,
+      "pct_rank_30d": 0.8667321825329004,
+      "noise_score": 0.0,
+      "hours_to_event": 616.8166666666667,
+      "event_time": "2026-06-30",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.654,
+    "market_url": "https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+    "templates": {
+      "short": "[mean_revert] YES conf=0.66 | Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "detailed": "[mean_revert] YES | conf=0.66 | pos=medium | yes=0.4050\nWill the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n原因: lower percentile bounce setup, RSI extreme\nhttps://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "execution": "执行候选：[mean_revert] YES\n问题：Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n建议仓位：medium\n当前YES：0.4050\n置信度：0.66\n理由：lower percentile bounce setup, RSI extreme\n链接：https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
+    },
+    "alert_text": "[mean_revert] YES | conf=0.66 | pos=medium | yes=0.4050\nWill the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n原因: lower percentile bounce setup, RSI extreme\nhttps://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
   }
 ]
