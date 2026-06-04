@@ -10,13 +10,7 @@
 - 今天没有值得放进主栏的候选。
 
 ## 谨慎观察
-- 体育盘：维加斯金骑士能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 / 均值回归
-  观察原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
-  链接（中文导读）: 中文导读：体育盘：维加斯金骑士能否赢得 2026 年 NHL 斯坦利杯？
-  Link (English source): English source: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?
-  URL: https://polymarket.com/question/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup
-  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?
+- 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
 - 选举盘：Eric Trump能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
