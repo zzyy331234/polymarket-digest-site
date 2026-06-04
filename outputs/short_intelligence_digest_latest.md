@@ -13,6 +13,12 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
+- 选举盘：Andy Beshear能否赢得 2028 民主党总统提名？ | 美国大选 | 趋势延续
+  链接（中文导读）: 中文导读：选举盘：Andy Beshear能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Andy Beshear win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-andy-beshear-win-the-2028-democratic-presidential-nomination-832
+  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
+  原始题目: Will Andy Beshear win the 2028 Democratic presidential nomination?
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: deep_tail_world_cup
   链接（中文导读）: 中文导读：世界杯主题盘
@@ -27,13 +33,6 @@
   URL: https://polymarket.com/question/will-person-a-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Hunter Biden win the 2028 Democratic presidential nomination?
-- 选举盘：LeBron James能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：选举盘：LeBron James能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will LeBron James win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-lebron-james-win-the-2028-democratic-presidential-nomination
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will LeBron James win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
 - 倾向保留: 趋势延续 | score=-0.275 | total=4
