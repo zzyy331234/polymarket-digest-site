@@ -17,3 +17,9 @@
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
+
+## 4. [mean_revert] YES conf=0.66
+- 问题: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
+- Cluster: other
+- URL: https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup
+- 原因: lower percentile bounce setup, RSI extreme, 24h move extended
