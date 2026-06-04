@@ -23,7 +23,7 @@
 - [do_not_touch] Will Ron DeSantis win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
-- Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | why=Short-term dislocation detected (1h=-0.001, 4h=0.002, 24h=0.408).
+- Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? | cluster=other | regime=mean_revert | why=Short-term dislocation detected (1h=0.001, 4h=0.001, 24h=0.411).
 
 ## 今日避坑
 - Will Eric Trump win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
