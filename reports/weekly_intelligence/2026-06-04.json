@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:00:30",
+  "generated_at": "2026-06-04T20:30:29",
   "window_days": 7,
   "review_count": 53,
   "regime_stats": {
@@ -9,7 +9,7 @@
       "miss": 1,
       "flat": 14,
       "unresolved": 8,
-      "avg_confidence": 0.634
+      "avg_confidence": 0.6323
     },
     "trend": {
       "total": 4,
@@ -35,7 +35,7 @@
       "miss": 0,
       "flat": 13,
       "unresolved": 8,
-      "avg_confidence": 0.6795
+      "avg_confidence": 0.6776
     },
     "gta_vi": {
       "total": 6,
@@ -82,7 +82,7 @@
         "miss": 1,
         "flat": 14,
         "unresolved": 8,
-        "avg_confidence": 0.634
+        "avg_confidence": 0.6323
       },
       {
         "name": "carry_no",
@@ -114,7 +114,7 @@
         "miss": 1,
         "flat": 14,
         "unresolved": 8,
-        "avg_confidence": 0.634
+        "avg_confidence": 0.6323
       },
       {
         "name": "trend",
@@ -148,7 +148,7 @@
         "miss": 0,
         "flat": 13,
         "unresolved": 8,
-        "avg_confidence": 0.6795
+        "avg_confidence": 0.6776
       },
       {
         "name": "gta_vi",
@@ -200,7 +200,7 @@
         "miss": 0,
         "flat": 13,
         "unresolved": 8,
-        "avg_confidence": 0.6795
+        "avg_confidence": 0.6776
       },
       {
         "name": "other",
