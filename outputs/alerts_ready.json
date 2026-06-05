@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "token_id": "70071592420137476676935286377781779672157004436137616627487590484756055232944",
+    "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+    "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+    "regime": "trend",
+    "direction": "YES",
+    "confidence": 0.674,
+    "position": "medium",
+    "quality": 0.655,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "liquidity good",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0655,
+    "no_price": 0.9345,
+    "liquidity": 265650.14,
+    "volume": 11442541.56,
+    "chg_1h": 0.0,
+    "chg_4h": 0.10084033613445388,
+    "chg_24h": 0.08264462809917363,
+    "chg_7d": 0.20183486238532114,
+    "latest_ts": "2026-06-05T16:00:00",
+    "features": {
+      "token_id": "70071592420137476676935286377781779672157004436137616627487590484756055232944",
+      "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+      "slug": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+      "yes_price": 0.0655,
+      "no_price": 0.9345,
+      "liquidity": 265650.13864,
+      "volume": 11442541.556327904,
+      "latest_ts": "2026-06-05T16:00:00",
+      "history_points": 2781,
+      "chg_1h": 0.0,
+      "chg_4h": 0.10084033613445388,
+      "chg_24h": 0.08264462809917363,
+      "chg_7d": 0.20183486238532114,
+      "rsi_14": 98.6763216460285,
+      "volatility": 0.010238229353790939,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 1.1100228034465353e-05,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
+      "noise_score": 0.0,
+      "hours_to_event": 21248.0,
+      "event_time": "2028-11-07",
+      "spread": null
+    },
+    "cluster": "us_election",
+    "pipeline_score": 0.674,
+    "market_url": "https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+    "templates": {
+      "short": "[trend] YES conf=0.67 | Will Jon Ossoff win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+      "detailed": "[trend] YES | conf=0.67 | pos=medium | yes=0.0655\nWill Jon Ossoff win the 2028 Democratic presidential nomination?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+      "execution": "执行候选：[trend] YES\n问题：Will Jon Ossoff win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0655\n置信度：0.67\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885"
+    },
+    "alert_text": "[trend] YES | conf=0.67 | pos=medium | yes=0.0655\nWill Jon Ossoff win the 2028 Democratic presidential nomination?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885"
+  }
+]
