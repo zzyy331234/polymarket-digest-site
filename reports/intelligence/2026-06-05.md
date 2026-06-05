@@ -11,20 +11,20 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Andy Beshear win the 2028 Democratic presidential nomination? | YES | conf=0.67 | catalyst=price_dislocation
+- 当前无可直接关注 alert。
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
-- Will Andy Beshear win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | blocking=
 - Will Tunisia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=deep_tail_world_cup
-- Will Hunter Biden win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Zohran Mamdani win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will MrBeast win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 146, 'miss': 8, 'hit': 6, 'pending': 40}
+- outcomes: {'flat': 143, 'miss': 10, 'hit': 7, 'pending': 40}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
