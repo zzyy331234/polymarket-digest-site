@@ -13,6 +13,12 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
+- 选举盘：Hunter Biden能否赢得 2028 民主党总统提名？ | 美国大选 | 趋势延续
+  链接（中文导读）: 中文导读：选举盘：Hunter Biden能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Hunter Biden win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-person-a-win-the-2028-democratic-presidential-nomination
+  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
+  原始题目: Will Hunter Biden win the 2028 Democratic presidential nomination?
 - 选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？ | 美国大选 | 趋势延续
   链接（中文导读）: 中文导读：选举盘：Jon Ossoff能否赢得 2028 民主党总统提名？
   Link (English source): English source: Will Jon Ossoff win the 2028 Democratic presidential nomination?
@@ -26,17 +32,10 @@
   URL: https://polymarket.com/question/will-tunisia-win-the-2026-fifa-world-cup-165
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Tunisia win the 2026 FIFA World Cup?
-- 选举盘：LeBron James能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：选举盘：LeBron James能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will LeBron James win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-lebron-james-win-the-2028-democratic-presidential-nomination
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will LeBron James win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.1833 | total=6
-- 倾向保留: 均值回归 | score=-0.2905 | total=21
+- 倾向保留: 趋势延续 | score=-0.2286 | total=7
+- 倾向保留: 均值回归 | score=-0.28 | total=20
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=15
 - 应继续降权: GTA VI 主题 | score=-0.45 | flat=5
 
