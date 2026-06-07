@@ -13,12 +13,12 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
-- 观察盘：Will the San Antonio Spurs win the 2026 NBA Finals? | 其他事件 | 趋势延续
-  链接（中文导读）: 中文导读：观察盘：Will the San Antonio Spurs win the 2026 NBA Finals?
-  Link (English source): English source: Will the San Antonio Spurs win the 2026 NBA Finals?
-  URL: https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals
+- 选举盘：Josh Shapiro能否赢得 2028 民主党总统提名？ | 美国大选 | 趋势延续
+  链接（中文导读）: 中文导读：选举盘：Josh Shapiro能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Josh Shapiro win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will the San Antonio Spurs win the 2026 NBA Finals?
+  原始题目: Will Josh Shapiro win the 2028 Democratic presidential nomination?
 - 体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？ | 其他事件 | 趋势延续
   链接（中文导读）: 中文导读：体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
   Link (English source): English source: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
