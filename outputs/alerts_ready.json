@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
+    "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+    "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+    "regime": "trend",
+    "direction": "NO",
+    "confidence": 0.69,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.2165,
+    "no_price": 0.7835,
+    "liquidity": 336823.23,
+    "volume": 37348463.87,
+    "chg_1h": 0.0,
+    "chg_4h": -0.5388711395101172,
+    "chg_24h": -0.5388711395101172,
+    "chg_7d": -0.6635586635586636,
+    "latest_ts": "2026-06-07T19:30:00",
+    "features": {
+      "token_id": "102227184035967850089766981958743064457339118173548431660886438726896222843254",
+      "question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "yes_price": 0.2165,
+      "no_price": 0.7835,
+      "liquidity": 336823.23081,
+      "volume": 37348463.86986901,
+      "latest_ts": "2026-06-07T19:30:00",
+      "history_points": 2495,
+      "chg_1h": 0.0,
+      "chg_4h": -0.5388711395101172,
+      "chg_24h": -0.5388711395101172,
+      "chg_7d": -0.6635586635586636,
+      "rsi_14": 0.6833766003973807,
+      "volatility": 0.05473258880550008,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.032679738562091505,
+      "pct_rank_30d": 0.028056112224448898,
+      "noise_score": 0.0,
+      "hours_to_event": 556.5,
+      "event_time": "2026-07-01",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.69,
+    "market_url": "https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals",
+    "templates": {
+      "short": "[trend] NO conf=0.69 | Will the San Antonio Spurs win the 2026 NBA Finals? | https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "detailed": "[trend] NO | conf=0.69 | pos=medium | yes=0.2165\nWill the San Antonio Spurs win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "execution": "执行候选：[trend] NO\n问题：Will the San Antonio Spurs win the 2026 NBA Finals?\n建议仓位：medium\n当前YES：0.2165\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+    },
+    "alert_text": "[trend] NO | conf=0.69 | pos=medium | yes=0.2165\nWill the San Antonio Spurs win the 2026 NBA Finals?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals"
+  },
+  {
+    "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+    "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+    "regime": "trend",
+    "direction": "NO",
+    "confidence": 0.69,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.365,
+    "no_price": 0.635,
+    "liquidity": 177809.0,
+    "volume": 1722594.01,
+    "chg_1h": 0.0,
+    "chg_4h": -0.3423423423423424,
+    "chg_24h": -0.3423423423423424,
+    "chg_7d": -0.37606837606837606,
+    "latest_ts": "2026-06-07T19:30:00",
+    "features": {
+      "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+      "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "yes_price": 0.365,
+      "no_price": 0.635,
+      "liquidity": 177808.9985,
+      "volume": 1722594.0119740104,
+      "latest_ts": "2026-06-07T19:30:00",
+      "history_points": 2495,
+      "chg_1h": 0.0,
+      "chg_4h": -0.3423423423423424,
+      "chg_24h": -0.3423423423423424,
+      "chg_7d": -0.37606837606837606,
+      "rsi_14": 7.805596169419005e-10,
+      "volatility": 0.03475771256594789,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.032679738562091505,
+      "pct_rank_30d": 0.028056112224448898,
+      "noise_score": 0.0,
+      "hours_to_event": 532.5,
+      "event_time": "2026-06-30",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.69,
+    "market_url": "https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+    "templates": {
+      "short": "[trend] NO conf=0.69 | Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "detailed": "[trend] NO | conf=0.69 | pos=medium | yes=0.3650\nWill the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "execution": "执行候选：[trend] NO\n问题：Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n建议仓位：medium\n当前YES：0.3650\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
+    },
+    "alert_text": "[trend] NO | conf=0.69 | pos=medium | yes=0.3650\nWill the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
+  }
+]
