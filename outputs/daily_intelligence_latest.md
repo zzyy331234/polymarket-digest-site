@@ -11,7 +11,7 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Josh Shapiro win the 2028 Democratic presidential nomination? | YES | conf=0.66 | catalyst=price_dislocation
+- [do_not_touch] Will Josh Shapiro win the 2028 Democratic presidential nomination? | YES | conf=0.65 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
