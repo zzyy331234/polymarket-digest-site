@@ -1,5 +1,5 @@
 {
-  "ran_at": "2026-06-09T17:30:30",
+  "ran_at": "2026-06-09T18:00:32",
   "mode": "paper_trade",
   "discipline_version": "vNext-mr-core",
   "discipline_buckets": {
@@ -38,7 +38,7 @@
   "ready_buckets": {
     "main_pool": 1
   },
-  "latest_count": 31,
+  "latest_count": 30,
   "opened": 0,
   "opened_buckets": {},
   "closed": 0,

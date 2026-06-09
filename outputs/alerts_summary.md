@@ -1,7 +1,7 @@
 # Polymarket Alert Pipeline Summary
 
-## 1. [trend] YES conf=0.68
-- 问题: Will Jon Ossoff win the 2028 Democratic presidential nomination?
-- Cluster: us_election
-- URL: https://polymarket.com/question/will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885
+## 1. [trend] YES conf=0.69
+- 问题: Will the San Antonio Spurs win the 2026 NBA Finals?
+- Cluster: other
+- URL: https://polymarket.com/question/will-the-san-antonio-spurs-win-the-2026-nba-finals
 - 原因: 4h move visible, 24h move strong, 7d move strong
