@@ -35,9 +35,9 @@
   原始题目: Will Tunisia win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.1 | total=9
-- 倾向保留: 均值回归 | score=-0.3267 | total=15
-- 应继续降权: 世界杯主题 | score=-0.5 | flat=15
+- 倾向保留: 趋势延续 | score=-0.34 | total=10
+- 倾向保留: 均值回归 | score=-0.36 | total=15
+- 应继续降权: 世界杯主题 | score=-0.5 | flat=16
 - 应继续降权: GTA VI 主题 | score=-0.425 | flat=3
 
 ## 编辑注
