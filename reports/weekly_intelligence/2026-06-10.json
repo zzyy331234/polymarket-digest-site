@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-10T19:30:25",
+  "generated_at": "2026-06-10T20:00:23",
   "window_days": 7,
-  "review_count": 57,
+  "review_count": 58,
   "regime_stats": {
     "mean_revert": {
-      "total": 20,
+      "total": 21,
       "hit": 1,
       "miss": 0,
-      "flat": 12,
+      "flat": 13,
       "unresolved": 7,
       "avg_confidence": 0.625
     },
@@ -30,12 +30,12 @@
   },
   "cluster_stats": {
     "us_election": {
-      "total": 24,
+      "total": 25,
       "hit": 0,
       "miss": 1,
-      "flat": 16,
+      "flat": 17,
       "unresolved": 7,
-      "avg_confidence": 0.6843
+      "avg_confidence": 0.6819
     },
     "world_cup": {
       "total": 17,
@@ -76,11 +76,11 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.32,
-        "total": 20,
+        "score": -0.3286,
+        "total": 21,
         "hit": 1,
         "miss": 0,
-        "flat": 12,
+        "flat": 13,
         "unresolved": 7,
         "avg_confidence": 0.625
       },
@@ -108,11 +108,11 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.32,
-        "total": 20,
+        "score": -0.3286,
+        "total": 21,
         "hit": 1,
         "miss": 0,
-        "flat": 12,
+        "flat": 13,
         "unresolved": 7,
         "avg_confidence": 0.625
       },
@@ -142,13 +142,13 @@
       },
       {
         "name": "us_election",
-        "score": -0.3917,
-        "total": 24,
+        "score": -0.396,
+        "total": 25,
         "hit": 0,
         "miss": 1,
-        "flat": 16,
+        "flat": 17,
         "unresolved": 7,
-        "avg_confidence": 0.6843
+        "avg_confidence": 0.6819
       },
       {
         "name": "gta_vi",
@@ -194,13 +194,13 @@
       },
       {
         "name": "us_election",
-        "score": -0.3917,
-        "total": 24,
+        "score": -0.396,
+        "total": 25,
         "hit": 0,
         "miss": 1,
-        "flat": 16,
+        "flat": 17,
         "unresolved": 7,
-        "avg_confidence": 0.6843
+        "avg_confidence": 0.6819
       },
       {
         "name": "other",
