@@ -913,3 +913,4 @@
 {"scan_time": "2026-06-10T19:00:00.329090", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
 {"scan_time": "2026-06-10T19:30:00.972274", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
 {"scan_time": "2026-06-10T20:00:00.318005", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
+{"scan_time": "2026-06-10T20:34:22.452264", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}

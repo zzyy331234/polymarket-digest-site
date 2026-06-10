@@ -36,8 +36,8 @@
   原始题目: Will LeBron James win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.2333 | total=6
-- 倾向保留: 均值回归 | score=-0.3286 | total=21
+- 倾向保留: 趋势延续 | score=-0.18 | total=5
+- 倾向保留: 均值回归 | score=-0.4045 | total=22
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=17
 - 应继续降权: GTA VI 主题 | score=-0.45 | flat=5
 
