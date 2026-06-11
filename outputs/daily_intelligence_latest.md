@@ -24,7 +24,7 @@
 - Will Phil Murphy win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 113, 'miss': 9, 'hit': 5, 'pending': 73}
+- outcomes: {'flat': 142, 'miss': 11, 'hit': 7, 'pending': 40}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
