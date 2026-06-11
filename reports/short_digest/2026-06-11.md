@@ -16,17 +16,17 @@
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: deep_tail_world_cup
   链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-bosnia-herzegovina-win-the-2026-fifa-world-cup
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  避开原因: deep_tail_world_cup
-  链接（中文导读）: 中文导读：世界杯主题盘
   Link (English source): English source: Will Ghana win the 2026 FIFA World Cup?
   URL: https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Ghana win the 2026 FIFA World Cup?
+- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
+  避开原因: deep_tail_world_cup
+  链接（中文导读）: 中文导读：世界杯主题盘
+  Link (English source): English source: Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-bosnia-herzegovina-win-the-2026-fifa-world-cup
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
 - 选举盘：LeBron James能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：选举盘：LeBron James能否赢得 2028 民主党总统提名？
