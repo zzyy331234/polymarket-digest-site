@@ -18,13 +18,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -48,7 +46,7 @@
       "liquidity": 15088147.95885,
       "volume": 28612959.262710936,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -85,13 +83,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -115,7 +111,7 @@
       "liquidity": 14919619.2216,
       "volume": 45275421.5626452,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -152,13 +148,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -182,7 +176,7 @@
       "liquidity": 14839763.53821,
       "volume": 31323566.161882773,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -219,13 +213,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -249,7 +241,7 @@
       "liquidity": 14666518.64232,
       "volume": 19154468.76575688,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -286,13 +278,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -316,7 +306,7 @@
       "liquidity": 14644091.23691,
       "volume": 31832694.12182009,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -353,13 +343,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -383,7 +371,7 @@
       "liquidity": 14636343.24377,
       "volume": 41423998.37691622,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -418,12 +406,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "deep_tail_world_cup"
@@ -446,7 +432,7 @@
       "liquidity": 14587411.06825,
       "volume": 22176585.46571792,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -455,8 +441,8 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.3662324649298597,
-      "pct_rank_30d": 0.3662324649298597,
+      "pct_rank_7d": 0.4821899736147757,
+      "pct_rank_30d": 0.4821899736147757,
       "noise_score": 0.0,
       "hours_to_event": 963.6833333333333,
       "event_time": "2026-07-20",
@@ -483,13 +469,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -513,7 +497,7 @@
       "liquidity": 14251262.70179,
       "volume": 32779014.85368602,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -550,13 +534,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -580,7 +562,7 @@
       "liquidity": 14214679.16792,
       "volume": 39862957.02716404,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -617,13 +599,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -647,17 +627,17 @@
       "liquidity": 14132247.91014,
       "volume": 43650116.41056783,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "rsi_14": 18.51014697204522,
+      "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.9899799599198397,
-      "pct_rank_30d": 0.9899799599198397,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
       "noise_score": 0.0,
       "hours_to_event": 963.6833333333333,
       "event_time": "2026-07-20",
@@ -684,13 +664,11 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -714,7 +692,7 @@
       "liquidity": 14077884.83858,
       "volume": 41393446.52833187,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -749,12 +727,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "advisory_flags": [
-      "deep_tail_world_cup",
-      "cooldown_active"
+      "deep_tail_world_cup"
     ],
     "blocking_flags": [
       "deep_tail_world_cup"
@@ -777,7 +753,7 @@
       "liquidity": 12582629.74818,
       "volume": 33751996.568441816,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -786,8 +762,8 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.6162324649298597,
-      "pct_rank_30d": 0.6162324649298597,
+      "pct_rank_7d": 0.4947229551451187,
+      "pct_rank_30d": 0.4947229551451187,
       "noise_score": 0.0,
       "hours_to_event": 963.6833333333333,
       "event_time": "2026-07-20",
@@ -812,12 +788,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -840,7 +814,7 @@
       "liquidity": 2801819.32437,
       "volume": 42179837.17729689,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -875,12 +849,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -903,7 +875,7 @@
       "liquidity": 2759097.96048,
       "volume": 38620690.721423805,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -938,12 +910,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -966,7 +936,7 @@
       "liquidity": 2604013.53878,
       "volume": 40522069.05599387,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1001,12 +971,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1029,7 +997,7 @@
       "liquidity": 2575193.74333,
       "volume": 41186639.07134953,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1064,12 +1032,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1092,7 +1058,7 @@
       "liquidity": 2542296.11573,
       "volume": 37184384.467562966,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1127,12 +1093,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1155,7 +1119,7 @@
       "liquidity": 2465420.17907,
       "volume": 37205141.40598649,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1190,12 +1154,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1218,7 +1180,7 @@
       "liquidity": 2452785.21147,
       "volume": 41275469.04376319,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1253,12 +1215,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1281,7 +1241,7 @@
       "liquidity": 2395010.07313,
       "volume": 34554270.75437584,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1317,12 +1277,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1345,7 +1303,7 @@
       "liquidity": 267050.41951,
       "volume": 11560266.092810905,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.09160305343511436,
@@ -1354,8 +1312,8 @@
       "volatility": 0.0,
       "trend_slope_4h": -1.018054936387641e-06,
       "trend_slope_24h": 5.974229819779971e-06,
-      "pct_rank_7d": 0.9849699398797596,
-      "pct_rank_30d": 0.9849699398797596,
+      "pct_rank_7d": 0.9802110817941952,
+      "pct_rank_30d": 0.9802110817941952,
       "noise_score": 0.0,
       "hours_to_event": 21147.683333333334,
       "event_time": "2028-11-07",
@@ -1380,12 +1338,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1408,7 +1364,7 @@
       "liquidity": 487080.1774,
       "volume": 11552127.636047753,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1445,13 +1401,11 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -1475,7 +1429,7 @@
       "liquidity": 403570.20394,
       "volume": 8699616.929069186,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1486,6 +1440,71 @@
       "trend_slope_24h": 0.0,
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
+      "noise_score": 0.0,
+      "hours_to_event": 21147.683333333334,
+      "event_time": "2028-11-07",
+      "spread": null
+    },
+    "cluster": "us_election"
+  },
+  {
+    "token_id": "38171024903091354977195167437673496224420673639143973968032407064172828043588",
+    "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+    "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.624,
+    "position": "small",
+    "quality": 0.61,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "low tradability profile",
+      "vNext gate: question_blocklisted_v6",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "low_tradability",
+      "question_blocklisted_v6"
+    ],
+    "advisory_flags": [
+      "low_tradability",
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "low_tradability",
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.0775,
+    "no_price": 0.9225,
+    "liquidity": 302468.55,
+    "volume": 12049311.42,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": null,
+    "latest_ts": "2026-06-09T20:19:00",
+    "features": {
+      "token_id": "38171024903091354977195167437673496224420673639143973968032407064172828043588",
+      "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+      "yes_price": 0.0775,
+      "no_price": 0.9225,
+      "liquidity": 302468.54696,
+      "volume": 12049311.42143195,
+      "latest_ts": "2026-06-09T20:19:00",
+      "history_points": 1516,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "rsi_14": 0.0,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.9445910290237467,
+      "pct_rank_30d": 0.9445910290237467,
       "noise_score": 0.0,
       "hours_to_event": 21147.683333333334,
       "event_time": "2028-11-07",
@@ -1510,12 +1529,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1538,7 +1555,7 @@
       "liquidity": 113332.85662,
       "volume": 4458809.86267351,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -1573,12 +1590,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1601,7 +1616,7 @@
       "liquidity": 27169.1075,
       "volume": 664062.0697840074,
       "latest_ts": "2026-06-09T20:19:00",
-      "history_points": 1996,
+      "history_points": 1516,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
