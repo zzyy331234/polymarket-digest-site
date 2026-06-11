@@ -11,17 +11,18 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- 当前无可直接关注 alert。
+- [do_not_touch] Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | YES | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? | NO | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
+- Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | blocking=
+- Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? | cluster=other | regime=trend | blocking=
 - Will Ghana win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=deep_tail_world_cup
 - Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=deep_tail_world_cup
 - Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will MrBeast win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Phil Murphy win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 142, 'miss': 11, 'hit': 7, 'pending': 40}
