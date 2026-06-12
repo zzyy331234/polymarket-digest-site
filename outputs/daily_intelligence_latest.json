@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T17:56:30",
+  "generated_at": "2026-06-12T18:00:31",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -94,8 +94,12 @@
         "24h move extended",
         "cluster=other"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
+      "risk_flags": [
+        "cooldown_active"
+      ],
+      "advisory_flags": [
+        "cooldown_active"
+      ],
       "blocking_flags": [],
       "yes_price": 0.575,
       "no_price": 0.425,
@@ -132,7 +136,7 @@
         "spread": null
       },
       "cluster": "other",
-      "pipeline_score": 0.684,
+      "pipeline_score": 0.654,
       "market_url": "https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
       "templates": {
         "short": "[mean_revert] NO conf=0.66 | Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
@@ -142,10 +146,11 @@
       "alert_text": "[mean_revert] NO | conf=0.66 | pos=medium | yes=0.5750\nWill the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n原因: upper percentile fade setup, RSI extreme\nhttps://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
       "catalyst_type": "price_dislocation",
       "execution_readiness": "research",
-      "evidence_score": 0.4842,
+      "evidence_score": 0.4342,
       "thesis_summary": "[mean_revert] NO on 'Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?' because upper percentile fade setup.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=0.533, 24h=0.533).",
       "do_not_trade_if": [
+        "Advisory flags worsen or increase before entry.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
     }

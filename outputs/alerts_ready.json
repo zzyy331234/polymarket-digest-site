@@ -15,8 +15,12 @@
       "24h move extended",
       "cluster=other"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.575,
     "no_price": 0.425,
@@ -53,7 +57,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.684,
+    "pipeline_score": 0.654,
     "market_url": "https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
     "templates": {
       "short": "[mean_revert] NO conf=0.66 | Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
