@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "token_id": "68803485030073596962715540294172682212192134248970512695855620898253368033218",
+    "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+    "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+    "regime": "trend",
+    "direction": "NO",
+    "confidence": 0.69,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.1995,
+    "no_price": 0.8005,
+    "liquidity": 195151.23,
+    "volume": 3341408.7,
+    "chg_1h": -0.5266903914590747,
+    "chg_4h": -0.5266903914590747,
+    "chg_24h": -0.5266903914590747,
+    "chg_7d": -0.5561735261401557,
+    "latest_ts": "2026-06-12T20:00:00",
+    "features": {
+      "token_id": "68803485030073596962715540294172682212192134248970512695855620898253368033218",
+      "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+      "yes_price": 0.1995,
+      "no_price": 0.8005,
+      "liquidity": 195151.23352,
+      "volume": 3341408.7005909905,
+      "latest_ts": "2026-06-12T20:00:00",
+      "history_points": 1194,
+      "chg_1h": -0.5266903914590747,
+      "chg_4h": -0.5266903914590747,
+      "chg_24h": -0.5266903914590747,
+      "chg_7d": -0.5561735261401557,
+      "rsi_14": 1.050139680103257e-05,
+      "volatility": 0.053474405509776335,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -0.0034814204028790277,
+      "pct_rank_7d": 0.061659192825112105,
+      "pct_rank_30d": 0.046063651591289785,
+      "noise_score": 0.0,
+      "hours_to_event": 412.0,
+      "event_time": "2026-06-30",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.69,
+    "market_url": "https://polymarket.com/question/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+    "templates": {
+      "short": "[trend] NO conf=0.69 | Will the Vegas Golden Knights win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+      "detailed": "[trend] NO | conf=0.69 | pos=medium | yes=0.1995\nWill the Vegas Golden Knights win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+      "execution": "执行候选：[trend] NO\n问题：Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?\n建议仓位：medium\n当前YES：0.1995\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup"
+    },
+    "alert_text": "[trend] NO | conf=0.69 | pos=medium | yes=0.1995\nWill the Vegas Golden Knights win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup"
+  },
+  {
+    "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+    "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+    "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+    "regime": "trend",
+    "direction": "YES",
+    "confidence": 0.69,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.25,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "7d move strong",
+      "24h and 7d aligned",
+      "liquidity good",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.805,
+    "no_price": 0.195,
+    "liquidity": 158693.0,
+    "volume": 2001816.85,
+    "chg_1h": 0.4000000000000002,
+    "chg_4h": 0.4000000000000002,
+    "chg_24h": 0.4000000000000002,
+    "chg_7d": 0.4504504504504504,
+    "latest_ts": "2026-06-12T20:00:00",
+    "features": {
+      "token_id": "79397003434468715775480922117285203652110865791390656395657957066470661722480",
+      "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "yes_price": 0.805,
+      "no_price": 0.195,
+      "liquidity": 158693.001,
+      "volume": 2001816.8466930147,
+      "latest_ts": "2026-06-12T20:00:00",
+      "history_points": 1194,
+      "chg_1h": 0.4000000000000002,
+      "chg_4h": 0.4000000000000002,
+      "chg_24h": 0.4000000000000002,
+      "chg_7d": 0.4504504504504504,
+      "rsi_14": 100.0,
+      "volatility": 0.040611643103370704,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.00360687699397377,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
+      "noise_score": 0.0,
+      "hours_to_event": 412.0,
+      "event_time": "2026-06-30",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.69,
+    "market_url": "https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+    "templates": {
+      "short": "[trend] YES conf=0.69 | Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "detailed": "[trend] YES | conf=0.69 | pos=medium | yes=0.8050\nWill the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "execution": "执行候选：[trend] YES\n问题：Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n建议仓位：medium\n当前YES：0.8050\n置信度：0.69\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
+    },
+    "alert_text": "[trend] YES | conf=0.69 | pos=medium | yes=0.8050\nWill the Carolina Hurricanes win the 2026 NHL Stanley Cup?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup"
+  }
+]
