@@ -4,19 +4,10 @@
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
 
 ## 今日主线
-今天的主线不是扩张出手，而是收缩注意力：主看“体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？”，继续回避 世界杯主题、GTA VI 主题 这类 flat-heavy 噪音盘。
+今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、世界杯主题 这类 flat-heavy 噪音盘。
 
 ## 主观察池
-- 体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
-  标签: 研究观察 | 方向=NO | conf=0.66 | evidence=0.48
-  类型: 其他事件 / 均值回归
-  观点: 价格已处在阶段性高位，更像均值回归框架下的回落博弈，方向偏向 NO。
-  现在看它的原因: 过去 24 小时内价格错位已经足够明显，属于可以单独拎出来观察的强波动线索。
-  链接（中文导读）: 中文导读：体育盘：Carolina Hurricanes能否赢得 2026 年 NHL 斯坦利杯？
-  Link (English source): English source: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
-  URL: https://polymarket.com/question/will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup
-  值得点开的原因: 因为它更像高位回落型 setup，点开原盘主要是确认价格是否还停留在偏贵区间。
-  原始题目: Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?
+- 今天没有值得放进主栏的候选。
 
 ## 谨慎观察
 - 暂无需要单列跟踪的观察项。
@@ -29,13 +20,6 @@
   URL: https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Ghana win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  避开原因: deep_tail_world_cup
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-bosnia-herzegovina-win-the-2026-fifa-world-cup
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
 - 选举盘：LeBron James能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：选举盘：LeBron James能否赢得 2028 民主党总统提名？
@@ -43,12 +27,19 @@
   URL: https://polymarket.com/question/will-lebron-james-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will LeBron James win the 2028 Democratic presidential nomination?
+- 选举盘：MrBeast能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  避开原因: stale_carry_no
+  链接（中文导读）: 中文导读：选举盘：MrBeast能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will MrBeast win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-mrbeast-win-the-2028-democratic-presidential-nomination
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will MrBeast win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.0 | total=3
+- 倾向保留: 趋势延续 | score=0.0 | total=2
 - 倾向保留: 均值回归 | score=-0.2692 | total=13
+- 应继续降权: 美国大选 | score=-0.5 | flat=15
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=15
-- 应继续降权: GTA VI 主题 | score=-0.5 | flat=5
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。

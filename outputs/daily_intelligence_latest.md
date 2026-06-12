@@ -9,25 +9,19 @@
 - realized_pnl_like=-0.14775
 
 ## 今日优先候选
-### 1. Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? [research] 
-- 方向: NO | conf=0.66 | evidence=0.48
-- regime/cluster: mean_revert / other
-- thesis: [mean_revert] NO on 'Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?' because upper percentile fade setup.
-- why_now: Short-term dislocation detected (1h=0.000, 4h=0.533, 24h=0.533).
-- do_not_trade_if: Liquidity/exit quality deteriorates materially before action.
-
+- 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [research] Will the Carolina Hurricanes win the 2026 NHL Stanley Cup? | NO | conf=0.66 | catalyst=price_dislocation
+- 当前无可直接关注 alert。
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
 - Will Ghana win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=deep_tail_world_cup
-- Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=deep_tail_world_cup
 - Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will MrBeast win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Phil Murphy win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 142, 'miss': 11, 'hit': 7, 'pending': 40}
