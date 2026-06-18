@@ -18,11 +18,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -83,11 +85,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -148,11 +152,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -213,11 +219,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -278,11 +286,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -343,11 +353,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -408,11 +420,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -473,11 +487,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -538,11 +554,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -603,11 +621,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -668,11 +688,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -733,11 +755,13 @@
     ],
     "risk_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "stale_carry_no",
-      "deep_tail_world_cup"
+      "deep_tail_world_cup",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no",
@@ -796,10 +820,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -857,10 +883,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -918,10 +946,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -979,10 +1009,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1040,10 +1072,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1101,10 +1135,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1162,10 +1198,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1223,10 +1261,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1285,10 +1325,12 @@
       "cluster=other"
     ],
     "risk_flags": [
-      "liquidity_below_vnext_min"
+      "liquidity_below_vnext_min",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "liquidity_below_vnext_min"
+      "liquidity_below_vnext_min",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "liquidity_below_vnext_min"
@@ -1346,10 +1388,12 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1409,11 +1453,13 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -1474,11 +1520,13 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -1539,11 +1587,13 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -1602,10 +1652,12 @@
       "cluster=other"
     ],
     "risk_flags": [
-      "question_not_whitelisted_v6"
+      "question_not_whitelisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "question_not_whitelisted_v6"
+      "question_not_whitelisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "question_not_whitelisted_v6"
@@ -1663,10 +1715,12 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1724,10 +1778,12 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1785,10 +1841,12 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
