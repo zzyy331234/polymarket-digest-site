@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-19T13:35:36",
+  "generated_at": "2026-06-19T14:00:25",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-06-19",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 世界杯主题、美国大选 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 世界杯主题、GTA VI 主题 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -34,26 +34,26 @@
       ],
       "yes_price": 0.0075,
       "no_price": 0.9925,
-      "liquidity": 2758470.35,
-      "volume": 42269487.21,
+      "liquidity": 2845707.68,
+      "volume": 42735233.35,
       "chg_1h": 0.0,
-      "chg_4h": null,
-      "chg_24h": null,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
       "chg_7d": null,
-      "latest_ts": "2026-06-12T20:12:03",
+      "latest_ts": "2026-06-19T14:00:00",
       "features": {
         "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
         "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
         "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
         "yes_price": 0.0075,
         "no_price": 0.9925,
-        "liquidity": 2758470.34766,
-        "volume": 42269487.206385806,
-        "latest_ts": "2026-06-12T20:12:03",
-        "history_points": 66,
+        "liquidity": 2845707.67516,
+        "volume": 42735233.35252363,
+        "latest_ts": "2026-06-19T14:00:00",
+        "history_points": 85,
         "chg_1h": 0.0,
-        "chg_4h": null,
-        "chg_24h": null,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
         "chg_7d": null,
         "rsi_14": 100.0,
         "volatility": 0.0,
@@ -62,7 +62,7 @@
         "pct_rank_7d": 1.0,
         "pct_rank_30d": 1.0,
         "noise_score": 0.0,
-        "hours_to_event": 21075.799166666668,
+        "hours_to_event": 20914.0,
         "event_time": "2028-11-07",
         "spread": null
       },
@@ -105,6 +105,103 @@
       }
     },
     {
+      "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
+      "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+      "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "stale low-vol carry_no",
+        "cluster=us_election"
+      ],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
+      "yes_price": 0.0075,
+      "no_price": 0.9925,
+      "liquidity": 2778855.61,
+      "volume": 42908182.24,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "latest_ts": "2026-06-19T14:00:00",
+      "features": {
+        "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
+        "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+        "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
+        "yes_price": 0.0075,
+        "no_price": 0.9925,
+        "liquidity": 2778855.61215,
+        "volume": 42908182.23883487,
+        "latest_ts": "2026-06-19T14:00:00",
+        "history_points": 85,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "chg_7d": null,
+        "rsi_14": 100.0,
+        "volatility": 0.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": 0.0,
+        "hours_to_event": 20914.0,
+        "event_time": "2028-11-07",
+        "spread": null
+      },
+      "cluster": "us_election",
+      "catalyst_type": "stale_carry",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will Hillary Clinton win the 2028 Democratic presidential nomination?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "Carry_no remains stale or still observe-only / blocked.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ],
+      "display_title_cn": "选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？",
+      "display_slug": "dem-primary-hillary-clinton",
+      "raw_question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+      "cluster_label_cn": "美国大选",
+      "regime_label_cn": "低效拖时间盘",
+      "readiness_label_cn": "不碰",
+      "blocking_flags_cn": [
+        "stale_carry_no"
+      ],
+      "risk_flags_cn": [
+        "stale_carry_no"
+      ],
+      "advisory_flags_cn": [
+        "stale_carry_no"
+      ],
+      "thesis_cn": "这是一笔来自“美国大选”的低效拖时间盘型线索，目前方向偏向 NO。",
+      "why_now_cn": "它属于“美国大选”里的低效拖时间盘型线索，虽然爆发力一般，但还值得继续盯一眼。",
+      "bilingual_link": {
+        "title_cn": "选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？",
+        "title_en": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+        "url": "https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
+        "label_cn": "中文导读：选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？",
+        "label_en": "English source: Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+        "reason_cn": "因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。"
+      }
+    },
+    {
       "token_id": "51035537065442638321333063915918274102446051033989435618245745345113522914516",
       "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
       "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
@@ -131,26 +228,26 @@
       ],
       "yes_price": 0.0075,
       "no_price": 0.9925,
-      "liquidity": 2731887.69,
-      "volume": 38689086.81,
+      "liquidity": 2760880.41,
+      "volume": 38965308.33,
       "chg_1h": 0.0,
-      "chg_4h": null,
-      "chg_24h": null,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
       "chg_7d": null,
-      "latest_ts": "2026-06-12T20:12:03",
+      "latest_ts": "2026-06-19T14:00:00",
       "features": {
         "token_id": "51035537065442638321333063915918274102446051033989435618245745345113522914516",
         "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
         "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
         "yes_price": 0.0075,
         "no_price": 0.9925,
-        "liquidity": 2731887.68647,
-        "volume": 38689086.80509179,
-        "latest_ts": "2026-06-12T20:12:03",
-        "history_points": 66,
+        "liquidity": 2760880.41393,
+        "volume": 38965308.334661886,
+        "latest_ts": "2026-06-19T14:00:00",
+        "history_points": 85,
         "chg_1h": 0.0,
-        "chg_4h": null,
-        "chg_24h": null,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
         "chg_7d": null,
         "rsi_14": 100.0,
         "volatility": 0.0,
@@ -159,7 +256,7 @@
         "pct_rank_7d": 1.0,
         "pct_rank_30d": 1.0,
         "noise_score": 0.0,
-        "hours_to_event": 21075.799166666668,
+        "hours_to_event": 20914.0,
         "event_time": "2028-11-07",
         "spread": null
       },
@@ -200,125 +297,28 @@
         "label_en": "English source: Will MrBeast win the 2028 Democratic presidential nomination?",
         "reason_cn": "因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。"
       }
-    },
-    {
-      "token_id": "81633484456710374417231462107666791993850637546563366185897100962157481970040",
-      "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
-      "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
-      "regime": "carry_no",
-      "direction": "NO",
-      "confidence": 0.71,
-      "position": "medium",
-      "quality": 0.7,
-      "risk_score": 0.25,
-      "reasons": [
-        "ultra low YES price",
-        "better classified as carry_no than trend",
-        "stale low-vol carry_no",
-        "cluster=us_election"
-      ],
-      "risk_flags": [
-        "stale_carry_no"
-      ],
-      "advisory_flags": [
-        "stale_carry_no"
-      ],
-      "blocking_flags": [
-        "stale_carry_no"
-      ],
-      "yes_price": 0.0065,
-      "no_price": 0.9935,
-      "liquidity": 2562939.6,
-      "volume": 40620558.49,
-      "chg_1h": 0.0,
-      "chg_4h": null,
-      "chg_24h": null,
-      "chg_7d": null,
-      "latest_ts": "2026-06-12T20:12:03",
-      "features": {
-        "token_id": "81633484456710374417231462107666791993850637546563366185897100962157481970040",
-        "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
-        "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
-        "yes_price": 0.0065,
-        "no_price": 0.9935,
-        "liquidity": 2562939.60318,
-        "volume": 40620558.48641385,
-        "latest_ts": "2026-06-12T20:12:03",
-        "history_points": 66,
-        "chg_1h": 0.0,
-        "chg_4h": null,
-        "chg_24h": null,
-        "chg_7d": null,
-        "rsi_14": 100.0,
-        "volatility": 0.0,
-        "trend_slope_4h": 0.0,
-        "trend_slope_24h": 0.0,
-        "pct_rank_7d": 1.0,
-        "pct_rank_30d": 1.0,
-        "noise_score": 0.0,
-        "hours_to_event": 21075.799166666668,
-        "event_time": "2028-11-07",
-        "spread": null
-      },
-      "cluster": "us_election",
-      "catalyst_type": "stale_carry",
-      "execution_readiness": "do_not_touch",
-      "evidence_score": 0.398,
-      "thesis_summary": "[carry_no] NO on 'Will Phil Murphy win the 2028 Democratic presidential nomination?' because ultra low YES price.",
-      "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
-      "do_not_trade_if": [
-        "Any blocking flag remains active.",
-        "Advisory flags worsen or increase before entry.",
-        "Carry_no remains stale or still observe-only / blocked.",
-        "Liquidity/exit quality deteriorates materially before action."
-      ],
-      "display_title_cn": "选举盘：Phil Murphy能否赢得 2028 民主党总统提名？",
-      "display_slug": "dem-primary-phil-murphy",
-      "raw_question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
-      "cluster_label_cn": "美国大选",
-      "regime_label_cn": "低效拖时间盘",
-      "readiness_label_cn": "不碰",
-      "blocking_flags_cn": [
-        "stale_carry_no"
-      ],
-      "risk_flags_cn": [
-        "stale_carry_no"
-      ],
-      "advisory_flags_cn": [
-        "stale_carry_no"
-      ],
-      "thesis_cn": "这是一笔来自“美国大选”的低效拖时间盘型线索，目前方向偏向 NO。",
-      "why_now_cn": "它属于“美国大选”里的低效拖时间盘型线索，虽然爆发力一般，但还值得继续盯一眼。",
-      "bilingual_link": {
-        "title_cn": "选举盘：Phil Murphy能否赢得 2028 民主党总统提名？",
-        "title_en": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
-        "url": "https://polymarket.com/question/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
-        "label_cn": "中文导读：选举盘：Phil Murphy能否赢得 2028 民主党总统提名？",
-        "label_en": "English source: Will Phil Murphy win the 2028 Democratic presidential nomination?",
-        "reason_cn": "因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。"
-      }
     }
   ],
   "best_regimes": [
     {
-      "name": "carry_no",
-      "score": -0.2,
-      "total": 21,
+      "name": "trend",
+      "score": -0.3,
+      "total": 3,
       "hit": 0,
       "miss": 0,
-      "flat": 0,
-      "unresolved": 21,
-      "avg_confidence": 0.71,
-      "name_cn": "低效拖时间盘"
+      "flat": 1,
+      "unresolved": 2,
+      "avg_confidence": 0.6744,
+      "name_cn": "趋势延续"
     },
     {
       "name": "mean_revert",
-      "score": -0.2,
+      "score": -0.4,
       "total": 11,
       "hit": 0,
-      "miss": 0,
-      "flat": 0,
-      "unresolved": 11,
+      "miss": 1,
+      "flat": 8,
+      "unresolved": 2,
       "avg_confidence": 0.6222,
       "name_cn": "均值回归"
     }
@@ -326,25 +326,25 @@
   "worst_clusters": [
     {
       "name": "world_cup",
-      "score": -0.2,
+      "score": -0.5,
       "total": 13,
       "hit": 0,
       "miss": 0,
-      "flat": 0,
-      "unresolved": 13,
+      "flat": 13,
+      "unresolved": 0,
       "avg_confidence": 0.71,
       "name_cn": "世界杯主题"
     },
     {
-      "name": "us_election",
-      "score": -0.2,
-      "total": 13,
+      "name": "gta_vi",
+      "score": -0.5,
+      "total": 4,
       "hit": 0,
       "miss": 0,
-      "flat": 0,
-      "unresolved": 13,
-      "avg_confidence": 0.6815,
-      "name_cn": "美国大选"
+      "flat": 4,
+      "unresolved": 0,
+      "avg_confidence": 0.624,
+      "name_cn": "GTA VI 主题"
     }
   ],
   "paper_gate_eligible": false,
