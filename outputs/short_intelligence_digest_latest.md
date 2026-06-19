@@ -35,9 +35,9 @@
   原始题目: Will Hillary Clinton win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=-0.3 | total=3
-- 倾向保留: 均值回归 | score=-0.4 | total=11
-- 应继续降权: 世界杯主题 | score=-0.5 | flat=13
+- 倾向保留: 趋势延续 | score=-0.2 | total=2
+- 倾向保留: 均值回归 | score=-0.3778 | total=9
+- 应继续降权: 世界杯主题 | score=-0.5 | flat=12
 - 应继续降权: GTA VI 主题 | score=-0.5 | flat=4
 
 ## 编辑注
