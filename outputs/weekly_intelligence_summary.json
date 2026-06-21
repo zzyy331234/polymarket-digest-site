@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T00:30:38",
+  "generated_at": "2026-06-22T01:13:35",
   "window_days": 7,
   "review_count": 40,
   "regime_stats": {
@@ -12,18 +12,18 @@
       "avg_confidence": 0.71
     },
     "mean_revert": {
-      "total": 12,
+      "total": 13,
       "hit": 0,
       "miss": 0,
-      "flat": 10,
+      "flat": 11,
       "unresolved": 2,
-      "avg_confidence": 0.6307
+      "avg_confidence": 0.6332
     },
     "trend": {
-      "total": 2,
+      "total": 1,
       "hit": 0,
       "miss": 0,
-      "flat": 2,
+      "flat": 1,
       "unresolved": 0,
       "avg_confidence": 0.66
     }
@@ -43,7 +43,7 @@
       "miss": 0,
       "flat": 17,
       "unresolved": 0,
-      "avg_confidence": 0.6865
+      "avg_confidence": 0.6867
     },
     "gta_vi": {
       "total": 5,
@@ -66,21 +66,21 @@
     "best": [
       {
         "name": "mean_revert",
-        "score": -0.45,
-        "total": 12,
+        "score": -0.4538,
+        "total": 13,
         "hit": 0,
         "miss": 0,
-        "flat": 10,
+        "flat": 11,
         "unresolved": 2,
-        "avg_confidence": 0.6307
+        "avg_confidence": 0.6332
       },
       {
         "name": "trend",
         "score": -0.5,
-        "total": 2,
+        "total": 1,
         "hit": 0,
         "miss": 0,
-        "flat": 2,
+        "flat": 1,
         "unresolved": 0,
         "avg_confidence": 0.66
       },
@@ -109,22 +109,22 @@
       {
         "name": "trend",
         "score": -0.5,
-        "total": 2,
+        "total": 1,
         "hit": 0,
         "miss": 0,
-        "flat": 2,
+        "flat": 1,
         "unresolved": 0,
         "avg_confidence": 0.66
       },
       {
         "name": "mean_revert",
-        "score": -0.45,
-        "total": 12,
+        "score": -0.4538,
+        "total": 13,
         "hit": 0,
         "miss": 0,
-        "flat": 10,
+        "flat": 11,
         "unresolved": 2,
-        "avg_confidence": 0.6307
+        "avg_confidence": 0.6332
       }
     ]
   },
@@ -168,7 +168,7 @@
         "miss": 0,
         "flat": 17,
         "unresolved": 0,
-        "avg_confidence": 0.6865
+        "avg_confidence": 0.6867
       }
     ],
     "worst": [
@@ -180,7 +180,7 @@
         "miss": 0,
         "flat": 17,
         "unresolved": 0,
-        "avg_confidence": 0.6865
+        "avg_confidence": 0.6867
       },
       {
         "name": "world_cup",
