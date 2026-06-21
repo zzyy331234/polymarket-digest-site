@@ -11,17 +11,17 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | YES | conf=0.67 | catalyst=price_dislocation
+- 当前无可直接关注 alert。
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
-- Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | blocking=
 - Will Panama win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Jordan win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will New Zealand win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
+- Will Qatar win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 146, 'miss': 8, 'hit': 5, 'pending': 41}
