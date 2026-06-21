@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T22:38:45",
+  "generated_at": "2026-06-21T23:13:54",
   "window_days": 7,
   "review_count": 40,
   "regime_stats": {
@@ -17,7 +17,7 @@
       "miss": 0,
       "flat": 10,
       "unresolved": 2,
-      "avg_confidence": 0.6307
+      "avg_confidence": 0.6257
     },
     "trend": {
       "total": 2,
@@ -51,7 +51,7 @@
       "miss": 0,
       "flat": 5,
       "unresolved": 0,
-      "avg_confidence": 0.624
+      "avg_confidence": 0.612
     },
     "other": {
       "total": 3,
@@ -72,7 +72,7 @@
         "miss": 0,
         "flat": 10,
         "unresolved": 2,
-        "avg_confidence": 0.6307
+        "avg_confidence": 0.6257
       },
       {
         "name": "trend",
@@ -124,7 +124,7 @@
         "miss": 0,
         "flat": 10,
         "unresolved": 2,
-        "avg_confidence": 0.6307
+        "avg_confidence": 0.6257
       }
     ]
   },
@@ -148,7 +148,7 @@
         "miss": 0,
         "flat": 5,
         "unresolved": 0,
-        "avg_confidence": 0.624
+        "avg_confidence": 0.612
       },
       {
         "name": "world_cup",
@@ -200,7 +200,7 @@
         "miss": 0,
         "flat": 5,
         "unresolved": 0,
-        "avg_confidence": 0.624
+        "avg_confidence": 0.612
       },
       {
         "name": "other",
