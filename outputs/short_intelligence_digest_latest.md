@@ -36,8 +36,8 @@
   原始题目: Will Jordan win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.4538 | total=13
-- 倾向保留: 趋势延续 | score=-0.5 | total=1
+- 倾向保留: 均值回归 | score=-0.45 | total=12
+- 倾向保留: 趋势延续 | score=-0.5 | total=2
 - 应继续降权: 美国大选 | score=-0.5 | flat=17
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=15
 
