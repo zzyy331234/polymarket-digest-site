@@ -36,10 +36,10 @@
   原始题目: Will Jordan win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.4667 | total=9
+- 倾向保留: 均值回归 | score=-0.45 | total=12
 - 倾向保留: 低效拖时间盘 | score=-0.5 | total=20
 - 应继续降权: 世界杯主题 | score=-0.5 | flat=12
-- 应继续降权: 美国大选 | score=-0.5 | flat=11
+- 应继续降权: 美国大选 | score=-0.5 | flat=12
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
