@@ -2,27 +2,27 @@
 
 ## 周度结论
 - window_days: 7
-- review_count: 32
+- review_count: 40
 - paper win_rate=0.0667 flat_rate=0.6 pnl=-0.14775
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- mean_revert: score=-0.45 total=12 hit=0 flat=10 unresolved=2 avg_conf=0.624
-- carry_no: score=-0.5 total=20 hit=0 flat=20 unresolved=0 avg_conf=0.71
+- mean_revert: score=-0.4571 total=14 hit=0 flat=12 unresolved=2 avg_conf=0.6269
+- carry_no: score=-0.5 total=26 hit=0 flat=26 unresolved=0 avg_conf=0.71
 
 ## Worst Regimes
-- carry_no: score=-0.5 total=20 hit=0 flat=20 unresolved=0 avg_conf=0.71
-- mean_revert: score=-0.45 total=12 hit=0 flat=10 unresolved=2 avg_conf=0.624
+- carry_no: score=-0.5 total=26 hit=0 flat=26 unresolved=0 avg_conf=0.71
+- mean_revert: score=-0.4571 total=14 hit=0 flat=12 unresolved=2 avg_conf=0.6269
 
 ## Best Clusters
 - other: score=-0.3 total=3 hit=0 flat=1 unresolved=2 avg_conf=0.624
 - gta_vi: score=-0.5 total=5 hit=0 flat=5 unresolved=0 avg_conf=0.624
-- world_cup: score=-0.5 total=12 hit=0 flat=12 unresolved=0 avg_conf=0.71
-- us_election: score=-0.5 total=12 hit=0 flat=12 unresolved=0 avg_conf=0.6813
+- world_cup: score=-0.5 total=15 hit=0 flat=15 unresolved=0 avg_conf=0.71
+- us_election: score=-0.5 total=17 hit=0 flat=17 unresolved=0 avg_conf=0.682
 
 ## Worst Clusters
-- world_cup: score=-0.5 total=12 hit=0 flat=12 unresolved=0 avg_conf=0.71
-- us_election: score=-0.5 total=12 hit=0 flat=12 unresolved=0 avg_conf=0.6813
+- us_election: score=-0.5 total=17 hit=0 flat=17 unresolved=0 avg_conf=0.682
+- world_cup: score=-0.5 total=15 hit=0 flat=15 unresolved=0 avg_conf=0.71
 - gta_vi: score=-0.5 total=5 hit=0 flat=5 unresolved=0 avg_conf=0.624
 - other: score=-0.3 total=3 hit=0 flat=1 unresolved=2 avg_conf=0.624
 
