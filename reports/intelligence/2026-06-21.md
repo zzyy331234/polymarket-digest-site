@@ -24,7 +24,7 @@
 - Will Haiti win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 145, 'miss': 8, 'hit': 5, 'pending': 42}
+- outcomes: {'flat': 146, 'miss': 8, 'hit': 5, 'pending': 41}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
