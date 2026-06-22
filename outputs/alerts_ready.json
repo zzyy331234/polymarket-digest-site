@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "token_id": "43907673646206657865778036957293730446366626078011238443367990170655175896145",
+    "question": "Will Ghana win the 2026 FIFA World Cup?",
+    "slug": "will-ghana-win-the-2026-fifa-world-cup",
+    "regime": "carry_no",
+    "direction": "NO",
+    "confidence": 0.71,
+    "position": "medium",
+    "quality": 0.7,
+    "risk_score": 0.25,
+    "reasons": [
+      "ultra low YES price",
+      "better classified as carry_no than trend",
+      "cluster=world_cup"
+    ],
+    "risk_flags": [],
+    "advisory_flags": [],
+    "blocking_flags": [],
+    "yes_price": 0.0005,
+    "no_price": 0.9995,
+    "liquidity": 17766437.47,
+    "volume": 58532891.11,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": null,
+    "latest_ts": "2026-06-22T08:22:11",
+    "features": {
+      "token_id": "43907673646206657865778036957293730446366626078011238443367990170655175896145",
+      "question": "Will Ghana win the 2026 FIFA World Cup?",
+      "slug": "will-ghana-win-the-2026-fifa-world-cup",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 17766437.47209,
+      "volume": 58532891.11135841,
+      "latest_ts": "2026-06-22T08:22:11",
+      "history_points": 723,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "rsi_14": 19.777411114633935,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.7551867219917012,
+      "pct_rank_30d": 0.7551867219917012,
+      "noise_score": 0.0,
+      "hours_to_event": 663.6302777777778,
+      "event_time": "2026-07-20",
+      "spread": null
+    },
+    "cluster": "world_cup",
+    "pipeline_score": 0.71,
+    "market_url": "https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup",
+    "templates": {
+      "short": "[carry_no] NO conf=0.71 | Will Ghana win the 2026 FIFA World Cup? | https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup",
+      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Ghana win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup",
+      "execution": "执行候选：[carry_no] NO\n问题：Will Ghana win the 2026 FIFA World Cup?\n建议仓位：medium\n当前YES：0.0005\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup"
+    },
+    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Ghana win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup"
+  }
+]

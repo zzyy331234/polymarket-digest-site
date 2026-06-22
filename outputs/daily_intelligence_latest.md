@@ -11,20 +11,20 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- 当前无可直接关注 alert。
+- [do_not_touch] Will Ghana win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
+- Will Ghana win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Panama win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Jordan win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will New Zealand win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
-- Will Qatar win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 146, 'miss': 8, 'hit': 5, 'pending': 41}
+- outcomes: {'flat': 145, 'miss': 8, 'hit': 5, 'pending': 42}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

@@ -4,7 +4,7 @@
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
 
 ## 今日主线
-今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、世界杯主题 这类 flat-heavy 噪音盘。
+今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、GTA VI 主题 这类 flat-heavy 噪音盘。
 
 ## 主观察池
 - 今天没有值得放进主栏的候选。
@@ -13,6 +13,12 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
+- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
+  链接（中文导读）: 中文导读：世界杯主题盘
+  Link (English source): English source: Will Ghana win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Ghana win the 2026 FIFA World Cup?
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：世界杯主题盘
@@ -27,19 +33,12 @@
   URL: https://polymarket.com/question/will-iraq-win-the-2026-fifa-world-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Iraq win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Jordan win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-jordan-win-the-2026-fifa-world-cup-233
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Jordan win the 2026 FIFA World Cup?
 
 ## 周度偏好
 - 倾向保留: 均值回归 | score=-0.4571 | total=14
-- 倾向保留: 低效拖时间盘 | score=-0.5 | total=26
+- 倾向保留: 低效拖时间盘 | score=-0.4885 | total=26
 - 应继续降权: 美国大选 | score=-0.5 | flat=17
-- 应继续降权: 世界杯主题 | score=-0.5 | flat=15
+- 应继续降权: GTA VI 主题 | score=-0.5 | flat=5
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
