@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "token_id": "43661509251351142169227141691164122649250455115438867334436875294380701133091",
+    "question": "Will Australia win the 2026 FIFA World Cup?",
+    "slug": "will-australia-win-the-2026-fifa-world-cup-816",
+    "regime": "carry_no",
+    "direction": "NO",
+    "confidence": 0.71,
+    "position": "medium",
+    "quality": 0.7,
+    "risk_score": 0.25,
+    "reasons": [
+      "ultra low YES price",
+      "better classified as carry_no than trend",
+      "cluster=world_cup"
+    ],
+    "risk_flags": [],
+    "advisory_flags": [],
+    "blocking_flags": [],
+    "yes_price": 0.0025,
+    "no_price": 0.9975,
+    "liquidity": 20283039.74,
+    "volume": 71818020.63,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": null,
+    "latest_ts": "2026-06-22T18:56:56",
+    "features": {
+      "token_id": "43661509251351142169227141691164122649250455115438867334436875294380701133091",
+      "question": "Will Australia win the 2026 FIFA World Cup?",
+      "slug": "will-australia-win-the-2026-fifa-world-cup-816",
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "liquidity": 20283039.73756,
+      "volume": 71818020.6332872,
+      "latest_ts": "2026-06-22T18:56:56",
+      "history_points": 759,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "rsi_14": 0.0,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.49670619235836627,
+      "pct_rank_30d": 0.49670619235836627,
+      "noise_score": 0.0,
+      "hours_to_event": 653.0511111111111,
+      "event_time": "2026-07-20",
+      "spread": null
+    },
+    "cluster": "world_cup",
+    "pipeline_score": 0.71,
+    "market_url": "https://polymarket.com/question/will-australia-win-the-2026-fifa-world-cup-816",
+    "templates": {
+      "short": "[carry_no] NO conf=0.71 | Will Australia win the 2026 FIFA World Cup? | https://polymarket.com/question/will-australia-win-the-2026-fifa-world-cup-816",
+      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Australia win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-australia-win-the-2026-fifa-world-cup-816",
+      "execution": "执行候选：[carry_no] NO\n问题：Will Australia win the 2026 FIFA World Cup?\n建议仓位：medium\n当前YES：0.0025\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-australia-win-the-2026-fifa-world-cup-816"
+    },
+    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Australia win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-australia-win-the-2026-fifa-world-cup-816"
+  }
+]
