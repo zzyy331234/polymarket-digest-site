@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T00:36:33",
+  "generated_at": "2026-06-23T01:02:43",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-06-23",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
@@ -27,23 +27,23 @@
       "blocking_flags": [],
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 20539810.2,
-      "volume": 72139854.04,
+      "liquidity": 20547943.44,
+      "volume": 72148731.82,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "latest_ts": "2026-06-23T00:20:03",
+      "latest_ts": "2026-06-23T00:47:05",
       "features": {
         "token_id": "43661509251351142169227141691164122649250455115438867334436875294380701133091",
         "question": "Will Australia win the 2026 FIFA World Cup?",
         "slug": "will-australia-win-the-2026-fifa-world-cup-816",
         "yes_price": 0.0025,
         "no_price": 0.9975,
-        "liquidity": 20539810.19695,
-        "volume": 72139854.04345319,
-        "latest_ts": "2026-06-23T00:20:03",
-        "history_points": 777,
+        "liquidity": 20547943.44059,
+        "volume": 72148731.82345319,
+        "latest_ts": "2026-06-23T00:47:05",
+        "history_points": 779,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -52,10 +52,10 @@
         "volatility": 0.0,
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
-        "pct_rank_7d": 0.5083655083655083,
-        "pct_rank_30d": 0.5083655083655083,
+        "pct_rank_7d": 0.5096277278562259,
+        "pct_rank_30d": 0.5096277278562259,
         "noise_score": 0.0,
-        "hours_to_event": 647.6658333333334,
+        "hours_to_event": 647.2152777777778,
         "event_time": "2026-07-20",
         "spread": null
       },
@@ -91,104 +91,6 @@
       }
     },
     {
-      "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995",
-      "question": "Will Iraq win the 2026 FIFA World Cup?",
-      "slug": "will-iraq-win-the-2026-fifa-world-cup",
-      "regime": "carry_no",
-      "direction": "NO",
-      "confidence": 0.71,
-      "position": "medium",
-      "quality": 0.7,
-      "risk_score": 0.25,
-      "reasons": [
-        "ultra low YES price",
-        "better classified as carry_no than trend",
-        "stale low-vol carry_no",
-        "cluster=world_cup"
-      ],
-      "risk_flags": [
-        "stale_carry_no"
-      ],
-      "advisory_flags": [
-        "stale_carry_no"
-      ],
-      "blocking_flags": [
-        "stale_carry_no"
-      ],
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "liquidity": 30812140.94,
-      "volume": 30423822.09,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": null,
-      "latest_ts": "2026-06-23T00:20:03",
-      "features": {
-        "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995",
-        "question": "Will Iraq win the 2026 FIFA World Cup?",
-        "slug": "will-iraq-win-the-2026-fifa-world-cup",
-        "yes_price": 0.0005,
-        "no_price": 0.9995,
-        "liquidity": 30812140.94279,
-        "volume": 30423822.09271094,
-        "latest_ts": "2026-06-23T00:20:03",
-        "history_points": 777,
-        "chg_1h": 0.0,
-        "chg_4h": 0.0,
-        "chg_24h": 0.0,
-        "chg_7d": null,
-        "rsi_14": 100.0,
-        "volatility": 0.0,
-        "trend_slope_4h": 0.0,
-        "trend_slope_24h": 0.0,
-        "pct_rank_7d": 1.0,
-        "pct_rank_30d": 1.0,
-        "noise_score": 0.0,
-        "hours_to_event": 647.6658333333334,
-        "event_time": "2026-07-20",
-        "spread": null
-      },
-      "cluster": "world_cup",
-      "catalyst_type": "theme_cluster",
-      "execution_readiness": "do_not_touch",
-      "evidence_score": 0.398,
-      "thesis_summary": "[carry_no] NO on 'Will Iraq win the 2026 FIFA World Cup?' because ultra low YES price.",
-      "why_now": "Relevant within active cluster=world_cup and current regime=carry_no.",
-      "do_not_trade_if": [
-        "Any blocking flag remains active.",
-        "Advisory flags worsen or increase before entry.",
-        "World Cup cluster remains blocked / low-tradability heavy.",
-        "Carry_no remains stale or still observe-only / blocked.",
-        "Liquidity/exit quality deteriorates materially before action."
-      ],
-      "display_title_cn": "世界杯主题盘",
-      "display_slug": "world-cup-theme",
-      "raw_question": "Will Iraq win the 2026 FIFA World Cup?",
-      "cluster_label_cn": "世界杯主题",
-      "regime_label_cn": "低效拖时间盘",
-      "readiness_label_cn": "不碰",
-      "blocking_flags_cn": [
-        "stale_carry_no"
-      ],
-      "risk_flags_cn": [
-        "stale_carry_no"
-      ],
-      "advisory_flags_cn": [
-        "stale_carry_no"
-      ],
-      "thesis_cn": "这是一笔来自“世界杯主题”的低效拖时间盘型线索，目前方向偏向 NO。",
-      "why_now_cn": "它属于“世界杯主题”里的低效拖时间盘型线索，虽然爆发力一般，但还值得继续盯一眼。",
-      "bilingual_link": {
-        "title_cn": "世界杯主题盘",
-        "title_en": "Will Iraq win the 2026 FIFA World Cup?",
-        "url": "https://polymarket.com/question/will-iraq-win-the-2026-fifa-world-cup",
-        "label_cn": "中文导读：世界杯主题盘",
-        "label_en": "English source: Will Iraq win the 2026 FIFA World Cup?",
-        "reason_cn": "因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。"
-      }
-    },
-    {
       "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486",
       "question": "Will Panama win the 2026 FIFA World Cup?",
       "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
@@ -215,23 +117,23 @@
       ],
       "yes_price": 0.0005,
       "no_price": 0.9995,
-      "liquidity": 30713630.17,
+      "liquidity": 30844621.95,
       "volume": 20043160.07,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "latest_ts": "2026-06-23T00:20:03",
+      "latest_ts": "2026-06-23T00:47:05",
       "features": {
         "token_id": "112181485529919660901332188537214992263355343785744498550605179448744432717486",
         "question": "Will Panama win the 2026 FIFA World Cup?",
         "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
         "yes_price": 0.0005,
         "no_price": 0.9995,
-        "liquidity": 30713630.17046,
+        "liquidity": 30844621.9527,
         "volume": 20043160.065756883,
-        "latest_ts": "2026-06-23T00:20:03",
-        "history_points": 777,
+        "latest_ts": "2026-06-23T00:47:05",
+        "history_points": 779,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -243,7 +145,7 @@
         "pct_rank_7d": 1.0,
         "pct_rank_30d": 1.0,
         "noise_score": 0.0,
-        "hours_to_event": 647.6658333333334,
+        "hours_to_event": 647.2152777777778,
         "event_time": "2026-07-20",
         "spread": null
       },
@@ -283,6 +185,104 @@
         "url": "https://polymarket.com/question/will-team-z-win-the-2026-fifa-world-cup-316",
         "label_cn": "中文导读：世界杯主题盘",
         "label_en": "English source: Will Panama win the 2026 FIFA World Cup?",
+        "reason_cn": "因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。"
+      }
+    },
+    {
+      "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995",
+      "question": "Will Iraq win the 2026 FIFA World Cup?",
+      "slug": "will-iraq-win-the-2026-fifa-world-cup",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "stale low-vol carry_no",
+        "cluster=world_cup"
+      ],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 30836655.5,
+      "volume": 30423822.09,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "latest_ts": "2026-06-23T00:47:05",
+      "features": {
+        "token_id": "53465512181802150755993130711224070738002100921790051090044528012833736167995",
+        "question": "Will Iraq win the 2026 FIFA World Cup?",
+        "slug": "will-iraq-win-the-2026-fifa-world-cup",
+        "yes_price": 0.0005,
+        "no_price": 0.9995,
+        "liquidity": 30836655.49979,
+        "volume": 30423822.09271094,
+        "latest_ts": "2026-06-23T00:47:05",
+        "history_points": 779,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": 0.0,
+        "chg_7d": null,
+        "rsi_14": 100.0,
+        "volatility": 0.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": 0.0,
+        "hours_to_event": 647.2152777777778,
+        "event_time": "2026-07-20",
+        "spread": null
+      },
+      "cluster": "world_cup",
+      "catalyst_type": "theme_cluster",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will Iraq win the 2026 FIFA World Cup?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=world_cup and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "World Cup cluster remains blocked / low-tradability heavy.",
+        "Carry_no remains stale or still observe-only / blocked.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ],
+      "display_title_cn": "世界杯主题盘",
+      "display_slug": "world-cup-theme",
+      "raw_question": "Will Iraq win the 2026 FIFA World Cup?",
+      "cluster_label_cn": "世界杯主题",
+      "regime_label_cn": "低效拖时间盘",
+      "readiness_label_cn": "不碰",
+      "blocking_flags_cn": [
+        "stale_carry_no"
+      ],
+      "risk_flags_cn": [
+        "stale_carry_no"
+      ],
+      "advisory_flags_cn": [
+        "stale_carry_no"
+      ],
+      "thesis_cn": "这是一笔来自“世界杯主题”的低效拖时间盘型线索，目前方向偏向 NO。",
+      "why_now_cn": "它属于“世界杯主题”里的低效拖时间盘型线索，虽然爆发力一般，但还值得继续盯一眼。",
+      "bilingual_link": {
+        "title_cn": "世界杯主题盘",
+        "title_en": "Will Iraq win the 2026 FIFA World Cup?",
+        "url": "https://polymarket.com/question/will-iraq-win-the-2026-fifa-world-cup",
+        "label_cn": "中文导读：世界杯主题盘",
+        "label_en": "English source: Will Iraq win the 2026 FIFA World Cup?",
         "reason_cn": "因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。"
       }
     }
