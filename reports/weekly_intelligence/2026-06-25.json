@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T03:05:47",
+  "generated_at": "2026-06-25T03:37:53",
   "window_days": 7,
   "review_count": 43,
   "regime_stats": {
@@ -13,11 +13,11 @@
     },
     "mean_revert": {
       "total": 13,
-      "hit": 0,
+      "hit": 1,
       "miss": 0,
-      "flat": 11,
+      "flat": 10,
       "unresolved": 2,
-      "avg_confidence": 0.6271
+      "avg_confidence": 0.6178
     },
     "trend": {
       "total": 1,
@@ -43,15 +43,7 @@
       "miss": 0,
       "flat": 19,
       "unresolved": 0,
-      "avg_confidence": 0.6849
-    },
-    "gta_vi": {
-      "total": 5,
-      "hit": 0,
-      "miss": 0,
-      "flat": 5,
-      "unresolved": 0,
-      "avg_confidence": 0.624
+      "avg_confidence": 0.6818
     },
     "other": {
       "total": 3,
@@ -60,19 +52,27 @@
       "flat": 1,
       "unresolved": 2,
       "avg_confidence": 0.6172
+    },
+    "gta_vi": {
+      "total": 5,
+      "hit": 1,
+      "miss": 0,
+      "flat": 4,
+      "unresolved": 0,
+      "avg_confidence": 0.612
     }
   },
   "ranked_regimes": {
     "best": [
       {
         "name": "mean_revert",
-        "score": -0.4538,
+        "score": -0.3385,
         "total": 13,
-        "hit": 0,
+        "hit": 1,
         "miss": 0,
-        "flat": 11,
+        "flat": 10,
         "unresolved": 2,
-        "avg_confidence": 0.6271
+        "avg_confidence": 0.6178
       },
       {
         "name": "carry_no",
@@ -118,18 +118,28 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.4538,
+        "score": -0.3385,
         "total": 13,
-        "hit": 0,
+        "hit": 1,
         "miss": 0,
-        "flat": 11,
+        "flat": 10,
         "unresolved": 2,
-        "avg_confidence": 0.6271
+        "avg_confidence": 0.6178
       }
     ]
   },
   "ranked_clusters": {
     "best": [
+      {
+        "name": "gta_vi",
+        "score": -0.2,
+        "total": 5,
+        "hit": 1,
+        "miss": 0,
+        "flat": 4,
+        "unresolved": 0,
+        "avg_confidence": 0.612
+      },
       {
         "name": "other",
         "score": -0.3,
@@ -151,16 +161,6 @@
         "avg_confidence": 0.71
       },
       {
-        "name": "gta_vi",
-        "score": -0.5,
-        "total": 5,
-        "hit": 0,
-        "miss": 0,
-        "flat": 5,
-        "unresolved": 0,
-        "avg_confidence": 0.624
-      },
-      {
         "name": "us_election",
         "score": -0.5,
         "total": 19,
@@ -168,7 +168,7 @@
         "miss": 0,
         "flat": 19,
         "unresolved": 0,
-        "avg_confidence": 0.6849
+        "avg_confidence": 0.6818
       }
     ],
     "worst": [
@@ -180,17 +180,7 @@
         "miss": 0,
         "flat": 19,
         "unresolved": 0,
-        "avg_confidence": 0.6849
-      },
-      {
-        "name": "gta_vi",
-        "score": -0.5,
-        "total": 5,
-        "hit": 0,
-        "miss": 0,
-        "flat": 5,
-        "unresolved": 0,
-        "avg_confidence": 0.624
+        "avg_confidence": 0.6818
       },
       {
         "name": "world_cup",
@@ -211,6 +201,16 @@
         "flat": 1,
         "unresolved": 2,
         "avg_confidence": 0.6172
+      },
+      {
+        "name": "gta_vi",
+        "score": -0.2,
+        "total": 5,
+        "hit": 1,
+        "miss": 0,
+        "flat": 4,
+        "unresolved": 0,
+        "avg_confidence": 0.612
       }
     ]
   },
