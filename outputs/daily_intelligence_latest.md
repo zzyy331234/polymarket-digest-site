@@ -17,8 +17,8 @@
 - 当前无 watchlist。
 
 ## 今日避坑
-- Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Panama win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
+- Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will New Zealand win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Jordan win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Qatar win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
