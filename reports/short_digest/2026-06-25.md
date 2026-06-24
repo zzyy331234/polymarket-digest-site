@@ -36,9 +36,9 @@
   原始题目: Will New Zealand win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.3 | total=13
+- 倾向保留: 均值回归 | score=-0.3385 | total=13
 - 倾向保留: 低效拖时间盘 | score=-0.4793 | total=29
-- 应继续降权: 美国大选 | score=-0.4737 | flat=18
+- 应继续降权: 美国大选 | score=-0.5 | flat=19
 - 应继续降权: 世界杯主题 | score=-0.4625 | flat=14
 
 ## 编辑注
