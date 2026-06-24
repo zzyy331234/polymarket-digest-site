@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:13:47",
+  "generated_at": "2026-06-24T09:31:37",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-06-24",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
@@ -311,7 +311,7 @@
       "miss": 0,
       "flat": 11,
       "unresolved": 2,
-      "avg_confidence": 0.6302,
+      "avg_confidence": 0.6271,
       "name_cn": "均值回归"
     },
     {
@@ -335,7 +335,7 @@
       "miss": 0,
       "flat": 19,
       "unresolved": 0,
-      "avg_confidence": 0.6871,
+      "avg_confidence": 0.6849,
       "name_cn": "美国大选"
     },
     {
