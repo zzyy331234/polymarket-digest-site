@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-24T13:08:29",
+  "generated_at": "2026-06-24T13:35:37",
   "window_days": 7,
-  "review_count": 42,
+  "review_count": 43,
   "regime_stats": {
     "carry_no": {
-      "total": 28,
+      "total": 29,
       "hit": 0,
       "miss": 0,
-      "flat": 26,
+      "flat": 27,
       "unresolved": 2,
       "avg_confidence": 0.71
     },
@@ -30,10 +30,10 @@
   },
   "cluster_stats": {
     "world_cup": {
-      "total": 15,
+      "total": 16,
       "hit": 0,
       "miss": 0,
-      "flat": 13,
+      "flat": 14,
       "unresolved": 2,
       "avg_confidence": 0.71
     },
@@ -76,11 +76,11 @@
       },
       {
         "name": "carry_no",
-        "score": -0.4786,
-        "total": 28,
+        "score": -0.4793,
+        "total": 29,
         "hit": 0,
         "miss": 0,
-        "flat": 26,
+        "flat": 27,
         "unresolved": 2,
         "avg_confidence": 0.71
       },
@@ -108,11 +108,11 @@
       },
       {
         "name": "carry_no",
-        "score": -0.4786,
-        "total": 28,
+        "score": -0.4793,
+        "total": 29,
         "hit": 0,
         "miss": 0,
-        "flat": 26,
+        "flat": 27,
         "unresolved": 2,
         "avg_confidence": 0.71
       },
@@ -142,11 +142,11 @@
       },
       {
         "name": "world_cup",
-        "score": -0.46,
-        "total": 15,
+        "score": -0.4625,
+        "total": 16,
         "hit": 0,
         "miss": 0,
-        "flat": 13,
+        "flat": 14,
         "unresolved": 2,
         "avg_confidence": 0.71
       },
@@ -194,11 +194,11 @@
       },
       {
         "name": "world_cup",
-        "score": -0.46,
-        "total": 15,
+        "score": -0.4625,
+        "total": 16,
         "hit": 0,
         "miss": 0,
-        "flat": 13,
+        "flat": 14,
         "unresolved": 2,
         "avg_confidence": 0.71
       },
