@@ -14,6 +14,12 @@
 
 ## 今天不碰
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
+  链接（中文导读）: 中文导读：世界杯主题盘
+  Link (English source): English source: Will Congo DR win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-congo-dr-win-the-2026-fifa-world-cup
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Congo DR win the 2026 FIFA World Cup?
+- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：世界杯主题盘
   Link (English source): English source: Will Iraq win the 2026 FIFA World Cup?
@@ -27,23 +33,16 @@
   URL: https://polymarket.com/question/will-team-z-win-the-2026-fifa-world-cup-316
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Panama win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will New Zealand win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-new-zealand-win-the-2026-fifa-world-cup-635
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will New Zealand win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.325 | total=12
+- 倾向保留: 均值回归 | score=-0.35 | total=14
 - 倾向保留: 低效拖时间盘 | score=-0.4556 | total=27
 - 应继续降权: 美国大选 | score=-0.5 | flat=17
 - 应继续降权: 世界杯主题 | score=-0.425 | flat=12
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
-- 趋势延续 仍是最弱 regime，不值得给额外注意力。
+- 低效拖时间盘 仍是最弱 regime，不值得给额外注意力。
 - 样刊主栏宁可少，也不要把低质量主题盘硬塞进去。
 - 对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。
 

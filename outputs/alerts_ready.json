@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "token_id": "87403333427856945144645806003352057704193778078820484282942507058200689996202",
+    "question": "Will Congo DR win the 2026 FIFA World Cup?",
+    "slug": "will-congo-dr-win-the-2026-fifa-world-cup",
+    "regime": "carry_no",
+    "direction": "NO",
+    "confidence": 0.71,
+    "position": "medium",
+    "quality": 0.7,
+    "risk_score": 0.25,
+    "reasons": [
+      "ultra low YES price",
+      "better classified as carry_no than trend",
+      "cluster=world_cup"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0005,
+    "no_price": 0.9995,
+    "liquidity": 20814797.07,
+    "volume": 86363588.81,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": -0.6666666666666666,
+    "latest_ts": "2026-06-26T14:54:02",
+    "features": {
+      "token_id": "87403333427856945144645806003352057704193778078820484282942507058200689996202",
+      "question": "Will Congo DR win the 2026 FIFA World Cup?",
+      "slug": "will-congo-dr-win-the-2026-fifa-world-cup",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 20814797.07058,
+      "volume": 86363588.81207162,
+      "latest_ts": "2026-06-26T14:54:02",
+      "history_points": 1419,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": -0.6666666666666666,
+      "rsi_14": 29.125189313284352,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.21021465581051074,
+      "pct_rank_30d": 0.20014094432699084,
+      "noise_score": 0.0,
+      "hours_to_event": 561.0994444444444,
+      "event_time": "2026-07-20",
+      "spread": null
+    },
+    "cluster": "world_cup",
+    "pipeline_score": 0.6799999999999999,
+    "market_url": "https://polymarket.com/question/will-congo-dr-win-the-2026-fifa-world-cup",
+    "templates": {
+      "short": "[carry_no] NO conf=0.71 | Will Congo DR win the 2026 FIFA World Cup? | https://polymarket.com/question/will-congo-dr-win-the-2026-fifa-world-cup",
+      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Congo DR win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-congo-dr-win-the-2026-fifa-world-cup",
+      "execution": "执行候选：[carry_no] NO\n问题：Will Congo DR win the 2026 FIFA World Cup?\n建议仓位：medium\n当前YES：0.0005\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-congo-dr-win-the-2026-fifa-world-cup"
+    },
+    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Congo DR win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-congo-dr-win-the-2026-fifa-world-cup"
+  }
+]
