@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-28T18:00:30",
+  "generated_at": "2026-06-28T18:30:29",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-06-28",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、其他事件 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、世界杯主题 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -289,6 +289,17 @@
   ],
   "best_regimes": [
     {
+      "name": "mean_revert",
+      "score": -0.3462,
+      "total": 13,
+      "hit": 1,
+      "miss": 1,
+      "flat": 11,
+      "unresolved": 0,
+      "avg_confidence": 0.6178,
+      "name_cn": "均值回归"
+    },
+    {
       "name": "carry_no",
       "score": -0.3625,
       "total": 24,
@@ -298,17 +309,6 @@
       "unresolved": 11,
       "avg_confidence": 0.71,
       "name_cn": "低效拖时间盘"
-    },
-    {
-      "name": "mean_revert",
-      "score": -0.3846,
-      "total": 13,
-      "hit": 1,
-      "miss": 0,
-      "flat": 12,
-      "unresolved": 0,
-      "avg_confidence": 0.6178,
-      "name_cn": "均值回归"
     }
   ],
   "worst_clusters": [
@@ -324,15 +324,15 @@
       "name_cn": "美国大选"
     },
     {
-      "name": "other",
-      "score": -0.5,
-      "total": 2,
+      "name": "world_cup",
+      "score": -0.2938,
+      "total": 16,
       "hit": 0,
       "miss": 0,
-      "flat": 2,
-      "unresolved": 0,
-      "avg_confidence": 0.594,
-      "name_cn": "其他事件"
+      "flat": 5,
+      "unresolved": 11,
+      "avg_confidence": 0.71,
+      "name_cn": "世界杯主题"
     }
   ],
   "paper_gate_eligible": false,
@@ -344,7 +344,7 @@
   },
   "editor_notes": [
     "当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。",
-    "均值回归 仍是最弱 regime，不值得给额外注意力。",
+    "低效拖时间盘 仍是最弱 regime，不值得给额外注意力。",
     "样刊主栏宁可少，也不要把低质量主题盘硬塞进去。",
     "对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。"
   ]
