@@ -1208,10 +1208,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
