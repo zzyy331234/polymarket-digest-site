@@ -1929,3 +1929,4 @@
 {"type": "halt", "time": "2026-07-01T06:12:04", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-01T06:30:28", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-01T07:12:09", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-07-01T07:30:31", "reason": "daily_loss_halt"}
