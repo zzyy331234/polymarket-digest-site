@@ -11,21 +11,21 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
+- [do_not_touch] Will Egypt win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Congo DR win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
-- [do_not_touch] Will Australia win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
 - Will Congo DR win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
-- Will Australia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
+- Will Egypt win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Panama win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will New Zealand win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 138, 'miss': 8, 'hit': 6, 'pending': 48}
+- outcomes: {'flat': 139, 'miss': 8, 'hit': 6, 'pending': 47}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
