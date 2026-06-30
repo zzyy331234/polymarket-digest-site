@@ -17,9 +17,3 @@
 - Cluster: us_election
 - URL: https://polymarket.com/question/will-jd-vance-win-the-2028-us-presidential-election
 - 原因: 4h move visible, 24h move strong, 4h and 24h aligned
-
-## 4. [trend] YES conf=0.67
-- 问题: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
-- Cluster: us_election
-- URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
-- 原因: 4h move visible, 24h move strong, 4h and 24h aligned

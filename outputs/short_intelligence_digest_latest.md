@@ -25,12 +25,12 @@
   URL: https://polymarket.com/question/will-egypt-win-the-2026-fifa-world-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Egypt win the 2026 FIFA World Cup?
-- 选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 美国总统大选？ | 美国大选 | 趋势延续
-  链接（中文导读）: 中文导读：选举盘：亚历山大·奥卡西奥-科尔特斯能否赢得 2028 美国总统大选？
-  Link (English source): English source: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
-  URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
+- 选举盘：JD Vance能否赢得 2028 美国总统大选？ | 美国大选 | 趋势延续
+  链接（中文导读）: 中文导读：选举盘：JD Vance能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will JD Vance win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-jd-vance-win-the-2028-us-presidential-election
   值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
+  原始题目: Will JD Vance win the 2028 US Presidential Election?
 
 ## 周度偏好
 - 倾向保留: 低效拖时间盘 | score=-0.35 | total=22
