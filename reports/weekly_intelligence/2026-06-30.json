@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-06-30T17:00:53",
+  "generated_at": "2026-06-30T17:35:35",
   "window_days": 7,
-  "review_count": 35,
+  "review_count": 37,
   "regime_stats": {
     "carry_no": {
       "total": 22,
       "hit": 0,
       "miss": 0,
-      "flat": 11,
-      "unresolved": 11,
+      "flat": 10,
+      "unresolved": 12,
       "avg_confidence": 0.71
     },
     "mean_revert": {
-      "total": 13,
+      "total": 15,
       "hit": 1,
-      "miss": 0,
-      "flat": 12,
+      "miss": 1,
+      "flat": 13,
       "unresolved": 0,
-      "avg_confidence": 0.6209
+      "avg_confidence": 0.6173
     }
   },
   "cluster_stats": {
@@ -25,8 +25,8 @@
       "total": 14,
       "hit": 0,
       "miss": 0,
-      "flat": 3,
-      "unresolved": 11,
+      "flat": 2,
+      "unresolved": 12,
       "avg_confidence": 0.71
     },
     "gta_vi": {
@@ -38,64 +38,64 @@
       "avg_confidence": 0.632
     },
     "us_election": {
-      "total": 14,
+      "total": 16,
       "hit": 0,
       "miss": 0,
-      "flat": 14,
+      "flat": 16,
       "unresolved": 0,
-      "avg_confidence": 0.6717
+      "avg_confidence": 0.6583
     },
     "other": {
       "total": 2,
       "hit": 0,
-      "miss": 0,
-      "flat": 2,
+      "miss": 1,
+      "flat": 1,
       "unresolved": 0,
-      "avg_confidence": 0.594
+      "avg_confidence": 0.624
     }
   },
   "ranked_regimes": {
     "best": [
       {
         "name": "carry_no",
-        "score": -0.35,
+        "score": -0.3364,
         "total": 22,
         "hit": 0,
         "miss": 0,
-        "flat": 11,
-        "unresolved": 11,
+        "flat": 10,
+        "unresolved": 12,
         "avg_confidence": 0.71
       },
       {
         "name": "mean_revert",
-        "score": -0.3846,
-        "total": 13,
+        "score": -0.3667,
+        "total": 15,
         "hit": 1,
-        "miss": 0,
-        "flat": 12,
+        "miss": 1,
+        "flat": 13,
         "unresolved": 0,
-        "avg_confidence": 0.6209
+        "avg_confidence": 0.6173
       }
     ],
     "worst": [
       {
         "name": "mean_revert",
-        "score": -0.3846,
-        "total": 13,
+        "score": -0.3667,
+        "total": 15,
         "hit": 1,
-        "miss": 0,
-        "flat": 12,
+        "miss": 1,
+        "flat": 13,
         "unresolved": 0,
-        "avg_confidence": 0.6209
+        "avg_confidence": 0.6173
       },
       {
         "name": "carry_no",
-        "score": -0.35,
+        "score": -0.3364,
         "total": 22,
         "hit": 0,
         "miss": 0,
-        "flat": 11,
-        "unresolved": 11,
+        "flat": 10,
+        "unresolved": 12,
         "avg_confidence": 0.71
       }
     ]
@@ -114,64 +114,64 @@
       },
       {
         "name": "world_cup",
-        "score": -0.2643,
+        "score": -0.2429,
         "total": 14,
         "hit": 0,
         "miss": 0,
-        "flat": 3,
-        "unresolved": 11,
+        "flat": 2,
+        "unresolved": 12,
         "avg_confidence": 0.71
       },
       {
         "name": "other",
-        "score": -0.5,
+        "score": -0.25,
         "total": 2,
         "hit": 0,
-        "miss": 0,
-        "flat": 2,
+        "miss": 1,
+        "flat": 1,
         "unresolved": 0,
-        "avg_confidence": 0.594
+        "avg_confidence": 0.624
       },
       {
         "name": "us_election",
         "score": -0.5,
-        "total": 14,
+        "total": 16,
         "hit": 0,
         "miss": 0,
-        "flat": 14,
+        "flat": 16,
         "unresolved": 0,
-        "avg_confidence": 0.6717
+        "avg_confidence": 0.6583
       }
     ],
     "worst": [
       {
         "name": "us_election",
         "score": -0.5,
-        "total": 14,
+        "total": 16,
         "hit": 0,
         "miss": 0,
-        "flat": 14,
+        "flat": 16,
         "unresolved": 0,
-        "avg_confidence": 0.6717
+        "avg_confidence": 0.6583
       },
       {
         "name": "other",
-        "score": -0.5,
+        "score": -0.25,
         "total": 2,
         "hit": 0,
-        "miss": 0,
-        "flat": 2,
+        "miss": 1,
+        "flat": 1,
         "unresolved": 0,
-        "avg_confidence": 0.594
+        "avg_confidence": 0.624
       },
       {
         "name": "world_cup",
-        "score": -0.2643,
+        "score": -0.2429,
         "total": 14,
         "hit": 0,
         "miss": 0,
-        "flat": 3,
-        "unresolved": 11,
+        "flat": 2,
+        "unresolved": 12,
         "avg_confidence": 0.71
       },
       {
