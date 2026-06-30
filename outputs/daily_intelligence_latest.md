@@ -11,8 +11,8 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Egypt win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Congo DR win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
+- [do_not_touch] Will Egypt win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
