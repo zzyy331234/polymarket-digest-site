@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T19:06:59",
+  "generated_at": "2026-06-30T19:40:27",
   "window_days": 7,
   "review_count": 39,
   "regime_stats": {
@@ -14,8 +14,8 @@
     "mean_revert": {
       "total": 16,
       "hit": 1,
-      "miss": 1,
-      "flat": 14,
+      "miss": 0,
+      "flat": 15,
       "unresolved": 0,
       "avg_confidence": 0.6252
     }
@@ -48,8 +48,8 @@
     "other": {
       "total": 2,
       "hit": 0,
-      "miss": 1,
-      "flat": 1,
+      "miss": 0,
+      "flat": 2,
       "unresolved": 0,
       "avg_confidence": 0.624
     }
@@ -68,11 +68,11 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.375,
+        "score": -0.4062,
         "total": 16,
         "hit": 1,
-        "miss": 1,
-        "flat": 14,
+        "miss": 0,
+        "flat": 15,
         "unresolved": 0,
         "avg_confidence": 0.6252
       }
@@ -80,11 +80,11 @@
     "worst": [
       {
         "name": "mean_revert",
-        "score": -0.375,
+        "score": -0.4062,
         "total": 16,
         "hit": 1,
-        "miss": 1,
-        "flat": 14,
+        "miss": 0,
+        "flat": 15,
         "unresolved": 0,
         "avg_confidence": 0.6252
       },
@@ -124,11 +124,11 @@
       },
       {
         "name": "other",
-        "score": -0.25,
+        "score": -0.5,
         "total": 2,
         "hit": 0,
-        "miss": 1,
-        "flat": 1,
+        "miss": 0,
+        "flat": 2,
         "unresolved": 0,
         "avg_confidence": 0.624
       },
@@ -156,11 +156,11 @@
       },
       {
         "name": "other",
-        "score": -0.25,
+        "score": -0.5,
         "total": 2,
         "hit": 0,
-        "miss": 1,
-        "flat": 1,
+        "miss": 0,
+        "flat": 2,
         "unresolved": 0,
         "avg_confidence": 0.624
       },
