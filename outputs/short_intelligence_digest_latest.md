@@ -34,7 +34,7 @@
   原始题目: Will Iraq win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.3435 | total=23
+- 倾向保留: 低效拖时间盘 | score=-0.3364 | total=22
 - 倾向保留: 均值回归 | score=-0.375 | total=16
 - 应继续降权: 美国大选 | score=-0.5 | flat=18
 - 应继续降权: 其他事件 | score=-0.25 | flat=1
