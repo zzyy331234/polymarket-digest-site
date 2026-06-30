@@ -16,12 +16,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -44,7 +42,7 @@
       "liquidity": 32771719.74502,
       "volume": 30614070.59271094,
       "latest_ts": "2026-06-26T20:33:00",
-      "history_points": 1282,
+      "history_points": 879,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -79,12 +77,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -107,7 +103,7 @@
       "liquidity": 31859755.72122,
       "volume": 20049174.385756884,
       "latest_ts": "2026-06-24T08:22:03",
-      "history_points": 751,
+      "history_points": 348,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -142,12 +138,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -170,7 +164,7 @@
       "liquidity": 31841030.26186,
       "volume": 47521246.662645176,
       "latest_ts": "2026-06-26T20:33:00",
-      "history_points": 1282,
+      "history_points": 879,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -205,12 +199,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -233,7 +225,7 @@
       "liquidity": 31118702.9536,
       "volume": 44007492.74691623,
       "latest_ts": "2026-06-26T08:55:00",
-      "history_points": 1025,
+      "history_points": 622,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -268,12 +260,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -296,7 +286,7 @@
       "liquidity": 30990830.36426,
       "volume": 45097302.84833185,
       "latest_ts": "2026-06-25T08:09:00",
-      "history_points": 859,
+      "history_points": 456,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -331,12 +321,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -347,7 +335,7 @@
     "volume": 33082576.34,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-06-23T16:11:00",
     "features": {
@@ -359,10 +347,10 @@
       "liquidity": 30431666.49784,
       "volume": 33082576.34188277,
       "latest_ts": "2026-06-23T16:11:00",
-      "history_points": 545,
+      "history_points": 142,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -394,12 +382,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -422,7 +408,7 @@
       "liquidity": 28424817.26057,
       "volume": 61504385.73841759,
       "latest_ts": "2026-06-26T20:33:00",
-      "history_points": 1282,
+      "history_points": 879,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -435,69 +421,6 @@
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
       "hours_to_event": 555.45,
-      "event_time": "2026-07-20",
-      "spread": null
-    },
-    "cluster": "world_cup"
-  },
-  {
-    "token_id": "86035858416252385053603758548087253570549129844230230783932738372075949702177",
-    "question": "Will Tunisia win the 2026 FIFA World Cup?",
-    "slug": "will-tunisia-win-the-2026-fifa-world-cup-165",
-    "regime": "carry_no",
-    "direction": "NO",
-    "confidence": 0.71,
-    "position": "medium",
-    "quality": 0.7,
-    "risk_score": 0.25,
-    "reasons": [
-      "ultra low YES price",
-      "better classified as carry_no than trend",
-      "stale low-vol carry_no",
-      "cluster=world_cup"
-    ],
-    "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "stale_carry_no"
-    ],
-    "yes_price": 0.0005,
-    "no_price": 0.9995,
-    "liquidity": 25469669.42,
-    "volume": 36470350.98,
-    "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": null,
-    "chg_7d": null,
-    "latest_ts": "2026-06-21T17:01:00",
-    "features": {
-      "token_id": "86035858416252385053603758548087253570549129844230230783932738372075949702177",
-      "question": "Will Tunisia win the 2026 FIFA World Cup?",
-      "slug": "will-tunisia-win-the-2026-fifa-world-cup-165",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "liquidity": 25469669.42112,
-      "volume": 36470350.983686015,
-      "latest_ts": "2026-06-21T17:01:00",
-      "history_points": 219,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": null,
-      "chg_7d": null,
-      "rsi_14": 100.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 1.0,
-      "noise_score": 0.0,
-      "hours_to_event": 678.9833333333333,
       "event_time": "2026-07-20",
       "spread": null
     },
@@ -520,39 +443,37 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0005,
     "no_price": 0.9995,
-    "liquidity": 23816930.52,
-    "volume": 45603687.75,
+    "liquidity": 23816144.71,
+    "volume": 45604687.75,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "29544965695734183971376022965555206180154533479443150154863135205600734339980",
       "question": "Will South Africa win the 2026 FIFA World Cup?",
       "slug": "will-south-africa-win-the-2026-fifa-world-cup",
       "yes_price": 0.0005,
       "no_price": 0.9995,
-      "liquidity": 23816930.52191,
-      "volume": 45603687.74789424,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 23816144.71191,
+      "volume": 45604687.74789424,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -560,7 +481,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 508.0,
+      "hours_to_event": 507.5830555555556,
       "event_time": "2026-07-20",
       "spread": null
     },
@@ -581,44 +502,40 @@
       "better classified as carry_no than trend",
       "cluster=world_cup"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0005,
     "no_price": 0.9995,
-    "liquidity": 21276800.97,
+    "liquidity": 21277020.07,
     "volume": 87548668.55,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": -0.6666666666666666,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "87403333427856945144645806003352057704193778078820484282942507058200689996202",
       "question": "Will Congo DR win the 2026 FIFA World Cup?",
       "slug": "will-congo-dr-win-the-2026-fifa-world-cup",
       "yes_price": 0.0005,
       "no_price": 0.9995,
-      "liquidity": 21276800.96629,
+      "liquidity": 21277020.07129,
       "volume": 87548668.55207163,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.6666666666666666,
-      "rsi_14": 29.125189313284324,
+      "chg_7d": null,
+      "rsi_14": 29.12518931328431,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.5060240963855421,
-      "pct_rank_30d": 0.41647597254004576,
+      "pct_rank_7d": 0.6115879828326181,
+      "pct_rank_30d": 0.6115879828326181,
       "noise_score": 0.0,
-      "hours_to_event": 508.0,
+      "hours_to_event": 507.5830555555556,
       "event_time": "2026-07-20",
       "spread": null
     },
@@ -641,12 +558,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -669,7 +584,7 @@
       "liquidity": 20950274.54989,
       "volume": 57214986.512883715,
       "latest_ts": "2026-06-26T20:33:00",
-      "history_points": 1282,
+      "history_points": 879,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -704,12 +619,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -732,7 +645,7 @@
       "liquidity": 19441675.52356,
       "volume": 57485266.93301565,
       "latest_ts": "2026-06-25T14:13:01",
-      "history_points": 902,
+      "history_points": 499,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -745,6 +658,60 @@
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
       "hours_to_event": 585.7830555555555,
+      "event_time": "2026-07-20",
+      "spread": null
+    },
+    "cluster": "world_cup"
+  },
+  {
+    "token_id": "43661509251351142169227141691164122649250455115438867334436875294380701133091",
+    "question": "Will Australia win the 2026 FIFA World Cup?",
+    "slug": "will-australia-win-the-2026-fifa-world-cup-816",
+    "regime": "carry_no",
+    "direction": "NO",
+    "confidence": 0.71,
+    "position": "medium",
+    "quality": 0.7,
+    "risk_score": 0.25,
+    "reasons": [
+      "ultra low YES price",
+      "better classified as carry_no than trend",
+      "cluster=world_cup"
+    ],
+    "risk_flags": [],
+    "advisory_flags": [],
+    "blocking_flags": [],
+    "yes_price": 0.0015,
+    "no_price": 0.9985,
+    "liquidity": 16634762.38,
+    "volume": 76325241.41,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
+    "features": {
+      "token_id": "43661509251351142169227141691164122649250455115438867334436875294380701133091",
+      "question": "Will Australia win the 2026 FIFA World Cup?",
+      "slug": "will-australia-win-the-2026-fifa-world-cup-816",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "liquidity": 16634762.37854,
+      "volume": 76325241.40911518,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "rsi_14": 0.0,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.49141630901287553,
+      "pct_rank_30d": 0.49141630901287553,
+      "noise_score": 0.0,
+      "hours_to_event": 507.5830555555556,
       "event_time": "2026-07-20",
       "spread": null
     },
@@ -767,39 +734,37 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0065,
     "no_price": 0.9935,
-    "liquidity": 2927542.86,
-    "volume": 41147987.23,
+    "liquidity": 2927526.38,
+    "volume": 41148408.37,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "55087250670040717711131370018408221134109122974378698780636020561523521220754",
       "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
       "slug": "will-kim-kardashian-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0065,
       "no_price": 0.9935,
-      "liquidity": 2927542.86111,
-      "volume": 41147987.23039231,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 2927526.37999,
+      "volume": 41148408.36705831,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -807,7 +772,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -830,39 +795,37 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0075,
     "no_price": 0.9925,
-    "liquidity": 2734605.19,
-    "volume": 42982406.12,
+    "liquidity": 2731386.47,
+    "volume": 42982418.53,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
       "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
       "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0075,
       "no_price": 0.9925,
-      "liquidity": 2734605.18527,
-      "volume": 42982406.117270745,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 2731386.46688,
+      "volume": 42982418.533555746,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -870,7 +833,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -893,39 +856,37 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0075,
     "no_price": 0.9925,
-    "liquidity": 2664962.96,
-    "volume": 43123963.75,
+    "liquidity": 2662272.55,
+    "volume": 43124303.75,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
       "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
       "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0075,
       "no_price": 0.9925,
-      "liquidity": 2664962.95811,
-      "volume": 43123963.74590874,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 2662272.55145,
+      "volume": 43124303.74590874,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -933,7 +894,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -956,39 +917,37 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0075,
     "no_price": 0.9925,
-    "liquidity": 2646642.55,
-    "volume": 39201218.05,
+    "liquidity": 2645218.75,
+    "volume": 39201418.54,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "51035537065442638321333063915918274102446051033989435618245745345113522914516",
       "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
       "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0075,
       "no_price": 0.9925,
-      "liquidity": 2646642.55176,
-      "volume": 39201218.04614082,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 2645218.74766,
+      "volume": 39201418.53614082,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -996,7 +955,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -1019,39 +978,37 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0065,
     "no_price": 0.9935,
-    "liquidity": 2644925.89,
-    "volume": 35079109.27,
+    "liquidity": 2644937.63,
+    "volume": 35079509.81,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "22103094389913052942362639589409218272323168761614999702665821259175535456835",
       "question": "Will Jasmine Crockett win the 2028 Democratic presidential nomination?",
       "slug": "will-jasmine-crockett-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0065,
       "no_price": 0.9935,
-      "liquidity": 2644925.88632,
-      "volume": 35079109.269561954,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1092,
+      "liquidity": 2644937.62646,
+      "volume": 35079509.80956195,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1059,7 +1016,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -1082,39 +1039,37 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0065,
     "no_price": 0.9935,
-    "liquidity": 2564409.55,
-    "volume": 41129458.08,
+    "liquidity": 2562419.48,
+    "volume": 41130378.08,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "81633484456710374417231462107666791993850637546563366185897100962157481970040",
       "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
       "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
       "yes_price": 0.0065,
       "no_price": 0.9935,
-      "liquidity": 2564409.54971,
-      "volume": 41129458.07762977,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 2562419.48077,
+      "volume": 41130378.07762977,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1122,7 +1077,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -1145,39 +1100,37 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0075,
     "no_price": 0.9925,
-    "liquidity": 2513534.69,
-    "volume": 37714571.05,
+    "liquidity": 2513887.08,
+    "volume": 37715365.29,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "41340056280794024415573839406074658402877379128871144681466050648033201160259",
       "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
       "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
       "yes_price": 0.0075,
       "no_price": 0.9925,
-      "liquidity": 2513534.69233,
-      "volume": 37714571.05339205,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 2513887.07749,
+      "volume": 37715365.29296305,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1185,7 +1138,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -1208,39 +1161,37 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0065,
     "no_price": 0.9935,
-    "liquidity": 2507027.11,
-    "volume": 41506994.75,
+    "liquidity": 2505199.04,
+    "volume": 41507395.5,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "37126434962149084556522721025504254258386171468763869879755961635390358765833",
       "question": "Will Beto O’Rourke win the 2028 Democratic presidential nomination?",
       "slug": "will-beto-orourke-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0065,
       "no_price": 0.9935,
-      "liquidity": 2507027.10547,
-      "volume": 41506994.7518634,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 2505199.03879,
+      "volume": 41507395.5018634,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1248,7 +1199,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -1271,35 +1222,33 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
     ],
     "yes_price": 0.1925,
     "no_price": 0.8075,
-    "liquidity": 560070.11,
-    "volume": 14375800.38,
+    "liquidity": 554473.78,
+    "volume": 14375805.57,
     "chg_1h": 0.0,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-06-28T20:00:00",
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "16040015440196279900485035793550429453516625694844857319147506590755961451627",
       "question": "Will JD Vance win the 2028 US Presidential Election?",
       "slug": "will-jd-vance-win-the-2028-us-presidential-election",
       "yes_price": 0.1925,
       "no_price": 0.8075,
-      "liquidity": 560070.10933,
-      "volume": 14375800.38395392,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 29,
+      "liquidity": 554473.77991,
+      "volume": 14375805.565299919,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 53,
       "chg_1h": 0.0,
       "chg_4h": null,
       "chg_24h": null,
@@ -1311,7 +1260,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -1334,35 +1283,33 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
     ],
     "yes_price": 0.1295,
     "no_price": 0.8705,
-    "liquidity": 468920.76,
+    "liquidity": 464804.91,
     "volume": 17207820.47,
     "chg_1h": 0.0,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-06-28T20:00:00",
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "98250445447699368679516529207365255018790721464590833209064266254238063117329",
       "question": "Will Gavin Newsom win the 2028 US Presidential Election?",
       "slug": "will-gavin-newsom-win-the-2028-us-presidential-election",
       "yes_price": 0.1295,
       "no_price": 0.8705,
-      "liquidity": 468920.76372,
+      "liquidity": 464804.91463,
       "volume": 17207820.474349163,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 29,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 53,
       "chg_1h": 0.0,
       "chg_4h": null,
       "chg_24h": null,
@@ -1374,7 +1321,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -1397,54 +1344,114 @@
       "cluster=other"
     ],
     "risk_flags": [
-      "high_noise",
-      "question_not_whitelisted_v6",
-      "cooldown_active"
+      "question_not_whitelisted_v6"
     ],
     "advisory_flags": [
-      "high_noise",
-      "question_not_whitelisted_v6",
-      "cooldown_active"
+      "question_not_whitelisted_v6"
     ],
     "blocking_flags": [
-      "high_noise",
       "question_not_whitelisted_v6"
     ],
     "yes_price": 0.125,
     "no_price": 0.875,
-    "liquidity": 454052.55,
-    "volume": 9901431.8,
+    "liquidity": 450862.03,
+    "volume": 9903110.07,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": null,
-    "latest_ts": "2026-06-28T20:00:00",
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "slug": "putin-out-before-2027",
       "yes_price": 0.125,
       "no_price": 0.875,
-      "liquidity": 454052.5479,
-      "volume": 9901431.803080022,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 286,
+      "liquidity": 450862.0289,
+      "volume": 9903110.073080022,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 310,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "rsi_14": 31.658927083581077,
+      "rsi_14": 31.658927083581105,
       "volatility": 0.0218568251086712,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.9055944055944056,
-      "pct_rank_30d": 0.9055944055944056,
-      "noise_score": 4.799022009211664,
-      "hours_to_event": 4444.0,
+      "pct_rank_7d": 0.9129032258064517,
+      "pct_rank_30d": 0.9129032258064517,
+      "noise_score": 0.0,
+      "hours_to_event": 4443.583055555556,
       "event_time": "2026-12-31",
       "spread": null
     },
     "cluster": "other"
+  },
+  {
+    "token_id": "91031279171981959197361710127213577102576826515163085396576756946418341946256",
+    "question": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+    "slug": "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.624,
+    "position": "small",
+    "quality": 0.61,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "low tradability profile",
+      "vNext gate: question_blocklisted_v6",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "low_tradability",
+      "question_blocklisted_v6"
+    ],
+    "advisory_flags": [
+      "low_tradability",
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "low_tradability",
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.0425,
+    "no_price": 0.9575,
+    "liquidity": 428183.75,
+    "volume": 11148409.17,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
+    "features": {
+      "token_id": "91031279171981959197361710127213577102576826515163085396576756946418341946256",
+      "question": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+      "slug": "will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687",
+      "yes_price": 0.0425,
+      "no_price": 0.9575,
+      "liquidity": 428183.74977,
+      "volume": 11148409.1665766,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "rsi_14": 99.99984129830978,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.9849785407725322,
+      "pct_rank_30d": 0.9849785407725322,
+      "noise_score": 0.0,
+      "hours_to_event": 20691.583055555555,
+      "event_time": "2028-11-07",
+      "spread": null
+    },
+    "cluster": "us_election"
   },
   {
     "token_id": "8113830512143065501177519557124858581375945005490796772950589720955457782465",
@@ -1465,13 +1472,11 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -1479,23 +1484,23 @@
     ],
     "yes_price": 0.0525,
     "no_price": 0.9475,
-    "liquidity": 425418.23,
-    "volume": 12153665.37,
+    "liquidity": 423619.49,
+    "volume": 12153765.37,
     "chg_1h": 0.0,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-06-28T20:00:00",
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "8113830512143065501177519557124858581375945005490796772950589720955457782465",
       "question": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
       "slug": "will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election",
       "yes_price": 0.0525,
       "no_price": 0.9475,
-      "liquidity": 425418.23068,
-      "volume": 12153665.373317875,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 29,
+      "liquidity": 423619.48997,
+      "volume": 12153765.373317875,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 53,
       "chg_1h": 0.0,
       "chg_4h": null,
       "chg_24h": null,
@@ -1507,73 +1512,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 20692.0,
-      "event_time": "2028-11-07",
-      "spread": null
-    },
-    "cluster": "us_election"
-  },
-  {
-    "token_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
-    "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
-    "slug": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
-    "regime": "mean_revert",
-    "direction": "NO",
-    "confidence": 0.624,
-    "position": "small",
-    "quality": 0.61,
-    "risk_score": 0.32,
-    "reasons": [
-      "upper percentile fade setup",
-      "RSI extreme",
-      "vNext gate: question_blocklisted_v6",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "high_noise",
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "high_noise",
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "high_noise",
-      "question_blocklisted_v6"
-    ],
-    "yes_price": 0.0545,
-    "no_price": 0.9455,
-    "liquidity": 417888.38,
-    "volume": 9017049.7,
-    "chg_1h": 0.0,
-    "chg_4h": 0.018691588785046745,
-    "chg_24h": 0.018691588785046745,
-    "chg_7d": 0.10101010101010095,
-    "latest_ts": "2026-06-28T20:00:00",
-    "features": {
-      "token_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
-      "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
-      "slug": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
-      "yes_price": 0.0545,
-      "no_price": 0.9455,
-      "liquidity": 417888.38137,
-      "volume": 9017049.69791514,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
-      "chg_1h": 0.0,
-      "chg_4h": 0.018691588785046745,
-      "chg_24h": 0.018691588785046745,
-      "chg_7d": 0.10101010101010095,
-      "rsi_14": 99.99999573695348,
-      "volatility": 0.0018977403319332111,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 1.0,
-      "noise_score": 6.855654600401045,
-      "hours_to_event": 20692.0,
+      "hours_to_event": 20691.583055555555,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -1596,39 +1535,37 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
     ],
     "yes_price": 0.495,
     "no_price": 0.505,
-    "liquidity": 379139.35,
-    "volume": 11731577.55,
+    "liquidity": 377712.26,
+    "volume": 11734654.47,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "90435811253665578014957380826505992530054077692143838383981805324273750424057",
       "question": "Will Jesus Christ return before GTA VI?",
       "slug": "will-jesus-christ-return-before-gta-vi-665",
       "yes_price": 0.495,
       "no_price": 0.505,
-      "liquidity": 379139.3549,
-      "volume": 11731577.55108769,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "liquidity": 377712.2627,
+      "volume": 11734654.47108769,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1636,7 +1573,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 772.0,
+      "hours_to_event": 771.5830555555556,
       "event_time": "2026-07-31",
       "spread": null
     },
@@ -1659,47 +1596,106 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
     ],
     "yes_price": 0.4955,
     "no_price": 0.5045,
-    "liquidity": 161762.95,
+    "liquidity": 163254.19,
     "volume": 4549685.78,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.001010101010101011,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "105267568073659068217311993901927962476298440625043565106676088842803600775810",
       "question": "Will bitcoin hit $1m before GTA VI?",
       "slug": "will-bitcoin-hit-1m-before-gta-vi-872-424",
       "yes_price": 0.4955,
       "no_price": 0.5045,
-      "liquidity": 161762.95355,
+      "liquidity": 163254.19493,
       "volume": 4549685.778711516,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.001010101010101011,
-      "rsi_14": 99.99999907154401,
+      "chg_7d": null,
+      "rsi_14": 99.99999907273093,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 772.0,
+      "hours_to_event": 771.5830555555556,
+      "event_time": "2026-07-31",
+      "spread": null
+    },
+    "cluster": "gta_vi"
+  },
+  {
+    "token_id": "108999723207897941876452935557011604067917389120996960199512481363958770540884",
+    "question": "Trump out as President before GTA VI?",
+    "slug": "trump-out-as-president-before-gta-vi-846",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.624,
+    "position": "small",
+    "quality": 0.61,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "vNext gate: question_blocklisted_v6",
+      "cluster=gta_vi"
+    ],
+    "risk_flags": [
+      "question_blocklisted_v6"
+    ],
+    "advisory_flags": [
+      "question_blocklisted_v6"
+    ],
+    "blocking_flags": [
+      "question_blocklisted_v6"
+    ],
+    "yes_price": 0.495,
+    "no_price": 0.505,
+    "liquidity": 68938.47,
+    "volume": 690876.23,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
+    "features": {
+      "token_id": "108999723207897941876452935557011604067917389120996960199512481363958770540884",
+      "question": "Trump out as President before GTA VI?",
+      "slug": "trump-out-as-president-before-gta-vi-846",
+      "yes_price": 0.495,
+      "no_price": 0.505,
+      "liquidity": 68938.4673,
+      "volume": 690876.2320810074,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "rsi_14": 33.93743810592535,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.9345493562231759,
+      "pct_rank_30d": 0.9345493562231759,
+      "noise_score": 0.0,
+      "hours_to_event": 771.5830555555556,
       "event_time": "2026-07-31",
       "spread": null
     },
@@ -1722,39 +1718,37 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
     ],
     "yes_price": 0.505,
     "no_price": 0.495,
-    "liquidity": 65513.26,
+    "liquidity": 65562.65,
     "volume": 1881960.59,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
-    "latest_ts": "2026-06-28T20:00:00",
+    "chg_7d": null,
+    "latest_ts": "2026-06-28T20:25:01",
     "features": {
       "token_id": "21695138873211375451055566770107682325494206727818897067665810321709249824909",
       "question": "Will China invades Taiwan before GTA VI?",
       "slug": "will-china-invades-taiwan-before-gta-vi-716-644",
       "yes_price": 0.505,
       "no_price": 0.495,
-      "liquidity": 65513.2648,
+      "liquidity": 65562.6528,
       "volume": 1881960.5876700645,
-      "latest_ts": "2026-06-28T20:00:00",
-      "history_points": 1311,
+      "latest_ts": "2026-06-28T20:25:01",
+      "history_points": 932,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1762,7 +1756,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 772.0,
+      "hours_to_event": 771.5830555555556,
       "event_time": "2026-07-31",
       "spread": null
     },
