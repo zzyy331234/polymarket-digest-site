@@ -11,6 +11,7 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
+- [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Congo DR win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Egypt win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
@@ -20,9 +21,9 @@
 ## 今日避坑
 - Will Congo DR win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Egypt win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
+- Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | cluster=us_election | regime=trend | blocking=
 - Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Panama win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
-- Will New Zealand win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 139, 'miss': 8, 'hit': 6, 'pending': 47}
