@@ -1954,3 +1954,4 @@
 {"type": "halt", "time": "2026-07-01T18:30:31", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-01T19:00:28", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-01T19:30:28", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-07-01T20:00:27", "reason": "daily_loss_halt"}
