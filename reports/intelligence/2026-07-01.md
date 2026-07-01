@@ -11,8 +11,8 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Australia win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Congo DR win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
+- [do_not_touch] Will Scotland win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
