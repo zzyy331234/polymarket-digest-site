@@ -26,7 +26,7 @@
 - Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 135, 'miss': 9, 'hit': 8, 'pending': 48}
+- outcomes: {'flat': 135, 'miss': 8, 'hit': 9, 'pending': 48}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

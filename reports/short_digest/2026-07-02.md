@@ -33,9 +33,9 @@
   原始题目: Will Ghana win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.0 | total=4
-- 倾向保留: 均值回归 | score=-0.2857 | total=14
-- 应继续降权: 美国大选 | score=-0.3571 | flat=19
+- 倾向保留: 趋势延续 | score=0.0 | total=3
+- 倾向保留: 均值回归 | score=-0.1786 | total=14
+- 应继续降权: 美国大选 | score=-0.35 | flat=18
 - 应继续降权: 世界杯主题 | score=-0.2562 | flat=3
 
 ## 编辑注
