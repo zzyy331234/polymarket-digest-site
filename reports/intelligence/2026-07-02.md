@@ -11,8 +11,8 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
+- [do_not_touch] Will Scotland win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Paraguay win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
-- [do_not_touch] Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
@@ -20,9 +20,9 @@
 ## 今日避坑
 - Will Scotland win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Paraguay win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
-- Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will New Zealand win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
+- Will Curaçao win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 135, 'miss': 9, 'hit': 9, 'pending': 47}
