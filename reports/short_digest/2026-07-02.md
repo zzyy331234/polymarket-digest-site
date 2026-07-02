@@ -4,7 +4,7 @@
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
 
 ## 今日主线
-今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 其他事件、美国大选 这类 flat-heavy 噪音盘。
+今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、世界杯主题 这类 flat-heavy 噪音盘。
 
 ## 主观察池
 - 今天没有值得放进主栏的候选。
@@ -15,32 +15,32 @@
 ## 今天不碰
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Ghana win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Ghana win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  链接（中文导读）: 中文导读：世界杯主题盘
   Link (English source): English source: Will Scotland win the 2026 FIFA World Cup?
   URL: https://polymarket.com/question/will-scotland-win-the-2026-fifa-world-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Scotland win the 2026 FIFA World Cup?
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Australia win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-australia-win-the-2026-fifa-world-cup-816
+  Link (English source): English source: Will Paraguay win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-paraguay-win-the-2026-fifa-world-cup-967
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Australia win the 2026 FIFA World Cup?
+  原始题目: Will Paraguay win the 2026 FIFA World Cup?
+- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
+  链接（中文导读）: 中文导读：世界杯主题盘
+  Link (English source): English source: Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-bosnia-herzegovina-win-the-2026-fifa-world-cup
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Bosnia-Herzegovina win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.25 | total=4
-- 倾向保留: 低效拖时间盘 | score=-0.356 | total=25
-- 应继续降权: 其他事件 | score=-0.5 | flat=2
-- 应继续降权: 美国大选 | score=-0.3571 | flat=19
+- 倾向保留: 趋势延续 | score=0.375 | total=4
+- 倾向保留: 均值回归 | score=-0.2857 | total=14
+- 应继续降权: 美国大选 | score=-0.2857 | flat=18
+- 应继续降权: 世界杯主题 | score=-0.26 | flat=3
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
-- 均值回归 仍是最弱 regime，不值得给额外注意力。
+- 低效拖时间盘 仍是最弱 regime，不值得给额外注意力。
 - 样刊主栏宁可少，也不要把低质量主题盘硬塞进去。
 - 对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。
 

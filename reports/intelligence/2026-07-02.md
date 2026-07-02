@@ -11,22 +11,21 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Ghana win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
-- [do_not_touch] Will Scotland win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
-- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.65 | catalyst=price_dislocation
+- [do_not_touch] Will Paraguay win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
+- [do_not_touch] Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
-- Will Ghana win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Scotland win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
-- Will Australia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
-- Putin out as President of Russia by December 31, 2026? | cluster=other | regime=trend | blocking=
+- Will Paraguay win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
+- Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
+- Will New Zealand win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 136, 'miss': 8, 'hit': 8, 'pending': 48}
+- outcomes: {'flat': 135, 'miss': 9, 'hit': 9, 'pending': 47}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
