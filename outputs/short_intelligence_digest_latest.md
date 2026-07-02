@@ -25,12 +25,12 @@
   URL: https://polymarket.com/question/will-paraguay-win-the-2026-fifa-world-cup-967
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Paraguay win the 2026 FIFA World Cup?
-- 人事盘：习近平会在2027前下台吗？ | 其他事件 | 趋势延续
-  链接（中文导读）: 中文导读：人事盘：习近平会在2027前下台吗？
-  Link (English source): English source: Xi Jinping out before 2027?
-  URL: https://polymarket.com/question/xi-jinping-out-before-2027
-  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Xi Jinping out before 2027?
+- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
+  链接（中文导读）: 中文导读：世界杯主题盘
+  Link (English source): English source: Will Ghana win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Ghana win the 2026 FIFA World Cup?
 
 ## 周度偏好
 - 倾向保留: 趋势延续 | score=0.0 | total=4
