@@ -13,6 +13,7 @@
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Scotland win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Paraguay win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
+- [do_not_touch] Xi Jinping out before 2027? | NO | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
@@ -20,12 +21,12 @@
 ## 今日避坑
 - Will Scotland win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Paraguay win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
-- Will Bosnia-Herzegovina win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
+- Xi Jinping out before 2027? | cluster=other | regime=trend | blocking=
 - Will Iraq win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will New Zealand win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 136, 'miss': 9, 'hit': 8, 'pending': 47}
+- outcomes: {'flat': 135, 'miss': 9, 'hit': 8, 'pending': 48}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
