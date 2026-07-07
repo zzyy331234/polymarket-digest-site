@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-07T15:54:41",
+  "generated_at": "2026-07-07T16:00:31",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-07-07",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、GTA VI 主题 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 GTA VI 主题、美国大选 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -259,50 +259,50 @@
   ],
   "best_regimes": [
     {
+      "name": "trend",
+      "score": 0.1,
+      "total": 5,
+      "hit": 2,
+      "miss": 0,
+      "flat": 3,
+      "unresolved": 0,
+      "avg_confidence": 0.6611,
+      "name_cn": "趋势延续"
+    },
+    {
       "name": "carry_no",
-      "score": -0.2231,
+      "score": -0.3154,
       "total": 26,
       "hit": 0,
       "miss": 0,
-      "flat": 2,
-      "unresolved": 24,
+      "flat": 10,
+      "unresolved": 16,
       "avg_confidence": 0.71,
       "name_cn": "低效拖时间盘"
-    },
-    {
-      "name": "mean_revert",
-      "score": -0.2545,
-      "total": 11,
-      "hit": 0,
-      "miss": 0,
-      "flat": 2,
-      "unresolved": 9,
-      "avg_confidence": 0.6422,
-      "name_cn": "均值回归"
     }
   ],
   "worst_clusters": [
     {
-      "name": "us_election",
-      "score": -0.2667,
-      "total": 18,
-      "hit": 0,
-      "miss": 0,
-      "flat": 4,
-      "unresolved": 14,
-      "avg_confidence": 0.6837,
-      "name_cn": "美国大选"
-    },
-    {
       "name": "gta_vi",
-      "score": -0.26,
+      "score": -0.5,
       "total": 5,
       "hit": 0,
       "miss": 0,
-      "flat": 1,
-      "unresolved": 4,
+      "flat": 5,
+      "unresolved": 0,
       "avg_confidence": 0.624,
       "name_cn": "GTA VI 主题"
+    },
+    {
+      "name": "us_election",
+      "score": -0.3889,
+      "total": 18,
+      "hit": 1,
+      "miss": 1,
+      "flat": 16,
+      "unresolved": 0,
+      "avg_confidence": 0.6837,
+      "name_cn": "美国大选"
     }
   ],
   "paper_gate_eligible": false,
@@ -314,7 +314,7 @@
   },
   "editor_notes": [
     "当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。",
-    "趋势延续 仍是最弱 regime，不值得给额外注意力。",
+    "均值回归 仍是最弱 regime，不值得给额外注意力。",
     "样刊主栏宁可少，也不要把低质量主题盘硬塞进去。",
     "对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。"
   ]
