@@ -14,7 +14,6 @@
 - [do_not_touch] Will Paraguay win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Ghana win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.69 | catalyst=price_dislocation
-- [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
