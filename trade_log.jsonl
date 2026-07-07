@@ -1972,3 +1972,4 @@
 {"type": "halt", "time": "2026-07-07T16:00:31", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-07T16:30:31", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-07T17:00:30", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-07-07T17:30:28", "reason": "daily_loss_halt"}
