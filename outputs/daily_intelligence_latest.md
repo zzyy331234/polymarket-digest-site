@@ -11,8 +11,11 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
+- [do_not_touch] Will Jon Ossoff win the 2028 Democratic presidential nomination? | YES | conf=0.69 | catalyst=price_dislocation
 - [do_not_touch] Will Paraguay win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Ghana win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
+- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.69 | catalyst=price_dislocation
+- [do_not_touch] Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election? | YES | conf=0.69 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
@@ -22,7 +25,7 @@
 - Will Ghana win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Algeria win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Croatia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
-- Will Congo DR win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
+- Putin out as President of Russia by December 31, 2026? | cluster=other | regime=trend | blocking=
 
 ## 后验复盘快照
 - outcomes: {'flat': 130, 'miss': 9, 'hit': 8, 'pending': 53}
