@@ -7,9 +7,9 @@
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 2. [trend] YES conf=0.69
-- 问题: Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?
+- 问题: Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?
 - Cluster: us_election
-- URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653
+- URL: https://polymarket.com/question/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
 - 原因: 4h move visible, 24h move strong, 7d move strong
 
 ## 3. [carry_no] NO conf=0.71
