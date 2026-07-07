@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T17:30:28",
+  "generated_at": "2026-07-07T18:00:29",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-07-07",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
@@ -271,11 +271,11 @@
     },
     {
       "name": "carry_no",
-      "score": -0.3154,
-      "total": 26,
+      "score": -0.308,
+      "total": 25,
       "hit": 0,
       "miss": 0,
-      "flat": 10,
+      "flat": 9,
       "unresolved": 16,
       "avg_confidence": 0.71,
       "name_cn": "低效拖时间盘"
