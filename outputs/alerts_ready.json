@@ -14,8 +14,12 @@
       "better classified as carry_no than trend",
       "cluster=world_cup"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0005,
     "no_price": 0.9995,
@@ -52,7 +56,7 @@
       "spread": null
     },
     "cluster": "world_cup",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Ghana win the 2026 FIFA World Cup? | https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup",
@@ -60,71 +64,5 @@
       "execution": "执行候选：[carry_no] NO\n问题：Will Ghana win the 2026 FIFA World Cup?\n建议仓位：medium\n当前YES：0.0005\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup"
     },
     "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Ghana win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-ghana-win-the-2026-fifa-world-cup"
-  },
-  {
-    "token_id": "38171024903091354977195167437673496224420673639143973968032407064172828043588",
-    "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-    "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-    "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.674,
-    "position": "medium",
-    "quality": 0.675,
-    "risk_score": 0.33,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "4h and 24h aligned",
-      "4h and 24h slope aligned",
-      "liquidity good",
-      "7d window missing, using 4h/24h fallback",
-      "cluster=us_election"
-    ],
-    "risk_flags": [],
-    "advisory_flags": [],
-    "blocking_flags": [],
-    "yes_price": 0.0865,
-    "no_price": 0.9135,
-    "liquidity": 300825.77,
-    "volume": 12508591.88,
-    "chg_1h": 0.0,
-    "chg_4h": 0.30075187969924794,
-    "chg_24h": 0.2814814814814813,
-    "chg_7d": null,
-    "latest_ts": "2026-07-07T21:23:00",
-    "features": {
-      "token_id": "38171024903091354977195167437673496224420673639143973968032407064172828043588",
-      "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-      "slug": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-      "yes_price": 0.0865,
-      "no_price": 0.9135,
-      "liquidity": 300825.77487,
-      "volume": 12508591.875188924,
-      "latest_ts": "2026-07-07T21:23:00",
-      "history_points": 568,
-      "chg_1h": 0.0,
-      "chg_4h": 0.30075187969924794,
-      "chg_24h": 0.2814814814814813,
-      "chg_7d": null,
-      "rsi_14": 99.99999996047025,
-      "volatility": 0.026856888783214992,
-      "trend_slope_4h": 0.00010532192293822291,
-      "trend_slope_24h": 6.29966784343597e-05,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 1.0,
-      "noise_score": 0.0,
-      "hours_to_event": 20474.616666666665,
-      "event_time": "2028-11-07",
-      "spread": null
-    },
-    "cluster": "us_election",
-    "pipeline_score": 0.7040000000000001,
-    "market_url": "https://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-    "templates": {
-      "short": "[trend] YES conf=0.67 | Will Kamala Harris win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-      "detailed": "[trend] YES | conf=0.67 | pos=medium | yes=0.0865\nWill Kamala Harris win the 2028 Democratic presidential nomination?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
-      "execution": "执行候选：[trend] YES\n问题：Will Kamala Harris win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0865\n置信度：0.67\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641"
-    },
-    "alert_text": "[trend] YES | conf=0.67 | pos=medium | yes=0.0865\nWill Kamala Harris win the 2028 Democratic presidential nomination?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/will-kamala-harris-win-the-2028-democratic-presidential-nomination-641"
   }
 ]
