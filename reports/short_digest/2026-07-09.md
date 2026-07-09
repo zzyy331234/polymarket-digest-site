@@ -35,7 +35,7 @@
   原始题目: Will Australia win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.3059 | total=34
+- 倾向保留: 低效拖时间盘 | score=-0.344 | total=25
 - 倾向保留: 趋势延续 | score=-0.5 | total=7
 - 应继续降权: 美国大选 | score=-0.5 | flat=21
 - 应继续降权: GTA VI 主题 | score=-0.5 | flat=4
