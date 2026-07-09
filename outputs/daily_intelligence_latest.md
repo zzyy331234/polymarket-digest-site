@@ -12,20 +12,19 @@
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Ghana win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
-- [do_not_touch] Will Morocco win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
 - Will Ghana win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
-- Will Morocco win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Paraguay win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Australia win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 - Will Algeria win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
+- Will Cape Verde win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 130, 'miss': 9, 'hit': 8, 'pending': 53}
+- outcomes: {'flat': 123, 'miss': 9, 'hit': 7, 'pending': 61}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

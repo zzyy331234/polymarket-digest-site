@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:30:31",
+  "generated_at": "2026-07-09T16:02:46",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -90,83 +90,6 @@
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
-    },
-    {
-      "token_id": "69910730841487615802736046038473620030754616421912831175284551372639933569112",
-      "question": "Will Morocco win the 2026 FIFA World Cup?",
-      "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
-      "regime": "carry_no",
-      "direction": "NO",
-      "confidence": 0.71,
-      "position": "medium",
-      "quality": 0.7,
-      "risk_score": 0.25,
-      "reasons": [
-        "ultra low YES price",
-        "better classified as carry_no than trend",
-        "cluster=world_cup"
-      ],
-      "risk_flags": [
-        "cooldown_active"
-      ],
-      "advisory_flags": [
-        "cooldown_active"
-      ],
-      "blocking_flags": [],
-      "yes_price": 0.0285,
-      "no_price": 0.9715,
-      "liquidity": 2981840.77,
-      "volume": 142429865.89,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": null,
-      "latest_ts": "2026-07-09T14:33:01",
-      "features": {
-        "token_id": "69910730841487615802736046038473620030754616421912831175284551372639933569112",
-        "question": "Will Morocco win the 2026 FIFA World Cup?",
-        "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
-        "yes_price": 0.0285,
-        "no_price": 0.9715,
-        "liquidity": 2981840.77305,
-        "volume": 142429865.8896597,
-        "latest_ts": "2026-07-09T14:33:01",
-        "history_points": 698,
-        "chg_1h": 0.0,
-        "chg_4h": 0.0,
-        "chg_24h": 0.0,
-        "chg_7d": null,
-        "rsi_14": 99.99999999590648,
-        "volatility": 0.0,
-        "trend_slope_4h": 0.0,
-        "trend_slope_24h": 0.0,
-        "pct_rank_7d": 1.0,
-        "pct_rank_30d": 1.0,
-        "noise_score": 0.0,
-        "hours_to_event": 249.44972222222222,
-        "event_time": "2026-07-20",
-        "spread": null
-      },
-      "cluster": "world_cup",
-      "pipeline_score": 0.6799999999999999,
-      "market_url": "https://polymarket.com/question/will-morocco-win-the-2026-fifa-world-cup-464",
-      "templates": {
-        "short": "[carry_no] NO conf=0.71 | Will Morocco win the 2026 FIFA World Cup? | https://polymarket.com/question/will-morocco-win-the-2026-fifa-world-cup-464",
-        "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0285\nWill Morocco win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-morocco-win-the-2026-fifa-world-cup-464",
-        "execution": "执行候选：[carry_no] NO\n问题：Will Morocco win the 2026 FIFA World Cup?\n建议仓位：medium\n当前YES：0.0285\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-morocco-win-the-2026-fifa-world-cup-464"
-      },
-      "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0285\nWill Morocco win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-morocco-win-the-2026-fifa-world-cup-464",
-      "catalyst_type": "theme_cluster",
-      "execution_readiness": "do_not_touch",
-      "evidence_score": 0.498,
-      "thesis_summary": "[carry_no] NO on 'Will Morocco win the 2026 FIFA World Cup?' because ultra low YES price.",
-      "why_now": "Relevant within active cluster=world_cup and current regime=carry_no.",
-      "do_not_trade_if": [
-        "Advisory flags worsen or increase before entry.",
-        "World Cup cluster remains blocked / low-tradability heavy.",
-        "Carry_no remains stale or still observe-only / blocked.",
-        "Liquidity/exit quality deteriorates materially before action."
-      ]
     }
   ],
   "watchlist": [],
@@ -229,70 +152,6 @@
       "evidence_score": 0.548,
       "thesis_summary": "[carry_no] NO on 'Will Ghana win the 2026 FIFA World Cup?' because ultra low YES price.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=-0.667, 24h=0.000).",
-      "do_not_trade_if": [
-        "World Cup cluster remains blocked / low-tradability heavy.",
-        "Carry_no remains stale or still observe-only / blocked.",
-        "Liquidity/exit quality deteriorates materially before action."
-      ]
-    },
-    {
-      "token_id": "69910730841487615802736046038473620030754616421912831175284551372639933569112",
-      "question": "Will Morocco win the 2026 FIFA World Cup?",
-      "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
-      "regime": "carry_no",
-      "direction": "NO",
-      "confidence": 0.71,
-      "position": "medium",
-      "quality": 0.7,
-      "risk_score": 0.25,
-      "reasons": [
-        "ultra low YES price",
-        "better classified as carry_no than trend",
-        "cluster=world_cup"
-      ],
-      "risk_flags": [],
-      "advisory_flags": [],
-      "blocking_flags": [],
-      "yes_price": 0.0285,
-      "no_price": 0.9715,
-      "liquidity": 2981840.77,
-      "volume": 142429865.89,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": null,
-      "latest_ts": "2026-07-09T14:33:01",
-      "features": {
-        "token_id": "69910730841487615802736046038473620030754616421912831175284551372639933569112",
-        "question": "Will Morocco win the 2026 FIFA World Cup?",
-        "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
-        "yes_price": 0.0285,
-        "no_price": 0.9715,
-        "liquidity": 2981840.77305,
-        "volume": 142429865.8896597,
-        "latest_ts": "2026-07-09T14:33:01",
-        "history_points": 698,
-        "chg_1h": 0.0,
-        "chg_4h": 0.0,
-        "chg_24h": 0.0,
-        "chg_7d": null,
-        "rsi_14": 99.99999999590648,
-        "volatility": 0.0,
-        "trend_slope_4h": 0.0,
-        "trend_slope_24h": 0.0,
-        "pct_rank_7d": 1.0,
-        "pct_rank_30d": 1.0,
-        "noise_score": 0.0,
-        "hours_to_event": 249.44972222222222,
-        "event_time": "2026-07-20",
-        "spread": null
-      },
-      "cluster": "world_cup",
-      "catalyst_type": "theme_cluster",
-      "execution_readiness": "do_not_touch",
-      "evidence_score": 0.548,
-      "thesis_summary": "[carry_no] NO on 'Will Morocco win the 2026 FIFA World Cup?' because ultra low YES price.",
-      "why_now": "Relevant within active cluster=world_cup and current regime=carry_no.",
       "do_not_trade_if": [
         "World Cup cluster remains blocked / low-tradability heavy.",
         "Carry_no remains stale or still observe-only / blocked.",
@@ -517,34 +376,107 @@
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
+    },
+    {
+      "token_id": "61595193871140044336898809781418183952441527621084596848414908595268863899573",
+      "question": "Will Cape Verde win the 2026 FIFA World Cup?",
+      "slug": "will-cape-verde-win-the-2026-fifa-world-cup",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "stale low-vol carry_no",
+        "cluster=world_cup"
+      ],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 9072110.69,
+      "volume": 95142304.84,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": null,
+      "chg_7d": null,
+      "latest_ts": "2026-07-02T20:42:02",
+      "features": {
+        "token_id": "61595193871140044336898809781418183952441527621084596848414908595268863899573",
+        "question": "Will Cape Verde win the 2026 FIFA World Cup?",
+        "slug": "will-cape-verde-win-the-2026-fifa-world-cup",
+        "yes_price": 0.0005,
+        "no_price": 0.9995,
+        "liquidity": 9072110.69185,
+        "volume": 95142304.84490292,
+        "latest_ts": "2026-07-02T20:42:02",
+        "history_points": 248,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": null,
+        "chg_7d": null,
+        "rsi_14": 100.0,
+        "volatility": 0.0,
+        "trend_slope_4h": 0.0,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": 0.0,
+        "hours_to_event": 411.2994444444444,
+        "event_time": "2026-07-20",
+        "spread": null
+      },
+      "cluster": "world_cup",
+      "catalyst_type": "theme_cluster",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will Cape Verde win the 2026 FIFA World Cup?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=world_cup and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "World Cup cluster remains blocked / low-tradability heavy.",
+        "Carry_no remains stale or still observe-only / blocked.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
     }
   ],
   "review_stats": {
     "outcomes": {
-      "flat": 130,
+      "flat": 123,
       "miss": 9,
-      "hit": 8,
-      "pending": 53
+      "hit": 7,
+      "pending": 61
     },
     "regime_outcomes": {
-      "carry_no::flat": 94,
-      "mean_revert::flat": 23,
+      "carry_no::flat": 86,
+      "mean_revert::flat": 24,
       "mean_revert::miss": 3,
       "mean_revert::hit": 3,
-      "trend::hit": 5,
-      "carry_no::pending": 38,
+      "trend::hit": 4,
+      "carry_no::pending": 46,
       "trend::miss": 6,
       "mean_revert::pending": 10,
       "trend::pending": 5,
       "trend::flat": 13
     },
     "cluster_outcomes": {
-      "world_cup::flat": 23,
+      "world_cup::flat": 15,
       "us_election::flat": 83,
-      "other::flat": 18,
+      "other::flat": 19,
       "crypto_launch::flat": 1,
       "crypto_launch::miss": 1,
-      "other::hit": 6,
+      "other::hit": 5,
       "other::miss": 5,
       "other::pending": 32,
       "us_election::pending": 2,
@@ -552,7 +484,7 @@
       "gta_vi::pending": 1,
       "us_election::miss": 2,
       "gta_vi::hit": 1,
-      "world_cup::pending": 18,
+      "world_cup::pending": 26,
       "gta_vi::flat": 5,
       "us_election::hit": 1
     }

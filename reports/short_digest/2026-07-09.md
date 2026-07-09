@@ -4,7 +4,7 @@
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
 
 ## 今日主线
-今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 GTA VI 主题、美国大选 这类 flat-heavy 噪音盘。
+今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 GTA VI 主题、其他事件 这类 flat-heavy 噪音盘。
 
 ## 主观察池
 - 今天没有值得放进主栏的候选。
@@ -20,24 +20,25 @@
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Ghana win the 2026 FIFA World Cup?
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Morocco win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-morocco-win-the-2026-fifa-world-cup-464
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Morocco win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：世界杯主题盘
   Link (English source): English source: Will Paraguay win the 2026 FIFA World Cup?
   URL: https://polymarket.com/question/will-paraguay-win-the-2026-fifa-world-cup-967
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Paraguay win the 2026 FIFA World Cup?
+- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
+  避开原因: stale_carry_no
+  链接（中文导读）: 中文导读：世界杯主题盘
+  Link (English source): English source: Will Australia win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-australia-win-the-2026-fifa-world-cup-816
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Australia win the 2026 FIFA World Cup?
 
 ## 周度偏好
-- 倾向保留: 趋势延续 | score=0.0 | total=3
-- 倾向保留: 低效拖时间盘 | score=-0.3091 | total=22
+- 倾向保留: 趋势延续 | score=-0.125 | total=4
+- 倾向保留: 低效拖时间盘 | score=-0.2938 | total=32
 - 应继续降权: GTA VI 主题 | score=-0.5 | flat=4
-- 应继续降权: 美国大选 | score=-0.4643 | flat=13
+- 应继续降权: 其他事件 | score=-0.5 | flat=2
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
