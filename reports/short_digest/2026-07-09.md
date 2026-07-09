@@ -20,19 +20,18 @@
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Ghana win the 2026 FIFA World Cup?
 - 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
+  链接（中文导读）: 中文导读：世界杯主题盘
+  Link (English source): English source: Will Morocco win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-morocco-win-the-2026-fifa-world-cup-464
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Morocco win the 2026 FIFA World Cup?
+- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：世界杯主题盘
   Link (English source): English source: Will Paraguay win the 2026 FIFA World Cup?
   URL: https://polymarket.com/question/will-paraguay-win-the-2026-fifa-world-cup-967
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Paraguay win the 2026 FIFA World Cup?
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Australia win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-australia-win-the-2026-fifa-world-cup-816
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Australia win the 2026 FIFA World Cup?
 
 ## 周度偏好
 - 倾向保留: 趋势延续 | score=0.0 | total=3
