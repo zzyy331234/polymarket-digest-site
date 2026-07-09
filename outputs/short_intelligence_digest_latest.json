@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T18:37:24",
+  "generated_at": "2026-07-09T19:05:42",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-07-09",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 GTA VI 主题、其他事件 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、GTA VI 主题 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -289,17 +289,6 @@
   ],
   "best_regimes": [
     {
-      "name": "trend",
-      "score": -0.2857,
-      "total": 7,
-      "hit": 1,
-      "miss": 0,
-      "flat": 6,
-      "unresolved": 0,
-      "avg_confidence": 0.665,
-      "name_cn": "趋势延续"
-    },
-    {
       "name": "carry_no",
       "score": -0.3059,
       "total": 34,
@@ -309,9 +298,31 @@
       "unresolved": 22,
       "avg_confidence": 0.71,
       "name_cn": "低效拖时间盘"
+    },
+    {
+      "name": "trend",
+      "score": -0.5,
+      "total": 7,
+      "hit": 0,
+      "miss": 0,
+      "flat": 7,
+      "unresolved": 0,
+      "avg_confidence": 0.6604,
+      "name_cn": "趋势延续"
     }
   ],
   "worst_clusters": [
+    {
+      "name": "us_election",
+      "score": -0.5,
+      "total": 20,
+      "hit": 0,
+      "miss": 0,
+      "flat": 20,
+      "unresolved": 0,
+      "avg_confidence": 0.6828,
+      "name_cn": "美国大选"
+    },
     {
       "name": "gta_vi",
       "score": -0.5,
@@ -322,17 +333,6 @@
       "unresolved": 0,
       "avg_confidence": 0.624,
       "name_cn": "GTA VI 主题"
-    },
-    {
-      "name": "other",
-      "score": -0.5,
-      "total": 2,
-      "hit": 0,
-      "miss": 0,
-      "flat": 2,
-      "unresolved": 0,
-      "avg_confidence": 0.677,
-      "name_cn": "其他事件"
     }
   ],
   "paper_gate_eligible": false,
