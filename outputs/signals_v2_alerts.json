@@ -1101,11 +1101,13 @@
     ],
     "risk_flags": [
       "high_noise",
-      "trend_noisy"
+      "trend_noisy",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "high_noise",
-      "trend_noisy"
+      "trend_noisy",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "high_noise",
