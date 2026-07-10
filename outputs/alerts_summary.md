@@ -5,9 +5,3 @@
 - Cluster: world_cup
 - URL: https://polymarket.com/question/will-egypt-win-the-2026-fifa-world-cup
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=world_cup
-
-## 2. [carry_no] NO conf=0.63
-- 问题: Will Belgium win the 2026 FIFA World Cup?
-- Cluster: world_cup
-- URL: https://polymarket.com/question/will-belgium-win-the-2026-fifa-world-cup-358
-- 原因: ultra low YES price, better classified as carry_no than trend, cluster=world_cup
