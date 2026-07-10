@@ -14,8 +14,12 @@
       "better classified as carry_no than trend",
       "cluster=world_cup"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0025,
     "no_price": 0.9975,
@@ -763,10 +767,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -1090,10 +1096,12 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "high_noise"
+      "high_noise",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "high_noise"
+      "high_noise",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "high_noise"
@@ -1150,10 +1158,12 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "high_noise"
+      "high_noise",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "high_noise"
+      "high_noise",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "high_noise"
@@ -1212,11 +1222,13 @@
     ],
     "risk_flags": [
       "high_noise",
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "high_noise",
-      "question_blocklisted_v6"
+      "question_blocklisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "high_noise",
