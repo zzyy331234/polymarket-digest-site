@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T17:07:54",
+  "generated_at": "2026-07-11T17:39:38",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -456,7 +456,7 @@
     },
     "regime_outcomes": {
       "carry_no::flat": 81,
-      "mean_revert::flat": 28,
+      "mean_revert::flat": 27,
       "mean_revert::miss": 2,
       "mean_revert::hit": 6,
       "trend::hit": 3,
@@ -464,7 +464,7 @@
       "trend::miss": 6,
       "mean_revert::pending": 11,
       "trend::pending": 5,
-      "trend::flat": 12
+      "trend::flat": 13
     },
     "cluster_outcomes": {
       "us_election::flat": 82,
