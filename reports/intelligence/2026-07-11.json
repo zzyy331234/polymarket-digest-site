@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T16:12:11",
+  "generated_at": "2026-07-11T16:38:38",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -449,16 +449,16 @@
   ],
   "review_stats": {
     "outcomes": {
-      "flat": 122,
+      "flat": 121,
       "miss": 8,
-      "hit": 8,
+      "hit": 9,
       "pending": 62
     },
     "regime_outcomes": {
-      "carry_no::flat": 82,
+      "carry_no::flat": 81,
       "mean_revert::flat": 28,
       "mean_revert::miss": 2,
-      "mean_revert::hit": 5,
+      "mean_revert::hit": 6,
       "trend::hit": 3,
       "carry_no::pending": 46,
       "trend::miss": 6,
@@ -467,7 +467,7 @@
       "trend::flat": 12
     },
     "cluster_outcomes": {
-      "us_election::flat": 83,
+      "us_election::flat": 82,
       "other::flat": 19,
       "world_cup::flat": 14,
       "crypto_launch::flat": 1,
@@ -483,7 +483,7 @@
       "world_cup::pending": 28,
       "gta_vi::flat": 5,
       "us_election::hit": 1,
-      "world_cup::hit": 1
+      "world_cup::hit": 2
     }
   },
   "regime_snapshot": {
