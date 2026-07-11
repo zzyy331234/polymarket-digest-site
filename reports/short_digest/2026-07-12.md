@@ -19,6 +19,13 @@
   URL: https://polymarket.com/question/will-egypt-win-the-2026-fifa-world-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Egypt win the 2026 FIFA World Cup?
+- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
+  避开原因: 噪音过高，方向不稳定
+  链接（中文导读）: 中文导读：世界杯主题盘
+  Link (English source): English source: Will Switzerland win the 2026 FIFA World Cup?
+  URL: https://polymarket.com/question/will-switzerland-win-the-2026-fifa-world-cup
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Switzerland win the 2026 FIFA World Cup?
 - 选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？
@@ -26,23 +33,16 @@
   URL: https://polymarket.com/question/will-kim-kardashian-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Kim Kardashian win the 2028 Democratic presidential nomination?
-- 选举盘：LeBron James能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：选举盘：LeBron James能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will LeBron James win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-lebron-james-win-the-2028-democratic-presidential-nomination
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will LeBron James win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.2765 | total=17
-- 倾向保留: 趋势延续 | score=-0.3143 | total=7
+- 倾向保留: 低效拖时间盘 | score=-0.2964 | total=28
+- 倾向保留: 趋势延续 | score=-0.3 | total=9
 - 应继续降权: GTA VI 主题 | score=-0.5 | flat=5
 - 应继续降权: 其他事件 | score=-0.5 | flat=2
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
-- 低效拖时间盘 仍是最弱 regime，不值得给额外注意力。
+- 均值回归 仍是最弱 regime，不值得给额外注意力。
 - 样刊主栏宁可少，也不要把低质量主题盘硬塞进去。
 - 对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。
 
