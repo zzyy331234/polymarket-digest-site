@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T20:14:48",
+  "generated_at": "2026-07-11T20:30:55",
   "window_days": 7,
   "review_count": 50,
   "regime_stats": {
@@ -22,8 +22,8 @@
     "trend": {
       "total": 5,
       "hit": 0,
-      "miss": 0,
-      "flat": 5,
+      "miss": 1,
+      "flat": 4,
       "unresolved": 0,
       "avg_confidence": 0.6602
     }
@@ -40,8 +40,8 @@
     "us_election": {
       "total": 22,
       "hit": 0,
-      "miss": 0,
-      "flat": 22,
+      "miss": 1,
+      "flat": 21,
       "unresolved": 0,
       "avg_confidence": 0.683
     },
@@ -86,11 +86,11 @@
       },
       {
         "name": "trend",
-        "score": -0.5,
+        "score": -0.4,
         "total": 5,
         "hit": 0,
-        "miss": 0,
-        "flat": 5,
+        "miss": 1,
+        "flat": 4,
         "unresolved": 0,
         "avg_confidence": 0.6602
       }
@@ -98,11 +98,11 @@
     "worst": [
       {
         "name": "trend",
-        "score": -0.5,
+        "score": -0.4,
         "total": 5,
         "hit": 0,
-        "miss": 0,
-        "flat": 5,
+        "miss": 1,
+        "flat": 4,
         "unresolved": 0,
         "avg_confidence": 0.6602
       },
@@ -141,6 +141,16 @@
         "avg_confidence": 0.699
       },
       {
+        "name": "us_election",
+        "score": -0.4773,
+        "total": 22,
+        "hit": 0,
+        "miss": 1,
+        "flat": 21,
+        "unresolved": 0,
+        "avg_confidence": 0.683
+      },
+      {
         "name": "other",
         "score": -0.5,
         "total": 2,
@@ -159,30 +169,10 @@
         "flat": 5,
         "unresolved": 0,
         "avg_confidence": 0.624
-      },
-      {
-        "name": "us_election",
-        "score": -0.5,
-        "total": 22,
-        "hit": 0,
-        "miss": 0,
-        "flat": 22,
-        "unresolved": 0,
-        "avg_confidence": 0.683
       }
     ],
     "worst": [
       {
-        "name": "us_election",
-        "score": -0.5,
-        "total": 22,
-        "hit": 0,
-        "miss": 0,
-        "flat": 22,
-        "unresolved": 0,
-        "avg_confidence": 0.683
-      },
-      {
         "name": "gta_vi",
         "score": -0.5,
         "total": 5,
@@ -201,6 +191,16 @@
         "flat": 2,
         "unresolved": 0,
         "avg_confidence": 0.662
+      },
+      {
+        "name": "us_election",
+        "score": -0.4773,
+        "total": 22,
+        "hit": 0,
+        "miss": 1,
+        "flat": 21,
+        "unresolved": 0,
+        "avg_confidence": 0.683
       },
       {
         "name": "world_cup",
