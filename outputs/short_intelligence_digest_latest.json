@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T12:34:38",
+  "generated_at": "2026-07-11T13:09:15",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-07-11",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、GTA VI 主题 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 GTA VI 主题、其他事件 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -123,7 +123,7 @@
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "latest_ts": "2026-07-11T12:24:27",
+      "latest_ts": "2026-07-11T13:08:49",
       "features": {
         "token_id": "55087250670040717711131370018408221134109122974378698780636020561523521220754",
         "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
@@ -132,8 +132,8 @@
         "no_price": 0.9935,
         "liquidity": 3113724.74863,
         "volume": 41551819.0169403,
-        "latest_ts": "2026-07-11T12:24:27",
-        "history_points": 640,
+        "latest_ts": "2026-07-11T13:08:49",
+        "history_points": 641,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -145,7 +145,7 @@
         "pct_rank_7d": 1.0,
         "pct_rank_30d": 1.0,
         "noise_score": 0.0,
-        "hours_to_event": 20387.5925,
+        "hours_to_event": 20386.853055555555,
         "event_time": "2028-11-07",
         "spread": null
       },
@@ -220,7 +220,7 @@
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "latest_ts": "2026-07-11T12:24:27",
+      "latest_ts": "2026-07-11T13:08:49",
       "features": {
         "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
         "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
@@ -229,8 +229,8 @@
         "no_price": 0.9925,
         "liquidity": 2864763.50676,
         "volume": 43337952.00817486,
-        "latest_ts": "2026-07-11T12:24:27",
-        "history_points": 640,
+        "latest_ts": "2026-07-11T13:08:49",
+        "history_points": 641,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -242,7 +242,7 @@
         "pct_rank_7d": 1.0,
         "pct_rank_30d": 1.0,
         "noise_score": 0.0,
-        "hours_to_event": 20387.5925,
+        "hours_to_event": 20386.853055555555,
         "event_time": "2028-11-07",
         "spread": null
       },
@@ -287,6 +287,17 @@
   ],
   "best_regimes": [
     {
+      "name": "mean_revert",
+      "score": -0.2938,
+      "total": 16,
+      "hit": 2,
+      "miss": 0,
+      "flat": 13,
+      "unresolved": 1,
+      "avg_confidence": 0.6465,
+      "name_cn": "均值回归"
+    },
+    {
       "name": "carry_no",
       "score": -0.35,
       "total": 28,
@@ -296,31 +307,9 @@
       "unresolved": 14,
       "avg_confidence": 0.71,
       "name_cn": "低效拖时间盘"
-    },
-    {
-      "name": "mean_revert",
-      "score": -0.3875,
-      "total": 16,
-      "hit": 1,
-      "miss": 0,
-      "flat": 14,
-      "unresolved": 1,
-      "avg_confidence": 0.6465,
-      "name_cn": "均值回归"
     }
   ],
   "worst_clusters": [
-    {
-      "name": "us_election",
-      "score": -0.5,
-      "total": 22,
-      "hit": 0,
-      "miss": 0,
-      "flat": 22,
-      "unresolved": 0,
-      "avg_confidence": 0.6849,
-      "name_cn": "美国大选"
-    },
     {
       "name": "gta_vi",
       "score": -0.5,
@@ -331,6 +320,17 @@
       "unresolved": 0,
       "avg_confidence": 0.624,
       "name_cn": "GTA VI 主题"
+    },
+    {
+      "name": "other",
+      "score": -0.5,
+      "total": 2,
+      "hit": 0,
+      "miss": 0,
+      "flat": 2,
+      "unresolved": 0,
+      "avg_confidence": 0.664,
+      "name_cn": "其他事件"
     }
   ],
   "paper_gate_eligible": false,
