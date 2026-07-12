@@ -34,14 +34,14 @@
   原始题目: Will Kim Kardashian win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
+- 倾向保留: 均值回归 | score=-0.2333 | total=18
 - 倾向保留: 趋势延续 | score=-0.3 | total=5
-- 倾向保留: 低效拖时间盘 | score=-0.35 | total=30
 - 应继续降权: GTA VI 主题 | score=-0.5 | flat=5
 - 应继续降权: 其他事件 | score=-0.5 | flat=2
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
-- 均值回归 仍是最弱 regime，不值得给额外注意力。
+- 低效拖时间盘 仍是最弱 regime，不值得给额外注意力。
 - 样刊主栏宁可少，也不要把低质量主题盘硬塞进去。
 - 对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。
 
