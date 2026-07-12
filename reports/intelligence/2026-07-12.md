@@ -25,7 +25,7 @@
 - Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 118, 'miss': 11, 'hit': 8, 'pending': 63}
+- outcomes: {'flat': 119, 'miss': 11, 'hit': 7, 'pending': 63}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
