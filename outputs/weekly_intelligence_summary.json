@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-12T12:34:42",
+  "generated_at": "2026-07-12T13:07:13",
   "window_days": 7,
   "review_count": 53,
   "regime_stats": {
     "mean_revert": {
       "total": 18,
-      "hit": 3,
-      "miss": 0,
+      "hit": 2,
+      "miss": 1,
       "flat": 14,
       "unresolved": 1,
       "avg_confidence": 0.6407
@@ -39,8 +39,8 @@
     },
     "world_cup": {
       "total": 23,
-      "hit": 3,
-      "miss": 0,
+      "hit": 2,
+      "miss": 1,
       "flat": 4,
       "unresolved": 16,
       "avg_confidence": 0.6813
@@ -66,10 +66,10 @@
     "best": [
       {
         "name": "mean_revert",
-        "score": -0.2333,
+        "score": -0.2889,
         "total": 18,
-        "hit": 3,
-        "miss": 0,
+        "hit": 2,
+        "miss": 1,
         "flat": 14,
         "unresolved": 1,
         "avg_confidence": 0.6407
@@ -118,10 +118,10 @@
       },
       {
         "name": "mean_revert",
-        "score": -0.2333,
+        "score": -0.2889,
         "total": 18,
-        "hit": 3,
-        "miss": 0,
+        "hit": 2,
+        "miss": 1,
         "flat": 14,
         "unresolved": 1,
         "avg_confidence": 0.6407
@@ -132,10 +132,10 @@
     "best": [
       {
         "name": "world_cup",
-        "score": -0.0957,
+        "score": -0.1391,
         "total": 23,
-        "hit": 3,
-        "miss": 0,
+        "hit": 2,
+        "miss": 1,
         "flat": 4,
         "unresolved": 16,
         "avg_confidence": 0.6813
@@ -204,10 +204,10 @@
       },
       {
         "name": "world_cup",
-        "score": -0.0957,
+        "score": -0.1391,
         "total": 23,
-        "hit": 3,
-        "miss": 0,
+        "hit": 2,
+        "miss": 1,
         "flat": 4,
         "unresolved": 16,
         "avg_confidence": 0.6813
