@@ -1,4 +1,4 @@
-# Polymarket 情报样刊 | 2026-07-12
+# Polymarket 情报样刊 | 2026-07-13
 
 一句话判断
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
