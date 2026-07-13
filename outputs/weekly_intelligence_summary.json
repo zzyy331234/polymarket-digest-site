@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T15:00:28",
+  "generated_at": "2026-07-13T15:30:28",
   "window_days": 7,
   "review_count": 53,
   "regime_stats": {
@@ -13,9 +13,9 @@
     },
     "carry_no": {
       "total": 30,
-      "hit": 1,
+      "hit": 0,
       "miss": 0,
-      "flat": 13,
+      "flat": 14,
       "unresolved": 16,
       "avg_confidence": 0.702
     },
@@ -39,9 +39,9 @@
     },
     "world_cup": {
       "total": 23,
-      "hit": 3,
+      "hit": 2,
       "miss": 2,
-      "flat": 1,
+      "flat": 2,
       "unresolved": 17,
       "avg_confidence": 0.6724
     },
@@ -75,16 +75,6 @@
         "avg_confidence": 0.6463
       },
       {
-        "name": "carry_no",
-        "score": -0.29,
-        "total": 30,
-        "hit": 1,
-        "miss": 0,
-        "flat": 13,
-        "unresolved": 16,
-        "avg_confidence": 0.702
-      },
-      {
         "name": "mean_revert",
         "score": -0.2938,
         "total": 16,
@@ -93,10 +83,30 @@
         "flat": 13,
         "unresolved": 1,
         "avg_confidence": 0.6302
+      },
+      {
+        "name": "carry_no",
+        "score": -0.34,
+        "total": 30,
+        "hit": 0,
+        "miss": 0,
+        "flat": 14,
+        "unresolved": 16,
+        "avg_confidence": 0.702
       }
     ],
     "worst": [
       {
+        "name": "carry_no",
+        "score": -0.34,
+        "total": 30,
+        "hit": 0,
+        "miss": 0,
+        "flat": 14,
+        "unresolved": 16,
+        "avg_confidence": 0.702
+      },
+      {
         "name": "mean_revert",
         "score": -0.2938,
         "total": 16,
@@ -105,16 +115,6 @@
         "flat": 13,
         "unresolved": 1,
         "avg_confidence": 0.6302
-      },
-      {
-        "name": "carry_no",
-        "score": -0.29,
-        "total": 30,
-        "hit": 1,
-        "miss": 0,
-        "flat": 13,
-        "unresolved": 16,
-        "avg_confidence": 0.702
       },
       {
         "name": "trend",
@@ -132,11 +132,11 @@
     "best": [
       {
         "name": "world_cup",
-        "score": -0.0391,
+        "score": -0.1043,
         "total": 23,
-        "hit": 3,
+        "hit": 2,
         "miss": 2,
-        "flat": 1,
+        "flat": 2,
         "unresolved": 17,
         "avg_confidence": 0.6724
       },
@@ -204,11 +204,11 @@
       },
       {
         "name": "world_cup",
-        "score": -0.0391,
+        "score": -0.1043,
         "total": 23,
-        "hit": 3,
+        "hit": 2,
         "miss": 2,
-        "flat": 1,
+        "flat": 2,
         "unresolved": 17,
         "avg_confidence": 0.6724
       }
