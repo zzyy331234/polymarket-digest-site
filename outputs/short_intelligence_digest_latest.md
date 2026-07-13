@@ -25,12 +25,13 @@
   URL: https://polymarket.com/question/will-beto-orourke-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Beto O’Rourke win the 2028 Democratic presidential nomination?
-- 世界杯主题盘 | 世界杯主题 | 趋势延续
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Argentina win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-argentina-win-the-2026-fifa-world-cup-245
-  值得点开的原因: 因为这题已经出现了可见的短线异动，点开原盘能直接核对价格是否还在延续。
-  原始题目: Will Argentina win the 2026 FIFA World Cup?
+- 选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  避开原因: stale_carry_no
+  链接（中文导读）: 中文导读：选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Kim Kardashian win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-kim-kardashian-win-the-2028-democratic-presidential-nomination
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Kim Kardashian win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
 - 倾向保留: 趋势延续 | score=-0.2857 | total=7
