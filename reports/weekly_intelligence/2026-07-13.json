@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:00:31",
+  "generated_at": "2026-07-13T19:30:30",
   "window_days": 7,
   "review_count": 53,
   "regime_stats": {
@@ -9,7 +9,7 @@
       "miss": 0,
       "flat": 13,
       "unresolved": 1,
-      "avg_confidence": 0.6302
+      "avg_confidence": 0.6327
     },
     "carry_no": {
       "total": 30,
@@ -43,7 +43,7 @@
       "miss": 2,
       "flat": 2,
       "unresolved": 17,
-      "avg_confidence": 0.6724
+      "avg_confidence": 0.6741
     },
     "other": {
       "total": 2,
@@ -82,7 +82,7 @@
         "miss": 0,
         "flat": 13,
         "unresolved": 1,
-        "avg_confidence": 0.6302
+        "avg_confidence": 0.6327
       },
       {
         "name": "carry_no",
@@ -114,7 +114,7 @@
         "miss": 0,
         "flat": 13,
         "unresolved": 1,
-        "avg_confidence": 0.6302
+        "avg_confidence": 0.6327
       },
       {
         "name": "trend",
@@ -138,7 +138,7 @@
         "miss": 2,
         "flat": 2,
         "unresolved": 17,
-        "avg_confidence": 0.6724
+        "avg_confidence": 0.6741
       },
       {
         "name": "us_election",
@@ -210,7 +210,7 @@
         "miss": 2,
         "flat": 2,
         "unresolved": 17,
-        "avg_confidence": 0.6724
+        "avg_confidence": 0.6741
       }
     ]
   },
