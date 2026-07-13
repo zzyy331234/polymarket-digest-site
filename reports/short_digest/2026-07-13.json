@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T07:30:27",
+  "generated_at": "2026-07-13T08:06:54",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-07-13",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
@@ -272,17 +272,6 @@
   ],
   "best_regimes": [
     {
-      "name": "mean_revert",
-      "score": -0.28,
-      "total": 15,
-      "hit": 2,
-      "miss": 0,
-      "flat": 12,
-      "unresolved": 1,
-      "avg_confidence": 0.632,
-      "name_cn": "均值回归"
-    },
-    {
       "name": "trend",
       "score": -0.3125,
       "total": 8,
@@ -290,8 +279,19 @@
       "miss": 3,
       "flat": 5,
       "unresolved": 0,
-      "avg_confidence": 0.6446,
+      "avg_confidence": 0.6432,
       "name_cn": "趋势延续"
+    },
+    {
+      "name": "carry_no",
+      "score": -0.34,
+      "total": 30,
+      "hit": 0,
+      "miss": 0,
+      "flat": 14,
+      "unresolved": 16,
+      "avg_confidence": 0.702,
+      "name_cn": "低效拖时间盘"
     }
   ],
   "worst_clusters": [
@@ -327,7 +327,7 @@
   },
   "editor_notes": [
     "当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。",
-    "低效拖时间盘 仍是最弱 regime，不值得给额外注意力。",
+    "均值回归 仍是最弱 regime，不值得给额外注意力。",
     "样刊主栏宁可少，也不要把低质量主题盘硬塞进去。",
     "对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。"
   ]
