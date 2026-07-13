@@ -22,7 +22,7 @@
 - Will Beto O’Rourke win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Jasmine Crockett win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 117, 'miss': 11, 'hit': 8, 'pending': 64}
