@@ -12,7 +12,7 @@
 - URL: https://polymarket.com/question/will-beto-orourke-win-the-2028-democratic-presidential-nomination
 - 原因: ultra low YES price, better classified as carry_no than trend, cluster=us_election
 
-## 3. [trend] NO conf=0.66
+## 3. [trend] NO conf=0.65
 - 问题: Will Argentina win the 2026 FIFA World Cup?
 - Cluster: world_cup
 - URL: https://polymarket.com/question/will-argentina-win-the-2026-fifa-world-cup-245

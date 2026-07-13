@@ -13,7 +13,7 @@
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Egypt win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Beto O’Rourke win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Argentina win the 2026 FIFA World Cup? | NO | conf=0.66 | catalyst=theme_cluster
+- [do_not_touch] Will Argentina win the 2026 FIFA World Cup? | NO | conf=0.65 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
