@@ -19,19 +19,18 @@
   URL: https://polymarket.com/question/will-egypt-win-the-2026-fifa-world-cup
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Egypt win the 2026 FIFA World Cup?
-- 选举盘：Beto O’Rourke能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  链接（中文导读）: 中文导读：选举盘：Beto O’Rourke能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Beto O’Rourke win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-beto-orourke-win-the-2028-democratic-presidential-nomination
+- 选举盘：Tim Walz能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Tim Walz能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Tim Walz win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-tim-walz-win-the-2028-democratic-presidential-nomination-475
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Beto O’Rourke win the 2028 Democratic presidential nomination?
-- 选举盘：Jasmine Crockett能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：选举盘：Jasmine Crockett能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Jasmine Crockett win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-jasmine-crockett-win-the-2028-democratic-presidential-nomination
+  原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
+- 选举盘：Graham Platner能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Graham Platner能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Graham Platner win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-graham-platner-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Jasmine Crockett win the 2028 Democratic presidential nomination?
+  原始题目: Will Graham Platner win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
 - 倾向保留: 低效拖时间盘 | score=-0.3258 | total=31
