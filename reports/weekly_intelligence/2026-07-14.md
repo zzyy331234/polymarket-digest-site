@@ -8,23 +8,23 @@
 
 ## Best Regimes
 - carry_no: score=-0.3258 total=31 hit=0 flat=13 unresolved=18 avg_conf=0.6997
-- trend: score=-0.3571 total=7 hit=0 flat=5 unresolved=0 avg_conf=0.6452
+- trend: score=-0.3571 total=7 hit=0 flat=5 unresolved=0 avg_conf=0.6426
 - mean_revert: score=-0.4786 total=14 hit=0 flat=13 unresolved=1 avg_conf=0.6369
 
 ## Worst Regimes
 - mean_revert: score=-0.4786 total=14 hit=0 flat=13 unresolved=1 avg_conf=0.6369
-- trend: score=-0.3571 total=7 hit=0 flat=5 unresolved=0 avg_conf=0.6452
+- trend: score=-0.3571 total=7 hit=0 flat=5 unresolved=0 avg_conf=0.6426
 - carry_no: score=-0.3258 total=31 hit=0 flat=13 unresolved=18 avg_conf=0.6997
 
 ## Best Clusters
 - world_cup: score=-0.2304 total=23 hit=0 flat=3 unresolved=19 avg_conf=0.6758
 - us_election: score=-0.4773 total=22 hit=0 flat=21 unresolved=0 avg_conf=0.6887
-- other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.654
+- other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.6452
 - gta_vi: score=-0.5 total=5 hit=0 flat=5 unresolved=0 avg_conf=0.624
 
 ## Worst Clusters
 - gta_vi: score=-0.5 total=5 hit=0 flat=5 unresolved=0 avg_conf=0.624
-- other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.654
+- other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.6452
 - us_election: score=-0.4773 total=22 hit=0 flat=21 unresolved=0 avg_conf=0.6887
 - world_cup: score=-0.2304 total=23 hit=0 flat=3 unresolved=19 avg_conf=0.6758
 
