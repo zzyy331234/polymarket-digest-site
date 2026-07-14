@@ -5808,7 +5808,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Egypt win the 2026 FIFA World Cup?",
     "slug": "will-egypt-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -5821,7 +5821,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -114.79,
+    "hours_elapsed": -115.26,
     "post_move_abs": 0.0,
     "post_move_6h": null,
     "post_move_24h": null,
@@ -5841,7 +5841,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
     "slug": "will-kim-kardashian-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -5854,7 +5854,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -5876,7 +5876,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
     "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -5889,7 +5889,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -5911,7 +5911,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
     "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -5924,7 +5924,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -5946,7 +5946,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
     "slug": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -5959,7 +5959,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -5981,7 +5981,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will George Clooney win the 2028 Democratic presidential nomination?",
     "slug": "will-george-clooney-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -5994,7 +5994,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6016,7 +6016,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
     "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
     "cluster": "us_election",
@@ -6029,7 +6029,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6051,7 +6051,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
     "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6067,7 +6067,7 @@
     "hours_elapsed": null,
     "post_move_abs": null,
     "post_move_6h": 0.0,
-    "post_move_24h": 0.0,
+    "post_move_24h": -0.001,
     "post_move_48h": null,
     "window_6h_ready": true,
     "window_24h_ready": true,
@@ -6075,7 +6075,7 @@
     "mfe_6h": 0.0,
     "mae_6h": 0.0,
     "mfe_24h": 0.0,
-    "mae_24h": 0.0,
+    "mae_24h": -0.001,
     "mfe_48h": 0.0,
     "mae_48h": -0.001,
     "outcome": "flat",
@@ -6085,7 +6085,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
     "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
     "cluster": "us_election",
@@ -6098,7 +6098,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6120,7 +6120,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
     "slug": "will-andrew-yang-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6133,7 +6133,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6155,7 +6155,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Beto O’Rourke win the 2028 Democratic presidential nomination?",
     "slug": "will-beto-orourke-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6168,7 +6168,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6190,7 +6190,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
     "slug": "will-tim-walz-win-the-2028-democratic-presidential-nomination-475",
     "cluster": "us_election",
@@ -6224,7 +6224,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?",
     "slug": "will-zohran-mamdani-win-the-2028-democratic-presidential-nomination-445",
     "cluster": "us_election",
@@ -6237,7 +6237,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6259,7 +6259,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will England win the 2026 FIFA World Cup?",
     "slug": "will-england-win-the-2026-fifa-world-cup-937",
     "cluster": "world_cup",
@@ -6272,7 +6272,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.006000000000000005,
     "post_move_6h": 0.0040000000000000036,
     "post_move_24h": 0.0040000000000000036,
@@ -6294,7 +6294,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Xi Jinping out before 2027?",
     "slug": "xi-jinping-out-before-2027",
     "cluster": "other",
@@ -6328,7 +6328,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Switzerland win the 2026 FIFA World Cup?",
     "slug": "will-switzerland-win-the-2026-fifa-world-cup",
     "cluster": "world_cup",
@@ -6341,7 +6341,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -1.29,
+    "hours_elapsed": -1.76,
     "post_move_abs": 0.0,
     "post_move_6h": null,
     "post_move_24h": null,
@@ -6361,7 +6361,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Belgium win the 2026 FIFA World Cup?",
     "slug": "will-belgium-win-the-2026-fifa-world-cup-358",
     "cluster": "world_cup",
@@ -6374,7 +6374,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -32.09,
+    "hours_elapsed": -32.56,
     "post_move_abs": 0.0,
     "post_move_6h": null,
     "post_move_24h": null,
@@ -6394,7 +6394,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Morocco win the 2026 FIFA World Cup?",
     "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
     "cluster": "world_cup",
@@ -6407,7 +6407,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -54.94,
+    "hours_elapsed": -55.41,
     "post_move_abs": 0.0,
     "post_move_6h": null,
     "post_move_24h": null,
@@ -6427,7 +6427,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Norway win the 2026 FIFA World Cup?",
     "slug": "will-norway-win-the-2026-fifa-world-cup-893",
     "cluster": "world_cup",
@@ -6440,7 +6440,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -5.36,
+    "hours_elapsed": -5.83,
     "post_move_abs": 0.0,
     "post_move_6h": null,
     "post_move_24h": null,
@@ -6460,7 +6460,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Colombia win the 2026 FIFA World Cup?",
     "slug": "will-colombia-win-the-2026-fifa-world-cup-734",
     "cluster": "world_cup",
@@ -6473,7 +6473,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -114.79,
+    "hours_elapsed": -115.26,
     "post_move_abs": 0.0,
     "post_move_6h": null,
     "post_move_24h": null,
@@ -6493,7 +6493,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will Jesus Christ return before GTA VI?",
     "slug": "will-jesus-christ-return-before-gta-vi-665",
     "cluster": "gta_vi",
@@ -6506,7 +6506,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6528,7 +6528,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will bitcoin hit $1m before GTA VI?",
     "slug": "will-bitcoin-hit-1m-before-gta-vi-872-424",
     "cluster": "gta_vi",
@@ -6541,7 +6541,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6563,7 +6563,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Will China invades Taiwan before GTA VI?",
     "slug": "will-china-invades-taiwan-before-gta-vi-716-644",
     "cluster": "gta_vi",
@@ -6576,7 +6576,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
@@ -6598,7 +6598,7 @@
     ]
   },
   {
-    "saved_at": "2026-07-12T16:10:29",
+    "saved_at": "2026-07-12T16:38:39",
     "question": "Trump out as President before GTA VI?",
     "slug": "trump-out-as-president-before-gta-vi-846",
     "cluster": "gta_vi",
@@ -6611,7 +6611,7 @@
     "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": 29.54,
+    "hours_elapsed": 29.07,
     "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
