@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T21:56:06",
+  "generated_at": "2026-07-14T16:33:18",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -29,12 +29,8 @@
         "better classified as carry_no than trend",
         "cluster=world_cup"
       ],
-      "risk_flags": [
-        "cooldown_active"
-      ],
-      "advisory_flags": [
-        "cooldown_active"
-      ],
+      "risk_flags": [],
+      "advisory_flags": [],
       "blocking_flags": [],
       "yes_price": 0.0025,
       "no_price": 0.9975,
@@ -71,7 +67,7 @@
         "spread": null
       },
       "cluster": "world_cup",
-      "pipeline_score": 0.6799999999999999,
+      "pipeline_score": 0.71,
       "market_url": "https://polymarket.com/question/will-egypt-win-the-2026-fifa-world-cup",
       "templates": {
         "short": "[carry_no] NO conf=0.71 | Will Egypt win the 2026 FIFA World Cup? | https://polymarket.com/question/will-egypt-win-the-2026-fifa-world-cup",
@@ -81,11 +77,10 @@
       "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Egypt win the 2026 FIFA World Cup?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-egypt-win-the-2026-fifa-world-cup",
       "catalyst_type": "theme_cluster",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.498,
+      "evidence_score": 0.548,
       "thesis_summary": "[carry_no] NO on 'Will Egypt win the 2026 FIFA World Cup?' because ultra low YES price.",
       "why_now": "Relevant within active cluster=world_cup and current regime=carry_no.",
       "do_not_trade_if": [
-        "Advisory flags worsen or increase before entry.",
         "World Cup cluster remains blocked / low-tradability heavy.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
@@ -106,12 +101,8 @@
         "better classified as carry_no than trend",
         "cluster=us_election"
       ],
-      "risk_flags": [
-        "cooldown_active"
-      ],
-      "advisory_flags": [
-        "cooldown_active"
-      ],
+      "risk_flags": [],
+      "advisory_flags": [],
       "blocking_flags": [],
       "yes_price": 0.0055,
       "no_price": 0.9945,
@@ -148,7 +139,7 @@
         "spread": null
       },
       "cluster": "us_election",
-      "pipeline_score": 0.6799999999999999,
+      "pipeline_score": 0.71,
       "market_url": "https://polymarket.com/question/will-beto-orourke-win-the-2028-democratic-presidential-nomination",
       "templates": {
         "short": "[carry_no] NO conf=0.71 | Will Beto O’Rourke win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-beto-orourke-win-the-2028-democratic-presidential-nomination",
@@ -158,11 +149,10 @@
       "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0055\nWill Beto O’Rourke win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-beto-orourke-win-the-2028-democratic-presidential-nomination",
       "catalyst_type": "structural",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.498,
+      "evidence_score": 0.548,
       "thesis_summary": "[carry_no] NO on 'Will Beto O’Rourke win the 2028 Democratic presidential nomination?' because ultra low YES price.",
       "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
       "do_not_trade_if": [
-        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
@@ -516,27 +506,27 @@
   ],
   "review_stats": {
     "outcomes": {
-      "flat": 118,
-      "miss": 11,
-      "hit": 7,
-      "pending": 64
+      "flat": 119,
+      "miss": 10,
+      "hit": 5,
+      "pending": 66
     },
     "regime_outcomes": {
-      "carry_no::flat": 78,
-      "mean_revert::flat": 27,
+      "carry_no::flat": 77,
+      "mean_revert::flat": 28,
       "mean_revert::miss": 2,
-      "mean_revert::hit": 4,
+      "mean_revert::hit": 2,
       "trend::hit": 3,
-      "carry_no::pending": 48,
-      "trend::miss": 9,
+      "carry_no::pending": 50,
+      "trend::miss": 8,
       "mean_revert::pending": 11,
       "trend::pending": 5,
-      "trend::flat": 13
+      "trend::flat": 14
     },
     "cluster_outcomes": {
       "us_election::flat": 81,
       "other::flat": 19,
-      "world_cup::flat": 11,
+      "world_cup::flat": 12,
       "crypto_launch::flat": 1,
       "crypto_launch::miss": 1,
       "other::hit": 5,
@@ -546,10 +536,9 @@
       "gta_vi::miss": 1,
       "gta_vi::pending": 1,
       "us_election::miss": 2,
-      "world_cup::pending": 30,
+      "world_cup::pending": 32,
       "gta_vi::flat": 6,
-      "world_cup::miss": 2,
-      "world_cup::hit": 2
+      "world_cup::miss": 1
     }
   },
   "regime_snapshot": {
