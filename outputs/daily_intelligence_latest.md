@@ -13,6 +13,7 @@
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Glenn Youngkin win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will Argentina win the 2026 FIFA World Cup? | YES | conf=0.67 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
