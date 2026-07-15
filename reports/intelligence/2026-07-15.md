@@ -11,19 +11,19 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Glenn Youngkin win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will Kim Kardashian win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will LeBron James win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Argentina win the 2026 FIFA World Cup? | YES | conf=0.67 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
-- Will Eric Trump win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
-- Will Glenn Youngkin win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
-- Will Kim Kardashian win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
-- Will Gretchen Whitmer win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
-- Will Vivek Ramaswamy win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
+- Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
+- Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
+- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
+- Will Phil Murphy win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
+- Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 
 ## 后验复盘快照
 - outcomes: {'flat': 119, 'miss': 10, 'hit': 5, 'pending': 66}
