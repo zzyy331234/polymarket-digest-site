@@ -13,7 +13,6 @@
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Kim Kardashian win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will LeBron James win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Argentina win the 2026 FIFA World Cup? | YES | conf=0.67 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
