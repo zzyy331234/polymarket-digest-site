@@ -13,12 +13,6 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
-- 选举盘：Tim Walz能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  链接（中文导读）: 中文导读：选举盘：Tim Walz能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Tim Walz win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-tim-walz-win-the-2028-democratic-presidential-nomination-475
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
 - 选举盘：Eric Trump能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
   链接（中文导读）: 中文导读：选举盘：Eric Trump能否赢得 2028 美国总统大选？
   Link (English source): English source: Will Eric Trump win the 2028 US Presidential Election?
@@ -31,6 +25,12 @@
   URL: https://polymarket.com/question/will-glenn-youngkin-win-the-2028-us-presidential-election
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Glenn Youngkin win the 2028 US Presidential Election?
+- 选举盘：Kim Kardashian能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Kim Kardashian能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will Kim Kardashian win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-kim-kardashian-win-the-2028-us-presidential-election
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Kim Kardashian win the 2028 US Presidential Election?
 
 ## 周度偏好
 - 倾向保留: 低效拖时间盘 | score=-0.3444 | total=27
