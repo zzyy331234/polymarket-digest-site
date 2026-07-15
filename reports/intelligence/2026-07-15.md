@@ -26,7 +26,7 @@
 - Will Vivek Ramaswamy win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 120, 'miss': 9, 'hit': 5, 'pending': 66}
+- outcomes: {'flat': 119, 'miss': 10, 'hit': 5, 'pending': 66}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
