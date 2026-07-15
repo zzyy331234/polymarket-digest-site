@@ -11,8 +11,8 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Gretchen Whitmer win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Vivek Ramaswamy win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will Glenn Youngkin win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 
 ## 观察名单
 - 当前无 watchlist。
