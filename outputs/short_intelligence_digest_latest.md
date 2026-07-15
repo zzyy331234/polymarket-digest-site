@@ -1,4 +1,4 @@
-# Polymarket 情报样刊 | 2026-07-14
+# Polymarket 情报样刊 | 2026-07-15
 
 一句话判断
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
@@ -13,28 +13,28 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
-- 世界杯主题盘 | 世界杯主题 | 低效拖时间盘
-  链接（中文导读）: 中文导读：世界杯主题盘
-  Link (English source): English source: Will Egypt win the 2026 FIFA World Cup?
-  URL: https://polymarket.com/question/will-egypt-win-the-2026-fifa-world-cup
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Egypt win the 2026 FIFA World Cup?
 - 选举盘：Tim Walz能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   链接（中文导读）: 中文导读：选举盘：Tim Walz能否赢得 2028 民主党总统提名？
   Link (English source): English source: Will Tim Walz win the 2028 Democratic presidential nomination?
   URL: https://polymarket.com/question/will-tim-walz-win-the-2028-democratic-presidential-nomination-475
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
-- 选举盘：Graham Platner能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  链接（中文导读）: 中文导读：选举盘：Graham Platner能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Graham Platner win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-graham-platner-win-the-2028-democratic-presidential-nomination
+- 选举盘：Eric Trump能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Eric Trump能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will Eric Trump win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-eric-trump-win-the-2028-us-presidential-election
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Graham Platner win the 2028 Democratic presidential nomination?
+  原始题目: Will Eric Trump win the 2028 US Presidential Election?
+- 选举盘：Glenn Youngkin能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Glenn Youngkin能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will Glenn Youngkin win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-glenn-youngkin-win-the-2028-us-presidential-election
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Glenn Youngkin win the 2028 US Presidential Election?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.3258 | total=31
-- 倾向保留: 趋势延续 | score=-0.375 | total=8
+- 倾向保留: 低效拖时间盘 | score=-0.3444 | total=27
+- 倾向保留: 趋势延续 | score=-0.375 | total=4
 - 应继续降权: GTA VI 主题 | score=-0.5 | flat=5
 - 应继续降权: 其他事件 | score=-0.5 | flat=2
 

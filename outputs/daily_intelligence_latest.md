@@ -1,4 +1,4 @@
-# Polymarket Intelligence Brief - 2026-07-14
+# Polymarket Intelligence Brief - 2026-07-15
 
 ## 今日结论
 - 阶段: paper_trade
@@ -11,22 +11,21 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Egypt win the 2026 FIFA World Cup? | NO | conf=0.71 | catalyst=theme_cluster
 - [do_not_touch] Will Tim Walz win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Graham Platner win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will Eric Trump win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
-- Will Egypt win the 2026 FIFA World Cup? | cluster=world_cup | regime=carry_no | blocking=
 - Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
-- Will Graham Platner win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Eric Trump win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
 - Will Glenn Youngkin win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
+- Will Tim Walz win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
+- Will Kim Kardashian win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 119, 'miss': 10, 'hit': 5, 'pending': 66}
+- outcomes: {'flat': 120, 'miss': 9, 'hit': 5, 'pending': 66}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

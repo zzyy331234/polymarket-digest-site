@@ -1,8 +1,8 @@
 [
   {
-    "token_id": "30499731947464516579580181356221397335865912996104577000510883912653418218808",
-    "question": "Will Egypt win the 2026 FIFA World Cup?",
-    "slug": "will-egypt-win-the-2026-fifa-world-cup",
+    "token_id": "69910730841487615802736046038473620030754616421912831175284551372639933569112",
+    "question": "Will Morocco win the 2026 FIFA World Cup?",
+    "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
     "regime": "carry_no",
     "direction": "NO",
     "confidence": 0.71,
@@ -15,43 +15,45 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "cooldown_active"
+      "high_noise"
     ],
-    "blocking_flags": [],
-    "yes_price": 0.0025,
-    "no_price": 0.9975,
-    "liquidity": 6712130.6,
-    "volume": 139443074.0,
+    "blocking_flags": [
+      "high_noise"
+    ],
+    "yes_price": 0.0005,
+    "no_price": 0.9995,
+    "liquidity": 3455999.95,
+    "volume": 152254245.15,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
+    "chg_4h": -0.9824561403508771,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-07-07T21:23:00",
+    "latest_ts": "2026-07-10T09:14:21",
     "features": {
-      "token_id": "30499731947464516579580181356221397335865912996104577000510883912653418218808",
-      "question": "Will Egypt win the 2026 FIFA World Cup?",
-      "slug": "will-egypt-win-the-2026-fifa-world-cup",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "liquidity": 6712130.60109,
-      "volume": 139443074.001248,
-      "latest_ts": "2026-07-07T21:23:00",
-      "history_points": 320,
+      "token_id": "69910730841487615802736046038473620030754616421912831175284551372639933569112",
+      "question": "Will Morocco win the 2026 FIFA World Cup?",
+      "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 3455999.94846,
+      "volume": 152254245.1457818,
+      "latest_ts": "2026-07-10T09:14:21",
+      "history_points": 223,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
+      "chg_4h": -0.9824561403508771,
       "chg_24h": null,
       "chg_7d": null,
-      "rsi_14": 0.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": -2.8564732077461695e-06,
-      "pct_rank_7d": 0.8125,
-      "pct_rank_30d": 0.8125,
-      "noise_score": 0.0,
-      "hours_to_event": 290.6166666666667,
+      "rsi_14": 5.16458657580084,
+      "volatility": 0.11406111857942225,
+      "trend_slope_4h": -0.00032481203007518806,
+      "trend_slope_24h": -5.17285783541389e-05,
+      "pct_rank_7d": 0.08071748878923767,
+      "pct_rank_30d": 0.08071748878923767,
+      "noise_score": 3.9473173428941353,
+      "hours_to_event": 230.76083333333332,
       "event_time": "2026-07-20",
       "spread": null
     },
@@ -72,12 +74,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
@@ -86,7 +84,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": -0.15384615384615385,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "104464678880204778606895232389511543522030897731392516718349574106843434770446",
@@ -97,17 +95,17 @@
       "liquidity": 2800363.64718,
       "volume": 42423816.88441206,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.15384615384615385,
+      "chg_7d": null,
       "rsi_14": 0.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.4666117065127782,
-      "pct_rank_30d": 0.38217420661715057,
+      "pct_rank_7d": 0.48751076658053405,
+      "pct_rank_30d": 0.48751076658053405,
       "noise_score": 0.0,
       "hours_to_event": 20307.5,
       "event_time": "2028-11-07",
@@ -132,12 +130,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -149,7 +145,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "22103094389913052942362639589409218272323168761614999702665821259175535456835",
@@ -160,11 +156,11 @@
       "liquidity": 2763413.42995,
       "volume": 35533259.948060736,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -195,12 +191,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -212,7 +206,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "58585097107933138034126275600204468509993701936571284309823871593297754181479",
@@ -223,11 +217,11 @@
       "liquidity": 2254710.75067,
       "volume": 34944124.099499665,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -254,15 +248,18 @@
     "reasons": [
       "ultra low YES price",
       "better classified as carry_no than trend",
+      "stale low-vol carry_no",
       "cluster=us_election"
     ],
     "risk_flags": [
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "cooldown_active"
+      "stale_carry_no"
     ],
-    "blocking_flags": [],
+    "blocking_flags": [
+      "stale_carry_no"
+    ],
     "yes_price": 0.0045,
     "no_price": 0.9955,
     "liquidity": 2250879.06,
@@ -270,7 +267,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "54840717483866263964304723492966182979723045222316848733193673523986124053075",
@@ -281,17 +278,17 @@
       "liquidity": 2250879.0608,
       "volume": 7103735.853486012,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
-      "rsi_14": 0.40291386993959577,
+      "chg_7d": null,
+      "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
       "pct_rank_7d": 1.0,
-      "pct_rank_30d": 0.9358541525995948,
+      "pct_rank_30d": 1.0,
       "noise_score": 0.0,
       "hours_to_event": 20307.5,
       "event_time": "2028-11-07",
@@ -314,12 +311,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
@@ -374,12 +367,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -391,7 +382,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "83723134981785004242996949681785273460678873813693556756054904164484296299719",
@@ -402,11 +393,11 @@
       "liquidity": 2136113.06301,
       "volume": 25966937.44720329,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -437,12 +428,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -454,7 +443,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "14253956839582698877884742930225331487593177635330318923853046874994118249367",
@@ -465,11 +454,11 @@
       "liquidity": 2121715.15099,
       "volume": 28183721.239568267,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -498,12 +487,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0065,
     "no_price": 0.9935,
@@ -512,7 +497,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": -0.13333333333333333,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "631059815958854406224163480574507434200946764542129005247984171366597476420",
@@ -523,17 +508,17 @@
       "liquidity": 2037783.80975,
       "volume": 26186034.835564233,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.13333333333333333,
+      "chg_7d": null,
       "rsi_14": 0.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.5828524319868096,
-      "pct_rank_30d": 0.4773801485482782,
+      "pct_rank_7d": 0.6089577950043066,
+      "pct_rank_30d": 0.6089577950043066,
       "noise_score": 0.0,
       "hours_to_event": 20307.5,
       "event_time": "2028-11-07",
@@ -558,12 +543,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -619,12 +602,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0045,
     "no_price": 0.9955,
@@ -633,7 +612,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": -0.3076923076923077,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "2638997461401140008448476093092229850740161649668999975101243681118238509713",
@@ -644,17 +623,17 @@
       "liquidity": 1901889.23159,
       "volume": 43350009.85340313,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.3076923076923077,
+      "chg_7d": null,
       "rsi_14": 0.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.6842539159109645,
-      "pct_rank_30d": 0.5604321404456448,
+      "pct_rank_7d": 0.7149009474590869,
+      "pct_rank_30d": 0.7149009474590869,
       "noise_score": 0.0,
       "hours_to_event": 20307.5,
       "event_time": "2028-11-07",
@@ -677,12 +656,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0055,
     "no_price": 0.9945,
@@ -691,7 +666,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": -0.15384615384615385,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "24863363384036117015867671383779186335047493791693657275104567365292353535818",
@@ -702,17 +677,17 @@
       "liquidity": 1878696.42323,
       "volume": 38610301.9336015,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.15384615384615385,
+      "chg_7d": null,
       "rsi_14": 0.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.5234954657873042,
-      "pct_rank_30d": 0.4287643484132343,
+      "pct_rank_7d": 0.5469422911283376,
+      "pct_rank_30d": 0.5469422911283376,
       "noise_score": 0.0,
       "hours_to_event": 20307.5,
       "event_time": "2028-11-07",
@@ -737,12 +712,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -754,7 +727,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "26641906520532802078452346454133721131611596169940893262820937050881742190686",
@@ -765,11 +738,11 @@
       "liquidity": 1697047.2644,
       "volume": 25404803.889084067,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -799,12 +772,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "blocking_flags": [
       "high_noise"
@@ -827,17 +798,17 @@
       "liquidity": 11483237.16669,
       "volume": 132837715.7947361,
       "latest_ts": "2026-07-12T14:53:00",
-      "history_points": 807,
+      "history_points": 487,
       "chg_1h": 0.0,
       "chg_4h": -0.95,
       "chg_24h": -0.9696969696969697,
       "chg_7d": null,
-      "rsi_14": 18.44612461025379,
+      "rsi_14": 18.44612461025376,
       "volatility": 0.11614347401922462,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": -5.5933689901081204e-05,
-      "pct_rank_7d": 0.0161090458488228,
-      "pct_rank_30d": 0.0161090458488228,
+      "pct_rank_7d": 0.026694045174537988,
+      "pct_rank_30d": 0.026694045174537988,
       "noise_score": 3.0929524106569453,
       "hours_to_event": 177.11666666666667,
       "event_time": "2026-07-20",
@@ -861,12 +832,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "blocking_flags": [
       "high_noise"
@@ -889,81 +858,19 @@
       "liquidity": 4993840.24253,
       "volume": 129278677.369467,
       "latest_ts": "2026-07-11T08:05:04",
-      "history_points": 617,
+      "history_points": 297,
       "chg_1h": 0.0,
       "chg_4h": -0.9333333333333332,
       "chg_24h": -0.9767441860465116,
       "chg_7d": null,
-      "rsi_14": 25.44050436688103,
+      "rsi_14": 25.44050436348472,
       "volatility": 0.2251305815379599,
       "trend_slope_4h": -0.0009824675324675324,
       "trend_slope_24h": -0.0002827567169672432,
-      "pct_rank_7d": 0.02593192868719611,
-      "pct_rank_30d": 0.02593192868719611,
+      "pct_rank_7d": 0.05387205387205387,
+      "pct_rank_30d": 0.05387205387205387,
       "noise_score": 4.0180452501117445,
       "hours_to_event": 207.91555555555556,
-      "event_time": "2026-07-20",
-      "spread": null
-    },
-    "cluster": "world_cup"
-  },
-  {
-    "token_id": "69910730841487615802736046038473620030754616421912831175284551372639933569112",
-    "question": "Will Morocco win the 2026 FIFA World Cup?",
-    "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
-    "regime": "carry_no",
-    "direction": "NO",
-    "confidence": 0.63,
-    "position": "small",
-    "quality": 0.6,
-    "risk_score": 0.25,
-    "reasons": [
-      "ultra low YES price",
-      "better classified as carry_no than trend",
-      "cluster=world_cup"
-    ],
-    "risk_flags": [
-      "high_noise",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "high_noise"
-    ],
-    "yes_price": 0.0005,
-    "no_price": 0.9995,
-    "liquidity": 3455999.95,
-    "volume": 152254245.15,
-    "chg_1h": 0.0,
-    "chg_4h": -0.9824561403508771,
-    "chg_24h": -0.9824561403508771,
-    "chg_7d": null,
-    "latest_ts": "2026-07-10T09:14:21",
-    "features": {
-      "token_id": "69910730841487615802736046038473620030754616421912831175284551372639933569112",
-      "question": "Will Morocco win the 2026 FIFA World Cup?",
-      "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "liquidity": 3455999.94846,
-      "volume": 152254245.1457818,
-      "latest_ts": "2026-07-10T09:14:21",
-      "history_points": 543,
-      "chg_1h": 0.0,
-      "chg_4h": -0.9824561403508771,
-      "chg_24h": -0.9824561403508771,
-      "chg_7d": null,
-      "rsi_14": 5.164586766157015,
-      "volatility": 0.11406111857942225,
-      "trend_slope_4h": -0.00032481203007518806,
-      "trend_slope_24h": -5.17285783541389e-05,
-      "pct_rank_7d": 0.03314917127071823,
-      "pct_rank_30d": 0.03314917127071823,
-      "noise_score": 3.9473173428941353,
-      "hours_to_event": 230.76083333333332,
       "event_time": "2026-07-20",
       "spread": null
     },
@@ -985,12 +892,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "blocking_flags": [
       "high_noise"
@@ -1013,17 +918,17 @@
       "liquidity": 1263647.34762,
       "volume": 137345340.04528028,
       "latest_ts": "2026-07-12T10:49:00",
-      "history_points": 794,
+      "history_points": 474,
       "chg_1h": 0.0,
       "chg_4h": -0.992,
       "chg_24h": -0.9915966386554622,
       "chg_7d": null,
-      "rsi_14": 24.102848715446115,
+      "rsi_14": 24.1028487154461,
       "volatility": 0.14296707972869685,
       "trend_slope_4h": -0.000895588235294118,
       "trend_slope_24h": -0.00017346667331703995,
-      "pct_rank_7d": 0.015113350125944584,
-      "pct_rank_30d": 0.015113350125944584,
+      "pct_rank_7d": 0.02531645569620253,
+      "pct_rank_30d": 0.02531645569620253,
       "noise_score": 2.6478351613342697,
       "hours_to_event": 181.18333333333334,
       "event_time": "2026-07-20",
@@ -1048,12 +953,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1065,7 +968,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.023980815347721843,
     "chg_24h": 0.023980815347721843,
-    "chg_7d": 0.18941504178272983,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "4394372887385518214471608448209527405727552777602031099972143344338178308080",
@@ -1076,17 +979,17 @@
       "liquidity": 8428558.03859,
       "volume": 109086077.86711869,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.023980815347721843,
       "chg_24h": 0.023980815347721843,
-      "chg_7d": 0.18941504178272983,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 4.1838334079713426e-05,
-      "pct_rank_7d": 0.9967023907666942,
-      "pct_rank_30d": 0.9972991222147198,
+      "pct_rank_7d": 0.9965546942291128,
+      "pct_rank_30d": 0.9965546942291128,
       "noise_score": 0.0,
       "hours_to_event": 123.5,
       "event_time": "2026-07-20",
@@ -1111,12 +1014,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1128,7 +1029,7 @@
     "chg_1h": -0.004618937644341806,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.5017421602787457,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "115556263888245616435851357148058235707004733438163639091106356867234218207169",
@@ -1139,17 +1040,17 @@
       "liquidity": 7733089.13713,
       "volume": 100292531.64137024,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": -0.004618937644341806,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.5017421602787457,
+      "chg_7d": null,
       "rsi_14": 2.9797662587967864,
       "volatility": 0.0004689566178218328,
       "trend_slope_4h": -1.4781595806639512e-05,
       "trend_slope_24h": 1.0523958799820922e-06,
-      "pct_rank_7d": 0.9563066776586975,
-      "pct_rank_30d": 0.9642133693450371,
+      "pct_rank_7d": 0.954349698535745,
+      "pct_rank_30d": 0.954349698535745,
       "noise_score": 0.0,
       "hours_to_event": 123.5,
       "event_time": "2026-07-20",
@@ -1174,12 +1075,10 @@
       "cluster=world_cup"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1191,7 +1090,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.005148005148005152,
     "chg_24h": 0.005148005148005152,
-    "chg_7d": 0.1815431164901664,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "108233603819467706476318984012158651931658302669301887462181073562758483842092",
@@ -1202,86 +1101,19 @@
       "liquidity": 7120800.20789,
       "volume": 117413015.20783278,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.005148005148005152,
       "chg_24h": 0.005148005148005152,
-      "chg_7d": 0.1815431164901664,
+      "chg_7d": null,
       "rsi_14": 99.99999999999999,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 1.6735333631885365e-05,
-      "pct_rank_7d": 0.989282769991756,
-      "pct_rank_30d": 0.9912221471978393,
+      "pct_rank_7d": 0.9888027562446167,
+      "pct_rank_30d": 0.9888027562446167,
       "noise_score": 0.0,
       "hours_to_event": 123.5,
-      "event_time": "2026-07-20",
-      "spread": null
-    },
-    "cluster": "world_cup"
-  },
-  {
-    "token_id": "98803390175521456712653678280474920637934596234667490983228578374641217211132",
-    "question": "Will Colombia win the 2026 FIFA World Cup?",
-    "slug": "will-colombia-win-the-2026-fifa-world-cup-734",
-    "regime": "mean_revert",
-    "direction": "NO",
-    "confidence": 0.624,
-    "position": "small",
-    "quality": 0.61,
-    "risk_score": 0.32,
-    "reasons": [
-      "upper percentile fade setup",
-      "RSI extreme",
-      "low tradability profile",
-      "vNext gate: question_blocklisted_v6",
-      "cluster=world_cup"
-    ],
-    "risk_flags": [
-      "low_tradability",
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "low_tradability",
-      "question_blocklisted_v6",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "low_tradability",
-      "question_blocklisted_v6"
-    ],
-    "yes_price": 0.0335,
-    "no_price": 0.9665,
-    "liquidity": 1634774.0,
-    "volume": 98888262.81,
-    "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": null,
-    "chg_7d": null,
-    "latest_ts": "2026-07-07T21:23:00",
-    "features": {
-      "token_id": "98803390175521456712653678280474920637934596234667490983228578374641217211132",
-      "question": "Will Colombia win the 2026 FIFA World Cup?",
-      "slug": "will-colombia-win-the-2026-fifa-world-cup-734",
-      "yes_price": 0.0335,
-      "no_price": 0.9665,
-      "liquidity": 1634774.00334,
-      "volume": 98888262.80735359,
-      "latest_ts": "2026-07-07T21:23:00",
-      "history_points": 320,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": null,
-      "chg_7d": null,
-      "rsi_14": 100.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 1.0,
-      "noise_score": 0.0,
-      "hours_to_event": 290.6166666666667,
       "event_time": "2026-07-20",
       "spread": null
     },
@@ -1304,12 +1136,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1321,7 +1151,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "90435811253665578014957380826505992530054077692143838383981805324273750424057",
@@ -1332,11 +1162,11 @@
       "liquidity": 327867.1065,
       "volume": 11818925.510116717,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1367,12 +1197,10 @@
       "cluster=other"
     ],
     "risk_flags": [
-      "question_not_whitelisted_v6",
-      "cooldown_active"
+      "question_not_whitelisted_v6"
     ],
     "advisory_flags": [
-      "question_not_whitelisted_v6",
-      "cooldown_active"
+      "question_not_whitelisted_v6"
     ],
     "blocking_flags": [
       "question_not_whitelisted_v6"
@@ -1384,7 +1212,7 @@
     "chg_1h": 0.0,
     "chg_4h": -0.020202020202020218,
     "chg_24h": -0.020202020202020218,
-    "chg_7d": -0.020202020202020218,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
@@ -1395,17 +1223,17 @@
       "liquidity": 225570.7727,
       "volume": 11320868.951333934,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": -0.020202020202020218,
       "chg_24h": -0.020202020202020218,
-      "chg_7d": -0.020202020202020218,
+      "chg_7d": null,
       "rsi_14": 0.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": -8.367666815942682e-06,
-      "pct_rank_7d": 0.0832646331409728,
-      "pct_rank_30d": 0.06819716407832546,
+      "pct_rank_7d": 0.08699397071490095,
+      "pct_rank_30d": 0.08699397071490095,
       "noise_score": 0.0,
       "hours_to_event": 4059.5,
       "event_time": "2026-12-31",
@@ -1430,12 +1258,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1447,7 +1273,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "105267568073659068217311993901927962476298440625043565106676088842803600775810",
@@ -1458,11 +1284,11 @@
       "liquidity": 129584.97483,
       "volume": 4652759.519320778,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1493,12 +1319,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1510,7 +1334,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "21695138873211375451055566770107682325494206727818897067665810321709249824909",
@@ -1521,11 +1345,11 @@
       "liquidity": 62907.1877,
       "volume": 1907543.3660500674,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1556,12 +1380,10 @@
       "cluster=gta_vi"
     ],
     "risk_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "advisory_flags": [
-      "question_blocklisted_v6",
-      "cooldown_active"
+      "question_blocklisted_v6"
     ],
     "blocking_flags": [
       "question_blocklisted_v6"
@@ -1573,7 +1395,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.02020202020202022,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "108999723207897941876452935557011604067917389120996960199512481363958770540884",
@@ -1584,11 +1406,11 @@
       "liquidity": 52074.4932,
       "volume": 694399.5082770089,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.02020202020202022,
+      "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
@@ -1620,13 +1442,11 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_not_whitelisted_v6",
-      "cooldown_active"
+      "question_not_whitelisted_v6"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_not_whitelisted_v6",
-      "cooldown_active"
+      "question_not_whitelisted_v6"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -1639,7 +1459,7 @@
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
-    "chg_7d": 0.0,
+    "chg_7d": null,
     "latest_ts": "2026-07-14T20:30:00",
     "features": {
       "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
@@ -1650,11 +1470,11 @@
       "liquidity": 1448610.4302,
       "volume": 17048762.559758082,
       "latest_ts": "2026-07-14T20:30:00",
-      "history_points": 1481,
+      "history_points": 1161,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": 0.0,
+      "chg_7d": null,
       "rsi_14": 63.9969446568489,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
