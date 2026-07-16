@@ -11,8 +11,8 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will Kim Kardashian win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will LeBron James win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will Liz Cheney win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will Graham Platner win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 
 ## 观察名单
 - 当前无 watchlist。
@@ -20,9 +20,9 @@
 ## 今日避坑
 - Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
-- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Phil Murphy win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
-- Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
+- Will Beto O’Rourke win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
+- Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 
 ## 后验复盘快照
 - outcomes: {'flat': 118, 'miss': 10, 'hit': 5, 'pending': 67}

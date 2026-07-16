@@ -25,12 +25,12 @@
   URL: https://polymarket.com/question/will-lebron-james-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will LeBron James win the 2028 Democratic presidential nomination?
-- 选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  链接（中文导读）: 中文导读：选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination
+- 选举盘：Phil Murphy能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Phil Murphy能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Phil Murphy win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+  原始题目: Will Phil Murphy win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
 - 倾向保留: 趋势延续 | score=-0.25 | total=4
