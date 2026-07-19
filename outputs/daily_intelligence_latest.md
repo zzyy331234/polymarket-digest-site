@@ -1,4 +1,4 @@
-# Polymarket Intelligence Brief - 2026-07-16
+# Polymarket Intelligence Brief - 2026-07-19
 
 ## 今日结论
 - 阶段: paper_trade
@@ -13,7 +13,7 @@
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Kim Kardashian win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will LeBron James win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Will Argentina win the 2026 FIFA World Cup? | YES | conf=0.69 | catalyst=theme_cluster
+- [do_not_touch] Will Argentina win the 2026 FIFA World Cup? | YES | conf=0.67 | catalyst=theme_cluster
 
 ## 观察名单
 - 当前无 watchlist。
@@ -26,7 +26,7 @@
 - Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 
 ## 后验复盘快照
-- outcomes: {'flat': 118, 'miss': 9, 'hit': 6, 'pending': 67}
+- outcomes: {'flat': 118, 'miss': 9, 'hit': 5, 'pending': 68}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

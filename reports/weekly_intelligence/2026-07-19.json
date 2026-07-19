@@ -1,0 +1,255 @@
+{
+  "generated_at": "2026-07-19T17:32:32",
+  "window_days": 7,
+  "review_count": 44,
+  "regime_stats": {
+    "carry_no": {
+      "total": 33,
+      "hit": 0,
+      "miss": 0,
+      "flat": 28,
+      "unresolved": 5,
+      "avg_confidence": 0.7027
+    },
+    "mean_revert": {
+      "total": 10,
+      "hit": 0,
+      "miss": 0,
+      "flat": 7,
+      "unresolved": 3,
+      "avg_confidence": 0.626
+    },
+    "trend": {
+      "total": 1,
+      "hit": 0,
+      "miss": 0,
+      "flat": 1,
+      "unresolved": 0,
+      "avg_confidence": 0.69
+    }
+  },
+  "cluster_stats": {
+    "us_election": {
+      "total": 28,
+      "hit": 0,
+      "miss": 0,
+      "flat": 28,
+      "unresolved": 0,
+      "avg_confidence": 0.71
+    },
+    "world_cup": {
+      "total": 10,
+      "hit": 0,
+      "miss": 0,
+      "flat": 2,
+      "unresolved": 8,
+      "avg_confidence": 0.6576
+    },
+    "other": {
+      "total": 2,
+      "hit": 0,
+      "miss": 0,
+      "flat": 2,
+      "unresolved": 0,
+      "avg_confidence": 0.594
+    },
+    "gta_vi": {
+      "total": 4,
+      "hit": 0,
+      "miss": 0,
+      "flat": 4,
+      "unresolved": 0,
+      "avg_confidence": 0.624
+    }
+  },
+  "ranked_regimes": {
+    "best": [
+      {
+        "name": "mean_revert",
+        "score": -0.41,
+        "total": 10,
+        "hit": 0,
+        "miss": 0,
+        "flat": 7,
+        "unresolved": 3,
+        "avg_confidence": 0.626
+      },
+      {
+        "name": "carry_no",
+        "score": -0.4545,
+        "total": 33,
+        "hit": 0,
+        "miss": 0,
+        "flat": 28,
+        "unresolved": 5,
+        "avg_confidence": 0.7027
+      },
+      {
+        "name": "trend",
+        "score": -0.5,
+        "total": 1,
+        "hit": 0,
+        "miss": 0,
+        "flat": 1,
+        "unresolved": 0,
+        "avg_confidence": 0.69
+      }
+    ],
+    "worst": [
+      {
+        "name": "trend",
+        "score": -0.5,
+        "total": 1,
+        "hit": 0,
+        "miss": 0,
+        "flat": 1,
+        "unresolved": 0,
+        "avg_confidence": 0.69
+      },
+      {
+        "name": "carry_no",
+        "score": -0.4545,
+        "total": 33,
+        "hit": 0,
+        "miss": 0,
+        "flat": 28,
+        "unresolved": 5,
+        "avg_confidence": 0.7027
+      },
+      {
+        "name": "mean_revert",
+        "score": -0.41,
+        "total": 10,
+        "hit": 0,
+        "miss": 0,
+        "flat": 7,
+        "unresolved": 3,
+        "avg_confidence": 0.626
+      }
+    ]
+  },
+  "ranked_clusters": {
+    "best": [
+      {
+        "name": "world_cup",
+        "score": -0.26,
+        "total": 10,
+        "hit": 0,
+        "miss": 0,
+        "flat": 2,
+        "unresolved": 8,
+        "avg_confidence": 0.6576
+      },
+      {
+        "name": "other",
+        "score": -0.5,
+        "total": 2,
+        "hit": 0,
+        "miss": 0,
+        "flat": 2,
+        "unresolved": 0,
+        "avg_confidence": 0.594
+      },
+      {
+        "name": "gta_vi",
+        "score": -0.5,
+        "total": 4,
+        "hit": 0,
+        "miss": 0,
+        "flat": 4,
+        "unresolved": 0,
+        "avg_confidence": 0.624
+      },
+      {
+        "name": "us_election",
+        "score": -0.5,
+        "total": 28,
+        "hit": 0,
+        "miss": 0,
+        "flat": 28,
+        "unresolved": 0,
+        "avg_confidence": 0.71
+      }
+    ],
+    "worst": [
+      {
+        "name": "us_election",
+        "score": -0.5,
+        "total": 28,
+        "hit": 0,
+        "miss": 0,
+        "flat": 28,
+        "unresolved": 0,
+        "avg_confidence": 0.71
+      },
+      {
+        "name": "gta_vi",
+        "score": -0.5,
+        "total": 4,
+        "hit": 0,
+        "miss": 0,
+        "flat": 4,
+        "unresolved": 0,
+        "avg_confidence": 0.624
+      },
+      {
+        "name": "other",
+        "score": -0.5,
+        "total": 2,
+        "hit": 0,
+        "miss": 0,
+        "flat": 2,
+        "unresolved": 0,
+        "avg_confidence": 0.594
+      },
+      {
+        "name": "world_cup",
+        "score": -0.26,
+        "total": 10,
+        "hit": 0,
+        "miss": 0,
+        "flat": 2,
+        "unresolved": 8,
+        "avg_confidence": 0.6576
+      }
+    ]
+  },
+  "paper_performance": {
+    "realized_trade_count": 15,
+    "win_count": 1,
+    "loss_count": 5,
+    "flat_count": 9,
+    "win_rate": 0.0667,
+    "flat_rate": 0.6,
+    "avg_realized_pnl_like": -0.00985,
+    "avg_win": 0.0015,
+    "avg_loss": -0.02985,
+    "avg_win_loss_ratio_like": 0.0503,
+    "profit_factor_like": 0.0101,
+    "total_realized_pnl_like": -0.14775
+  },
+  "paper_gate": {
+    "thresholds": {
+      "min_closed_trades": 40,
+      "min_win_rate": 0.58,
+      "min_avg_win_loss_ratio_like": 1.5,
+      "max_consecutive_losses": 3,
+      "max_flat_rate": 0.45
+    },
+    "actuals": {
+      "closed_trades": 15,
+      "win_rate": 0.0667,
+      "avg_win_loss_ratio_like": 0.0503,
+      "recent_consecutive_losses": 0,
+      "flat_rate": 0.6
+    },
+    "checks": {
+      "min_closed_trades": false,
+      "min_win_rate": false,
+      "min_avg_win_loss_ratio_like": false,
+      "max_consecutive_losses": true,
+      "max_flat_rate": false
+    },
+    "eligible": false
+  }
+}
