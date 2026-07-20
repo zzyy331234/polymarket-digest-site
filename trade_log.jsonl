@@ -2229,3 +2229,4 @@
 {"type": "halt", "time": "2026-07-20T19:05:57", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-20T19:30:33", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-20T20:00:33", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-07-20T20:30:31", "reason": "daily_loss_halt"}
