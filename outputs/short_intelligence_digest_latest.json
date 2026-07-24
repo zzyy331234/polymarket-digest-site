@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-20T21:00:29",
+  "generated_at": "2026-07-24T14:22:17",
   "title": "Polymarket 情报样刊",
-  "issue_date": "2026-07-20",
+  "issue_date": "2026-07-24",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、GTA VI 主题 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 其他事件、美国大选 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -20,11 +20,18 @@
       "reasons": [
         "ultra low YES price",
         "better classified as carry_no than trend",
+        "stale low-vol carry_no",
         "cluster=us_election"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
-      "blocking_flags": [],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
       "yes_price": 0.006,
       "no_price": 0.994,
       "liquidity": 2803855.62,
@@ -32,8 +39,8 @@
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.19999999999999996,
-      "latest_ts": "2026-07-20T21:00:00",
+      "chg_7d": null,
+      "latest_ts": "2026-07-20T21:04:00",
       "features": {
         "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
         "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
@@ -42,30 +49,32 @@
         "no_price": 0.994,
         "liquidity": 2803855.62017,
         "volume": 43400737.92715487,
-        "latest_ts": "2026-07-20T21:00:00",
-        "history_points": 1460,
+        "latest_ts": "2026-07-20T21:04:00",
+        "history_points": 389,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
-        "chg_7d": -0.19999999999999996,
-        "rsi_14": 0.0007631888733783398,
+        "chg_7d": null,
+        "rsi_14": 100.0,
         "volatility": 0.0,
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
-        "pct_rank_7d": 0.7892004153686397,
-        "pct_rank_30d": 0.5205479452054794,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
         "noise_score": 0.0,
-        "hours_to_event": 20163.0,
+        "hours_to_event": 20162.933333333334,
         "event_time": "2028-11-07",
         "spread": null
       },
       "cluster": "us_election",
-      "catalyst_type": "structural",
+      "catalyst_type": "stale_carry",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.548,
+      "evidence_score": 0.398,
       "thesis_summary": "[carry_no] NO on 'Will Hillary Clinton win the 2028 Democratic presidential nomination?' because ultra low YES price.",
       "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
       "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ],
@@ -75,9 +84,15 @@
       "cluster_label_cn": "美国大选",
       "regime_label_cn": "低效拖时间盘",
       "readiness_label_cn": "不碰",
-      "blocking_flags_cn": [],
-      "risk_flags_cn": [],
-      "advisory_flags_cn": [],
+      "blocking_flags_cn": [
+        "stale_carry_no"
+      ],
+      "risk_flags_cn": [
+        "stale_carry_no"
+      ],
+      "advisory_flags_cn": [
+        "stale_carry_no"
+      ],
       "thesis_cn": "这是一笔来自“美国大选”的低效拖时间盘型线索，目前方向偏向 NO。",
       "why_now_cn": "它属于“美国大选”里的低效拖时间盘型线索，虽然爆发力一般，但还值得继续盯一眼。",
       "bilingual_link": {
@@ -102,52 +117,61 @@
       "reasons": [
         "ultra low YES price",
         "better classified as carry_no than trend",
+        "stale low-vol carry_no",
         "cluster=us_election"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
-      "blocking_flags": [],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
       "yes_price": 0.0045,
       "no_price": 0.9955,
-      "liquidity": 2797920.34,
+      "liquidity": 2796526.92,
       "volume": 43724564.17,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.4,
-      "latest_ts": "2026-07-20T21:00:00",
+      "chg_7d": null,
+      "latest_ts": "2026-07-20T21:04:00",
       "features": {
         "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
         "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
         "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
         "yes_price": 0.0045,
         "no_price": 0.9955,
-        "liquidity": 2797920.34225,
+        "liquidity": 2796526.92157,
         "volume": 43724564.17018681,
-        "latest_ts": "2026-07-20T21:00:00",
-        "history_points": 1460,
+        "latest_ts": "2026-07-20T21:04:00",
+        "history_points": 389,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
-        "chg_7d": -0.4,
-        "rsi_14": 0.0,
+        "chg_7d": null,
+        "rsi_14": 100.0,
         "volatility": 0.0,
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
-        "pct_rank_7d": 0.9543094496365524,
-        "pct_rank_30d": 0.6294520547945206,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
         "noise_score": 0.0,
-        "hours_to_event": 20163.0,
+        "hours_to_event": 20162.933333333334,
         "event_time": "2028-11-07",
         "spread": null
       },
       "cluster": "us_election",
-      "catalyst_type": "structural",
+      "catalyst_type": "stale_carry",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.548,
+      "evidence_score": 0.398,
       "thesis_summary": "[carry_no] NO on 'Will LeBron James win the 2028 Democratic presidential nomination?' because ultra low YES price.",
       "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
       "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ],
@@ -157,9 +181,15 @@
       "cluster_label_cn": "美国大选",
       "regime_label_cn": "低效拖时间盘",
       "readiness_label_cn": "不碰",
-      "blocking_flags_cn": [],
-      "risk_flags_cn": [],
-      "advisory_flags_cn": [],
+      "blocking_flags_cn": [
+        "stale_carry_no"
+      ],
+      "risk_flags_cn": [
+        "stale_carry_no"
+      ],
+      "advisory_flags_cn": [
+        "stale_carry_no"
+      ],
       "thesis_cn": "这是一笔来自“美国大选”的低效拖时间盘型线索，目前方向偏向 NO。",
       "why_now_cn": "它属于“美国大选”里的低效拖时间盘型线索，虽然爆发力一般，但还值得继续盯一眼。",
       "bilingual_link": {
@@ -184,52 +214,61 @@
       "reasons": [
         "ultra low YES price",
         "better classified as carry_no than trend",
+        "stale low-vol carry_no",
         "cluster=us_election"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
-      "blocking_flags": [],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 2773060.06,
+      "liquidity": 2773054.88,
       "volume": 42668541.8,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
-      "chg_7d": -0.5454545454545454,
-      "latest_ts": "2026-07-20T21:00:00",
+      "chg_7d": null,
+      "latest_ts": "2026-07-20T21:04:00",
       "features": {
         "token_id": "104464678880204778606895232389511543522030897731392516718349574106843434770446",
         "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
         "slug": "will-tim-walz-win-the-2028-democratic-presidential-nomination-475",
         "yes_price": 0.0025,
         "no_price": 0.9975,
-        "liquidity": 2773060.05877,
+        "liquidity": 2773054.87923,
         "volume": 42668541.80276809,
-        "latest_ts": "2026-07-20T21:00:00",
-        "history_points": 1460,
+        "latest_ts": "2026-07-20T21:04:00",
+        "history_points": 389,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
-        "chg_7d": -0.5454545454545454,
-        "rsi_14": 0.0,
+        "chg_7d": null,
+        "rsi_14": 100.0,
         "volatility": 0.0,
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
-        "pct_rank_7d": 0.39979231568016615,
-        "pct_rank_30d": 0.2636986301369863,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
         "noise_score": 0.0,
-        "hours_to_event": 20163.0,
+        "hours_to_event": 20162.933333333334,
         "event_time": "2028-11-07",
         "spread": null
       },
       "cluster": "us_election",
-      "catalyst_type": "structural",
+      "catalyst_type": "stale_carry",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.548,
+      "evidence_score": 0.398,
       "thesis_summary": "[carry_no] NO on 'Will Tim Walz win the 2028 Democratic presidential nomination?' because ultra low YES price.",
       "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
       "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ],
@@ -239,9 +278,15 @@
       "cluster_label_cn": "美国大选",
       "regime_label_cn": "低效拖时间盘",
       "readiness_label_cn": "不碰",
-      "blocking_flags_cn": [],
-      "risk_flags_cn": [],
-      "advisory_flags_cn": [],
+      "blocking_flags_cn": [
+        "stale_carry_no"
+      ],
+      "risk_flags_cn": [
+        "stale_carry_no"
+      ],
+      "advisory_flags_cn": [
+        "stale_carry_no"
+      ],
       "thesis_cn": "这是一笔来自“美国大选”的低效拖时间盘型线索，目前方向偏向 NO。",
       "why_now_cn": "它属于“美国大选”里的低效拖时间盘型线索，虽然爆发力一般，但还值得继续盯一眼。",
       "bilingual_link": {
@@ -256,50 +301,50 @@
   ],
   "best_regimes": [
     {
-      "name": "mean_revert",
-      "score": -0.41,
-      "total": 10,
+      "name": "trend",
+      "score": -0.2,
+      "total": 1,
       "hit": 0,
       "miss": 0,
-      "flat": 7,
-      "unresolved": 3,
-      "avg_confidence": 0.626,
-      "name_cn": "均值回归"
+      "flat": 0,
+      "unresolved": 1,
+      "avg_confidence": 0.674,
+      "name_cn": "趋势延续"
     },
     {
       "name": "carry_no",
-      "score": -0.4545,
-      "total": 33,
+      "score": -0.2261,
+      "total": 23,
       "hit": 0,
       "miss": 0,
-      "flat": 28,
-      "unresolved": 5,
-      "avg_confidence": 0.7027,
+      "flat": 2,
+      "unresolved": 21,
+      "avg_confidence": 0.71,
       "name_cn": "低效拖时间盘"
     }
   ],
   "worst_clusters": [
     {
-      "name": "us_election",
-      "score": -0.5,
-      "total": 28,
+      "name": "other",
+      "score": -0.35,
+      "total": 2,
       "hit": 0,
       "miss": 0,
-      "flat": 28,
-      "unresolved": 0,
-      "avg_confidence": 0.71,
-      "name_cn": "美国大选"
+      "flat": 1,
+      "unresolved": 1,
+      "avg_confidence": 0.614,
+      "name_cn": "其他事件"
     },
     {
-      "name": "gta_vi",
-      "score": -0.5,
-      "total": 4,
+      "name": "us_election",
+      "score": -0.2286,
+      "total": 21,
       "hit": 0,
       "miss": 0,
-      "flat": 4,
-      "unresolved": 0,
-      "avg_confidence": 0.624,
-      "name_cn": "GTA VI 主题"
+      "flat": 2,
+      "unresolved": 19,
+      "avg_confidence": 0.71,
+      "name_cn": "美国大选"
     }
   ],
   "paper_gate_eligible": false,
@@ -311,7 +356,7 @@
   },
   "editor_notes": [
     "当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。",
-    "趋势延续 仍是最弱 regime，不值得给额外注意力。",
+    "均值回归 仍是最弱 regime，不值得给额外注意力。",
     "样刊主栏宁可少，也不要把低质量主题盘硬塞进去。",
     "对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。"
   ]
