@@ -25,13 +25,12 @@
   URL: https://polymarket.com/question/will-liz-cheney-win-the-2028-democratic-presidential-nomination-551
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Liz Cheney win the 2028 Democratic presidential nomination?
-- 选举盘：LeBron James能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：选举盘：LeBron James能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will LeBron James win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-lebron-james-win-the-2028-democratic-presidential-nomination
+- 选举盘：Tim Walz能否赢得 2028 美国总统大选？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Tim Walz能否赢得 2028 美国总统大选？
+  Link (English source): English source: Will Tim Walz win the 2028 US Presidential Election?
+  URL: https://polymarket.com/question/will-tim-walz-win-the-2028-us-presidential-election
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will LeBron James win the 2028 Democratic presidential nomination?
+  原始题目: Will Tim Walz win the 2028 US Presidential Election?
 
 ## 周度偏好
 - 倾向保留: 趋势延续 | score=-0.2 | total=1
