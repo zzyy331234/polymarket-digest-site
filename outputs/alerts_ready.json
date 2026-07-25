@@ -14,12 +14,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0045,
     "no_price": 0.9955,
@@ -29,7 +25,7 @@
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": null,
-    "latest_ts": "2026-07-24T21:30:00",
+    "latest_ts": "2026-07-24T21:32:05",
     "features": {
       "token_id": "2213957649161627793381994368131485505647723208738124952452819345058597751695",
       "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
@@ -38,8 +34,8 @@
       "no_price": 0.9955,
       "liquidity": 2812926.31538,
       "volume": 54160189.686619066,
-      "latest_ts": "2026-07-24T21:30:00",
-      "history_points": 748,
+      "latest_ts": "2026-07-24T21:32:05",
+      "history_points": 750,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -48,15 +44,15 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.6390374331550802,
-      "pct_rank_30d": 0.6390374331550802,
+      "pct_rank_7d": 0.64,
+      "pct_rank_30d": 0.64,
       "noise_score": 0.0,
-      "hours_to_event": 20066.5,
+      "hours_to_event": 20066.465277777777,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
+    "pipeline_score": 0.71,
     "market_url": "https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Oprah Winfrey win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
@@ -80,12 +76,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0035,
     "no_price": 0.9965,
@@ -95,7 +87,7 @@
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": null,
-    "latest_ts": "2026-07-24T21:30:00",
+    "latest_ts": "2026-07-24T21:32:05",
     "features": {
       "token_id": "41340056280794024415573839406074658402877379128871144681466050648033201160259",
       "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
@@ -104,8 +96,8 @@
       "no_price": 0.9965,
       "liquidity": 2452139.79689,
       "volume": 38276699.71049305,
-      "latest_ts": "2026-07-24T21:30:00",
-      "history_points": 748,
+      "latest_ts": "2026-07-24T21:32:05",
+      "history_points": 750,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -114,15 +106,15 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.6390374331550802,
-      "pct_rank_30d": 0.6390374331550802,
+      "pct_rank_7d": 0.64,
+      "pct_rank_30d": 0.64,
       "noise_score": 0.0,
-      "hours_to_event": 20066.5,
+      "hours_to_event": 20066.465277777777,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
+    "pipeline_score": 0.71,
     "market_url": "https://polymarket.com/question/will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Liz Cheney win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
