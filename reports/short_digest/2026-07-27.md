@@ -13,6 +13,12 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
+- 选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  链接（中文导读）: 中文导读：选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Kim Kardashian win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-kim-kardashian-win-the-2028-democratic-presidential-nomination
+  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  原始题目: Will Kim Kardashian win the 2028 Democratic presidential nomination?
 - 选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   链接（中文导读）: 中文导读：选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？
   Link (English source): English source: Will Hillary Clinton win the 2028 Democratic presidential nomination?
@@ -25,12 +31,6 @@
   URL: https://polymarket.com/question/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Phil Murphy win the 2028 Democratic presidential nomination?
-- 选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
-  链接（中文导读）: 中文导读：选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Kim Kardashian win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-kim-kardashian-win-the-2028-democratic-presidential-nomination
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Kim Kardashian win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
 - 倾向保留: 均值回归 | score=-0.425 | total=8
