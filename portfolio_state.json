@@ -377,7 +377,7 @@
     }
   ],
   "cash": 20.0,
-  "updated_at": "2026-07-27T18:41:39",
+  "updated_at": "2026-07-27T19:00:31",
   "portfolio_health": {
     "mode": "paper_trade",
     "discipline_version": "vNext-mr-core",
