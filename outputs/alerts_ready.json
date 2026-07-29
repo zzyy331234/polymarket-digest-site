@@ -14,8 +14,12 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0015,
     "no_price": 0.9985,
@@ -25,7 +29,7 @@
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": null,
-    "latest_ts": "2026-07-29T13:59:03",
+    "latest_ts": "2026-07-29T14:01:00",
     "features": {
       "token_id": "39223330966352513418907732239455948906399882924787587183466504819170775983376",
       "question": "Will LeBron James win the 2028 US Presidential Election?",
@@ -34,8 +38,8 @@
       "no_price": 0.9985,
       "liquidity": 2461394.16765,
       "volume": 54445803.559102476,
-      "latest_ts": "2026-07-29T13:59:03",
-      "history_points": 543,
+      "latest_ts": "2026-07-29T14:01:00",
+      "history_points": 544,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -44,15 +48,15 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.3149171270718232,
-      "pct_rank_30d": 0.3149171270718232,
+      "pct_rank_7d": 0.3161764705882353,
+      "pct_rank_30d": 0.3161764705882353,
       "noise_score": 0.0,
-      "hours_to_event": 19954.015833333335,
+      "hours_to_event": 19953.983333333334,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will LeBron James win the 2028 US Presidential Election? | https://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election",
