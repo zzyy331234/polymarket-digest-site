@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "token_id": "39223330966352513418907732239455948906399882924787587183466504819170775983376",
+    "question": "Will LeBron James win the 2028 US Presidential Election?",
+    "slug": "will-lebron-james-win-the-2028-us-presidential-election",
+    "regime": "carry_no",
+    "direction": "NO",
+    "confidence": 0.71,
+    "position": "medium",
+    "quality": 0.7,
+    "risk_score": 0.25,
+    "reasons": [
+      "ultra low YES price",
+      "better classified as carry_no than trend",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0015,
+    "no_price": 0.9985,
+    "liquidity": 2380333.82,
+    "volume": 54450931.85,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": null,
+    "latest_ts": "2026-07-30T18:00:03",
+    "features": {
+      "token_id": "39223330966352513418907732239455948906399882924787587183466504819170775983376",
+      "question": "Will LeBron James win the 2028 US Presidential Election?",
+      "slug": "will-lebron-james-win-the-2028-us-presidential-election",
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "liquidity": 2380333.82192,
+      "volume": 54450931.85110798,
+      "latest_ts": "2026-07-30T18:00:03",
+      "history_points": 720,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "rsi_14": 0.0,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.48333333333333334,
+      "pct_rank_30d": 0.48333333333333334,
+      "noise_score": 0.0,
+      "hours_to_event": 19925.99916666667,
+      "event_time": "2028-11-07",
+      "spread": null
+    },
+    "cluster": "us_election",
+    "pipeline_score": 0.6799999999999999,
+    "market_url": "https://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election",
+    "templates": {
+      "short": "[carry_no] NO conf=0.71 | Will LeBron James win the 2028 US Presidential Election? | https://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election",
+      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0015\nWill LeBron James win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election",
+      "execution": "执行候选：[carry_no] NO\n问题：Will LeBron James win the 2028 US Presidential Election?\n建议仓位：medium\n当前YES：0.0015\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election"
+    },
+    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0015\nWill LeBron James win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election"
+  }
+]
