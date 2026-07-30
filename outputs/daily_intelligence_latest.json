@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:01:01",
+  "generated_at": "2026-07-30T14:54:32",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -29,12 +29,8 @@
         "better classified as carry_no than trend",
         "cluster=us_election"
       ],
-      "risk_flags": [
-        "cooldown_active"
-      ],
-      "advisory_flags": [
-        "cooldown_active"
-      ],
+      "risk_flags": [],
+      "advisory_flags": [],
       "blocking_flags": [],
       "yes_price": 0.0015,
       "no_price": 0.9985,
@@ -71,7 +67,7 @@
         "spread": null
       },
       "cluster": "us_election",
-      "pipeline_score": 0.6799999999999999,
+      "pipeline_score": 0.71,
       "market_url": "https://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election",
       "templates": {
         "short": "[carry_no] NO conf=0.71 | Will LeBron James win the 2028 US Presidential Election? | https://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election",
@@ -81,11 +77,10 @@
       "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0015\nWill LeBron James win the 2028 US Presidential Election?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-lebron-james-win-the-2028-us-presidential-election",
       "catalyst_type": "structural",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.498,
+      "evidence_score": 0.548,
       "thesis_summary": "[carry_no] NO on 'Will LeBron James win the 2028 US Presidential Election?' because ultra low YES price.",
       "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
       "do_not_trade_if": [
-        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
