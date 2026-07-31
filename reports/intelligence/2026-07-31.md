@@ -11,13 +11,13 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Will LeBron James win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Will LeBron James win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
-- Will LeBron James win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
+- Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
