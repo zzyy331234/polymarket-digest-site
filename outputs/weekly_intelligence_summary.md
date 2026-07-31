@@ -1,4 +1,4 @@
-# Weekly Intelligence Summary - 2026-07-30
+# Weekly Intelligence Summary - 2026-07-31
 
 ## 周度结论
 - window_days: 7
@@ -7,22 +7,22 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- mean_revert: score=-0.5 total=6 hit=0 flat=6 unresolved=0 avg_conf=0.6307
+- mean_revert: score=-0.5 total=6 hit=0 flat=6 unresolved=0 avg_conf=0.624
 - carry_no: score=-0.5 total=18 hit=0 flat=18 unresolved=0 avg_conf=0.71
 
 ## Worst Regimes
 - carry_no: score=-0.5 total=18 hit=0 flat=18 unresolved=0 avg_conf=0.71
-- mean_revert: score=-0.5 total=6 hit=0 flat=6 unresolved=0 avg_conf=0.6307
+- mean_revert: score=-0.5 total=6 hit=0 flat=6 unresolved=0 avg_conf=0.624
 
 ## Best Clusters
-- other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.644
+- other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.624
 - gta_vi: score=-0.5 total=4 hit=0 flat=4 unresolved=0 avg_conf=0.624
 - us_election: score=-0.5 total=18 hit=0 flat=18 unresolved=0 avg_conf=0.71
 
 ## Worst Clusters
 - us_election: score=-0.5 total=18 hit=0 flat=18 unresolved=0 avg_conf=0.71
 - gta_vi: score=-0.5 total=4 hit=0 flat=4 unresolved=0 avg_conf=0.624
-- other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.644
+- other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.624
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。
