@@ -2287,3 +2287,4 @@
 {"type": "halt", "time": "2026-07-31T20:00:30", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-07-31T20:30:30", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-08-01T10:15:59", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-08-01T10:30:30", "reason": "daily_loss_halt"}
