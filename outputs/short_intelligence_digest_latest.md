@@ -1,4 +1,4 @@
-# Polymarket 情报样刊 | 2026-08-02
+# Polymarket 情报样刊 | 2026-08-03
 
 一句话判断
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
@@ -34,8 +34,8 @@
 
 ## 周度偏好
 - 倾向保留: 均值回归 | score=-0.5 | total=6
-- 倾向保留: 低效拖时间盘 | score=-0.5 | total=17
-- 应继续降权: 美国大选 | score=-0.5 | flat=17
+- 倾向保留: 低效拖时间盘 | score=-0.5 | total=18
+- 应继续降权: 美国大选 | score=-0.5 | flat=18
 - 应继续降权: GTA VI 主题 | score=-0.5 | flat=4
 
 ## 编辑注
