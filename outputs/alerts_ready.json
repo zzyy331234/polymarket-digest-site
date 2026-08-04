@@ -1,8 +1,8 @@
 [
   {
-    "token_id": "88927218779847397120407909832537568114340511586397698395193736044476021744522",
-    "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
-    "slug": "will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
+    "token_id": "81633484456710374417231462107666791993850637546563366185897100962157481970040",
+    "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
+    "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
     "regime": "carry_no",
     "direction": "NO",
     "confidence": 0.71,
@@ -14,32 +14,28 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0025,
     "no_price": 0.9975,
-    "liquidity": 2413108.85,
-    "volume": 33832448.2,
+    "liquidity": 2855639.83,
+    "volume": 42077155.47,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": null,
-    "latest_ts": "2026-08-02T19:26:02",
+    "latest_ts": "2026-08-04T16:30:02",
     "features": {
-      "token_id": "88927218779847397120407909832537568114340511586397698395193736044476021744522",
-      "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
-      "slug": "will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
+      "token_id": "81633484456710374417231462107666791993850637546563366185897100962157481970040",
+      "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
+      "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 2413108.84954,
-      "volume": 33832448.198148005,
-      "latest_ts": "2026-08-02T19:26:02",
-      "history_points": 2009,
+      "liquidity": 2855639.82705,
+      "volume": 42077155.47286508,
+      "latest_ts": "2026-08-04T16:30:02",
+      "history_points": 2012,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -48,27 +44,27 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.8382279741164759,
-      "pct_rank_30d": 0.8382279741164759,
+      "pct_rank_7d": 0.3320079522862823,
+      "pct_rank_30d": 0.3320079522862823,
       "noise_score": 0.0,
-      "hours_to_event": 19852.56611111111,
+      "hours_to_event": 19807.499444444446,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
-    "market_url": "https://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
+    "pipeline_score": 0.71,
+    "market_url": "https://polymarket.com/question/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
     "templates": {
-      "short": "[carry_no] NO conf=0.71 | Will Barack Obama win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
-      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Barack Obama win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
-      "execution": "执行候选：[carry_no] NO\n问题：Will Barack Obama win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0025\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265"
+      "short": "[carry_no] NO conf=0.71 | Will Phil Murphy win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
+      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Phil Murphy win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
+      "execution": "执行候选：[carry_no] NO\n问题：Will Phil Murphy win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0025\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611"
     },
-    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Barack Obama win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265"
+    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Phil Murphy win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-phil-murphy-win-the-2028-democratic-presidential-nomination-611"
   },
   {
-    "token_id": "54840717483866263964304723492966182979723045222316848733193673523986124053075",
-    "question": "Will Graham Platner win the 2028 Democratic presidential nomination?",
-    "slug": "will-graham-platner-win-the-2028-democratic-presidential-nomination",
+    "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
+    "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+    "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
     "regime": "carry_no",
     "direction": "NO",
     "confidence": 0.71,
@@ -80,32 +76,28 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0025,
     "no_price": 0.9975,
-    "liquidity": 2396913.36,
-    "volume": 7943161.0,
+    "liquidity": 2828318.05,
+    "volume": 43475001.87,
     "chg_1h": 0.0,
     "chg_4h": 0.0,
     "chg_24h": 0.0,
     "chg_7d": null,
-    "latest_ts": "2026-08-02T19:26:02",
+    "latest_ts": "2026-08-04T16:30:02",
     "features": {
-      "token_id": "54840717483866263964304723492966182979723045222316848733193673523986124053075",
-      "question": "Will Graham Platner win the 2028 Democratic presidential nomination?",
-      "slug": "will-graham-platner-win-the-2028-democratic-presidential-nomination",
+      "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
+      "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+      "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 2396913.36157,
-      "volume": 7943160.996992,
-      "latest_ts": "2026-08-02T19:26:02",
-      "history_points": 2009,
+      "liquidity": 2828318.04645,
+      "volume": 43475001.87480399,
+      "latest_ts": "2026-08-04T16:30:02",
+      "history_points": 2012,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -114,21 +106,21 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.8382279741164759,
-      "pct_rank_30d": 0.8382279741164759,
+      "pct_rank_7d": 0.12624254473161034,
+      "pct_rank_30d": 0.12624254473161034,
       "noise_score": 0.0,
-      "hours_to_event": 19852.56611111111,
+      "hours_to_event": 19807.499444444446,
       "event_time": "2028-11-07",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
-    "market_url": "https://polymarket.com/question/will-graham-platner-win-the-2028-democratic-presidential-nomination",
+    "pipeline_score": 0.71,
+    "market_url": "https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
     "templates": {
-      "short": "[carry_no] NO conf=0.71 | Will Graham Platner win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-graham-platner-win-the-2028-democratic-presidential-nomination",
-      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Graham Platner win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-graham-platner-win-the-2028-democratic-presidential-nomination",
-      "execution": "执行候选：[carry_no] NO\n问题：Will Graham Platner win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0025\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-graham-platner-win-the-2028-democratic-presidential-nomination"
+      "short": "[carry_no] NO conf=0.71 | Will Hillary Clinton win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
+      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Hillary Clinton win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
+      "execution": "执行候选：[carry_no] NO\n问题：Will Hillary Clinton win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0025\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination"
     },
-    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Graham Platner win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-graham-platner-win-the-2028-democratic-presidential-nomination"
+    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Hillary Clinton win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination"
   }
 ]
