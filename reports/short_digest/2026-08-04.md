@@ -34,7 +34,7 @@
   原始题目: Will Kim Kardashian win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.275 | total=16
+- 倾向保留: 低效拖时间盘 | score=-0.2562 | total=16
 - 倾向保留: 均值回归 | score=-0.45 | total=6
 - 应继续降权: GTA VI 主题 | score=-0.5 | flat=4
 - 应继续降权: 其他事件 | score=-0.35 | flat=1
