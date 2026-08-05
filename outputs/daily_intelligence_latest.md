@@ -1,4 +1,4 @@
-# Polymarket Intelligence Brief - 2026-08-04
+# Polymarket Intelligence Brief - 2026-08-05
 
 ## 今日结论
 - 阶段: paper_trade
