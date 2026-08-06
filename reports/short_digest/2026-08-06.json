@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-06T16:06:58",
+  "generated_at": "2026-08-06T16:30:36",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-08-06",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 GTA VI 主题、其他事件 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 GTA VI 主题、美国大选 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -257,24 +257,24 @@
   "best_regimes": [
     {
       "name": "carry_no",
-      "score": -0.275,
+      "score": -0.2188,
       "total": 16,
       "hit": 0,
       "miss": 0,
-      "flat": 4,
-      "unresolved": 12,
+      "flat": 1,
+      "unresolved": 15,
       "avg_confidence": 0.71,
       "name_cn": "低效拖时间盘"
     },
     {
       "name": "mean_revert",
-      "score": -0.45,
+      "score": -0.4,
       "total": 6,
       "hit": 0,
       "miss": 0,
-      "flat": 5,
-      "unresolved": 1,
-      "avg_confidence": 0.5893,
+      "flat": 4,
+      "unresolved": 2,
+      "avg_confidence": 0.596,
       "name_cn": "均值回归"
     }
   ],
@@ -291,15 +291,15 @@
       "name_cn": "GTA VI 主题"
     },
     {
-      "name": "other",
-      "score": -0.35,
-      "total": 2,
+      "name": "us_election",
+      "score": -0.2188,
+      "total": 16,
       "hit": 0,
       "miss": 0,
       "flat": 1,
-      "unresolved": 1,
-      "avg_confidence": 0.624,
-      "name_cn": "其他事件"
+      "unresolved": 15,
+      "avg_confidence": 0.71,
+      "name_cn": "美国大选"
     }
   ],
   "paper_gate_eligible": false,
