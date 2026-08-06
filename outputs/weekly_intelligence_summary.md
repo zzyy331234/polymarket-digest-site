@@ -7,14 +7,14 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- trend: score=-0.5 total=1 hit=0 flat=1 unresolved=0 avg_conf=0.674
 - mean_revert: score=-0.5 total=1 hit=0 flat=1 unresolved=0 avg_conf=0.664
+- trend: score=-0.5 total=1 hit=0 flat=1 unresolved=0 avg_conf=0.674
 - carry_no: score=-0.5 total=16 hit=0 flat=16 unresolved=0 avg_conf=0.71
 
 ## Worst Regimes
 - carry_no: score=-0.5 total=16 hit=0 flat=16 unresolved=0 avg_conf=0.71
-- trend: score=-0.5 total=1 hit=0 flat=1 unresolved=0 avg_conf=0.674
 - mean_revert: score=-0.5 total=1 hit=0 flat=1 unresolved=0 avg_conf=0.664
+- trend: score=-0.5 total=1 hit=0 flat=1 unresolved=0 avg_conf=0.674
 
 ## Best Clusters
 - other: score=-0.5 total=2 hit=0 flat=2 unresolved=0 avg_conf=0.669

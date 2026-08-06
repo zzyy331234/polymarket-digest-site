@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T20:00:34",
+  "generated_at": "2026-08-06T20:30:36",
   "window_days": 7,
   "review_count": 18,
   "regime_stats": {
@@ -11,14 +11,6 @@
       "unresolved": 0,
       "avg_confidence": 0.71
     },
-    "trend": {
-      "total": 1,
-      "hit": 0,
-      "miss": 0,
-      "flat": 1,
-      "unresolved": 0,
-      "avg_confidence": 0.674
-    },
     "mean_revert": {
       "total": 1,
       "hit": 0,
@@ -26,6 +18,14 @@
       "flat": 1,
       "unresolved": 0,
       "avg_confidence": 0.664
+    },
+    "trend": {
+      "total": 1,
+      "hit": 0,
+      "miss": 0,
+      "flat": 1,
+      "unresolved": 0,
+      "avg_confidence": 0.674
     }
   },
   "cluster_stats": {
@@ -49,16 +49,6 @@
   "ranked_regimes": {
     "best": [
       {
-        "name": "trend",
-        "score": -0.5,
-        "total": 1,
-        "hit": 0,
-        "miss": 0,
-        "flat": 1,
-        "unresolved": 0,
-        "avg_confidence": 0.674
-      },
-      {
         "name": "mean_revert",
         "score": -0.5,
         "total": 1,
@@ -67,6 +57,16 @@
         "flat": 1,
         "unresolved": 0,
         "avg_confidence": 0.664
+      },
+      {
+        "name": "trend",
+        "score": -0.5,
+        "total": 1,
+        "hit": 0,
+        "miss": 0,
+        "flat": 1,
+        "unresolved": 0,
+        "avg_confidence": 0.674
       },
       {
         "name": "carry_no",
@@ -91,16 +91,6 @@
         "avg_confidence": 0.71
       },
       {
-        "name": "trend",
-        "score": -0.5,
-        "total": 1,
-        "hit": 0,
-        "miss": 0,
-        "flat": 1,
-        "unresolved": 0,
-        "avg_confidence": 0.674
-      },
-      {
         "name": "mean_revert",
         "score": -0.5,
         "total": 1,
@@ -109,6 +99,16 @@
         "flat": 1,
         "unresolved": 0,
         "avg_confidence": 0.664
+      },
+      {
+        "name": "trend",
+        "score": -0.5,
+        "total": 1,
+        "hit": 0,
+        "miss": 0,
+        "flat": 1,
+        "unresolved": 0,
+        "avg_confidence": 0.674
       }
     ]
   },
