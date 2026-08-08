@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:15:40",
+  "generated_at": "2026-08-08T22:32:08",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-08-08",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
@@ -258,24 +258,24 @@
     {
       "name": "mean_revert",
       "score": -0.5,
-      "total": 2,
+      "total": 1,
       "hit": 0,
       "miss": 0,
-      "flat": 2,
+      "flat": 1,
       "unresolved": 0,
       "avg_confidence": 0.664,
       "name_cn": "均值回归"
     },
     {
-      "name": "carry_no",
+      "name": "trend",
       "score": -0.5,
-      "total": 15,
+      "total": 1,
       "hit": 0,
       "miss": 0,
-      "flat": 15,
+      "flat": 1,
       "unresolved": 0,
-      "avg_confidence": 0.71,
-      "name_cn": "低效拖时间盘"
+      "avg_confidence": 0.6314,
+      "name_cn": "趋势延续"
     }
   ],
   "worst_clusters": [
@@ -298,7 +298,7 @@
       "miss": 0,
       "flat": 2,
       "unresolved": 0,
-      "avg_confidence": 0.664,
+      "avg_confidence": 0.6477,
       "name_cn": "其他事件"
     }
   ],
