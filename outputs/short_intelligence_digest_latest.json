@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-09T07:30:37",
+  "generated_at": "2026-08-09T08:03:34",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-08-09",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
-  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、其他事件 这类 flat-heavy 噪音盘。",
+  "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 其他事件、美国大选 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
   "watch_items": [],
   "avoid_items": [
@@ -43,7 +43,7 @@
         "liquidity": 2878640.75538,
         "volume": 43539801.943303995,
         "latest_ts": "2026-08-07T13:45:03",
-        "history_points": 2759,
+        "history_points": 2093,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -52,8 +52,8 @@
         "volatility": 0.0,
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
-        "pct_rank_7d": 0.5114171801377311,
-        "pct_rank_30d": 0.5114171801377311,
+        "pct_rank_7d": 0.6741519350215003,
+        "pct_rank_30d": 0.6741519350215003,
         "noise_score": 0.0,
         "hours_to_event": 19738.24916666667,
         "event_time": "2028-11-07",
@@ -125,7 +125,7 @@
         "liquidity": 2841808.60966,
         "volume": 42080828.6643651,
         "latest_ts": "2026-08-07T13:45:03",
-        "history_points": 2759,
+        "history_points": 2093,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -134,8 +134,8 @@
         "volatility": 0.0,
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
-        "pct_rank_7d": 0.6614715476621964,
-        "pct_rank_30d": 0.6614715476621964,
+        "pct_rank_7d": 0.871954132823698,
+        "pct_rank_30d": 0.871954132823698,
         "noise_score": 0.0,
         "hours_to_event": 19738.24916666667,
         "event_time": "2028-11-07",
@@ -207,7 +207,7 @@
         "liquidity": 2785348.13244,
         "volume": 42664403.388148,
         "latest_ts": "2026-08-07T13:45:03",
-        "history_points": 2759,
+        "history_points": 2093,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
         "chg_24h": 0.0,
@@ -216,8 +216,8 @@
         "volatility": 0.0,
         "trend_slope_4h": 0.0,
         "trend_slope_24h": 0.0,
-        "pct_rank_7d": 0.6614715476621964,
-        "pct_rank_30d": 0.6614715476621964,
+        "pct_rank_7d": 0.871954132823698,
+        "pct_rank_30d": 0.871954132823698,
         "noise_score": 0.0,
         "hours_to_event": 19738.24916666667,
         "event_time": "2028-11-07",
@@ -256,6 +256,17 @@
   ],
   "best_regimes": [
     {
+      "name": "carry_no",
+      "score": -0.26,
+      "total": 15,
+      "hit": 0,
+      "miss": 0,
+      "flat": 3,
+      "unresolved": 12,
+      "avg_confidence": 0.71,
+      "name_cn": "低效拖时间盘"
+    },
+    {
       "name": "mean_revert",
       "score": -0.5,
       "total": 2,
@@ -265,31 +276,9 @@
       "unresolved": 0,
       "avg_confidence": 0.634,
       "name_cn": "均值回归"
-    },
-    {
-      "name": "carry_no",
-      "score": -0.5,
-      "total": 15,
-      "hit": 0,
-      "miss": 0,
-      "flat": 15,
-      "unresolved": 0,
-      "avg_confidence": 0.71,
-      "name_cn": "低效拖时间盘"
     }
   ],
   "worst_clusters": [
-    {
-      "name": "us_election",
-      "score": -0.5,
-      "total": 15,
-      "hit": 0,
-      "miss": 0,
-      "flat": 15,
-      "unresolved": 0,
-      "avg_confidence": 0.71,
-      "name_cn": "美国大选"
-    },
     {
       "name": "other",
       "score": -0.5,
@@ -300,6 +289,17 @@
       "unresolved": 0,
       "avg_confidence": 0.634,
       "name_cn": "其他事件"
+    },
+    {
+      "name": "us_election",
+      "score": -0.26,
+      "total": 15,
+      "hit": 0,
+      "miss": 0,
+      "flat": 3,
+      "unresolved": 12,
+      "avg_confidence": 0.71,
+      "name_cn": "美国大选"
     }
   ],
   "paper_gate_eligible": false,
@@ -311,7 +311,7 @@
   },
   "editor_notes": [
     "当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。",
-    "低效拖时间盘 仍是最弱 regime，不值得给额外注意力。",
+    "均值回归 仍是最弱 regime，不值得给额外注意力。",
     "样刊主栏宁可少，也不要把低质量主题盘硬塞进去。",
     "对中文读者，所有有效链接都应同时提供中文导读标题和英文原题，降低理解门槛。"
   ]

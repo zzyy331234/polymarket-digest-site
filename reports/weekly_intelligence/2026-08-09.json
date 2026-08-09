@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:30:37",
+  "generated_at": "2026-08-09T08:03:34",
   "window_days": 7,
   "review_count": 17,
   "regime_stats": {
@@ -15,8 +15,8 @@
       "total": 15,
       "hit": 0,
       "miss": 0,
-      "flat": 15,
-      "unresolved": 0,
+      "flat": 3,
+      "unresolved": 12,
       "avg_confidence": 0.71
     }
   },
@@ -33,14 +33,24 @@
       "total": 15,
       "hit": 0,
       "miss": 0,
-      "flat": 15,
-      "unresolved": 0,
+      "flat": 3,
+      "unresolved": 12,
       "avg_confidence": 0.71
     }
   },
   "ranked_regimes": {
     "best": [
       {
+        "name": "carry_no",
+        "score": -0.26,
+        "total": 15,
+        "hit": 0,
+        "miss": 0,
+        "flat": 3,
+        "unresolved": 12,
+        "avg_confidence": 0.71
+      },
+      {
         "name": "mean_revert",
         "score": -0.5,
         "total": 2,
@@ -49,30 +59,10 @@
         "flat": 2,
         "unresolved": 0,
         "avg_confidence": 0.634
-      },
-      {
-        "name": "carry_no",
-        "score": -0.5,
-        "total": 15,
-        "hit": 0,
-        "miss": 0,
-        "flat": 15,
-        "unresolved": 0,
-        "avg_confidence": 0.71
       }
     ],
     "worst": [
       {
-        "name": "carry_no",
-        "score": -0.5,
-        "total": 15,
-        "hit": 0,
-        "miss": 0,
-        "flat": 15,
-        "unresolved": 0,
-        "avg_confidence": 0.71
-      },
-      {
         "name": "mean_revert",
         "score": -0.5,
         "total": 2,
@@ -81,12 +71,32 @@
         "flat": 2,
         "unresolved": 0,
         "avg_confidence": 0.634
+      },
+      {
+        "name": "carry_no",
+        "score": -0.26,
+        "total": 15,
+        "hit": 0,
+        "miss": 0,
+        "flat": 3,
+        "unresolved": 12,
+        "avg_confidence": 0.71
       }
     ]
   },
   "ranked_clusters": {
     "best": [
       {
+        "name": "us_election",
+        "score": -0.26,
+        "total": 15,
+        "hit": 0,
+        "miss": 0,
+        "flat": 3,
+        "unresolved": 12,
+        "avg_confidence": 0.71
+      },
+      {
         "name": "other",
         "score": -0.5,
         "total": 2,
@@ -95,30 +105,10 @@
         "flat": 2,
         "unresolved": 0,
         "avg_confidence": 0.634
-      },
-      {
-        "name": "us_election",
-        "score": -0.5,
-        "total": 15,
-        "hit": 0,
-        "miss": 0,
-        "flat": 15,
-        "unresolved": 0,
-        "avg_confidence": 0.71
       }
     ],
     "worst": [
       {
-        "name": "us_election",
-        "score": -0.5,
-        "total": 15,
-        "hit": 0,
-        "miss": 0,
-        "flat": 15,
-        "unresolved": 0,
-        "avg_confidence": 0.71
-      },
-      {
         "name": "other",
         "score": -0.5,
         "total": 2,
@@ -127,6 +117,16 @@
         "flat": 2,
         "unresolved": 0,
         "avg_confidence": 0.634
+      },
+      {
+        "name": "us_election",
+        "score": -0.26,
+        "total": 15,
+        "hit": 0,
+        "miss": 0,
+        "flat": 3,
+        "unresolved": 12,
+        "avg_confidence": 0.71
       }
     ]
   },
