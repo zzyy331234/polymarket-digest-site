@@ -42,7 +42,7 @@
       "liquidity": 2901164.20973,
       "volume": 42292859.49017097,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -103,7 +103,7 @@
       "liquidity": 2882560.51288,
       "volume": 42723201.10692802,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -134,11 +134,18 @@
     "reasons": [
       "ultra low YES price",
       "better classified as carry_no than trend",
+      "stale low-vol carry_no",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
-    "blocking_flags": [],
+    "risk_flags": [
+      "stale_carry_no"
+    ],
+    "advisory_flags": [
+      "stale_carry_no"
+    ],
+    "blocking_flags": [
+      "stale_carry_no"
+    ],
     "yes_price": 0.0025,
     "no_price": 0.9975,
     "liquidity": 2878640.76,
@@ -157,17 +164,17 @@
       "liquidity": 2878640.75538,
       "volume": 43539801.943303995,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "rsi_14": 0.0,
+      "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.6741519350215003,
-      "pct_rank_30d": 0.6741519350215003,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
       "noise_score": 0.0,
       "hours_to_event": 19738.24916666667,
       "event_time": "2028-11-07",
@@ -218,7 +225,7 @@
       "liquidity": 2874304.53253,
       "volume": 43814617.57516996,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -279,7 +286,7 @@
       "liquidity": 2862458.49598,
       "volume": 54188060.34812,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -310,11 +317,18 @@
     "reasons": [
       "ultra low YES price",
       "better classified as carry_no than trend",
+      "stale low-vol carry_no",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
-    "blocking_flags": [],
+    "risk_flags": [
+      "stale_carry_no"
+    ],
+    "advisory_flags": [
+      "stale_carry_no"
+    ],
+    "blocking_flags": [
+      "stale_carry_no"
+    ],
     "yes_price": 0.0025,
     "no_price": 0.9975,
     "liquidity": 2841808.61,
@@ -333,17 +347,17 @@
       "liquidity": 2841808.60966,
       "volume": 42080828.6643651,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "rsi_14": 0.0,
+      "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.871954132823698,
-      "pct_rank_30d": 0.871954132823698,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
       "noise_score": 0.0,
       "hours_to_event": 19738.24916666667,
       "event_time": "2028-11-07",
@@ -394,7 +408,7 @@
       "liquidity": 2803198.54257,
       "volume": 42896370.081328005,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -425,11 +439,18 @@
     "reasons": [
       "ultra low YES price",
       "better classified as carry_no than trend",
+      "stale low-vol carry_no",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
-    "blocking_flags": [],
+    "risk_flags": [
+      "stale_carry_no"
+    ],
+    "advisory_flags": [
+      "stale_carry_no"
+    ],
+    "blocking_flags": [
+      "stale_carry_no"
+    ],
     "yes_price": 0.0025,
     "no_price": 0.9975,
     "liquidity": 2785348.13,
@@ -448,17 +469,17 @@
       "liquidity": 2785348.13244,
       "volume": 42664403.388148,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "rsi_14": 0.0,
+      "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.871954132823698,
-      "pct_rank_30d": 0.871954132823698,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
       "noise_score": 0.0,
       "hours_to_event": 19738.24916666667,
       "event_time": "2028-11-07",
@@ -509,7 +530,7 @@
       "liquidity": 2748119.05345,
       "volume": 48419010.20138298,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -570,7 +591,7 @@
       "liquidity": 2567849.97349,
       "volume": 40309247.373117924,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -631,7 +652,7 @@
       "liquidity": 2431541.03757,
       "volume": 33848513.721648015,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -692,7 +713,7 @@
       "liquidity": 2394127.8612,
       "volume": 7959393.387491999,
       "latest_ts": "2026-08-07T13:45:03",
-      "history_points": 2093,
+      "history_points": 1160,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -709,5 +730,70 @@
       "spread": null
     },
     "cluster": "us_election"
+  },
+  {
+    "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
+    "question": "Putin out as President of Russia by December 31, 2026?",
+    "slug": "putin-out-before-2027-346",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.624,
+    "position": "small",
+    "quality": 0.61,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "low tradability profile",
+      "vNext gate: question_not_whitelisted_v6",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "low_tradability",
+      "question_not_whitelisted_v6"
+    ],
+    "advisory_flags": [
+      "low_tradability",
+      "question_not_whitelisted_v6"
+    ],
+    "blocking_flags": [
+      "low_tradability",
+      "question_not_whitelisted_v6"
+    ],
+    "yes_price": 0.075,
+    "no_price": 0.925,
+    "liquidity": 830803.0,
+    "volume": 18586796.21,
+    "chg_1h": 0.0,
+    "chg_4h": 0.0,
+    "chg_24h": 0.0,
+    "chg_7d": null,
+    "latest_ts": "2026-08-07T13:45:03",
+    "features": {
+      "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "slug": "putin-out-before-2027-346",
+      "yes_price": 0.075,
+      "no_price": 0.925,
+      "liquidity": 830803.0023,
+      "volume": 18586796.208464995,
+      "latest_ts": "2026-08-07T13:45:03",
+      "history_points": 1160,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": 0.0,
+      "chg_7d": null,
+      "rsi_14": 0.0,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 0.9663793103448276,
+      "pct_rank_30d": 0.9663793103448276,
+      "noise_score": 0.0,
+      "hours_to_event": 3490.2491666666665,
+      "event_time": "2026-12-31",
+      "spread": null
+    },
+    "cluster": "other"
   }
 ]
