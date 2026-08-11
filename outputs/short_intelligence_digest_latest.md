@@ -34,10 +34,10 @@
   原始题目: Will LeBron James win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.5 | total=2
+- 倾向保留: 均值回归 | score=-0.5 | total=1
 - 倾向保留: 低效拖时间盘 | score=-0.5 | total=15
 - 应继续降权: 美国大选 | score=-0.5 | flat=15
-- 应继续降权: 其他事件 | score=-0.5 | flat=2
+- 应继续降权: 其他事件 | score=-0.5 | flat=1
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
