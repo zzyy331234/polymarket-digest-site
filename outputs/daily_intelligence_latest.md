@@ -20,8 +20,8 @@
 ## 今日避坑
 - Will Zohran Mamdani win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Liz Cheney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
-- Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will George Clooney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
