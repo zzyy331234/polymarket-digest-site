@@ -33,9 +33,9 @@
   原始题目: Will Phil Murphy win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.2 | total=1
-- 倾向保留: 低效拖时间盘 | score=-0.2882 | total=17
-- 应继续降权: 美国大选 | score=-0.2882 | flat=5
+- 倾向保留: 均值回归 | score=-0.2 | total=2
+- 倾向保留: 低效拖时间盘 | score=-0.2176 | total=17
+- 应继续降权: 美国大选 | score=-0.2176 | flat=1
 - 应继续降权: 其他事件 | score=-0.2 | flat=0
 
 ## 编辑注
