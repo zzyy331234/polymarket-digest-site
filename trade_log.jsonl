@@ -2864,3 +2864,4 @@
 {"type": "halt", "time": "2026-08-15T00:00:33", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-08-15T00:30:32", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-08-15T01:00:36", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-08-15T01:30:34", "reason": "daily_loss_halt"}
