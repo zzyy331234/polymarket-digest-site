@@ -1,4 +1,4 @@
-# Polymarket 情报样刊 | 2026-08-17
+# Polymarket 情报样刊 | 2026-08-18
 
 一句话判断
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
@@ -36,9 +36,9 @@
   原始题目: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
+- 倾向保留: 低效拖时间盘 | score=-0.2 | total=16
 - 倾向保留: 均值回归 | score=-0.2 | total=2
-- 倾向保留: 低效拖时间盘 | score=-0.2176 | total=17
-- 应继续降权: 美国大选 | score=-0.2176 | flat=1
+- 应继续降权: 美国大选 | score=-0.2 | flat=0
 - 应继续降权: 其他事件 | score=-0.2 | flat=0
 
 ## 编辑注
