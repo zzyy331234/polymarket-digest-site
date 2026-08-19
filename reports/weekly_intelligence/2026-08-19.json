@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19T17:30:30",
+  "generated_at": "2026-08-19T18:00:34",
   "window_days": 7,
-  "review_count": 18,
+  "review_count": 14,
   "regime_stats": {
     "carry_no": {
-      "total": 16,
+      "total": 12,
       "hit": 0,
       "miss": 0,
       "flat": 0,
-      "unresolved": 16,
+      "unresolved": 12,
       "avg_confidence": 0.71
     },
     "mean_revert": {
@@ -22,11 +22,11 @@
   },
   "cluster_stats": {
     "us_election": {
-      "total": 16,
+      "total": 12,
       "hit": 0,
       "miss": 0,
       "flat": 0,
-      "unresolved": 16,
+      "unresolved": 12,
       "avg_confidence": 0.71
     },
     "other": {
@@ -43,11 +43,11 @@
       {
         "name": "carry_no",
         "score": -0.2,
-        "total": 16,
+        "total": 12,
         "hit": 0,
         "miss": 0,
         "flat": 0,
-        "unresolved": 16,
+        "unresolved": 12,
         "avg_confidence": 0.71
       },
       {
@@ -65,11 +65,11 @@
       {
         "name": "carry_no",
         "score": -0.2,
-        "total": 16,
+        "total": 12,
         "hit": 0,
         "miss": 0,
         "flat": 0,
-        "unresolved": 16,
+        "unresolved": 12,
         "avg_confidence": 0.71
       },
       {
@@ -89,11 +89,11 @@
       {
         "name": "us_election",
         "score": -0.2,
-        "total": 16,
+        "total": 12,
         "hit": 0,
         "miss": 0,
         "flat": 0,
-        "unresolved": 16,
+        "unresolved": 12,
         "avg_confidence": 0.71
       },
       {
@@ -111,11 +111,11 @@
       {
         "name": "us_election",
         "score": -0.2,
-        "total": 16,
+        "total": 12,
         "hit": 0,
         "miss": 0,
         "flat": 0,
-        "unresolved": 16,
+        "unresolved": 12,
         "avg_confidence": 0.71
       },
       {
