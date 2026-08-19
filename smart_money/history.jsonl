@@ -1636,3 +1636,4 @@
 {"scan_time": "2026-08-19T22:00:00.369404", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
 {"scan_time": "2026-08-19T22:30:01.231698", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
 {"scan_time": "2026-08-19T23:30:00.891141", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
+{"scan_time": "2026-08-20T00:00:00.805366", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
