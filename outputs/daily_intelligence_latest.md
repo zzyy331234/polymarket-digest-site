@@ -17,11 +17,7 @@
 - 当前无 watchlist。
 
 ## 今日避坑
-- Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Phil Murphy win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- 当前无新增 do_not_touch。
 
 ## 后验复盘快照
 - outcomes: {'flat': 98, 'miss': 10, 'hit': 5, 'pending': 87}

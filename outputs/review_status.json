@@ -6105,7 +6105,7 @@
     "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
     "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6114,12 +6114,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6133,12 +6133,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
     "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6147,12 +6145,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6166,12 +6164,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
     "slug": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6180,12 +6176,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0035,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6199,12 +6195,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
     "slug": "will-tim-walz-win-the-2028-democratic-presidential-nomination-475",
     "cluster": "us_election",
@@ -6213,12 +6207,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0015,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6232,12 +6226,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
     "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
     "cluster": "us_election",
@@ -6246,12 +6238,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0015,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6265,12 +6257,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will George Clooney win the 2028 Democratic presidential nomination?",
     "slug": "will-george-clooney-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6279,12 +6269,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0035,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6298,12 +6288,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Beto O’Rourke win the 2028 Democratic presidential nomination?",
     "slug": "will-beto-orourke-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6312,12 +6300,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6331,12 +6319,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
     "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6345,12 +6331,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6364,12 +6350,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
     "slug": "will-andrew-yang-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6378,12 +6362,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6397,12 +6381,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
     "slug": "will-kim-kardashian-win-the-2028-democratic-presidential-nomination",
     "cluster": "us_election",
@@ -6411,12 +6393,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0015,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6430,12 +6412,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?",
     "slug": "will-zohran-mamdani-win-the-2028-democratic-presidential-nomination-445",
     "cluster": "us_election",
@@ -6444,12 +6424,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0035,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6463,12 +6443,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
     "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
     "cluster": "us_election",
@@ -6477,12 +6455,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6496,12 +6474,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Xi Jinping out before 2027?",
     "slug": "xi-jinping-out-before-2027",
     "cluster": "other",
@@ -6510,12 +6486,12 @@
     "confidence": 0.664,
     "entry_yes_price": 0.0465,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6529,12 +6505,10 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   },
   {
-    "saved_at": "2026-08-17T23:36:30",
+    "saved_at": "2026-08-18T14:00:26",
     "question": "Putin out as President of Russia by December 31, 2026?",
     "slug": "putin-out-before-2027-346",
     "cluster": "other",
@@ -6543,12 +6517,12 @@
     "confidence": 0.624,
     "entry_yes_price": 0.075,
     "event_time": null,
-    "latest_ts": "2026-08-12T19:30:01",
-    "review_status": "still_open",
+    "latest_ts": null,
+    "review_status": "unresolved",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": -124.11,
-    "post_move_abs": 0.0,
+    "hours_elapsed": null,
+    "post_move_abs": null,
     "post_move_6h": null,
     "post_move_24h": null,
     "post_move_48h": null,
@@ -6562,8 +6536,6 @@
     "mfe_48h": null,
     "mae_48h": null,
     "outcome": "pending",
-    "notes": [
-      "market still visible in latest candidate set"
-    ]
+    "notes": []
   }
 ]
