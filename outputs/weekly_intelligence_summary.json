@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:30:34",
+  "generated_at": "2026-08-21T17:04:33",
   "window_days": 7,
   "review_count": 14,
   "regime_stats": {
@@ -17,7 +17,7 @@
       "miss": 0,
       "flat": 0,
       "unresolved": 2,
-      "avg_confidence": 0.644
+      "avg_confidence": 0.624
     }
   },
   "cluster_stats": {
@@ -35,7 +35,7 @@
       "miss": 0,
       "flat": 0,
       "unresolved": 2,
-      "avg_confidence": 0.644
+      "avg_confidence": 0.624
     }
   },
   "ranked_regimes": {
@@ -58,7 +58,7 @@
         "miss": 0,
         "flat": 0,
         "unresolved": 2,
-        "avg_confidence": 0.644
+        "avg_confidence": 0.624
       }
     ],
     "worst": [
@@ -80,7 +80,7 @@
         "miss": 0,
         "flat": 0,
         "unresolved": 2,
-        "avg_confidence": 0.644
+        "avg_confidence": 0.624
       }
     ]
   },
@@ -104,7 +104,7 @@
         "miss": 0,
         "flat": 0,
         "unresolved": 2,
-        "avg_confidence": 0.644
+        "avg_confidence": 0.624
       }
     ],
     "worst": [
@@ -126,7 +126,7 @@
         "miss": 0,
         "flat": 0,
         "unresolved": 2,
-        "avg_confidence": 0.644
+        "avg_confidence": 0.624
       }
     ]
   },
