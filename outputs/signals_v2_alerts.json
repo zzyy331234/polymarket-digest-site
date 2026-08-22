@@ -16,33 +16,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0025,
     "no_price": 0.9975,
-    "liquidity": 2913084.95,
+    "liquidity": 2915376.54,
     "volume": 43869550.94,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
       "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
       "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 2913084.94939,
-      "volume": 43869550.938669994,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2915376.53917,
+      "volume": 43869550.93867002,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -54,7 +56,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -77,33 +79,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0015,
     "no_price": 0.9985,
-    "liquidity": 2912638.59,
-    "volume": 43731750.58,
+    "liquidity": 2914934.98,
+    "volume": 43731752.02,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
       "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
       "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0015,
       "no_price": 0.9985,
-      "liquidity": 2912638.58604,
-      "volume": 43731750.58047001,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2914934.97647,
+      "volume": 43731752.02147005,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -115,7 +119,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -138,33 +142,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0025,
     "no_price": 0.9975,
-    "liquidity": 2890488.74,
+    "liquidity": 2892757.69,
     "volume": 54311627.23,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "2213957649161627793381994368131485505647723208738124952452819345058597751695",
       "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
       "slug": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 2890488.73664,
-      "volume": 54311627.23499602,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2892757.68658,
+      "volume": 54311627.23499603,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -176,7 +182,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -199,33 +205,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0015,
     "no_price": 0.9985,
-    "liquidity": 2881473.66,
+    "liquidity": 2883778.8,
     "volume": 43021975.94,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "104464678880204778606895232389511543522030897731392516718349574106843434770446",
       "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
       "slug": "will-tim-walz-win-the-2028-democratic-presidential-nomination-475",
       "yes_price": 0.0015,
       "no_price": 0.9985,
-      "liquidity": 2881473.66462,
-      "volume": 43021975.93642801,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2883778.79537,
+      "volume": 43021975.936428,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -237,7 +245,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -260,33 +268,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0025,
     "no_price": 0.9975,
-    "liquidity": 2836931.01,
-    "volume": 42718694.7,
+    "liquidity": 2836875.13,
+    "volume": 42718697.22,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "37126434962149084556522721025504254258386171468763869879755961635390358765833",
       "question": "Will Beto O’Rourke win the 2028 Democratic presidential nomination?",
       "slug": "will-beto-orourke-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 2836931.01284,
-      "volume": 42718694.70114798,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2836875.1253,
+      "volume": 42718697.22364804,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -298,7 +308,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -321,33 +331,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0015,
     "no_price": 0.9985,
-    "liquidity": 2822303.97,
-    "volume": 40928908.65,
+    "liquidity": 2824844.24,
+    "volume": 40928912.59,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "51035537065442638321333063915918274102446051033989435618245745345113522914516",
       "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
       "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0015,
       "no_price": 0.9985,
-      "liquidity": 2822303.96903,
-      "volume": 40928908.64871001,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2824844.23576,
+      "volume": 40928912.58971004,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -359,7 +371,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -382,33 +394,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0015,
     "no_price": 0.9985,
-    "liquidity": 2799126.42,
+    "liquidity": 2801461.21,
     "volume": 42797393.03,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "55087250670040717711131370018408221134109122974378698780636020561523521220754",
       "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
       "slug": "will-kim-kardashian-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0015,
       "no_price": 0.9985,
-      "liquidity": 2799126.42282,
-      "volume": 42797393.034171,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2801461.20881,
+      "volume": 42797393.034170985,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -420,7 +434,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -443,33 +457,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0025,
     "no_price": 0.9975,
-    "liquidity": 2795907.32,
-    "volume": 42960520.24,
+    "liquidity": 2798176.78,
+    "volume": 42960524.77,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "48218088132821386640274752564592889805082274744128282833036735027928992155024",
       "question": "Will George Clooney win the 2028 Democratic presidential nomination?",
       "slug": "will-george-clooney-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 2795907.32148,
-      "volume": 42960520.236259,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2798176.78359,
+      "volume": 42960524.771258995,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -481,7 +497,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -504,33 +520,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0015,
     "no_price": 0.9985,
-    "liquidity": 2777112.47,
+    "liquidity": 2779704.93,
     "volume": 42245509.51,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "81633484456710374417231462107666791993850637546563366185897100962157481970040",
       "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
       "slug": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
       "yes_price": 0.0015,
       "no_price": 0.9985,
-      "liquidity": 2777112.46829,
-      "volume": 42245509.51336496,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2779704.93139,
+      "volume": 42245509.51336509,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -542,7 +560,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -565,33 +583,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0015,
     "no_price": 0.9985,
-    "liquidity": 2719402.71,
-    "volume": 48666854.52,
+    "liquidity": 2721703.77,
+    "volume": 48666860.27,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "102504892414163237174864879683522880588750452841477290216845150938663289742135",
       "question": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
       "slug": "will-andrew-yang-win-the-2028-democratic-presidential-nomination",
       "yes_price": 0.0015,
       "no_price": 0.9985,
-      "liquidity": 2719402.70876,
-      "volume": 48666854.524549015,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2721703.77456,
+      "volume": 48666860.266549006,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -603,7 +623,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -626,33 +646,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0025,
     "no_price": 0.9975,
-    "liquidity": 2674171.67,
+    "liquidity": 2676581.01,
     "volume": 38399730.23,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "41340056280794024415573839406074658402877379128871144681466050648033201160259",
       "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
       "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
       "yes_price": 0.0025,
       "no_price": 0.9975,
-      "liquidity": 2674171.66949,
-      "volume": 38399730.22612204,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2676581.00597,
+      "volume": 38399730.22612203,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -664,7 +686,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -687,33 +709,35 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
     ],
     "yes_price": 0.0035,
     "no_price": 0.9965,
-    "liquidity": 2634898.95,
+    "liquidity": 2637270.83,
     "volume": 38641993.72,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "19323997520040734631220675039559156784534982703459512097490198935565229528445",
       "question": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?",
       "slug": "will-zohran-mamdani-win-the-2028-democratic-presidential-nomination-445",
       "yes_price": 0.0035,
       "no_price": 0.9965,
-      "liquidity": 2634898.95388,
-      "volume": 38641993.721432015,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 2637270.82655,
+      "volume": 38641993.721432045,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -725,7 +749,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 19374.99916666667,
+      "hours_to_event": 19374.499722222223,
       "event_time": "2028-11-07",
       "spread": null
     },
@@ -750,11 +774,13 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_not_whitelisted_v6"
+      "question_not_whitelisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_not_whitelisted_v6"
+      "question_not_whitelisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -762,23 +788,23 @@
     ],
     "yes_price": 0.075,
     "no_price": 0.925,
-    "liquidity": 728553.66,
+    "liquidity": 728979.91,
     "volume": 19526561.3,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
       "question": "Putin out as President of Russia by December 31, 2026?",
       "slug": "putin-out-before-2027-346",
       "yes_price": 0.075,
       "no_price": 0.925,
-      "liquidity": 728553.6572,
-      "volume": 19526561.304446984,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 728979.9059,
+      "volume": 19526561.304446988,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -790,7 +816,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 3150.9991666666665,
+      "hours_to_event": 3150.4997222222223,
       "event_time": "2027-01-01",
       "spread": null
     },
@@ -815,11 +841,13 @@
     ],
     "risk_flags": [
       "low_tradability",
-      "question_not_whitelisted_v6"
+      "question_not_whitelisted_v6",
+      "cooldown_active"
     ],
     "advisory_flags": [
       "low_tradability",
-      "question_not_whitelisted_v6"
+      "question_not_whitelisted_v6",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "low_tradability",
@@ -827,23 +855,23 @@
     ],
     "yes_price": 0.0415,
     "no_price": 0.9585,
-    "liquidity": 233158.91,
-    "volume": 12404885.87,
+    "liquidity": 231718.98,
+    "volume": 12404906.51,
     "chg_1h": null,
     "chg_4h": null,
     "chg_24h": null,
     "chg_7d": null,
-    "latest_ts": "2026-08-22T17:00:03",
+    "latest_ts": "2026-08-22T17:30:01",
     "features": {
       "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
       "question": "Xi Jinping out before 2027?",
       "slug": "xi-jinping-out-before-2027",
       "yes_price": 0.0415,
       "no_price": 0.9585,
-      "liquidity": 233158.91202,
-      "volume": 12404885.867728993,
-      "latest_ts": "2026-08-22T17:00:03",
-      "history_points": 23,
+      "liquidity": 231718.98182,
+      "volume": 12404906.509017,
+      "latest_ts": "2026-08-22T17:30:01",
+      "history_points": 52,
       "chg_1h": null,
       "chg_4h": null,
       "chg_24h": null,
@@ -855,7 +883,7 @@
       "pct_rank_7d": 1.0,
       "pct_rank_30d": 1.0,
       "noise_score": 0.0,
-      "hours_to_event": 3126.9991666666665,
+      "hours_to_event": 3126.4997222222223,
       "event_time": "2026-12-31",
       "spread": null
     },
