@@ -1,4 +1,4 @@
-# Polymarket Intelligence Brief - 2026-08-23
+# Polymarket Intelligence Brief - 2026-08-24
 
 ## 今日结论
 - 阶段: paper_trade
@@ -19,8 +19,8 @@
 ## 今日避坑
 - Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Beto O’Rourke win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
