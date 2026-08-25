@@ -1,4 +1,4 @@
-# Polymarket 情报样刊 | 2026-08-24
+# Polymarket 情报样刊 | 2026-08-25
 
 一句话判断
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
@@ -36,10 +36,10 @@
   原始题目: Will Tim Walz win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 均值回归 | score=-0.5 | total=2
-- 倾向保留: 低效拖时间盘 | score=-0.5 | total=12
-- 应继续降权: 美国大选 | score=-0.5 | flat=12
-- 应继续降权: 其他事件 | score=-0.5 | flat=2
+- 倾向保留: 低效拖时间盘 | score=-0.2 | total=12
+- 倾向保留: 均值回归 | score=-0.2 | total=2
+- 应继续降权: 美国大选 | score=-0.2 | flat=0
+- 应继续降权: 其他事件 | score=-0.2 | flat=0
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
