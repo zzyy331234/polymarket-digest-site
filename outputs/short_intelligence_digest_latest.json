@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T00:00:29",
+  "generated_at": "2026-09-04T08:06:22",
   "title": "Polymarket 情报样刊",
-  "issue_date": "2026-09-01",
+  "issue_date": "2026-09-04",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
   "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、其他事件 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
@@ -308,7 +308,7 @@
       "miss": 0,
       "flat": 2,
       "unresolved": 0,
-      "avg_confidence": 0.624,
+      "avg_confidence": 0.664,
       "name_cn": "均值回归"
     },
     {
@@ -343,7 +343,7 @@
       "miss": 0,
       "flat": 2,
       "unresolved": 0,
-      "avg_confidence": 0.624,
+      "avg_confidence": 0.664,
       "name_cn": "其他事件"
     }
   ],

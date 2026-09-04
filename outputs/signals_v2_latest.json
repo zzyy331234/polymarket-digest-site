@@ -792,5 +792,70 @@
       "spread": null
     },
     "cluster": "other"
+  },
+  {
+    "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+    "question": "Xi Jinping out before 2027?",
+    "slug": "xi-jinping-out-before-2027",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.664,
+    "position": "medium",
+    "quality": 0.66,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "24h move extended",
+      "vNext gate: question_not_whitelisted_v6",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "yes_price": 0.0485,
+    "no_price": 0.9515,
+    "liquidity": 190550.47,
+    "volume": 12856015.97,
+    "chg_1h": 0.08988764044943828,
+    "chg_4h": 0.08988764044943828,
+    "chg_24h": 0.08988764044943828,
+    "chg_7d": null,
+    "latest_ts": "2026-09-04T08:06:06",
+    "features": {
+      "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+      "question": "Xi Jinping out before 2027?",
+      "slug": "xi-jinping-out-before-2027",
+      "yes_price": 0.0485,
+      "no_price": 0.9515,
+      "liquidity": 190550.46657,
+      "volume": 12856015.965416009,
+      "latest_ts": "2026-09-04T08:06:06",
+      "history_points": 1728,
+      "chg_1h": 0.08988764044943828,
+      "chg_4h": 0.08988764044943828,
+      "chg_24h": 0.08988764044943828,
+      "chg_7d": null,
+      "rsi_14": 100.0,
+      "volatility": 0.009396109732497488,
+      "trend_slope_4h": null,
+      "trend_slope_24h": null,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
+      "noise_score": 6.855654600401044,
+      "hours_to_event": 2847.8983333333335,
+      "event_time": "2027-01-01",
+      "spread": null
+    },
+    "cluster": "other"
   }
 ]
