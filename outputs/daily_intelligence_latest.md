@@ -1,4 +1,4 @@
-# Polymarket Intelligence Brief - 2026-09-10
+# Polymarket Intelligence Brief - 2026-09-13
 
 ## 今日结论
 - 阶段: paper_trade
@@ -17,14 +17,14 @@
 - 当前无 watchlist。
 
 ## 今日避坑
+- Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Andrew Yang win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Zohran Mamdani win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Barack Obama win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will Eric Trump win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will Tim Walz win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will Liz Cheney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 116, 'miss': 10, 'hit': 5, 'pending': 69}
+- outcomes: {'flat': 102, 'miss': 10, 'hit': 5, 'pending': 83}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
