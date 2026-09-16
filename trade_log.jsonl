@@ -3352,3 +3352,4 @@
 {"type": "halt", "time": "2026-09-16T14:00:31", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-09-16T14:30:30", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-09-16T15:00:31", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-09-16T15:30:31", "reason": "daily_loss_halt"}
