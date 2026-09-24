@@ -20,7 +20,7 @@
 - 当前无新增 do_not_touch。
 
 ## 后验复盘快照
-- outcomes: {'flat': 100, 'miss': 10, 'hit': 5, 'pending': 85}
+- outcomes: {'flat': 116, 'miss': 10, 'hit': 5, 'pending': 69}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
