@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:00:26",
+  "generated_at": "2026-09-25T21:30:35",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -15,7 +15,368 @@
   "active_candidates": [],
   "ready_alerts": [],
   "watchlist": [],
-  "do_not_touch": [],
+  "do_not_touch": [
+    {
+      "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
+      "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
+      "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "stale low-vol carry_no",
+        "cluster=us_election"
+      ],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 2889354.54,
+      "volume": 43986275.62,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": null,
+      "chg_7d": null,
+      "latest_ts": "2026-09-25T21:22:05",
+      "features": {
+        "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
+        "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
+        "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
+        "yes_price": 0.0005,
+        "no_price": 0.9995,
+        "liquidity": 2889354.53863,
+        "volume": 43986275.61742704,
+        "latest_ts": "2026-09-25T21:22:05",
+        "history_points": 5,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": null,
+        "chg_7d": null,
+        "rsi_14": null,
+        "volatility": null,
+        "trend_slope_4h": null,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": null,
+        "hours_to_event": 18578.631944444445,
+        "event_time": "2028-11-08",
+        "spread": null
+      },
+      "cluster": "us_election",
+      "catalyst_type": "stale_carry",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will LeBron James win the 2028 Democratic presidential nomination?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "Carry_no remains stale or still observe-only / blocked.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
+    },
+    {
+      "token_id": "2213957649161627793381994368131485505647723208738124952452819345058597751695",
+      "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+      "slug": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "stale low-vol carry_no",
+        "cluster=us_election"
+      ],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 2884185.65,
+      "volume": 54420313.78,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": null,
+      "chg_7d": null,
+      "latest_ts": "2026-09-25T21:22:05",
+      "features": {
+        "token_id": "2213957649161627793381994368131485505647723208738124952452819345058597751695",
+        "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+        "slug": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
+        "yes_price": 0.0005,
+        "no_price": 0.9995,
+        "liquidity": 2884185.64849,
+        "volume": 54420313.78432902,
+        "latest_ts": "2026-09-25T21:22:05",
+        "history_points": 5,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": null,
+        "chg_7d": null,
+        "rsi_14": null,
+        "volatility": null,
+        "trend_slope_4h": null,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": null,
+        "hours_to_event": 18578.631944444445,
+        "event_time": "2028-11-08",
+        "spread": null
+      },
+      "cluster": "us_election",
+      "catalyst_type": "stale_carry",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will Oprah Winfrey win the 2028 Democratic presidential nomination?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "Carry_no remains stale or still observe-only / blocked.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
+    },
+    {
+      "token_id": "37126434962149084556522721025504254258386171468763869879755961635390358765833",
+      "question": "Will Beto O’Rourke win the 2028 Democratic presidential nomination?",
+      "slug": "will-beto-orourke-win-the-2028-democratic-presidential-nomination",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "stale low-vol carry_no",
+        "cluster=us_election"
+      ],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 2806084.46,
+      "volume": 42812955.89,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": null,
+      "chg_7d": null,
+      "latest_ts": "2026-09-25T21:22:05",
+      "features": {
+        "token_id": "37126434962149084556522721025504254258386171468763869879755961635390358765833",
+        "question": "Will Beto O’Rourke win the 2028 Democratic presidential nomination?",
+        "slug": "will-beto-orourke-win-the-2028-democratic-presidential-nomination",
+        "yes_price": 0.0005,
+        "no_price": 0.9995,
+        "liquidity": 2806084.46242,
+        "volume": 42812955.88664803,
+        "latest_ts": "2026-09-25T21:22:05",
+        "history_points": 5,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": null,
+        "chg_7d": null,
+        "rsi_14": null,
+        "volatility": null,
+        "trend_slope_4h": null,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": null,
+        "hours_to_event": 18578.631944444445,
+        "event_time": "2028-11-08",
+        "spread": null
+      },
+      "cluster": "us_election",
+      "catalyst_type": "stale_carry",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will Beto O’Rourke win the 2028 Democratic presidential nomination?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "Carry_no remains stale or still observe-only / blocked.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
+    },
+    {
+      "token_id": "41340056280794024415573839406074658402877379128871144681466050648033201160259",
+      "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
+      "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "stale low-vol carry_no",
+        "cluster=us_election"
+      ],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 2801343.83,
+      "volume": 38534645.47,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": null,
+      "chg_7d": null,
+      "latest_ts": "2026-09-25T21:22:05",
+      "features": {
+        "token_id": "41340056280794024415573839406074658402877379128871144681466050648033201160259",
+        "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
+        "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
+        "yes_price": 0.0005,
+        "no_price": 0.9995,
+        "liquidity": 2801343.8294,
+        "volume": 38534645.47262202,
+        "latest_ts": "2026-09-25T21:22:05",
+        "history_points": 5,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": null,
+        "chg_7d": null,
+        "rsi_14": null,
+        "volatility": null,
+        "trend_slope_4h": null,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": null,
+        "hours_to_event": 18578.631944444445,
+        "event_time": "2028-11-08",
+        "spread": null
+      },
+      "cluster": "us_election",
+      "catalyst_type": "stale_carry",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will Liz Cheney win the 2028 Democratic presidential nomination?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "Carry_no remains stale or still observe-only / blocked.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
+    },
+    {
+      "token_id": "51035537065442638321333063915918274102446051033989435618245745345113522914516",
+      "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
+      "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
+      "regime": "carry_no",
+      "direction": "NO",
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
+      "risk_score": 0.25,
+      "reasons": [
+        "ultra low YES price",
+        "better classified as carry_no than trend",
+        "stale low-vol carry_no",
+        "cluster=us_election"
+      ],
+      "risk_flags": [
+        "stale_carry_no"
+      ],
+      "advisory_flags": [
+        "stale_carry_no"
+      ],
+      "blocking_flags": [
+        "stale_carry_no"
+      ],
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "liquidity": 2798578.25,
+      "volume": 41009534.18,
+      "chg_1h": 0.0,
+      "chg_4h": 0.0,
+      "chg_24h": null,
+      "chg_7d": null,
+      "latest_ts": "2026-09-25T21:22:05",
+      "features": {
+        "token_id": "51035537065442638321333063915918274102446051033989435618245745345113522914516",
+        "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
+        "slug": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
+        "yes_price": 0.0005,
+        "no_price": 0.9995,
+        "liquidity": 2798578.24982,
+        "volume": 41009534.181763016,
+        "latest_ts": "2026-09-25T21:22:05",
+        "history_points": 5,
+        "chg_1h": 0.0,
+        "chg_4h": 0.0,
+        "chg_24h": null,
+        "chg_7d": null,
+        "rsi_14": null,
+        "volatility": null,
+        "trend_slope_4h": null,
+        "trend_slope_24h": 0.0,
+        "pct_rank_7d": 1.0,
+        "pct_rank_30d": 1.0,
+        "noise_score": null,
+        "hours_to_event": 18578.631944444445,
+        "event_time": "2028-11-08",
+        "spread": null
+      },
+      "cluster": "us_election",
+      "catalyst_type": "stale_carry",
+      "execution_readiness": "do_not_touch",
+      "evidence_score": 0.398,
+      "thesis_summary": "[carry_no] NO on 'Will MrBeast win the 2028 Democratic presidential nomination?' because ultra low YES price.",
+      "why_now": "Relevant within active cluster=us_election and current regime=carry_no.",
+      "do_not_trade_if": [
+        "Any blocking flag remains active.",
+        "Advisory flags worsen or increase before entry.",
+        "Carry_no remains stale or still observe-only / blocked.",
+        "Liquidity/exit quality deteriorates materially before action."
+      ]
+    }
+  ],
   "review_stats": {
     "outcomes": {
       "flat": 116,

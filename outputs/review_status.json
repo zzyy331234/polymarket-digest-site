@@ -6092,12 +6092,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 109.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6112,6 +6112,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6126,12 +6127,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6146,6 +6147,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6160,12 +6162,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6180,6 +6182,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6194,12 +6197,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0015,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0015,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6214,6 +6217,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6228,12 +6232,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6248,6 +6252,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6262,12 +6267,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6282,6 +6287,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6296,12 +6302,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6316,6 +6322,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6330,12 +6337,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6350,6 +6357,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6398,12 +6406,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0015,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6418,6 +6426,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6432,12 +6441,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6452,6 +6461,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6466,12 +6476,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0005,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.0,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6486,6 +6496,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6500,12 +6511,12 @@
     "confidence": 0.71,
     "entry_yes_price": 0.0025,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": -0.001,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6520,6 +6531,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6534,12 +6546,12 @@
     "confidence": 0.624,
     "entry_yes_price": 0.065,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": -0.021500000000000005,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6554,6 +6566,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
@@ -6568,12 +6581,12 @@
     "confidence": 0.624,
     "entry_yes_price": 0.0355,
     "event_time": null,
-    "latest_ts": null,
-    "review_status": "unresolved",
+    "latest_ts": "2026-09-25T21:22:05",
+    "review_status": "still_open",
     "expired": false,
     "resolved": false,
-    "hours_elapsed": null,
-    "post_move_abs": null,
+    "hours_elapsed": 85.86,
+    "post_move_abs": 0.007000000000000006,
     "post_move_6h": 0.0,
     "post_move_24h": 0.0,
     "post_move_48h": 0.0,
@@ -6588,6 +6601,7 @@
     "mae_48h": null,
     "outcome": "flat",
     "notes": [
+      "market still visible in latest candidate set",
       "judge_on_48h_window",
       "48h close stayed within ±0.020"
     ]
