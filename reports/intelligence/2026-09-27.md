@@ -20,8 +20,8 @@
 - Will LeBron James win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Beto O’Rourke win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
-- Will MrBeast win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Liz Cheney win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will MrBeast win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 116, 'miss': 10, 'hit': 5, 'pending': 69}
