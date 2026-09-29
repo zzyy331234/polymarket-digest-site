@@ -1,4 +1,4 @@
-# Polymarket Intelligence Brief - 2026-09-28
+# Polymarket Intelligence Brief - 2026-09-29
 
 ## 今日结论
 - 阶段: paper_trade
@@ -24,7 +24,7 @@
 - Will MrBeast win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 116, 'miss': 10, 'hit': 5, 'pending': 69}
+- outcomes: {'flat': 100, 'miss': 10, 'hit': 5, 'pending': 85}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot
