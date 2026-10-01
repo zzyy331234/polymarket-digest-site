@@ -2456,3 +2456,4 @@
 {"scan_time": "2026-10-01T00:00:00.583793", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
 {"scan_time": "2026-10-01T00:30:00.717944", "status": "error", "scanned_count": 0, "market_count": 0, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": "无法获取市场数据"}
 {"scan_time": "2026-10-01T15:30:00.525707", "status": "ok", "scanned_count": 20, "market_count": 30, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": null}
+{"scan_time": "2026-10-01T16:00:01.289961", "status": "ok", "scanned_count": 20, "market_count": 30, "new_signal_count": 0, "tracked_wallet_count": 1, "total_signal_count": 0, "last_error": null}
