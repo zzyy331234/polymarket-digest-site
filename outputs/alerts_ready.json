@@ -14,12 +14,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0005,
     "no_price": 0.9995,
@@ -39,24 +35,24 @@
       "liquidity": 2557608.68451,
       "volume": 48907330.340604015,
       "latest_ts": "2026-10-01T16:27:02",
-      "history_points": 91,
+      "history_points": 88,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
       "rsi_14": 0.0,
-      "volatility": 0.0698813417189378,
+      "volatility": 0.07106221069345367,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.9010989010989011,
-      "pct_rank_30d": 0.9010989010989011,
+      "pct_rank_7d": 0.9318181818181818,
+      "pct_rank_30d": 0.9318181818181818,
       "noise_score": 0.0,
       "hours_to_event": 18439.549444444445,
       "event_time": "2028-11-08",
       "spread": null
     },
     "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
+    "pipeline_score": 0.71,
     "market_url": "https://polymarket.com/question/will-andrew-yang-win-the-2028-democratic-presidential-nomination",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Will Andrew Yang win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-andrew-yang-win-the-2028-democratic-presidential-nomination",
