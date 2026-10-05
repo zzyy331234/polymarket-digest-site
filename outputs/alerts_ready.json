@@ -14,8 +14,12 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0255,
     "no_price": 0.9745,
@@ -52,7 +56,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.71,
+    "pipeline_score": 0.6799999999999999,
     "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
     "templates": {
       "short": "[carry_no] NO conf=0.71 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
