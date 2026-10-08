@@ -36,8 +36,8 @@
   原始题目: Will MrBeast win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.5 | total=17
-- 应继续降权: 美国大选 | score=-0.5 | flat=15
+- 倾向保留: 低效拖时间盘 | score=-0.5 | total=16
+- 应继续降权: 美国大选 | score=-0.5 | flat=14
 - 应继续降权: 其他事件 | score=-0.5 | flat=2
 
 ## 编辑注
