@@ -1,9 +1,9 @@
 # Paper Trade Summary
 
-- 生成时间: 2026-10-09T22:11:01
+- 生成时间: 2026-10-09T22:31:28
 - 纪律版本: vNext-mr-core
 - 执行桶: trade=['main_pool'] observe_only=['high_confidence', 'research'] blocked=['below_floor']
-- open / close / skip / halt: 15 / 15 / 545 / 3505
+- open / close / skip / halt: 15 / 15 / 545 / 3506
 - 当前持仓: 0 open / 15 closed
 - 实现交易数: 15
 - 胜率: 6.67%
