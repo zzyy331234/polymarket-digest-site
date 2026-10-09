@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
+    "question": "Putin out as President of Russia by December 31, 2026?",
+    "slug": "putin-out-before-2027-346",
+    "regime": "trend",
+    "direction": "YES",
+    "confidence": 0.674,
+    "position": "medium",
+    "quality": 0.675,
+    "risk_score": 0.33,
+    "reasons": [
+      "4h move visible",
+      "24h move strong",
+      "4h and 24h aligned",
+      "4h and 24h slope aligned",
+      "liquidity good",
+      "7d window missing, using 4h/24h fallback",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0375,
+    "no_price": 0.9625,
+    "liquidity": 654543.18,
+    "volume": 24651040.32,
+    "chg_1h": 0.0,
+    "chg_4h": 0.1904761904761904,
+    "chg_24h": 0.1904761904761904,
+    "chg_7d": null,
+    "latest_ts": "2026-10-09T20:29:03",
+    "features": {
+      "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "slug": "putin-out-before-2027-346",
+      "yes_price": 0.0375,
+      "no_price": 0.9625,
+      "liquidity": 654543.18368,
+      "volume": 24651040.322797034,
+      "latest_ts": "2026-10-09T20:29:03",
+      "history_points": 214,
+      "chg_1h": 0.0,
+      "chg_4h": 0.1904761904761904,
+      "chg_24h": 0.1904761904761904,
+      "chg_7d": null,
+      "rsi_14": 60.31920215761964,
+      "volatility": 0.004394447093884914,
+      "trend_slope_4h": 7.5772200772200845e-06,
+      "trend_slope_24h": 7.5772200772200845e-06,
+      "pct_rank_7d": 0.9532710280373832,
+      "pct_rank_30d": 0.9532710280373832,
+      "noise_score": 0.0,
+      "hours_to_event": 1995.5158333333334,
+      "event_time": "2027-01-01",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.674,
+    "market_url": "https://polymarket.com/question/putin-out-before-2027-346",
+    "templates": {
+      "short": "[trend] YES conf=0.67 | Putin out as President of Russia by December 31, 2026? | https://polymarket.com/question/putin-out-before-2027-346",
+      "detailed": "[trend] YES | conf=0.67 | pos=medium | yes=0.0375\nPutin out as President of Russia by December 31, 2026?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/putin-out-before-2027-346",
+      "execution": "执行候选：[trend] YES\n问题：Putin out as President of Russia by December 31, 2026?\n建议仓位：medium\n当前YES：0.0375\n置信度：0.67\n理由：4h move visible, 24h move strong\n链接：https://polymarket.com/question/putin-out-before-2027-346"
+    },
+    "alert_text": "[trend] YES | conf=0.67 | pos=medium | yes=0.0375\nPutin out as President of Russia by December 31, 2026?\n原因: 4h move visible, 24h move strong\nhttps://polymarket.com/question/putin-out-before-2027-346"
+  }
+]
