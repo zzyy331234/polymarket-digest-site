@@ -13,18 +13,18 @@
 - 暂无需要单列跟踪的观察项。
 
 ## 今天不碰
-- 人事盘：习近平会在2027前下台吗？ | 其他事件 | 低效拖时间盘
-  链接（中文导读）: 中文导读：人事盘：习近平会在2027前下台吗？
-  Link (English source): English source: Xi Jinping out before 2027?
-  URL: https://polymarket.com/question/xi-jinping-out-before-2027
-  值得点开的原因: 因为它还在观察名单里，点开原盘可以快速判断这条线索是不是还活着。
-  原始题目: Xi Jinping out before 2027?
 - 人事盘：普京会在 2026 年底前失去总统职位吗？ | 其他事件 | 低效拖时间盘
   链接（中文导读）: 中文导读：人事盘：普京会在 2026 年底前失去总统职位吗？
   Link (English source): English source: Putin out as President of Russia by December 31, 2026?
   URL: https://polymarket.com/question/putin-out-before-2027-346
   值得点开的原因: 因为它还在观察名单里，点开原盘可以快速判断这条线索是不是还活着。
   原始题目: Putin out as President of Russia by December 31, 2026?
+- 人事盘：习近平会在2027前下台吗？ | 其他事件 | 低效拖时间盘
+  链接（中文导读）: 中文导读：人事盘：习近平会在2027前下台吗？
+  Link (English source): English source: Xi Jinping out before 2027?
+  URL: https://polymarket.com/question/xi-jinping-out-before-2027
+  值得点开的原因: 因为它还在观察名单里，点开原盘可以快速判断这条线索是不是还活着。
+  原始题目: Xi Jinping out before 2027?
 - 选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？
