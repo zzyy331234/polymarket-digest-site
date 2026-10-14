@@ -14,12 +14,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0285,
     "no_price": 0.9715,
@@ -39,24 +35,24 @@
       "liquidity": 677469.2202,
       "volume": 24845515.391834,
       "latest_ts": "2026-10-10T23:13:05",
-      "history_points": 297,
+      "history_points": 250,
       "chg_1h": 0.0,
       "chg_4h": -0.24999999999999994,
       "chg_24h": -0.24999999999999994,
       "chg_7d": null,
-      "rsi_14": 1.3789491521427522,
+      "rsi_14": 1.3774407606484402,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.39730639730639733,
-      "pct_rank_30d": 0.39730639730639733,
+      "pct_rank_7d": 0.424,
+      "pct_rank_30d": 0.424,
       "noise_score": 0.0,
       "hours_to_event": 1968.7819444444444,
       "event_time": "2027-01-01",
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.6,
+    "pipeline_score": 0.63,
     "market_url": "https://polymarket.com/question/putin-out-before-2027-346",
     "templates": {
       "short": "[carry_no] NO conf=0.63 | Putin out as President of Russia by December 31, 2026? | https://polymarket.com/question/putin-out-before-2027-346",
@@ -80,12 +76,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0285,
     "no_price": 0.9715,
@@ -105,24 +97,24 @@
       "liquidity": 643779.07823,
       "volume": 14705715.683969999,
       "latest_ts": "2026-10-10T23:13:05",
-      "history_points": 297,
+      "history_points": 250,
       "chg_1h": 0.0,
       "chg_4h": -0.06557377049180323,
       "chg_24h": -0.06557377049180323,
       "chg_7d": null,
-      "rsi_14": 0.009393465920240374,
+      "rsi_14": 0.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.5151515151515151,
-      "pct_rank_30d": 0.5151515151515151,
+      "pct_rank_7d": 0.424,
+      "pct_rank_30d": 0.424,
       "noise_score": 0.0,
       "hours_to_event": 1968.7819444444444,
       "event_time": "2027-01-01",
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.6,
+    "pipeline_score": 0.63,
     "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
     "templates": {
       "short": "[carry_no] NO conf=0.63 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
