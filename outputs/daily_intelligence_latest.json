@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:42:29",
+  "generated_at": "2026-10-14T17:00:30",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -29,8 +29,12 @@
         "better classified as carry_no than trend",
         "cluster=other"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
+      "risk_flags": [
+        "cooldown_active"
+      ],
+      "advisory_flags": [
+        "cooldown_active"
+      ],
       "blocking_flags": [],
       "yes_price": 0.0285,
       "no_price": 0.9715,
@@ -67,7 +71,7 @@
         "spread": null
       },
       "cluster": "other",
-      "pipeline_score": 0.63,
+      "pipeline_score": 0.6,
       "market_url": "https://polymarket.com/question/putin-out-before-2027-346",
       "templates": {
         "short": "[carry_no] NO conf=0.63 | Putin out as President of Russia by December 31, 2026? | https://polymarket.com/question/putin-out-before-2027-346",
@@ -77,10 +81,11 @@
       "alert_text": "[carry_no] NO | conf=0.63 | pos=small | yes=0.0285\nPutin out as President of Russia by December 31, 2026?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/putin-out-before-2027-346",
       "catalyst_type": "price_dislocation",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.469,
+      "evidence_score": 0.419,
       "thesis_summary": "[carry_no] NO on 'Putin out as President of Russia by December 31, 2026?' because ultra low YES price.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=-0.250, 24h=-0.250).",
       "do_not_trade_if": [
+        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
@@ -100,8 +105,12 @@
         "better classified as carry_no than trend",
         "cluster=other"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
+      "risk_flags": [
+        "cooldown_active"
+      ],
+      "advisory_flags": [
+        "cooldown_active"
+      ],
       "blocking_flags": [],
       "yes_price": 0.0285,
       "no_price": 0.9715,
@@ -138,7 +147,7 @@
         "spread": null
       },
       "cluster": "other",
-      "pipeline_score": 0.63,
+      "pipeline_score": 0.6,
       "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
       "templates": {
         "short": "[carry_no] NO conf=0.63 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
@@ -148,10 +157,11 @@
       "alert_text": "[carry_no] NO | conf=0.63 | pos=small | yes=0.0285\nXi Jinping out before 2027?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/xi-jinping-out-before-2027",
       "catalyst_type": "price_dislocation",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.469,
+      "evidence_score": 0.419,
       "thesis_summary": "[carry_no] NO on 'Xi Jinping out before 2027?' because ultra low YES price.",
       "why_now": "Short-term dislocation detected (1h=0.000, 4h=-0.066, 24h=-0.066).",
       "do_not_trade_if": [
+        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
