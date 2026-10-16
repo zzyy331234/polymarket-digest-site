@@ -35,7 +35,7 @@
   原始题目: Will Beto O’Rourke win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.2 | total=14
+- 倾向保留: 低效拖时间盘 | score=-0.2 | total=16
 - 应继续降权: 美国大选 | score=-0.2 | flat=0
 - 应继续降权: 其他事件 | score=-0.2 | flat=0
 
