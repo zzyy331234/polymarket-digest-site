@@ -17,7 +17,7 @@
   链接（中文导读）: 中文导读：人事盘：习近平会在2027前下台吗？
   Link (English source): English source: Xi Jinping out before 2027?
   URL: https://polymarket.com/question/xi-jinping-out-before-2027
-  值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
+  值得点开的原因: 因为它还在观察名单里，点开原盘可以快速判断这条线索是不是还活着。
   原始题目: Xi Jinping out before 2027?
 - 选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   避开原因: stale_carry_no

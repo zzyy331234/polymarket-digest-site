@@ -11,7 +11,7 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Xi Jinping out before 2027? | NO | conf=0.71 | catalyst=structural
+- [do_not_touch] Xi Jinping out before 2027? | NO | conf=0.63 | catalyst=structural
 
 ## 观察名单
 - 当前无 watchlist。
