@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+    "question": "Xi Jinping out before 2027?",
+    "slug": "xi-jinping-out-before-2027",
+    "regime": "carry_no",
+    "direction": "NO",
+    "confidence": 0.63,
+    "position": "small",
+    "quality": 0.6,
+    "risk_score": 0.25,
+    "reasons": [
+      "ultra low YES price",
+      "better classified as carry_no than trend",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
+    "blocking_flags": [],
+    "yes_price": 0.0265,
+    "no_price": 0.9735,
+    "liquidity": 540713.96,
+    "volume": 15101092.13,
+    "chg_1h": 0.0,
+    "chg_4h": -0.0363636363636364,
+    "chg_24h": -0.0363636363636364,
+    "chg_7d": null,
+    "latest_ts": "2026-10-18T20:30:04",
+    "features": {
+      "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+      "question": "Xi Jinping out before 2027?",
+      "slug": "xi-jinping-out-before-2027",
+      "yes_price": 0.0265,
+      "no_price": 0.9735,
+      "liquidity": 540713.95624,
+      "volume": 15101092.134487,
+      "latest_ts": "2026-10-18T20:30:04",
+      "history_points": 400,
+      "chg_1h": 0.0,
+      "chg_4h": -0.0363636363636364,
+      "chg_24h": -0.0363636363636364,
+      "chg_7d": null,
+      "rsi_14": 5.296316511760324e-05,
+      "volatility": 0.003691967554851883,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": -9.74443308591494e-06,
+      "pct_rank_7d": 0.1575,
+      "pct_rank_30d": 0.1575,
+      "noise_score": 0.0,
+      "hours_to_event": 1779.4988888888888,
+      "event_time": "2027-01-01",
+      "spread": null
+    },
+    "cluster": "other",
+    "pipeline_score": 0.6,
+    "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
+    "templates": {
+      "short": "[carry_no] NO conf=0.63 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
+      "detailed": "[carry_no] NO | conf=0.63 | pos=small | yes=0.0265\nXi Jinping out before 2027?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/xi-jinping-out-before-2027",
+      "execution": "执行候选：[carry_no] NO\n问题：Xi Jinping out before 2027?\n建议仓位：small\n当前YES：0.0265\n置信度：0.63\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/xi-jinping-out-before-2027"
+    },
+    "alert_text": "[carry_no] NO | conf=0.63 | pos=small | yes=0.0265\nXi Jinping out before 2027?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/xi-jinping-out-before-2027"
+  }
+]
