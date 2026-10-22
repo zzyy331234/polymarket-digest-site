@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:45:52",
+  "generated_at": "2026-10-22T15:00:31",
   "phase": "paper_trade",
   "paper_gate_eligible": false,
   "portfolio_halt_reason": "daily_loss_halt",
@@ -29,8 +29,12 @@
         "better classified as carry_no than trend",
         "cluster=other"
       ],
-      "risk_flags": [],
-      "advisory_flags": [],
+      "risk_flags": [
+        "cooldown_active"
+      ],
+      "advisory_flags": [
+        "cooldown_active"
+      ],
       "blocking_flags": [],
       "yes_price": 0.0265,
       "no_price": 0.9735,
@@ -67,7 +71,7 @@
         "spread": null
       },
       "cluster": "other",
-      "pipeline_score": 0.63,
+      "pipeline_score": 0.6,
       "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
       "templates": {
         "short": "[carry_no] NO conf=0.63 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
@@ -77,10 +81,11 @@
       "alert_text": "[carry_no] NO | conf=0.63 | pos=small | yes=0.0265\nXi Jinping out before 2027?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/xi-jinping-out-before-2027",
       "catalyst_type": "structural",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.469,
+      "evidence_score": 0.419,
       "thesis_summary": "[carry_no] NO on 'Xi Jinping out before 2027?' because ultra low YES price.",
       "why_now": "Relevant within active cluster=other and current regime=carry_no.",
       "do_not_trade_if": [
+        "Advisory flags worsen or increase before entry.",
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
       ]
