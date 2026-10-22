@@ -1,4 +1,4 @@
-# Weekly Intelligence Summary - 2026-10-22
+# Weekly Intelligence Summary - 2026-10-23
 
 ## 周度结论
 - window_days: 7
