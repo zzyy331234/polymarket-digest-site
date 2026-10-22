@@ -14,12 +14,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0265,
     "no_price": 0.9735,
@@ -39,24 +35,24 @@
       "liquidity": 545311.2831,
       "volume": 15101092.134487,
       "latest_ts": "2026-10-18T20:38:04",
-      "history_points": 408,
+      "history_points": 266,
       "chg_1h": 0.0,
       "chg_4h": -0.0363636363636364,
       "chg_24h": -0.0363636363636364,
       "chg_7d": null,
-      "rsi_14": 5.296316511760324e-05,
+      "rsi_14": 0.0,
       "volatility": 0.003691967554851883,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": -9.396691914159546e-06,
-      "pct_rank_7d": 0.17401960784313725,
-      "pct_rank_30d": 0.17401960784313725,
+      "pct_rank_7d": 0.2669172932330827,
+      "pct_rank_30d": 0.2669172932330827,
       "noise_score": 0.0,
       "hours_to_event": 1779.3655555555556,
       "event_time": "2027-01-01",
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.6,
+    "pipeline_score": 0.63,
     "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
     "templates": {
       "short": "[carry_no] NO conf=0.63 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
