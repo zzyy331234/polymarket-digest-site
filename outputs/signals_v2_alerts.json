@@ -16,12 +16,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -44,7 +42,7 @@
       "liquidity": 2864874.52444,
       "volume": 54443123.685758,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -79,12 +77,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -107,7 +103,7 @@
       "liquidity": 2813959.55833,
       "volume": 42819483.414077,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -142,12 +138,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -170,7 +164,7 @@
       "liquidity": 2746165.55865,
       "volume": 44345578.170095004,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -205,12 +199,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -233,7 +225,7 @@
       "liquidity": 2739282.33598,
       "volume": 35905334.780999,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -268,12 +260,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -296,7 +286,7 @@
       "liquidity": 2736741.61763,
       "volume": 41078508.794335,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -331,12 +321,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -359,7 +347,7 @@
       "liquidity": 2723951.0095,
       "volume": 42927074.695738,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -394,12 +382,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -422,7 +408,7 @@
       "liquidity": 2671397.23972,
       "volume": 43480494.08923299,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -457,12 +443,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -485,7 +469,7 @@
       "liquidity": 2649836.27328,
       "volume": 42929865.534866005,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -520,12 +504,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -548,7 +530,7 @@
       "liquidity": 2639609.99037,
       "volume": 48899237.07289,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -583,12 +565,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -611,7 +591,7 @@
       "liquidity": 2626784.92567,
       "volume": 39004683.94561,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -646,12 +626,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -674,7 +652,7 @@
       "liquidity": 2592867.44875,
       "volume": 38743358.40262201,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -709,12 +687,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -737,7 +713,7 @@
       "liquidity": 2474163.54439,
       "volume": 8543332.789158,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
@@ -770,12 +746,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0265,
     "no_price": 0.9735,
@@ -795,17 +767,17 @@
       "liquidity": 472702.27296,
       "volume": 15237225.874754,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": 0.0,
       "chg_7d": null,
-      "rsi_14": 0.0,
+      "rsi_14": 100.0,
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.5578231292517006,
-      "pct_rank_30d": 0.5578231292517006,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
       "noise_score": 0.0,
       "hours_to_event": 1657.9825,
       "event_time": "2027-01-01",
@@ -829,12 +801,10 @@
       "cluster=other"
     ],
     "risk_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "blocking_flags": [
       "high_noise"
@@ -857,17 +827,17 @@
       "liquidity": 681500.89188,
       "volume": 26326148.909608,
       "latest_ts": "2026-10-23T22:01:03",
-      "history_points": 441,
+      "history_points": 246,
       "chg_1h": -0.10256410256410248,
       "chg_4h": 0.0,
       "chg_24h": -0.4444444444444444,
       "chg_7d": null,
-      "rsi_14": 37.71512506765048,
+      "rsi_14": 37.71512014194001,
       "volatility": 0.01434291063886772,
       "trend_slope_4h": 1.9684829750562435e-06,
       "trend_slope_24h": 3.3687863860277626e-06,
-      "pct_rank_7d": 0.37188208616780044,
-      "pct_rank_30d": 0.37188208616780044,
+      "pct_rank_7d": 0.6666666666666666,
+      "pct_rank_30d": 0.6666666666666666,
       "noise_score": 4.332259662878202,
       "hours_to_event": 1657.9825,
       "event_time": "2027-01-01",
