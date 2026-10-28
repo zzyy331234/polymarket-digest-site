@@ -36,8 +36,9 @@
   原始题目: Will Gina Raimondo win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.22 | total=15
-- 应继续降权: 美国大选 | score=-0.2231 | flat=1
+- 倾向保留: 低效拖时间盘 | score=-0.2 | total=14
+- 倾向保留: 趋势延续 | score=-0.2 | total=1
+- 应继续降权: 美国大选 | score=-0.2 | flat=0
 - 应继续降权: 其他事件 | score=-0.2 | flat=0
 
 ## 编辑注
