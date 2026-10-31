@@ -16,12 +16,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -31,8 +29,8 @@
     "liquidity": 2856958.17,
     "volume": 54448216.04,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -44,10 +42,10 @@
       "liquidity": 2856958.17379,
       "volume": 54448216.035758,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -79,12 +77,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -94,8 +90,8 @@
     "liquidity": 2809621.51,
     "volume": 42820615.61,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -107,10 +103,10 @@
       "liquidity": 2809621.51295,
       "volume": 42820615.614077,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -142,12 +138,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -157,8 +151,8 @@
     "liquidity": 2734783.08,
     "volume": 35912553.27,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -170,10 +164,10 @@
       "liquidity": 2734783.07773,
       "volume": 35912553.27499899,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -205,12 +199,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -220,8 +212,8 @@
     "liquidity": 2732608.14,
     "volume": 41078508.79,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -233,10 +225,71 @@
       "liquidity": 2732608.14185,
       "volume": 41078508.79433499,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
+      "chg_7d": null,
+      "rsi_14": 100.0,
+      "volatility": 0.0,
+      "trend_slope_4h": 0.0,
+      "trend_slope_24h": 0.0,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
+      "noise_score": 0.0,
+      "hours_to_event": 17834.465555555555,
+      "event_time": "2028-11-08",
+      "spread": null
+    },
+    "cluster": "us_election"
+  },
+  {
+    "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
+    "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
+    "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
+    "regime": "carry_no",
+    "direction": "NO",
+    "confidence": 0.71,
+    "position": "medium",
+    "quality": 0.7,
+    "risk_score": 0.25,
+    "reasons": [
+      "ultra low YES price",
+      "better classified as carry_no than trend",
+      "stale low-vol carry_no",
+      "cluster=us_election"
+    ],
+    "risk_flags": [
+      "stale_carry_no"
+    ],
+    "advisory_flags": [
+      "stale_carry_no"
+    ],
+    "blocking_flags": [
+      "stale_carry_no"
+    ],
+    "yes_price": 0.001,
+    "no_price": 0.999,
+    "liquidity": 2731862.98,
+    "volume": 44346242.88,
+    "chg_1h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
+    "chg_7d": null,
+    "latest_ts": "2026-10-26T21:32:04",
+    "features": {
+      "token_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
+      "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
+      "slug": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
+      "yes_price": 0.001,
+      "no_price": 0.999,
+      "liquidity": 2731862.97863,
+      "volume": 44346242.87809501,
+      "latest_ts": "2026-10-26T21:32:04",
+      "history_points": 47,
+      "chg_1h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -268,12 +321,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -283,8 +334,8 @@
     "liquidity": 2720320.72,
     "volume": 42927201.83,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -296,10 +347,10 @@
       "liquidity": 2720320.72166,
       "volume": 42927201.825738,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -331,12 +382,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -346,8 +395,8 @@
     "liquidity": 2699527.88,
     "volume": 44321112.79,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -359,10 +408,10 @@
       "liquidity": 2699527.87662,
       "volume": 44321112.79283899,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -394,12 +443,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -409,8 +456,8 @@
     "liquidity": 2667968.46,
     "volume": 43480494.09,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -422,10 +469,10 @@
       "liquidity": 2667968.46025,
       "volume": 43480494.08923299,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -457,12 +504,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -472,8 +517,8 @@
     "liquidity": 2650953.1,
     "volume": 42949887.8,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -485,10 +530,10 @@
       "liquidity": 2650953.10499,
       "volume": 42949887.804866,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -520,12 +565,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -535,8 +578,8 @@
     "liquidity": 2636903.06,
     "volume": 48899238.57,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -548,10 +591,10 @@
       "liquidity": 2636903.05766,
       "volume": 48899238.57289,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -583,12 +626,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -598,8 +639,8 @@
     "liquidity": 2631999.32,
     "volume": 39020471.5,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -611,10 +652,10 @@
       "liquidity": 2631999.31809,
       "volume": 39020471.50161,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -646,12 +687,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -661,8 +700,8 @@
     "liquidity": 2589109.79,
     "volume": 38743358.4,
     "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -674,10 +713,10 @@
       "liquidity": 2589109.78925,
       "volume": 38743358.40262201,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
       "rsi_14": 100.0,
       "volatility": 0.0,
@@ -693,9 +732,9 @@
     "cluster": "us_election"
   },
   {
-    "token_id": "54840717483866263964304723492966182979723045222316848733193673523986124053075",
-    "question": "Will Graham Platner win the 2028 Democratic presidential nomination?",
-    "slug": "will-graham-platner-win-the-2028-democratic-presidential-nomination",
+    "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
+    "question": "Putin out as President of Russia by December 31, 2026?",
+    "slug": "putin-out-before-2027-346",
     "regime": "carry_no",
     "direction": "NO",
     "confidence": 0.71,
@@ -705,147 +744,13 @@
     "reasons": [
       "ultra low YES price",
       "better classified as carry_no than trend",
-      "stale low-vol carry_no",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "stale_carry_no"
-    ],
-    "yes_price": 0.0005,
-    "no_price": 0.9995,
-    "liquidity": 2474447.26,
-    "volume": 8543332.79,
-    "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
-    "chg_7d": null,
-    "latest_ts": "2026-10-26T21:32:04",
-    "features": {
-      "token_id": "54840717483866263964304723492966182979723045222316848733193673523986124053075",
-      "question": "Will Graham Platner win the 2028 Democratic presidential nomination?",
-      "slug": "will-graham-platner-win-the-2028-democratic-presidential-nomination",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "liquidity": 2474447.25976,
-      "volume": 8543332.789158,
-      "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": null,
-      "rsi_14": 100.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 1.0,
-      "noise_score": 0.0,
-      "hours_to_event": 17834.465555555555,
-      "event_time": "2028-11-08",
-      "spread": null
-    },
-    "cluster": "us_election"
-  },
-  {
-    "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
-    "question": "Xi Jinping out before 2027?",
-    "slug": "xi-jinping-out-before-2027",
-    "regime": "trend",
-    "direction": "YES",
-    "confidence": 0.644,
-    "position": "medium",
-    "quality": 0.675,
-    "risk_score": 0.48,
-    "reasons": [
-      "4h move visible",
-      "24h move strong",
-      "4h and 24h aligned",
-      "4h and 24h slope aligned",
-      "liquidity good",
-      "7d window missing, using 4h/24h fallback",
       "cluster=other"
     ],
     "risk_flags": [
-      "high_noise",
-      "trend_noisy",
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "high_noise",
-      "trend_noisy",
-      "cooldown_active"
-    ],
-    "blocking_flags": [
-      "high_noise",
-      "trend_noisy"
-    ],
-    "yes_price": 0.0495,
-    "no_price": 0.9505,
-    "liquidity": 198342.05,
-    "volume": 16007220.02,
-    "chg_1h": 0.03125000000000003,
-    "chg_4h": 0.8679245283018869,
-    "chg_24h": 0.8679245283018869,
-    "chg_7d": null,
-    "latest_ts": "2026-10-26T21:32:04",
-    "features": {
-      "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
-      "question": "Xi Jinping out before 2027?",
-      "slug": "xi-jinping-out-before-2027",
-      "yes_price": 0.0495,
-      "no_price": 0.9505,
-      "liquidity": 198342.05141,
-      "volume": 16007220.021466998,
-      "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
-      "chg_1h": 0.03125000000000003,
-      "chg_4h": 0.8679245283018869,
-      "chg_24h": 0.8679245283018869,
-      "chg_7d": null,
-      "rsi_14": 87.63038721240164,
-      "volatility": 0.08140939947748002,
-      "trend_slope_4h": 0.00012187789084181324,
-      "trend_slope_24h": 0.00012187789084181324,
-      "pct_rank_7d": 1.0,
-      "pct_rank_30d": 1.0,
-      "noise_score": 5.3945199925557885,
-      "hours_to_event": 1586.4655555555555,
-      "event_time": "2027-01-01",
-      "spread": null
-    },
-    "cluster": "other"
-  },
-  {
-    "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
-    "question": "Putin out as President of Russia by December 31, 2026?",
-    "slug": "putin-out-before-2027-346",
-    "regime": "carry_no",
-    "direction": "NO",
-    "confidence": 0.63,
-    "position": "small",
-    "quality": 0.6,
-    "risk_score": 0.25,
-    "reasons": [
-      "ultra low YES price",
-      "better classified as carry_no than trend",
-      "cluster=other"
-    ],
-    "risk_flags": [
-      "high_noise",
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "blocking_flags": [
       "high_noise"
@@ -855,8 +760,8 @@
     "liquidity": 686900.55,
     "volume": 26567373.56,
     "chg_1h": 0.024390243902439046,
-    "chg_4h": 0.19999999999999996,
-    "chg_24h": 0.19999999999999996,
+    "chg_4h": null,
+    "chg_24h": null,
     "chg_7d": null,
     "latest_ts": "2026-10-26T21:32:04",
     "features": {
@@ -868,18 +773,82 @@
       "liquidity": 686900.55163,
       "volume": 26567373.560772,
       "latest_ts": "2026-10-26T21:32:04",
-      "history_points": 222,
+      "history_points": 47,
       "chg_1h": 0.024390243902439046,
-      "chg_4h": 0.19999999999999996,
-      "chg_24h": 0.19999999999999996,
+      "chg_4h": null,
+      "chg_24h": null,
       "chg_7d": null,
-      "rsi_14": 78.94589656148712,
-      "volatility": 0.027813917678731582,
+      "rsi_14": 49.34565158090489,
+      "volatility": 0.007728514906418818,
       "trend_slope_4h": 1.7345050878816408e-06,
       "trend_slope_24h": 1.7345050878816408e-06,
-      "pct_rank_7d": 0.972972972972973,
-      "pct_rank_30d": 0.972972972972973,
-      "noise_score": 5.33275450651291,
+      "pct_rank_7d": 0.8723404255319149,
+      "pct_rank_30d": 0.8723404255319149,
+      "noise_score": 4.9233029563495245,
+      "hours_to_event": 1586.4655555555555,
+      "event_time": "2027-01-01",
+      "spread": null
+    },
+    "cluster": "other"
+  },
+  {
+    "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+    "question": "Xi Jinping out before 2027?",
+    "slug": "xi-jinping-out-before-2027",
+    "regime": "mean_revert",
+    "direction": "NO",
+    "confidence": 0.624,
+    "position": "small",
+    "quality": 0.61,
+    "risk_score": 0.32,
+    "reasons": [
+      "upper percentile fade setup",
+      "RSI extreme",
+      "vNext gate: question_not_whitelisted_v6",
+      "cluster=other"
+    ],
+    "risk_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "advisory_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "blocking_flags": [
+      "high_noise",
+      "question_not_whitelisted_v6"
+    ],
+    "yes_price": 0.0495,
+    "no_price": 0.9505,
+    "liquidity": 198342.05,
+    "volume": 16007220.02,
+    "chg_1h": 0.03125000000000003,
+    "chg_4h": null,
+    "chg_24h": null,
+    "chg_7d": null,
+    "latest_ts": "2026-10-26T21:32:04",
+    "features": {
+      "token_id": "32338220190071351435772801779725302244575775216413325951443816017994629993401",
+      "question": "Xi Jinping out before 2027?",
+      "slug": "xi-jinping-out-before-2027",
+      "yes_price": 0.0495,
+      "no_price": 0.9505,
+      "liquidity": 198342.05141,
+      "volume": 16007220.021466998,
+      "latest_ts": "2026-10-26T21:32:04",
+      "history_points": 47,
+      "chg_1h": 0.03125000000000003,
+      "chg_4h": null,
+      "chg_24h": null,
+      "chg_7d": null,
+      "rsi_14": 69.17201054628498,
+      "volatility": 0.01840209960145849,
+      "trend_slope_4h": 0.00012187789084181324,
+      "trend_slope_24h": 0.00012187789084181324,
+      "pct_rank_7d": 1.0,
+      "pct_rank_30d": 1.0,
+      "noise_score": 3.710793073499579,
       "hours_to_event": 1586.4655555555555,
       "event_time": "2027-01-01",
       "spread": null
