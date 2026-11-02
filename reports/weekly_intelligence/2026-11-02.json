@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:30:28",
+  "generated_at": "2026-11-02T16:44:40",
   "window_days": 7,
   "review_count": 15,
   "regime_stats": {
@@ -9,15 +9,15 @@
       "miss": 0,
       "flat": 14,
       "unresolved": 0,
-      "avg_confidence": 0.7043
+      "avg_confidence": 0.71
     },
-    "trend": {
+    "mean_revert": {
       "total": 1,
       "hit": 0,
       "miss": 0,
       "flat": 1,
       "unresolved": 0,
-      "avg_confidence": 0.644
+      "avg_confidence": 0.624
     }
   },
   "cluster_stats": {
@@ -35,20 +35,20 @@
       "miss": 0,
       "flat": 2,
       "unresolved": 0,
-      "avg_confidence": 0.637
+      "avg_confidence": 0.667
     }
   },
   "ranked_regimes": {
     "best": [
       {
-        "name": "trend",
+        "name": "mean_revert",
         "score": -0.5,
         "total": 1,
         "hit": 0,
         "miss": 0,
         "flat": 1,
         "unresolved": 0,
-        "avg_confidence": 0.644
+        "avg_confidence": 0.624
       },
       {
         "name": "carry_no",
@@ -58,7 +58,7 @@
         "miss": 0,
         "flat": 14,
         "unresolved": 0,
-        "avg_confidence": 0.7043
+        "avg_confidence": 0.71
       }
     ],
     "worst": [
@@ -70,17 +70,17 @@
         "miss": 0,
         "flat": 14,
         "unresolved": 0,
-        "avg_confidence": 0.7043
+        "avg_confidence": 0.71
       },
       {
-        "name": "trend",
+        "name": "mean_revert",
         "score": -0.5,
         "total": 1,
         "hit": 0,
         "miss": 0,
         "flat": 1,
         "unresolved": 0,
-        "avg_confidence": 0.644
+        "avg_confidence": 0.624
       }
     ]
   },
@@ -94,7 +94,7 @@
         "miss": 0,
         "flat": 2,
         "unresolved": 0,
-        "avg_confidence": 0.637
+        "avg_confidence": 0.667
       },
       {
         "name": "us_election",
@@ -126,7 +126,7 @@
         "miss": 0,
         "flat": 2,
         "unresolved": 0,
-        "avg_confidence": 0.637
+        "avg_confidence": 0.667
       }
     ]
   },
