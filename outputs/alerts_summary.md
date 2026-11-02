@@ -1,3 +1,7 @@
 # Polymarket Alert Pipeline Summary
 
-- 当前无可推送 alert。
+## 1. [carry_no] NO conf=0.63
+- 问题: Xi Jinping out before 2027?
+- Cluster: other
+- URL: https://polymarket.com/question/xi-jinping-out-before-2027
+- 原因: ultra low YES price, better classified as carry_no than trend, cluster=other
