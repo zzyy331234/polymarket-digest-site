@@ -1,4 +1,4 @@
-# Polymarket Intelligence Brief - 2026-11-02
+# Polymarket Intelligence Brief - 2026-11-03
 
 ## 今日结论
 - 阶段: paper_trade
@@ -11,18 +11,17 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Xi Jinping out before 2027? | NO | conf=0.71 | catalyst=structural
 
 ## 观察名单
 - 当前无 watchlist。
 
 ## 今日避坑
-- Putin out as President of Russia by December 31, 2026? | cluster=other | regime=carry_no | blocking=
 - Xi Jinping out before 2027? | cluster=other | regime=carry_no | blocking=
 - Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 - Will Phil Murphy win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will Zohran Mamdani win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 116, 'miss': 10, 'hit': 5, 'pending': 69}
