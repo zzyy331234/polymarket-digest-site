@@ -140,8 +140,12 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.0025,
     "no_price": 0.9975,
@@ -446,8 +450,12 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [],
-    "advisory_flags": [],
+    "risk_flags": [
+      "cooldown_active"
+    ],
+    "advisory_flags": [
+      "cooldown_active"
+    ],
     "blocking_flags": [],
     "yes_price": 0.001,
     "no_price": 0.999,
@@ -501,10 +509,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "high_noise"
+      "high_noise",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "high_noise"
+      "high_noise",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "high_noise"
@@ -625,10 +635,12 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "advisory_flags": [
-      "stale_carry_no"
+      "stale_carry_no",
+      "cooldown_active"
     ],
     "blocking_flags": [
       "stale_carry_no"
