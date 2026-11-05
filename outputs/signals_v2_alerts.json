@@ -16,12 +16,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -79,12 +77,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -140,12 +136,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0025,
     "no_price": 0.9975,
@@ -200,12 +192,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -263,12 +253,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -326,12 +314,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -389,12 +375,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -450,12 +434,8 @@
       "better classified as carry_no than trend",
       "cluster=us_election"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.001,
     "no_price": 0.999,
@@ -509,12 +489,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "blocking_flags": [
       "high_noise"
@@ -572,12 +550,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -635,12 +611,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -698,12 +672,10 @@
       "cluster=us_election"
     ],
     "risk_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "advisory_flags": [
-      "stale_carry_no",
-      "cooldown_active"
+      "stale_carry_no"
     ],
     "blocking_flags": [
       "stale_carry_no"
@@ -760,12 +732,10 @@
       "cluster=other"
     ],
     "risk_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "blocking_flags": [
       "high_noise"
@@ -822,12 +792,10 @@
       "cluster=other"
     ],
     "risk_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "advisory_flags": [
-      "high_noise",
-      "cooldown_active"
+      "high_noise"
     ],
     "blocking_flags": [
       "high_noise"
