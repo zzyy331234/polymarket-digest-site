@@ -33,8 +33,8 @@
   原始题目: Will Jasmine Crockett win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.5 | total=19
-- 应继续降权: 美国大选 | score=-0.5 | flat=17
+- 倾向保留: 低效拖时间盘 | score=-0.5 | total=21
+- 应继续降权: 美国大选 | score=-0.5 | flat=19
 - 应继续降权: 其他事件 | score=-0.5 | flat=2
 
 ## 编辑注
