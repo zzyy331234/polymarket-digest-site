@@ -13,8 +13,6 @@
 ## 可直接关注的 Ready Alerts
 - [do_not_touch] Will Hillary Clinton win the 2028 Democratic presidential nomination? | NO | conf=0.71 | catalyst=structural
 - [do_not_touch] Will Greg Abbott win the 2028 US Presidential Election? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Putin out as President of Russia by December 31, 2026? | NO | conf=0.71 | catalyst=structural
-- [do_not_touch] Xi Jinping out before 2027? | NO | conf=0.63 | catalyst=price_dislocation
 
 ## 观察名单
 - 当前无 watchlist。
@@ -23,8 +21,8 @@
 - Will Hillary Clinton win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
 - Will Greg Abbott win the 2028 US Presidential Election? | cluster=us_election | regime=carry_no | blocking=
 - Will Jasmine Crockett win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=
-- Putin out as President of Russia by December 31, 2026? | cluster=other | regime=carry_no | blocking=
-- Xi Jinping out before 2027? | cluster=other | regime=carry_no | blocking=
+- Will Oprah Winfrey win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
+- Will Kim Kardashian win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
 - outcomes: {'flat': 116, 'miss': 10, 'hit': 5, 'pending': 69}
