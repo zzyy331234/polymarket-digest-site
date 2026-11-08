@@ -7,17 +7,17 @@
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- carry_no: score=-0.2955 total=22 hit=0 flat=7 unresolved=15 avg_conf=0.7027
+- carry_no: score=-0.2818 total=22 hit=0 flat=6 unresolved=16 avg_conf=0.7027
 
 ## Worst Regimes
-- carry_no: score=-0.2955 total=22 hit=0 flat=7 unresolved=15 avg_conf=0.7027
+- carry_no: score=-0.2818 total=22 hit=0 flat=6 unresolved=16 avg_conf=0.7027
 
 ## Best Clusters
 - other: score=-0.2 total=2 hit=0 flat=0 unresolved=2 avg_conf=0.63
-- us_election: score=-0.305 total=20 hit=0 flat=7 unresolved=13 avg_conf=0.71
+- us_election: score=-0.29 total=20 hit=0 flat=6 unresolved=14 avg_conf=0.71
 
 ## Worst Clusters
-- us_election: score=-0.305 total=20 hit=0 flat=7 unresolved=13 avg_conf=0.71
+- us_election: score=-0.29 total=20 hit=0 flat=6 unresolved=14 avg_conf=0.71
 - other: score=-0.2 total=2 hit=0 flat=0 unresolved=2 avg_conf=0.63
 
 ## 建议动作

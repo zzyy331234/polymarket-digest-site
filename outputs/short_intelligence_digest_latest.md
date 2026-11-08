@@ -33,8 +33,8 @@
   原始题目: Will Greg Abbott win the 2028 US Presidential Election?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.2955 | total=22
-- 应继续降权: 美国大选 | score=-0.305 | flat=7
+- 倾向保留: 低效拖时间盘 | score=-0.2818 | total=22
+- 应继续降权: 美国大选 | score=-0.29 | flat=6
 - 应继续降权: 其他事件 | score=-0.2 | flat=0
 
 ## 编辑注
