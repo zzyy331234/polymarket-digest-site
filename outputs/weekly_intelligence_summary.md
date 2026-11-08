@@ -2,23 +2,23 @@
 
 ## 周度结论
 - window_days: 7
-- review_count: 21
+- review_count: 22
 - paper win_rate=0.0667 flat_rate=0.6 pnl=-0.14775
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- carry_no: score=-0.3 total=21 hit=0 flat=7 unresolved=14 avg_conf=0.7062
+- carry_no: score=-0.2955 total=22 hit=0 flat=7 unresolved=15 avg_conf=0.7027
 
 ## Worst Regimes
-- carry_no: score=-0.3 total=21 hit=0 flat=7 unresolved=14 avg_conf=0.7062
+- carry_no: score=-0.2955 total=22 hit=0 flat=7 unresolved=15 avg_conf=0.7027
 
 ## Best Clusters
-- other: score=-0.2 total=2 hit=0 flat=0 unresolved=2 avg_conf=0.67
-- us_election: score=-0.3105 total=19 hit=0 flat=7 unresolved=12 avg_conf=0.71
+- other: score=-0.2 total=2 hit=0 flat=0 unresolved=2 avg_conf=0.63
+- us_election: score=-0.305 total=20 hit=0 flat=7 unresolved=13 avg_conf=0.71
 
 ## Worst Clusters
-- us_election: score=-0.3105 total=19 hit=0 flat=7 unresolved=12 avg_conf=0.71
-- other: score=-0.2 total=2 hit=0 flat=0 unresolved=2 avg_conf=0.67
+- us_election: score=-0.305 total=20 hit=0 flat=7 unresolved=13 avg_conf=0.71
+- other: score=-0.2 total=2 hit=0 flat=0 unresolved=2 avg_conf=0.63
 
 ## 建议动作
 - 把 high-flat 的 regime/cluster 降低注意力权重。

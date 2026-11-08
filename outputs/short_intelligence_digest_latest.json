@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:05:34",
+  "generated_at": "2026-11-08T19:37:21",
   "title": "Polymarket 情报样刊",
   "issue_date": "2026-11-08",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
@@ -257,25 +257,25 @@
   "best_regimes": [
     {
       "name": "carry_no",
-      "score": -0.3,
-      "total": 21,
+      "score": -0.2955,
+      "total": 22,
       "hit": 0,
       "miss": 0,
       "flat": 7,
-      "unresolved": 14,
-      "avg_confidence": 0.7062,
+      "unresolved": 15,
+      "avg_confidence": 0.7027,
       "name_cn": "低效拖时间盘"
     }
   ],
   "worst_clusters": [
     {
       "name": "us_election",
-      "score": -0.3105,
-      "total": 19,
+      "score": -0.305,
+      "total": 20,
       "hit": 0,
       "miss": 0,
       "flat": 7,
-      "unresolved": 12,
+      "unresolved": 13,
       "avg_confidence": 0.71,
       "name_cn": "美国大选"
     },
@@ -287,7 +287,7 @@
       "miss": 0,
       "flat": 0,
       "unresolved": 2,
-      "avg_confidence": 0.67,
+      "avg_confidence": 0.63,
       "name_cn": "其他事件"
     }
   ],
