@@ -33,9 +33,9 @@
   原始题目: Will Greg Abbott win the 2028 US Presidential Election?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.5 | total=21
-- 应继续降权: 美国大选 | score=-0.5 | flat=19
-- 应继续降权: 其他事件 | score=-0.5 | flat=2
+- 倾向保留: 低效拖时间盘 | score=-0.3 | total=21
+- 应继续降权: 美国大选 | score=-0.3105 | flat=7
+- 应继续降权: 其他事件 | score=-0.2 | flat=0
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
