@@ -2,22 +2,22 @@
 
 ## 周度结论
 - window_days: 7
-- review_count: 22
+- review_count: 19
 - paper win_rate=0.0667 flat_rate=0.6 pnl=-0.14775
 - paper_to_micro_live eligible=False
 
 ## Best Regimes
-- carry_no: score=-0.2818 total=22 hit=0 flat=6 unresolved=16 avg_conf=0.7027
+- carry_no: score=-0.2474 total=19 hit=0 flat=3 unresolved=16 avg_conf=0.7016
 
 ## Worst Regimes
-- carry_no: score=-0.2818 total=22 hit=0 flat=6 unresolved=16 avg_conf=0.7027
+- carry_no: score=-0.2474 total=19 hit=0 flat=3 unresolved=16 avg_conf=0.7016
 
 ## Best Clusters
 - other: score=-0.2 total=2 hit=0 flat=0 unresolved=2 avg_conf=0.63
-- us_election: score=-0.29 total=20 hit=0 flat=6 unresolved=14 avg_conf=0.71
+- us_election: score=-0.2529 total=17 hit=0 flat=3 unresolved=14 avg_conf=0.71
 
 ## Worst Clusters
-- us_election: score=-0.29 total=20 hit=0 flat=6 unresolved=14 avg_conf=0.71
+- us_election: score=-0.2529 total=17 hit=0 flat=3 unresolved=14 avg_conf=0.71
 - other: score=-0.2 total=2 hit=0 flat=0 unresolved=2 avg_conf=0.63
 
 ## 建议动作
