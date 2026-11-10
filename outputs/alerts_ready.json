@@ -1,137 +1,5 @@
 [
   {
-    "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
-    "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
-    "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
-    "regime": "carry_no",
-    "direction": "NO",
-    "confidence": 0.71,
-    "position": "medium",
-    "quality": 0.7,
-    "risk_score": 0.25,
-    "reasons": [
-      "ultra low YES price",
-      "better classified as carry_no than trend",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
-    "blocking_flags": [],
-    "yes_price": 0.0025,
-    "no_price": 0.9975,
-    "liquidity": 2788335.34,
-    "volume": 44422248.78,
-    "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
-    "chg_7d": null,
-    "latest_ts": "2026-11-06T20:51:04",
-    "features": {
-      "token_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
-      "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
-      "slug": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
-      "yes_price": 0.0025,
-      "no_price": 0.9975,
-      "liquidity": 2788335.34395,
-      "volume": 44422248.77684001,
-      "latest_ts": "2026-11-06T20:51:04",
-      "history_points": 263,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": null,
-      "rsi_14": 0.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.9581749049429658,
-      "pct_rank_30d": 0.9581749049429658,
-      "noise_score": 0.0,
-      "hours_to_event": 17571.14888888889,
-      "event_time": "2028-11-08",
-      "spread": null
-    },
-    "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
-    "market_url": "https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
-    "templates": {
-      "short": "[carry_no] NO conf=0.71 | Will Hillary Clinton win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
-      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Hillary Clinton win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
-      "execution": "执行候选：[carry_no] NO\n问题：Will Hillary Clinton win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0025\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination"
-    },
-    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0025\nWill Hillary Clinton win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination"
-  },
-  {
-    "token_id": "88927218779847397120407909832537568114340511586397698395193736044476021744522",
-    "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
-    "slug": "will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
-    "regime": "carry_no",
-    "direction": "NO",
-    "confidence": 0.71,
-    "position": "medium",
-    "quality": 0.7,
-    "risk_score": 0.25,
-    "reasons": [
-      "ultra low YES price",
-      "better classified as carry_no than trend",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
-    "blocking_flags": [],
-    "yes_price": 0.0015,
-    "no_price": 0.9985,
-    "liquidity": 2390402.85,
-    "volume": 34485027.76,
-    "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
-    "chg_7d": null,
-    "latest_ts": "2026-11-06T20:51:04",
-    "features": {
-      "token_id": "88927218779847397120407909832537568114340511586397698395193736044476021744522",
-      "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
-      "slug": "will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
-      "yes_price": 0.0015,
-      "no_price": 0.9985,
-      "liquidity": 2390402.85334,
-      "volume": 34485027.75836299,
-      "latest_ts": "2026-11-06T20:51:04",
-      "history_points": 263,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": null,
-      "rsi_14": 0.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.623574144486692,
-      "pct_rank_30d": 0.623574144486692,
-      "noise_score": 0.0,
-      "hours_to_event": 17571.14888888889,
-      "event_time": "2028-11-08",
-      "spread": null
-    },
-    "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
-    "market_url": "https://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
-    "templates": {
-      "short": "[carry_no] NO conf=0.71 | Will Barack Obama win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
-      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0015\nWill Barack Obama win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265",
-      "execution": "执行候选：[carry_no] NO\n问题：Will Barack Obama win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0015\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265"
-    },
-    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0015\nWill Barack Obama win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-barack-obama-win-the-2028-democratic-presidential-nomination-265"
-  },
-  {
     "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
     "question": "Putin out as President of Russia by December 31, 2026?",
     "slug": "putin-out-before-2027-346",
@@ -146,12 +14,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0185,
     "no_price": 0.9815,
@@ -171,12 +35,12 @@
       "liquidity": 498084.84674,
       "volume": 27722819.884092994,
       "latest_ts": "2026-11-06T20:51:04",
-      "history_points": 263,
+      "history_points": 167,
       "chg_1h": 0.0,
       "chg_4h": 0.05714285714285699,
       "chg_24h": 0.05714285714285699,
       "chg_7d": null,
-      "rsi_14": 99.92667646650118,
+      "rsi_14": 100.0,
       "volatility": 0.005801663300481511,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 5.310634834508939e-06,
@@ -188,7 +52,7 @@
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.6,
+    "pipeline_score": 0.63,
     "market_url": "https://polymarket.com/question/putin-out-before-2027-346",
     "templates": {
       "short": "[carry_no] NO conf=0.63 | Putin out as President of Russia by December 31, 2026? | https://polymarket.com/question/putin-out-before-2027-346",
@@ -212,12 +76,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0175,
     "no_price": 0.9825,
@@ -237,7 +97,7 @@
       "liquidity": 276314.92053,
       "volume": 17028273.090795003,
       "latest_ts": "2026-11-06T20:51:04",
-      "history_points": 263,
+      "history_points": 167,
       "chg_1h": 0.0,
       "chg_4h": -0.05405405405405392,
       "chg_24h": -0.05405405405405392,
@@ -246,15 +106,15 @@
       "volatility": 0.005488059878833862,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": -5.310634834508939e-06,
-      "pct_rank_7d": 0.33079847908745247,
-      "pct_rank_30d": 0.33079847908745247,
+      "pct_rank_7d": 0.5209580838323353,
+      "pct_rank_30d": 0.5209580838323353,
       "noise_score": 0.0,
       "hours_to_event": 1323.148888888889,
       "event_time": "2027-01-01",
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.6,
+    "pipeline_score": 0.63,
     "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
     "templates": {
       "short": "[carry_no] NO conf=0.63 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
