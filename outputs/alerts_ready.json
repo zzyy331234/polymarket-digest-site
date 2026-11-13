@@ -1,71 +1,5 @@
 [
   {
-    "token_id": "41340056280794024415573839406074658402877379128871144681466050648033201160259",
-    "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
-    "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
-    "regime": "carry_no",
-    "direction": "NO",
-    "confidence": 0.71,
-    "position": "medium",
-    "quality": 0.7,
-    "risk_score": 0.25,
-    "reasons": [
-      "ultra low YES price",
-      "better classified as carry_no than trend",
-      "cluster=us_election"
-    ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
-    "blocking_flags": [],
-    "yes_price": 0.0005,
-    "no_price": 0.9995,
-    "liquidity": 2384262.22,
-    "volume": 39000023.71,
-    "chg_1h": 0.0,
-    "chg_4h": 0.0,
-    "chg_24h": 0.0,
-    "chg_7d": null,
-    "latest_ts": "2026-11-11T21:02:04",
-    "features": {
-      "token_id": "41340056280794024415573839406074658402877379128871144681466050648033201160259",
-      "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
-      "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
-      "yes_price": 0.0005,
-      "no_price": 0.9995,
-      "liquidity": 2384262.2188,
-      "volume": 39000023.712622,
-      "latest_ts": "2026-11-11T21:02:04",
-      "history_points": 438,
-      "chg_1h": 0.0,
-      "chg_4h": 0.0,
-      "chg_24h": 0.0,
-      "chg_7d": null,
-      "rsi_14": 0.0,
-      "volatility": 0.0,
-      "trend_slope_4h": 0.0,
-      "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.8242009132420092,
-      "pct_rank_30d": 0.8242009132420092,
-      "noise_score": 0.0,
-      "hours_to_event": 17450.965555555555,
-      "event_time": "2028-11-08",
-      "spread": null
-    },
-    "cluster": "us_election",
-    "pipeline_score": 0.6799999999999999,
-    "market_url": "https://polymarket.com/question/will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
-    "templates": {
-      "short": "[carry_no] NO conf=0.71 | Will Liz Cheney win the 2028 Democratic presidential nomination? | https://polymarket.com/question/will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
-      "detailed": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Liz Cheney win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-liz-cheney-win-the-2028-democratic-presidential-nomination-551",
-      "execution": "执行候选：[carry_no] NO\n问题：Will Liz Cheney win the 2028 Democratic presidential nomination?\n建议仓位：medium\n当前YES：0.0005\n置信度：0.71\n理由：ultra low YES price, better classified as carry_no than trend\n链接：https://polymarket.com/question/will-liz-cheney-win-the-2028-democratic-presidential-nomination-551"
-    },
-    "alert_text": "[carry_no] NO | conf=0.71 | pos=medium | yes=0.0005\nWill Liz Cheney win the 2028 Democratic presidential nomination?\n原因: ultra low YES price, better classified as carry_no than trend\nhttps://polymarket.com/question/will-liz-cheney-win-the-2028-democratic-presidential-nomination-551"
-  },
-  {
     "token_id": "350977769852917329387037893294763093471844346281449484439085576212613048126",
     "question": "Putin out as President of Russia by December 31, 2026?",
     "slug": "putin-out-before-2027-346",
@@ -80,12 +14,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0145,
     "no_price": 0.9855,
@@ -105,24 +35,24 @@
       "liquidity": 490491.49434,
       "volume": 28067831.025764994,
       "latest_ts": "2026-11-11T21:02:04",
-      "history_points": 438,
+      "history_points": 361,
       "chg_1h": 0.0,
       "chg_4h": -0.12121212121212122,
       "chg_24h": -0.21621621621621614,
       "chg_7d": null,
-      "rsi_14": 18.382553411516938,
+      "rsi_14": 18.382546578031068,
       "volatility": 0.0,
       "trend_slope_4h": -9.878263800157531e-06,
       "trend_slope_24h": -6.8653973763462715e-06,
-      "pct_rank_7d": 0.3470319634703196,
-      "pct_rank_30d": 0.3470319634703196,
+      "pct_rank_7d": 0.42105263157894735,
+      "pct_rank_30d": 0.42105263157894735,
       "noise_score": 0.0,
       "hours_to_event": 1202.9655555555555,
       "event_time": "2027-01-01",
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.6,
+    "pipeline_score": 0.63,
     "market_url": "https://polymarket.com/question/putin-out-before-2027-346",
     "templates": {
       "short": "[carry_no] NO conf=0.63 | Putin out as President of Russia by December 31, 2026? | https://polymarket.com/question/putin-out-before-2027-346",
@@ -146,12 +76,8 @@
       "better classified as carry_no than trend",
       "cluster=other"
     ],
-    "risk_flags": [
-      "cooldown_active"
-    ],
-    "advisory_flags": [
-      "cooldown_active"
-    ],
+    "risk_flags": [],
+    "advisory_flags": [],
     "blocking_flags": [],
     "yes_price": 0.0145,
     "no_price": 0.9855,
@@ -171,7 +97,7 @@
       "liquidity": 261839.24668,
       "volume": 17167909.736739002,
       "latest_ts": "2026-11-11T21:02:04",
-      "history_points": 438,
+      "history_points": 361,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
       "chg_24h": -0.17142857142857146,
@@ -180,15 +106,15 @@
       "volatility": 0.0,
       "trend_slope_4h": 0.0,
       "trend_slope_24h": 0.0,
-      "pct_rank_7d": 0.6255707762557078,
-      "pct_rank_30d": 0.6255707762557078,
+      "pct_rank_7d": 0.7590027700831025,
+      "pct_rank_30d": 0.7590027700831025,
       "noise_score": 0.0,
       "hours_to_event": 1202.9655555555555,
       "event_time": "2027-01-01",
       "spread": null
     },
     "cluster": "other",
-    "pipeline_score": 0.6,
+    "pipeline_score": 0.63,
     "market_url": "https://polymarket.com/question/xi-jinping-out-before-2027",
     "templates": {
       "short": "[carry_no] NO conf=0.63 | Xi Jinping out before 2027? | https://polymarket.com/question/xi-jinping-out-before-2027",
