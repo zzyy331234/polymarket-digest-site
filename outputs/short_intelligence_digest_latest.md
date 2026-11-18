@@ -1,4 +1,4 @@
-# Polymarket 情报样刊 | 2026-11-16
+# Polymarket 情报样刊 | 2026-11-18
 
 一句话判断
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
@@ -34,8 +34,8 @@
   原始题目: Will Hillary Clinton win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.22 | total=15
-- 应继续降权: 美国大选 | score=-0.2231 | flat=1
+- 倾向保留: 低效拖时间盘 | score=-0.2 | total=14
+- 应继续降权: 美国大选 | score=-0.2 | flat=0
 - 应继续降权: 其他事件 | score=-0.2 | flat=0
 
 ## 编辑注
