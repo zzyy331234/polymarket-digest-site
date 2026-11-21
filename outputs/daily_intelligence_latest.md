@@ -1,4 +1,4 @@
-# Polymarket Intelligence Brief - 2026-11-20
+# Polymarket Intelligence Brief - 2026-11-21
 
 ## 今日结论
 - 阶段: paper_trade
@@ -11,7 +11,7 @@
 ## 今日优先候选
 - 当前无 candidate/research 级别信号。
 ## 可直接关注的 Ready Alerts
-- [do_not_touch] Xi Jinping out before 2027? | NO | conf=0.63 | catalyst=price_dislocation
+- [do_not_touch] Xi Jinping out before 2027? | NO | conf=0.71 | catalyst=structural
 
 ## 观察名单
 - 当前无 watchlist。
@@ -24,7 +24,7 @@
 - Will Phil Murphy win the 2028 Democratic presidential nomination? | cluster=us_election | regime=carry_no | blocking=stale_carry_no
 
 ## 后验复盘快照
-- outcomes: {'flat': 116, 'miss': 10, 'hit': 5, 'pending': 69}
+- outcomes: {'flat': 100, 'miss': 10, 'hit': 5, 'pending': 85}
 - paper_summary: {'realized_trade_count': 15, 'win_rate': 0.0667, 'flat_rate': 0.6, 'total_realized_pnl_like': -0.14775}
 
 ## Regime Snapshot

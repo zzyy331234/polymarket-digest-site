@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T23:01:29",
+  "generated_at": "2026-11-21T14:43:30",
   "title": "Polymarket 情报样刊",
-  "issue_date": "2026-11-20",
+  "issue_date": "2026-11-21",
   "one_liner": "继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。",
   "mainline": "今天的主线不是扩张出手，而是收缩注意力：主看“暂无足够强的主观察标的”，继续回避 美国大选、其他事件 这类 flat-heavy 噪音盘。",
   "top_candidates": [],
@@ -13,9 +13,9 @@
       "slug": "xi-jinping-out-before-2027",
       "regime": "carry_no",
       "direction": "NO",
-      "confidence": 0.63,
-      "position": "small",
-      "quality": 0.6,
+      "confidence": 0.71,
+      "position": "medium",
+      "quality": 0.7,
       "risk_score": 0.25,
       "reasons": [
         "ultra low YES price",
@@ -31,7 +31,7 @@
       "volume": 17362789.81,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
-      "chg_24h": 0.06451612903225812,
+      "chg_24h": null,
       "chg_7d": null,
       "latest_ts": "2026-11-19T19:50:23",
       "features": {
@@ -43,10 +43,10 @@
         "liquidity": 323545.42436,
         "volume": 17362789.814742,
         "latest_ts": "2026-11-19T19:50:23",
-        "history_points": 246,
+        "history_points": 186,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
-        "chg_24h": 0.06451612903225812,
+        "chg_24h": null,
         "chg_7d": null,
         "rsi_14": 100.0,
         "volatility": 0.0,
@@ -60,11 +60,11 @@
         "spread": null
       },
       "cluster": "other",
-      "catalyst_type": "price_dislocation",
+      "catalyst_type": "structural",
       "execution_readiness": "do_not_touch",
-      "evidence_score": 0.469,
+      "evidence_score": 0.548,
       "thesis_summary": "[carry_no] NO on 'Xi Jinping out before 2027?' because ultra low YES price.",
-      "why_now": "Short-term dislocation detected (1h=0.000, 4h=0.000, 24h=0.065).",
+      "why_now": "Relevant within active cluster=other and current regime=carry_no.",
       "do_not_trade_if": [
         "Carry_no remains stale or still observe-only / blocked.",
         "Liquidity/exit quality deteriorates materially before action."
@@ -79,14 +79,14 @@
       "risk_flags_cn": [],
       "advisory_flags_cn": [],
       "thesis_cn": "这是一笔来自“其他事件”的低效拖时间盘型线索，目前方向偏向 NO。",
-      "why_now_cn": "短周期价格已经出现可见偏移，这类信号更适合放进今日观察池，而不是直接忽略。",
+      "why_now_cn": "它属于“其他事件”里的低效拖时间盘型线索，虽然爆发力一般，但还值得继续盯一眼。",
       "bilingual_link": {
         "title_cn": "人事盘：习近平会在2027前下台吗？",
         "title_en": "Xi Jinping out before 2027?",
         "url": "https://polymarket.com/question/xi-jinping-out-before-2027",
         "label_cn": "中文导读：人事盘：习近平会在2027前下台吗？",
         "label_en": "English source: Xi Jinping out before 2027?",
-        "reason_cn": "因为它还在观察名单里，点开原盘可以快速判断这条线索是不是还活着。"
+        "reason_cn": "因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。"
       }
     },
     {
@@ -120,7 +120,7 @@
       "volume": 44474897.52,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_24h": null,
       "chg_7d": null,
       "latest_ts": "2026-11-19T19:50:23",
       "features": {
@@ -132,10 +132,10 @@
         "liquidity": 2815760.26189,
         "volume": 44474897.522509,
         "latest_ts": "2026-11-19T19:50:23",
-        "history_points": 246,
+        "history_points": 186,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
-        "chg_24h": 0.0,
+        "chg_24h": null,
         "chg_7d": null,
         "rsi_14": 100.0,
         "volatility": 0.0,
@@ -217,7 +217,7 @@
       "volume": 54733911.24,
       "chg_1h": 0.0,
       "chg_4h": 0.0,
-      "chg_24h": 0.0,
+      "chg_24h": null,
       "chg_7d": null,
       "latest_ts": "2026-11-19T19:50:23",
       "features": {
@@ -229,10 +229,10 @@
         "liquidity": 2769791.73173,
         "volume": 54733911.235758,
         "latest_ts": "2026-11-19T19:50:23",
-        "history_points": 246,
+        "history_points": 186,
         "chg_1h": 0.0,
         "chg_4h": 0.0,
-        "chg_24h": 0.0,
+        "chg_24h": null,
         "chg_7d": null,
         "rsi_14": 100.0,
         "volatility": 0.0,
@@ -287,36 +287,36 @@
   "best_regimes": [
     {
       "name": "carry_no",
-      "score": -0.5,
-      "total": 14,
+      "score": -0.2,
+      "total": 16,
       "hit": 0,
       "miss": 0,
-      "flat": 14,
-      "unresolved": 0,
-      "avg_confidence": 0.6986,
+      "flat": 0,
+      "unresolved": 16,
+      "avg_confidence": 0.7,
       "name_cn": "低效拖时间盘"
     }
   ],
   "worst_clusters": [
     {
       "name": "us_election",
-      "score": -0.5,
-      "total": 12,
+      "score": -0.2,
+      "total": 14,
       "hit": 0,
       "miss": 0,
-      "flat": 12,
-      "unresolved": 0,
+      "flat": 0,
+      "unresolved": 14,
       "avg_confidence": 0.71,
       "name_cn": "美国大选"
     },
     {
       "name": "other",
-      "score": -0.5,
+      "score": -0.2,
       "total": 2,
       "hit": 0,
       "miss": 0,
-      "flat": 2,
-      "unresolved": 0,
+      "flat": 0,
+      "unresolved": 2,
       "avg_confidence": 0.63,
       "name_cn": "其他事件"
     }
