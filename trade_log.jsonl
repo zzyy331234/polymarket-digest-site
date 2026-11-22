@@ -4734,3 +4734,4 @@
 {"type": "halt", "time": "2026-11-22T22:30:35", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-11-22T23:00:23", "reason": "daily_loss_halt"}
 {"type": "halt", "time": "2026-11-22T23:30:25", "reason": "daily_loss_halt"}
+{"type": "halt", "time": "2026-11-23T00:00:26", "reason": "daily_loss_halt"}
