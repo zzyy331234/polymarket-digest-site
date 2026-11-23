@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-23T16:00:29",
+  "generated_at": "2026-11-23T16:30:30",
   "window_days": 7,
-  "review_count": 16,
+  "review_count": 17,
   "regime_stats": {
     "carry_no": {
-      "total": 16,
+      "total": 17,
       "hit": 0,
       "miss": 0,
-      "flat": 16,
+      "flat": 17,
       "unresolved": 0,
-      "avg_confidence": 0.71
+      "avg_confidence": 0.7053
     }
   },
   "cluster_stats": {
     "us_election": {
-      "total": 14,
+      "total": 15,
       "hit": 0,
       "miss": 0,
-      "flat": 14,
+      "flat": 15,
       "unresolved": 0,
       "avg_confidence": 0.71
     },
@@ -27,7 +27,7 @@
       "miss": 0,
       "flat": 2,
       "unresolved": 0,
-      "avg_confidence": 0.71
+      "avg_confidence": 0.67
     }
   },
   "ranked_regimes": {
@@ -35,24 +35,24 @@
       {
         "name": "carry_no",
         "score": -0.5,
-        "total": 16,
+        "total": 17,
         "hit": 0,
         "miss": 0,
-        "flat": 16,
+        "flat": 17,
         "unresolved": 0,
-        "avg_confidence": 0.71
+        "avg_confidence": 0.7053
       }
     ],
     "worst": [
       {
         "name": "carry_no",
         "score": -0.5,
-        "total": 16,
+        "total": 17,
         "hit": 0,
         "miss": 0,
-        "flat": 16,
+        "flat": 17,
         "unresolved": 0,
-        "avg_confidence": 0.71
+        "avg_confidence": 0.7053
       }
     ]
   },
@@ -66,15 +66,15 @@
         "miss": 0,
         "flat": 2,
         "unresolved": 0,
-        "avg_confidence": 0.71
+        "avg_confidence": 0.67
       },
       {
         "name": "us_election",
         "score": -0.5,
-        "total": 14,
+        "total": 15,
         "hit": 0,
         "miss": 0,
-        "flat": 14,
+        "flat": 15,
         "unresolved": 0,
         "avg_confidence": 0.71
       }
@@ -83,10 +83,10 @@
       {
         "name": "us_election",
         "score": -0.5,
-        "total": 14,
+        "total": 15,
         "hit": 0,
         "miss": 0,
-        "flat": 14,
+        "flat": 15,
         "unresolved": 0,
         "avg_confidence": 0.71
       },
@@ -98,7 +98,7 @@
         "miss": 0,
         "flat": 2,
         "unresolved": 0,
-        "avg_confidence": 0.71
+        "avg_confidence": 0.67
       }
     ]
   },
