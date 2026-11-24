@@ -19,13 +19,13 @@
   URL: https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
   原始题目: Will Hillary Clinton win the 2028 Democratic presidential nomination?
-- 选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+- 选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   避开原因: stale_carry_no
-  链接（中文导读）: 中文导读：选举盘：Kim Kardashian能否赢得 2028 民主党总统提名？
-  Link (English source): English source: Will Kim Kardashian win the 2028 Democratic presidential nomination?
-  URL: https://polymarket.com/question/will-kim-kardashian-win-the-2028-democratic-presidential-nomination
+  链接（中文导读）: 中文导读：选举盘：Oprah Winfrey能否赢得 2028 民主党总统提名？
+  Link (English source): English source: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
+  URL: https://polymarket.com/question/will-oprah-winfrey-win-the-2028-democratic-presidential-nomination
   值得点开的原因: 因为它属于当前少数还留在版面里的高证据线索，值得直接去原盘核对成交和价格位置。
-  原始题目: Will Kim Kardashian win the 2028 Democratic presidential nomination?
+  原始题目: Will Oprah Winfrey win the 2028 Democratic presidential nomination?
 - 选举盘：Phil Murphy能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
   避开原因: stale_carry_no
   链接（中文导读）: 中文导读：选举盘：Phil Murphy能否赢得 2028 民主党总统提名？
@@ -35,9 +35,9 @@
   原始题目: Will Phil Murphy win the 2028 Democratic presidential nomination?
 
 ## 周度偏好
-- 倾向保留: 低效拖时间盘 | score=-0.2353 | total=17
-- 应继续降权: 美国大选 | score=-0.24 | flat=2
-- 应继续降权: 其他事件 | score=-0.2 | flat=0
+- 倾向保留: 低效拖时间盘 | score=-0.5 | total=17
+- 应继续降权: 美国大选 | score=-0.5 | flat=15
+- 应继续降权: 其他事件 | score=-0.5 | flat=2
 
 ## 编辑注
 - 当前 paper 胜率 0.0667，flat_rate 0.6，说明系统仍处在去噪优先阶段。
