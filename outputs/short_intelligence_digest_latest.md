@@ -1,4 +1,4 @@
-# Polymarket 情报样刊 | 2026-11-26
+# Polymarket 情报样刊 | 2026-11-27
 
 一句话判断
 继续 paper-only，把版面留给少量高证据候选，把 flat-heavy 主题盘挡在主栏之外。
@@ -14,6 +14,7 @@
 
 ## 今天不碰
 - 选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？ | 美国大选 | 低效拖时间盘
+  避开原因: stale_carry_no
   链接（中文导读）: 中文导读：选举盘：Hillary Clinton能否赢得 2028 民主党总统提名？
   Link (English source): English source: Will Hillary Clinton win the 2028 Democratic presidential nomination?
   URL: https://polymarket.com/question/will-hillary-clinton-win-the-2028-democratic-presidential-nomination
